@@ -233,7 +233,7 @@ p {
         endTurn() {
           if (this.interval) clearInterval(this.interval)
           this.turns += 1;
-          if (this.turns > 20 || this.availableCategories.length === 0) {
+          if (this.turns >= 19 || this.availableCategories.length === 0) {
             this.gameState = 'end';
             if (this.availableCategories.length === 0) {
               this.noQuestionsRemaining = true;
