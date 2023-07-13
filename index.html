@@ -5,65 +5,77 @@
   <script src="https://unpkg.com/vue@2"></script>
   <script src="questions.json"></script>
   <style>
-    body {
-      background: linear-gradient(180deg, #171717 0%, #3a3a3a 100%);
-      color: yellow;
-      font-family: 'Orbitron', sans-serif;
-      margin: 0;
-      padding: 0;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-    }
+body {
+  background: linear-gradient(180deg, #171717 0%, #3a3a3a 100%);
+  color: yellow;
+  font-family: 'Roboto', sans-serif; 
+  font-weight: 'bold';
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
 
-    #app {
-      text-align: center;
-      position: relative;
-      width: 80%;
-    }
+#app {
+  text-align: center;
+  position: relative;
+  width: 100%; /* changed from 80% to 100% to fill screen horizontally */
+}
 
-    .score-board {
-      position: absolute;
-      top: 20px;
-    }
+.score-board {
+  position: absolute;
+  top: 40px;
+}
 
-    .score-board.left {
-      padding-top:10px;
-      left: 20px;
-    }
+.score-board.left {
+  padding-top:10px;
+  top: 20px;
+  left: 20px;
+}
 
-    .score-board.right {
-      padding-top:10px;
-      right: 20px;
-    }
+.score-board.right {
+  padding-top:10px;
+  top: 20px;
+  right: 20px;
+}
 
-    h2,
-    h3,
-    p {
-      height: 70px;
-      font-family: 'Orbitron', sans-serif;
-    }
+h2,
+h3,
+p {
+  font-size: 55px; /* adjust as needed */
+  font-family: 'Roboto', sans-serif;
+  padding: 20px;
+}
 
-    .retro-button {
-      background-color: #FF4500;
-      border: none;
-      color: white;
-      padding: 15px 32px;
-      text-align: center;
-      text-decoration: none;
-      display: block;
-      width: 200px;
-      font-size: 16px;
-      margin: 4px auto;
-      cursor: pointer;
-      box-shadow: 0 8px 16px 0 #48D1CC, 0 6px 20px 0 #48D1CC;
-      font-family: 'Orbitron', sans-serif;
-    }
+.question{
+  text-align: center;
+  color: white;
+  padding-top: 10px;
+}
 
-    .retro-button:active {
-      background-color: #DC143C;
-    }
+.retro-button {
+  background-color: #FFFFE0; /* light yellow background */
+  border: none;
+  color: black; /* adjust color to contrast with light yellow background */
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  width: 70%; /* button width is now 100% */
+  font-size: 55px;
+  margin: 40px auto;
+  cursor: pointer;
+  box-shadow: 5px 5px 10px 0 #888888; /* gray drop shadow */
+  font-family: 'Roboto', sans-serif;
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out; /* transition for button press */
+}
+
+.retro-button:active {
+  transform: scale(0.95); /* button pushes in when pressed */
+  box-shadow: 2px 2px 5px 0 #888888; /* shadow size reduced for press effect */
+}
   </style>
   <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap" rel="stylesheet">
 </head>
@@ -76,6 +88,8 @@
         {{ category }}
       </button>
       <h2 v-if="noQuestionsRemaining">No questions remaining.</h2>
+      <h2>{{ questionNumber }} / 20</h2>
+
     </div>
     <div v-if="gameState === 'running'">
       <h2>{{ selectedCategory }}</h2>
@@ -85,16 +99,20 @@
       <div class="score-board right">
         <h3>{{ score }}</h3>
       </div>
-      <p>{{ question }}</p>
+      <h2 class="question">{{ question }}</p>
       <button class="retro-button" v-for="option in options" @click="checkAnswer(option)">
         {{ option }}
       </button>
+      <h2>{{ questionNumber }} / 20</h2>
     </div>
     <div v-if="gameState === 'post-question'">
       <h2 v-if="correctAnswerSelected">Correct!</h2>
       <h2 v-if="outOfTime">Out of time! Correct answer is: {{ correctAnswer }}</h2>
-      <h2 v-else-if="!correctAnswerSelected">Wrong Answer! Correct answer is: {{ correctAnswer }}</h2>
+      <h2 v-else-if="!correctAnswerSelected">Wrong Answer! The right answer is: </h2>
+      <h2 v-if="!correctAnswerSelected" class="question">{{ correctAnswer }}</h2>
+      <h2 class="question">Score: {{ score }}</h2>
       <button class="retro-button" @click="nextQuestion">Next Question</button>
+      <h2>{{ questionNumber }} / 20</h2>
     </div>
     <div v-if="gameState === 'end'">
       <h2>Game Over</h2>
@@ -127,6 +145,10 @@
         gameState: 'start',
         selectedCategory: '',
         points: 1000,
+        counterPoints: 1300,
+        pointsThreshold: 1000, // constant
+        startingPoints: 1300, // constant
+        maxPoints: 1000, // constant
         question: '',
         options: [],
         correctAnswer: '',
@@ -137,21 +159,23 @@
         correctAnswerSelected: false,
         outOfTime: false,
         noQuestionsRemaining: false,
-        interval: 0
+        interval: 0,
+        questionNumber: 1,
       },
       computed: {
         availableCategories() {
-          if (this.availableCategoriesSaved) return this.availableCategoriesSaved
-          let availableCategories = [];
-          for (q in questions) {
-            category = questions[q].category
-            if (!availableCategories.includes(category)) {
-              availableCategories.push(category)
-            }
-          }
-          this.availableCategoriesSaved = availableCategories
-          return availableCategories;
-        }
+          return ["People","Geography", "Science","History","Culture"]
+        //   if (this.availableCategoriesSaved) return this.availableCategoriesSaved
+        //   let availableCategories = [];
+        //   for (q in questions) {
+        //     category = questions[q].category
+        //     if (!availableCategories.includes(category)) {
+        //       availableCategories.push(category)
+        //     }
+        //   }
+        //   this.availableCategoriesSaved = availableCategories
+        //   return availableCategories;
+         }
       },
       methods: {
         startGame(category) {
@@ -163,16 +187,23 @@
             this.question = triviaData.question;
             this.options = shuffle([...triviaData.answers]);
             this.correctAnswer = triviaData.answers[0];
+            this.points = this.maxPoints;
+            this.counterPoints = this.startingPoints;
             this.timer();
           }
+          this.questionNumber++;
         },
         timer() {
           if (this.interval) clearInterval(this.interval)
           this.interval = setInterval(() => {
-            this.points -= 1;
-            if (this.points <= 0) {
+            if (this.counterPoints < this.pointsThreshold) {
+              this.points -= 1;
+            }
+            this.counterPoints -= 1;
+            if (this.counterPoints <= 0) {
               if (this.gameState == 'running') {
                 this.points = 0;
+                this.counterPoints = 0;
                 clearInterval(interval);
                 this.outOfTime = true;
                 this.gameState = 'post-question';
@@ -183,7 +214,8 @@
         checkAnswer(answer) {
           if (this.interval) clearInterval(this.interval)
           if (answer === this.correctAnswer) {
-            this.score += this.points;
+            if (this.points > this.maxPoints) this.score += this.maxPoints
+            else this.score += this.points
             this.correctCount += 1;
             this.correctAnswerSelected = true;
           } else {
@@ -199,7 +231,7 @@
         endTurn() {
           if (this.interval) clearInterval(this.interval)
           this.turns += 1;
-          if (this.turns >= 10 || this.availableCategories.length === 0) {
+          if (this.turns >= 20 || this.availableCategories.length === 0) {
             this.gameState = 'end';
             if (this.availableCategories.length === 0) {
               this.noQuestionsRemaining = true;
@@ -207,7 +239,6 @@
           } else {
             this.gameState = 'start';
           }
-          this.points = 1000;
         },
         resetGame() {
           if (this.interval) clearInterval(this.interval)

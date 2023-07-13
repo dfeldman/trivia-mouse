@@ -11060,7 +11060,6 @@ Sulfur
 Oxygen 
 Helium 
 
-All the above questions are written in the format: Category, Question, Correct Answer, Three incorrect Answers.
 People
 Who is Beyonce's spouse?
 Jay Z
@@ -12099,3 +12098,11373 @@ Jaw Muscle
 Bicep
 Gluteus Maximus
 Heart Muscle
+
+People
+What is Beyonce's full name?
+Beyonce Giselle Knowles
+Beyonce Rihanna Knowles
+Beyonce Mariah Knowles
+Beyonce Selena Knowles
+
+Geography
+Which country is nicknamed "The Land Down Under"?
+Australia
+Canada
+South Africa
+Argentina
+
+History
+When did the American Revolution end?
+1783
+1984
+1492
+3000 BC
+
+Science
+How far are we from the sun in light-minutes?
+8.3 minutes
+1 minute
+20 minutes
+600 minutes
+
+People
+Which college did Elon Musk attend?
+University of Pennsylvania
+Harvard
+Stanford
+Mars University
+
+Geography
+How many countries border Russia?
+14
+5
+20
+50
+
+History
+Who was the French leader during the French Revolution?
+Maximilien Robespierre
+Daenerys Targaryen
+Napoleon Dynamite
+Pierre Trudeau
+
+Science
+What is the deepest part of the ocean?
+Mariana Trench
+Bermuda Triangle
+Gobi Desert
+Mount Everest's Summit
+
+People
+Who is known as "The King of Pop"?
+Michael Jackson
+Elvis Presley
+Justin Bieber
+King Henry VIII
+
+Geography
+What is the capital of Canada?
+Ottawa
+Toronto
+Quebec
+Syrupville
+
+History
+Which event started World War I?
+Assassination of Archduke Franz Ferdinand
+French revolution
+Dropping of atomic bomb
+Tea Party
+
+Science
+What is the speed of light?
+299,792 kilometers per second
+1,000 miles per hour
+13,000 mph
+Speed of a cheetah
+
+People
+In which movie did Scarlett Johansson make her debut?
+North
+Iron Man
+Lost in Translation
+Marriage Story
+
+Geography
+What is the smallest country in the world?
+Vatican City
+USA
+Russia
+The Shire
+
+History
+Who found the new world (America)?
+Christopher Columbus
+Britney Spears
+Michael Jackson
+Hitler
+
+Science
+How many elements are in the periodic table?
+118
+130
+157
+3,021
+
+People
+Who did Katharine Hepburn marry?
+Spencer Tracy
+Cary Grant
+John Wayne
+Nobody
+
+Geography
+What is the official language in Brazil?
+Portuguese
+Spanish
+English
+Freedom language
+
+History
+Who was known as the "Lady with the Lamp"?
+Florence Nightingale
+Lady Diana
+Amelia Earhart
+Wonder Woman
+
+Science
+What is our solar system's biggest planet?
+Jupiter
+Earth
+Mars
+Pluto
+
+People
+What is Madonna's real name?
+Madonna Louise Ciccone
+Madame X
+Material Girl
+Madonna Vuitton
+
+Geography
+What is the largest US state by land area?
+Alaska
+Texas
+California
+New York City
+
+History
+What did the cotton gin do?
+Separated cotton seeds from cotton fiber
+Made shirts out of cotton
+Gin made out of cotton
+Helped Batman defeat villains
+
+Science
+What was the first planet discovered using a telescope?
+Uranus
+Mars
+Venus
+Pluto
+
+People
+Who is the oldest Kardashian sister?
+Kourtney Kardashian
+Kim Kardashian
+Khloe Kardashian
+Kardashian Prime
+
+Geography
+What is Africa's longest river?
+Nile
+Amazon
+Congo
+Disneyland River
+
+History
+Who invented the printing press?
+Johannes Gutenberg
+Martin Luther
+Jesus Christ
+Pressly Printerson
+
+Science
+What is the rarest blood type?
+AB Negative
+O Positive
+A Positive
+Blue
+
+People
+What was Lady Gaga's first number one song?
+Just Dance
+Poker Face
+Born This Way
+Ga Ga Ooh La La
+
+Geography
+Which country owns Greenland?
+Denmark
+Canada
+USA
+Santa Claus
+
+History
+When was the Magna Carta signed?
+1215
+1776
+1492
+2008
+
+Science
+Who proposed the theory of relativity?
+Albert Einstein
+Marie Curie
+Bill Nye
+A relative of mine
+
+People
+Who is known as "The Queen of Soul"?
+Aretha Franklin
+Madonna
+Beyonce
+Taylor Swift
+
+Geography
+What is wind erosion?
+Movement of particles by wind
+Stealing wind
+Wind crying
+Wind painting
+
+History
+Where was Adolf Hitler born?
+Austria
+Germany
+Switzerland
+Moon
+
+Science
+Who coined the term "survival of the fittest"?
+Herbert Spencer
+Charles Darwin
+Bill Nye
+Fitness Guru
+
+People
+Which band did Sting belong to?
+The Police
+Beatles
+Queen
+Sting and the Stingers
+
+Geography
+Which sea's salinity is the highest?
+Dead Sea
+Red Sea
+Indian Ocean
+Great Salt Lake
+
+History
+Who was the first woman to fly across the Atlantic?
+Amelia Earhart
+Rosa Parks
+Cleopatra
+Iron Woman
+
+Science
+What makes up approximately 96% of the human body?
+Oxygen, carbon, hydrogen, and nitrogen
+Candy
+Water balloons
+Stardust
+
+People
+What does "BTS" stand for in the South Korean band's name?
+Bangtan Boys
+Behind The Scenes
+Boys That Sing
+BTS That's That
+
+Geography
+What is the world's most populated city?
+Tokyo
+New York City
+Shanghai
+Antarctica
+
+History
+What was the Great Fire of London?
+A fire that devastated London in 1666
+An album by The Clash
+A fire-breathing dragon
+The Olympic flame
+
+Science
+What is the longest bone in the human body?
+Femur
+Spine
+Humerus
+Funny bone
+
+People
+Which actor played Tony Stark in the Marvel Cinematic Universe?
+Robert Downey Jr.
+Chris Evans
+Paul Rudd
+Tony Stark
+
+Geography
+What is the currency of Japan?
+Yen
+Dollar
+Euro
+Bitcoin
+
+History
+What killed the dinosaurs?
+Meteor impact
+Climate change
+T-Rex rebellion
+Lack of motivation
+
+Science
+What is the hottest planet in our solar system?
+Venus 
+Mercury 
+Mars 
+Hades
+
+People 
+Who are the members of the Beatles?
+John Lennon, Paul McCartney, George Harrison, and Ringo Starr
+Harry Styles, Niall Horan, Zayn Malik, Louis Tomlinson, and Liam Payne
+Frodo, Sam, Merry, and Pippin
+Ringo, Bingo, Dingo, and Mingo
+
+Geography 
+What ocean is the largest in the world?
+Pacific Ocean
+Atlantic Ocean
+Chocolate Ocean
+Indian Ocean
+
+History 
+Who was the first person to step on the moon?
+Neil Armstrong
+Buzz Lightyear
+Louis Armstrong
+Michael Jackson
+
+Science 
+How many hearts does an octopus have?
+3
+1
+8
+They're heartless
+
+People 
+In which TV series did Jennifer Aniston gain initial fame?
+Friends
+Baywatch
+Golden Girls
+The Crown
+
+Geography
+Which river flows through Paris?
+Seine
+Danube
+Thames
+River Phoenix
+
+History
+What is Auschwitz?
+A Nazi concentration camp
+Secret Nazi moon base
+A brand of deodorant
+Trendy Berlin neighborhood
+
+Science
+How old is Earth?
+4.5 billion years
+2022 years
+100,000 years
+As old as your grandmother
+
+People
+Who did Prince Harry marry?
+Meghan Markle
+Kate Middleton
+Emma Watson
+Hermione Granger
+
+Geography
+What's the capital of New Zealand?
+Wellington
+Auckland
+Sydney
+Middle Earth
+
+History
+Who wrote the "I have a dream" speech?
+Martin Luther King Jr.
+Shakespeare
+John Lennon
+A great dreamer
+
+Science
+What animal has the most legs?
+Millipede
+Octopus
+Spider
+Elephant
+
+People
+Who is Taylor Swift's mother?
+Andrea Swift
+Selena Gomez
+Mother Theresa
+Mother Nature
+
+Geography
+What is the capital city of Spain?
+Madrid
+Rome
+Paris
+Dora the Explorer
+
+History
+Who was the first American President?
+George Washington
+Abraham Lincoln
+George Clooney
+President Prime
+
+Science
+What type of blood is a universal donor?
+O Negative
+O Positive
+Blue Positive
+BB Negative
+
+People
+How many children do Jay-Z and Beyonce have?
+3
+4
+2
+99 Problems
+
+Geography
+What's the highest point in Africa?
+Mount Kilimanjaro
+Mount Everest
+Table Mountain
+The Lion King's Pride Rock
+
+History
+What kind of government does North Korea have?
+Communist
+Democracy
+Theocracy
+Game of Thrones
+
+Science 
+How much of the human body is made up of water?
+About 60%
+About 80%
+About 95%
+Blood, sweat, and tears
+
+People
+Who is Oprah Winfrey's best friend?
+Gayle King
+Gayle Queen
+Gayle Jack
+Gayle Ace
+
+Geography
+Which country has the largest area of land?
+Russia
+Canada
+China
+Narnia 
+
+History
+What year did the Berlin Wall fall?
+1989
+1990
+2000
+Yesterday
+
+Science 
+Who developed the theory of general relativity?
+Albert Einstein
+Sir Isaac Newton
+Stephen Hawking
+Relatively Unknown
+
+People
+Who is the wealthiest Kardashian?
+Kim Kardashian
+Kendall Jenner
+Kris Jenner
+Kermit the Frog
+
+Geography
+Which US state has the most active volcanoes?
+Alaska
+Hawaii
+California
+New York
+
+History
+Why did the Titanic sink?
+It hit an iceberg
+Poor navigation
+The Captain fell asleep
+Iceberg, straight ahead!
+
+Science
+What gas do plants absorb from the atmosphere?
+Carbon Dioxide
+Oxygen
+Nitrogen
+Helium
+
+People
+Who was Marilyn Monroe married to?
+Arthur Miller, Joe DiMaggio, and James Dougherty
+Humphrey Bogart
+Marlon Brando
+Her career 
+
+Geography
+Which city is known as "The Windy City"?
+Chicago
+Miami
+New York City
+BlowVille
+
+History
+Where was the Battle of Gettysburg fought?
+Gettysburg, Pennsylvania
+New York, New York
+London, England
+Middle Earth
+
+Science
+What is the human body's largest organ?
+Skin
+Brain
+Heart
+The funny bone
+
+People
+What is Brad Pitt's real name?
+William Bradley Pitt
+Brad Pittsberg
+Bradley Cooper
+Pitt the Elder
+
+Geography
+What is the capital of Australia?
+Canberra
+Sydney
+Melbourne
+Outbackville
+
+History
+Who discovered the South Pole?
+Roald Amundsen
+Christopher Columbus
+Neil Armstrong
+Indiana Jones
+
+Science
+How many taste buds does the average human tongue have?
+Around 10,000
+Around 100,000
+Around 1,000,000
+Just one, but it's a big one
+
+People
+What's Lady Gaga's real name?
+Stefani Joanne Angelina Germanotta
+Lady GooGoo
+Applause
+Born This Way
+
+Geography
+What is the capital of Israel?
+Jerusalem
+Tel Aviv
+Rome
+Bethlehem
+
+History
+Who was the last Pharaoh of Egypt?
+Cleopatra
+Tutankhamun
+Ramses II
+The Mummy
+
+Science
+Which planet has the most gravity?
+Jupiter
+Earth
+Mars
+Pizza Planet
+
+People
+Which famous physicist was born on the death anniversary of Galileo Galilei and died on Albert Einstein's birthday?
+Stephen Hawking
+Isaac Newton
+Niels Bohr
+Neil deGrasse Tyson
+
+Geography
+What's the capital of South Korea?
+Seoul
+Tokyo
+Pyongyang
+K-Pop City
+
+History
+Who was the Prime Minister of Britain when WWII ended?
+Winston Churchill
+Margaret Thatcher
+Bertie Wooster
+Trench Head
+
+Science
+What is the universal gravitational constant?
+6.674×10^−11 N(m/kg)^2 
+3.14
+42
+Gravity is just a theory
+
+People
+Who was the first host of "The Tonight Show"?
+Steve Allen
+Johnny Carson
+Jay Leno
+Jimmy Fallon
+
+Geography
+In terms of land area, what is the smallest independent country in the world?
+Vatican City
+Singapore
+Malta
+The Batcave
+
+History
+What was Adolf Hitler's original occupation?
+Painter
+Musician
+Teacher
+Moustache Model
+
+Science
+Who discovered neutron?
+James Chadwick
+J.J. Thomson
+Einstein
+Neutron Jimmy
+
+People
+Who composed the music for "The Lion King" (1994)?
+Hans Zimmer
+John Williams
+Danny Elfman
+Mickey Mouse
+
+Geography
+What's the tallest mountain in the world?
+Mount Everest
+Kilimanjaro
+Mount Fuji
+Mountain Dew
+
+History
+Who was the philosopher that taught Alexander the Great?
+Aristotle
+Plato
+Socrates 
+The Great Philosopher
+
+Science
+How many chambers does the human heart have?
+4 
+3 
+2 
+Heart-shaped box 
+
+People
+What was the name of Elvis Presley's mansion?
+Graceland
+Elvisland
+Presley Palace
+Elvis's Eden
+
+Geography
+What's the largest desert in the world?
+The Sahara
+The Gobi
+The Mojave
+Sandville, USA
+
+History
+Who was the general of the Confederate Army during the American Civil War?
+Robert E. Lee
+George Washington
+Napoleon Bonaparte
+General Grievous
+
+Science
+What's the rarest naturally occurring element on Earth?
+Astatine
+Gold
+Oxygen
+Unicornium
+
+People
+Where was Bruce Lee born?
+San Francisco
+Hong Kong
+Beijing
+Kickpuncher, USA
+
+Geography
+What's the largest continent by land area?
+Asia
+Africa
+North America
+Snowball Earth
+
+History
+Who was the leader of Russia during WWII?
+Joseph Stalin
+Vladimir Putin
+Mikhail Gorbachev
+The Red Tsar
+
+Science
+What's the largest organ inside the human body?
+Liver
+Heart
+Brain
+Kidney Bean
+
+People
+Who was known as "The King of Rock and Roll"?
+Elvis Presley
+Michael Jackson
+Mick Jagger
+King Kong
+
+Geography
+Which two countries share the longest international border?
+USA and Canada
+Russia and China
+North and South Korea
+Sweden and Switzerland
+
+History
+Who was the First Lady of the United States in 2000?
+Hillary Clinton
+Laura Bush
+Barbara Bush
+The Lady of The Rings
+
+Science
+What is the chemical symbol for gold?
+Au
+Gd
+Go
+GD
+
+People
+Who played the character of Harry Potter in the movie series?
+Daniel Radcliffe
+Elijah Wood
+Tom Felton
+Harry P. Otter
+
+Geography
+Which country has the most natural lakes?
+Canada
+USA
+Russia
+LakeLand
+
+History
+Who is the author of "1984"?
+George Orwell
+Aldous Huxley
+Mark Twain
+George Jetson
+
+Science
+Who discovered electricity?
+Benjamin Franklin
+Nikola Tesla
+Thomas Alva Edison
+Shocker
+
+People
+Who played the Incredible Hulk in "The Avengers" (2012) movie?
+Mark Ruffalo
+Lou Ferrigno
+Edward Norton
+Green Giant
+
+Geography
+Which country is home to the Great Barrier Reef?
+Australia
+New Zealand
+Japan
+Mermaid Land
+
+History
+Who shot Abraham Lincoln?
+John Wilkes Booth
+Lee Harvey Oswald
+Billy the Kid
+Honest Abe's Hater
+
+Science
+What does the "E" in E=mc^2 stand for?
+Energy
+Einstein
+Electricity
+Everyone
+
+People
+Which talk show host was the voice of "Dory" in Finding Nemo?
+Ellen DeGeneres
+Oprah Winfrey
+Rosie O'Donnell
+Fishy McTalkShow
+
+Geography
+Where is the Statue of Liberty?
+New York 
+Paris
+Tokyo
+Freedomville
+
+History
+Who was the first person to reach the North Pole?
+Robert Peary
+Christopher Columbus
+Marco Polo
+Iceberg Slim
+
+Science
+What is the main component of natural gas?
+Methane
+Hydrogen
+Helium
+Natural Component
+
+People
+Who is the host of "Comedians in Cars Getting Coffee"?
+Jerry Seinfeld
+Jimmy Fallon
+Jay Leno
+Comedy Carman
+
+Geography
+What country is home to the mountain K2?
+Pakistan 
+India
+China
+Mountainville
+
+History
+Where was Napoleon born?
+Corsica
+France
+Italy
+Waterloo
+
+Science
+What is the largest type of shark?
+Whale shark
+Great white shark
+Bull shark
+Loan shark 
+
+People
+What is the real name of the rapper "Eminem"?
+Marshall Mathers
+Slim Shady
+Rap God
+M&M
+
+Geography
+In which country is the Blarney Stone?
+Ireland
+Scotland
+England
+Blarneyville
+
+History
+Who discovered New Zealand?
+Abel Tasman 
+Christopher Columbus
+Captain Kirk
+New Zedlander 
+
+Science
+What are the primary colors in light?
+Red, Green, Blue
+Red, Yellow, Blue
+Black, White, Gray
+Colorful Light 
+
+People
+Who played Jack Dawson in "Titanic"?
+Leonardo DiCaprio
+Brad Pitt
+Tom Hanks
+Icy Waters
+
+Geography
+What's the southernmost continent?
+Antarctica 
+South America 
+Australia 
+Iceville 
+
+History
+When did World War II end?
+1945
+1944
+1943
+When the fat lady sang 
+
+Science
+What is the first element on the Periodic Table?
+Hydrogen
+Helium
+Lithium
+FirstElementium 
+
+People
+Who is nicknamed "The Boss" in the music industry?
+Bruce Springsteen
+Elvis Presley
+Madonna
+Boss Baby
+
+Geography
+What is the capital city of Germany?
+Berlin
+Frankfurt
+Munich
+Germville 
+
+History
+Who was the first African American woman to travel in space?
+Mae Jemison
+Neil Armstrong
+Sally Ride
+Space Woman 
+
+Science
+What is the most abundant gas in Earth's atmosphere?
+Nitrogen
+Oxygen
+Carbon Dioxide
+Breathable Air
+
+People
+In which US state was Megan Markle born?
+California
+New York
+Illinois
+Megville 
+
+Geography
+What is the smallest ocean in the world?
+Arctic Ocean
+Indian Ocean
+Atlantic Ocean
+Tiny Ocean 
+
+History
+Where was the Declaration of Independence signed?
+Philadelphia
+Boston
+Washington D.C.
+In the bottom right corner 
+
+Science
+What does DNA stand for?
+Deoxyribonucleic acid
+Do not abbreviate
+Dance Nucleus Around
+Drum N Bass 
+
+People
+Which basketball player starred in the movie "Space Jam"?
+Michael Jordan
+LeBron James
+Shaq
+Space Dunker 
+
+Geography
+Which is the northernmost capital city in the world?
+Reykjavik, Iceland
+Oslo, Norway
+Helsinki, Finland
+Coldville 
+
+History
+Who cut Van Gogh's ear?
+Vincent Van Gogh himself
+Pablo Picasso
+Salvador Dali
+Eary McEarface 
+
+Science
+What is the atomic number of helium?
+2
+1
+3
+Flying Balloon 
+
+People 
+Who was the host of 'Who Wants to Be a Millionaire' in 2000?
+Regis Philbin
+Chris Tarrant
+Meredith Vieira
+Mr. Jefferson 
+
+Geography 
+What is the largest rainforest in the world?
+The Amazon
+Central Africa
+South East Asia
+Rain Forest Prime 
+
+History 
+Who was known as the "Maid of Orleans"?
+Joan of Arc
+Maid Marian
+Mary Magdalene
+French Maid 
+
+Science
+What's the smallest unit of life?
+Cell
+Atoms
+Molecule
+Tiny Tim 
+
+People
+Who wrote the "Harry Potter" series?
+J.K. Rowling
+Stephen King
+George R. R. Martin
+Wizard Scribe 
+
+Geography
+Which river is the longest in the world?
+Nile
+Amazon
+Mississippi
+Riverville
+
+History
+What was the main reason for the Civil War in the United States?
+Slavery
+Taxes
+Education
+Civil disagreement 
+
+Science
+What planet is known as the "Red Planet"?
+Mars
+Venus
+Saturn
+Planet Hollywood 
+
+People
+What late-night talk show host retired in 2015 after 33 years?
+David Letterman
+Johnny Carson
+Jay Leno
+Too Tired for TV
+People
+Who is Beyonce Knowles' husband?
+Jay-Z
+Kanye West
+Drake
+Pharrell Williams
+
+Geography
+What is the capital of Australia?
+Canberra
+Sydney
+Melbourne
+Perth
+
+History
+Which country was formerly known as Persia?
+Iran
+Iraq
+Syria
+Turkey
+
+Science
+What is the speed of light in a vacuum?
+186,282 miles per second
+500,000 miles per second
+1 million miles per second
+100,000 miles per second
+
+People
+Who is the current Prime Minister of the United Kingdom?
+Boris Johnson
+Tony Blair
+David Cameron
+Theresa May
+
+Geography
+Which river flows through London?
+Thames
+Danube
+Nile
+Hudson
+
+History
+Which war took place from 1914 to 1918?
+World War I
+World War II
+Cold War
+Vietnam War
+
+Science
+What does DNA stand for?
+Deoxyribonucleic Acid
+Dinosaurs Not Allowed
+Delicate Nutrient Association
+Deoxyribonuclear Asparagus
+
+People
+In which state was Oprah Winfrey born?
+Mississippi
+Illinois
+Alabama
+Texas
+
+Geography
+Which country is known as the Land of Rising Sun?
+Japan
+China
+Korea
+India
+
+History
+Who was the first woman to fly solo across the Atlantic?
+Amelia Earhart
+Joan of Arc
+Marie Curie
+Madonna
+
+Science
+What is the heaviest organ in the human body?
+Liver
+Brain
+Heart
+Lungs
+
+People
+Who is the creator of Star Wars?
+George Lucas
+Steven Spielberg
+Stan Lee
+J.K. Rowling
+
+Geography
+Which state is known as the 'Sunshine State'?
+Florida
+California
+Hawaii
+Texas
+
+History
+Who painted the Mona Lisa?
+Leonardo da Vinci
+Vincent van Gogh
+Pablo Picasso
+Claude Monet
+
+Science
+What's the chemical symbol for gold?
+Au
+Gd
+Ga
+Go
+
+People
+Who directed the movie Titanic?
+James Cameron
+Steven Spielberg
+Christopher Nolan
+George Lucas
+
+Geography
+Which country is the largest by land area?
+Russia
+Canada
+China
+United States
+
+History
+Which dynasty built the Great Wall of China?
+Ming Dynasty
+Tang Dynasty
+Yuan Dynasty
+Song Dynasty
+
+Science
+How many planets are in our solar system?
+8
+9
+10
+7
+
+People
+Who is the author of Harry Potter series?
+J.K. Rowling
+Agatha Christie
+Stephen King
+Tolkien
+
+Geography
+Where are the Pyramids of Giza?
+Egypt
+Greece
+Mexico
+China
+
+History
+Who delivered the Gettysburg Address?
+Abraham Lincoln
+George Washington
+Thomas Jefferson
+Benjamin Franklin
+
+Science
+What is the world's largest animal?
+Blue Whale
+Elephant
+Giraffe
+Hippopotamus
+
+People
+Who played Iron Man in the Marvel Cinematic Universe?
+Robert Downey Jr.
+Chris Hemsworth
+Hugh Jackman
+Daniel Radcliffe
+
+Geography
+What is the tallest mountain in the world?
+Mount Everest
+Kilimanjaro
+K2
+Mount McKinley
+
+History
+Who is known as the father of Modern Philosophy?
+Renè Descartes
+Plato
+Aristotle
+Kant
+
+Science
+What does E=mc² represent?
+Energy equals mass times the speed of light squared
+Einstein equals mc hammer
+Every monkey chews
+Eggplants make compact squares
+
+People
+Who is the second man to walk on the moon?
+Buzz Aldrin
+Neil Armstrong
+John Glenn
+Elon Musk
+
+Geography
+What body of water separates England from France?
+The English Channel
+The Atlantic Ocean
+The North Sea
+The Mediterranean Sea
+
+History
+In what year did the United States declare its independence?
+1776
+1492
+1945
+2001
+
+Science
+On which planet is Olympus Mons, the tallest volcano in our solar system?
+Mars
+Earth
+Venus
+Jupiter
+
+People
+What's Elon Musk's electric car company?
+Tesla
+Apple
+Oracle
+SpaceX
+
+Geography
+Which country is home to the kangaroo?
+Australia
+New Zealand
+South Africa
+Canada
+
+History
+Who was the British monarch during the American Revolution?
+King George III
+Queen Elizabeth II
+King Henry VIII
+Queen Victoria
+
+Science
+What is the first element on the periodic table?
+Hydrogen
+Helium
+Lithium
+Unobtainium
+
+People
+Who is the author of "To Kill a Mockingbird"?
+Harper Lee
+Emily Dickinson
+Virginia Woolf
+J.D. Salinger
+
+Geography
+What is the smallest country in the world?
+Vatican City
+Luxembourg
+Monaco
+Liechtenstein
+
+History
+Who was the first person to ride a bicycle?
+Karl Drais
+Albert Einstein
+Isaac Newton
+Wright Brothers
+
+Science
+Which creature has the largest eyes in the world?
+Giant Squid
+Elephant
+Ostrich
+Whale Shark
+
+People
+Who played James Bond in "Skyfall"?
+Daniel Craig
+Pierce Brosnan
+Sean Connery
+Roger Moore
+
+Geography
+Which is the longest river in the world?
+The Nile
+The Amazon
+The Mississippi
+The Yangtze
+
+History
+Where did the Olympic Games originate?
+Greece
+Rome
+Egypt
+Persia
+
+Science
+What has a gravitational pull so strong that even light cannot escape it?
+Black Hole
+White Hole
+Sneezing Panda
+Couch Potato
+
+People
+Who is the voice behind Darth Vader in Star Wars?
+James Earl Jones
+Morgan Freeman
+Sean Connery
+Patrick Stewart
+
+Geography
+Which continent is the Sahara desert located?
+Africa
+Asia
+Australia
+Antarctica
+
+History
+Who discovered America?
+Christopher Columbus
+Albert Einstein
+Isaac Newton
+Thomas Edison
+
+Science
+What does 'www' stand for in a website browser?
+World Wide Web
+Wild Wild West
+Wicked Witch's Wand
+Web Whip Waffle
+
+People
+Who was the director of the "Lord of the Rings" trilogy?
+Peter Jackson
+James Cameron
+George Lucas
+Steven Spielberg
+
+Geography
+What's the capital of Canada?
+Ottawa
+Vancouver
+Toronto
+Victoria
+
+History
+What historical period came after the Middle Ages?
+Renaissance
+Stone Age
+Iron Age
+Dinosaur Age
+
+Science
+What is the human body’s largest organ?
+Skin
+Heart
+Liver
+Brain
+
+People
+Who discovered Penicillin?
+Alexander Fleming
+Marie Curie
+Louis Pasteur
+Jonas Salk
+
+Geography
+Which is the most populous city in the U.S.?
+New York
+Los Angeles
+Chicago
+Houston
+
+History
+Who invented the telephone?
+Alexander Graham Bell
+Thomas Edison
+Nikola Tesla
+Eli Whitney
+
+Science
+How many natural elements are in the periodic table?
+118
+100
+99
+90
+
+People
+Who is the all-time leading scorer in the National Basketball Association?
+Kareem Abdul-Jabbar
+Michael Jordan
+LeBron James
+Kobe Bryant
+
+Geography
+What's the highest waterfall in the world?
+Angel Falls
+Niagara Falls
+Victoria Falls
+Iguazu Falls
+
+History
+Who was the Roman god of war?
+Mars
+Jupiter
+Apollo
+Dionysus
+
+Science
+What is the distance from the Earth to the Moon?
+238,855 miles
+100,000 miles
+1 million miles
+500,000 miles
+
+People
+Who is the author of the "Game of Thrones" books?
+George R. R. Martin
+J.K. Rowling
+Stephen King
+Tolkien
+
+Geography
+Which country is also known as the Boot?
+Italy
+France
+Spain
+Portugal
+
+History
+Who was the first person in space?
+Yuri Gagarin
+Neil Armstrong
+Buzz Aldrin
+Elton John
+
+Science
+What's the most common gas in Earth's atmosphere?
+Nitrogen
+Oxygen
+Carbon dioxide
+Helium
+
+People
+Who is the fastest man in the world?
+Usain Bolt
+Superman
+The Flash
+Road Runner
+
+Geography
+In which country is Mount Fuji located?
+Japan
+China
+Nepal
+India
+
+History
+Who developed the theory of relativity?
+Albert Einstein
+Isaac Newton
+Galileo Galilei
+Thomas Alva Edison
+
+Science
+What is the brightest star in the night sky?
+Sirius
+Polaris
+Alpha Centauri
+Betelgeuse
+
+People
+Who wrote the music for The Lion King?
+Elton John
+Andrew Lloyd Webber
+Mozart
+John Williams
+
+Geography
+What city is known as the City of Love?
+Paris
+Venice
+Rome
+New York
+
+History
+In which year did World War II end?
+1945
+1944
+1946
+1943
+
+Science
+What's the largest planet in our solar system?
+Jupiter
+Saturn
+Uranus
+Neptune
+
+People
+Who was the lead singer of the band Queen?
+Freddie Mercury
+John Lennon
+David Bowie
+Elvis Presley
+
+Geography
+Which is the smallest U.S. state by area?
+Rhode Island
+Delaware
+Alaska
+Hawaii
+
+History
+Who was the 16th president of the United States?
+Abraham Lincoln
+George Washington
+Thomas Jefferson
+John F. Kennedy
+
+Science
+What's the lightest element on the periodic table?
+Hydrogen
+Helium
+Lithium
+Featherweight Fluffium
+
+People
+Who plays The Hulk in the Avengers movies?
+Mark Ruffalo
+Chris Hemsworth
+Chris Evans
+Robert Downey Jr.
+
+Geography
+In which country is the Great Barrier Reef?
+Australia
+United States
+South Africa
+New Zealand
+
+History
+What year was the Declaration of Independence signed?
+1776
+1492
+1865
+1945
+
+Science
+What's the most common element in the universe?
+Hydrogen
+Helium
+Oxygen
+Flourine
+
+People
+Who created Facebook?
+Mark Zuckerberg
+Jeff Bezos
+Bill Gates
+Steve Jobs
+
+Geography
+What's the largest country in South America?
+Brazil
+Argentina
+Chile
+Peru
+
+History
+What city was the Titanic launched from?
+Belfast
+New York
+Southampton
+Liverpool
+
+Science
+What is the main component of natural gas?
+Methane
+Propane
+Butane
+Giggly Laughgas
+People
+Who is Beyonce's husband?
+Jay-Z
+Kanye West
+Drake
+Justin Timberlake
+
+Geography
+What is the capital of Canada?
+Ottawa
+Toronto
+Vancouver
+Quebec City
+
+History
+Which country launched Sputnik, the first artificial satellite?
+Russia
+USA
+China
+Australia
+
+Science
+What is the freezing point of water at sea level?
+32℉
+0℉
+-32℉
+100℉
+
+People
+Which actor plays Tony Stark in the Marvel Cinematic Universe?
+Robert Downey Jr.
+Chris Hemsworth
+Tom Hiddleston
+Paul Rudd
+
+Geography
+What is the highest mountain in the world?
+Mount Everest
+Mount Kilimanjaro
+K2
+Mount McKinley
+
+History
+Who discovered America?
+Christopher Columbus
+Amerigo Vespucci
+Marco Polo
+Donald Trump
+
+Science
+What is the color of a polar bear's skin?
+Black
+White
+Brown
+Blue
+
+People
+Who is known as the "King of Pop"?
+Michael Jackson
+Elvis Presley
+Frank Sinatra
+Justin Bieber
+
+Geography
+Which country is shaped like a boot?
+Italy
+Australia
+India
+Bulgaria
+
+History
+Where was the Declaration of Independence signed?
+Philadelphia
+New York
+Boston
+Washington D.C.
+
+Science
+Which planet is the hottest in our solar system?
+Venus
+Mercury
+Mars
+Jupiter
+
+People
+Who wrote the Harry Potter series?
+J.K. Rowling
+Stephen King
+George R.R. Martin
+Dr. Seuss
+
+Geography
+What is the largest desert in the world?
+Sahara
+Gobi
+Atacama
+Mojave
+
+History
+Who was the leader of the Nazi Party?
+Adolf Hitler
+Joseph Stalin
+Winston Churchill
+Darth Vader
+
+Science
+What is the speed of light?
+299,792 km/s
+500,000 km/s
+1,000,000 km/s
+Snail speed
+
+People
+Who was the first president of the United States?
+George Washington
+Abraham Lincoln
+Benjamin Franklin
+Captain America
+
+Geography
+Which city is known as the "City of Love"?
+Paris
+Rome
+New York
+Vegas
+
+History
+Who was the first astronaut to walk on the moon?
+Neil Armstrong
+Buzz Aldrin
+Michael Collins
+Mr. Spacely
+
+Science
+What is the chemical symbol for Gold?
+Au
+G
+Ag
+Gl
+
+People
+Who is the author of "Game of Thrones"?
+George R.R. Martin
+J.K. Rowling
+Stephen King
+Jester R.R. Clownington
+
+Geography
+Where are the Pyramids of Giza located?
+Egypt
+Peru
+Mexico
+Las Vegas
+
+History
+What was the name of Genghis Khan's Empire?
+Mongol Empire
+Roman Empire
+Persian Empire
+Khananian Empire
+
+Science
+What is the human body's largest organ?
+Skin
+Heart
+Liver
+Spleen
+
+People
+Who directed the movie, Jurassic Park?
+Steven Spielberg
+George Lucas
+James Cameron
+Rex Directorus
+
+Geography
+Where is Mount Rushmore located?
+South Dakota
+North Dakota
+Nevada
+Under my couch
+
+History
+Who was the first female Prime Minister of Great Britain?
+Margaret Thatcher
+Elizabeth II
+Florence Nightingale
+Her Majesty First
+
+Science
+What is the dominant gas in Earth's atmosphere?
+Nitrogen
+Oxygen
+Carbon dioxide
+Hydrogen
+
+People
+Who was the lead vocalist of the band, Queen?
+Freddie Mercury
+Elton John
+Mick Jagger
+Prince Charles
+
+Geography
+Which country is the smallest in the world?
+Vatican City
+Monaco
+Luxembourg
+Tinylandia
+
+History
+Who painted the Mona Lisa?
+Leonardo da Vinci
+Vincent van Gogh
+Pablo Picasso
+Bob Ross
+
+Science
+How old is the Earth?
+4.5 billion years
+2.5 billion years
+1.5 billion years
+As old as dirt
+
+People
+Who played the Godfather in the movie, "The Godfather"?
+Marlon Brando
+Robert De Niro
+Al Pacino
+God the Father
+
+Geography
+What large island sits off the southern coast of Alaska?
+Kodiak Island
+Hawaii
+Greenland
+Island of Misfit Toys
+
+History
+Who was the first emperor of Rome?
+Augustus
+Julius Caesar
+Nero
+Pizza The Hut
+
+Science
+What type of galaxy is the Milky Way?
+Spiral
+Elliptical
+Irregular
+Chocolate
+
+People
+Who was the author of "The Catcher in the Rye"?
+J.D. Salinger
+George Orwell
+Ernest Hemingway
+Rye Catcherman
+
+Geography 
+What is the capital city of Australia?
+Canberra
+Sydney
+Melbourne
+Brisbane
+
+History
+What ship did the Pilgrims sail to America on?
+Mayflower
+Titanic
+Queen Mary
+Love Boat
+
+Science
+What are the primary colors of pigmented light?
+Red, green, blue
+Yellow, red, blue
+Black, white, grey
+Christmas colors
+
+People
+Who directed the film Titanic?
+James Cameron
+Quentin Tarantino
+Martin Scorsese
+Iceberg
+
+Geography
+What country is the Amazon rainforest in?
+Brazil
+Argentina
+Mexico
+Vegetable Land
+
+History
+Who was the U.S president during the Civil War?
+Abraham Lincoln
+George Washington
+Theodore Roosevelt
+Captain Confederacy
+
+Science
+What is the heaviest element?
+Osmium
+Iron
+Aluminum
+Featherium
+
+People
+Who is the author of "To Kill a Mockingbird"?
+Harper Lee
+Mark Twain
+Jane Austen
+Bird Killer
+
+Geography
+Which U.S. state has the most active volcanoes?
+Alaska
+Hawaii
+California
+Volcanovia
+
+History
+In which city was Jesus born?
+Bethlehem
+Jerusalem
+Nazareth
+Bethlehamlet
+
+Science
+How many teeth does an adult human usually have?
+32
+36
+28
+Enough to chew
+
+People
+Who was the longest-reigning queen of England?
+Queen Elizabeth II
+Queen Victoria
+Queen Elizabeth I
+Queen Everlasting
+
+Geography
+In which country is the Louvre Museum located?
+France
+Italy
+Spain
+Louvreland
+
+History
+Who was known as the Iron Chancellor?
+Otto von Bismarck
+Angela Merkel
+Joseph Stalin
+Iron Man
+
+Science
+What is the smallest bone in the human body?
+Stapes
+Femur
+Tibia
+Tiny Bone
+
+People
+Who voiced the character Woody in Toy Story?
+Tom Hanks
+Tim Allen
+John Ratzenberger
+Woody Woodman Voice
+
+Geography
+Which U.S. city is known as "The Windy City"?
+Chicago
+New York
+Los Angeles
+Blowhard City
+
+History
+Who was the first man to reach the South Pole?
+Roald Amundsen
+Robert Falcon Scott
+Ernest Shackleton
+Polar Pete
+
+Science
+How many dimensions does a cube have?
+3
+2
+4
+Cubic-ton
+
+People
+Who hosts the TV show Jeopardy?
+Alex Trebek
+Pat Sajak
+Drew Carey
+Question Man
+
+Geography
+Which is the longest river in the world?
+Nile
+Amazon
+Mississippi
+Long River
+
+History
+Which country was formerly known as Persia?
+Iran
+Iraq
+Turkey
+Percia
+
+Science
+What is the boiling point of water at sea level?
+100°C
+212°C
+50°C
+Hot enough to cook a lobster
+
+People
+Who delivered the "I Have a Dream" speech?
+Martin Luther King Jr
+Malcolm X
+Barack Obama
+The Dreamer
+
+Geography
+Which city hosts the Summer Olympics every four years?
+Changes every time
+London
+Paris
+Olympia
+
+History
+Who was the oldest sitting American president?
+Joe Biden
+Donald Trump
+Ronald Reagan
+Methuselah
+
+Science
+What is the atomic number of helium?
+2
+4
+1
+Many
+
+People
+What is Rihanna's real name?
+Robyn Rihanna Fenty
+Beyonce Knowles
+Alicia Keys
+Riri Music
+
+Geography
+Which is the smallest planet in our solar system?
+Mercury
+Pluto
+Venus
+Baby Planet
+
+History
+Who invented the cotton gin?
+Eli Whitney
+Thomas Edison
+Alexander Graham Bell
+Gintonic Inventor
+
+Science
+What natural disaster is measured with a Richter scale?
+Earthquake
+Hurricane
+Tornado
+Superhero Fight
+
+People
+Who composed the Four Seasons?
+Vivaldi
+Mozart
+Beethoven
+Winter Spring Summer Fall
+
+Geography
+Which continent is the Sahara Desert located on?
+Africa
+Asia
+North America
+Sand-world
+
+History
+Who was the first emperor of Japan?
+Emperor Jimmu
+Emperor Hirohito
+Emperor Meiji
+Emperor Sashimi
+
+Science
+What is the loudest animal on Earth?
+Sperm Whale
+Elephant
+Lion
+My Neighbor's Dog
+
+People
+Who is the richest person in the world?
+The first answer changes frequently
+Bill Gates
+Warren Buffet 
+Mr. Moneybags
+
+Geography
+In which U.S. state is the Grand Canyon located?
+Arizona
+Nevada
+Utah
+Big Ditch State
+
+History
+In what year did the Titanic sink?
+1912
+1918
+1932
+When Jack Let Go
+
+Science
+Which gas make up most of the Earth's atmosphere?
+Nitrogen
+Oxygen
+Carbon Dioxide
+Friseon
+
+People
+Who was the star of the movie "Forrest Gump"?
+Tom Hanks
+Tom Cruise
+Bruce Willis
+Box of Chocolates
+
+Geography
+Which is the largest country in the world?
+Russia
+Canada
+China
+Biggeststan
+
+History 
+In which city was the world's first underground train built?
+London
+New York
+Paris
+Undergroundville
+
+Science
+Which chemical element is diamond made of?
+Carbon
+Oxygen
+Hydrogen
+Blingonium
+Sure, here are 100 trivia questions:
+
+People
+What is Beyoncé's middle name?
+Giselle
+Beyonda
+Destiny
+QueenB
+
+Geography
+What is the tallest mountain in North America?
+Denali
+Mount Rushmore
+Mount McKinley
+Big Rock Mountain
+
+Science
+What planet is known as the 'Red Planet'?
+Mars
+Pluto
+Venus
+Mars Bar
+
+History
+Who was the first Black President of the United States?
+Barack Obama
+Bill Clinton
+Oprah Winfrey
+Morgan Freeman
+
+People
+What is The Rock's real name?
+Dwayne Johnson
+Rocky Stone
+Big Bolder
+Cliff Boulder
+
+Geography
+The Great Barrier Reef is located off the coast of which country?
+Australia
+Jamaica
+The Bahamas
+Reef Narnia
+
+Science
+What volatile chemical element is represented by the letter 'H'?
+Hydrogen
+Helium
+Hologram
+Heated Water
+
+History
+Who painted the Mona Lisa?
+Leonardo da Vinci
+Vincent Van Gogh
+Pablo Picasso
+Mona Lisa herself
+
+People
+What is Justin Bieber's home country?
+Canada
+United States
+Australia
+Bieberland
+
+Geography
+Where would you find the Eiffel tower?
+Paris, France
+London, England
+Eiffel, Germany
+Tower Town
+
+Science
+An Octopus belongs to which class?
+Cephalopoda
+Amphibian
+Fishtopia
+Octopodia
+
+History
+What started on July 28, 1914?
+World War I
+World War II
+The Great Depression
+Top Hat Fashion Trends
+
+People
+Where was Charlize Theron born?
+South Africa
+United States
+Australia
+Theronia
+
+Geography
+What river runs through Egypt?
+Nile
+Thames
+Mississippi
+River Phoenix 
+
+Science
+What is objective lens diameter of a standard microscope?
+10 mm
+20 mm
+30 mm
+Big enough
+
+History
+Where did the Battle of Waterloo take place?
+Belgium
+Canada
+Mexico
+Waterloo, Iowa
+
+People
+Who played Wolverine in the X-Men movies?
+Hugh Jackman
+Robert Downey Jr.
+Daniel Radcliffe
+Edward Scissorhands
+
+Geography
+What is the capital of Finland?
+Helsinki
+Helsinking
+Sinkhelsinki
+Finlandia
+
+Science
+What force holds the planets in Orbit around the Sun?
+Gravity
+Elastic
+Magnetic
+Sun's personality
+
+History
+Who wrote the US Declaration of Independence?
+Thomas Jefferson 
+Alexander Hamilton
+George Washington
+John Hancock's Secretary
+
+People
+What is the real name of Lady Gaga?
+Stefani Joanne Angelina Germanotta 
+Lady Gugu
+Stephanie Garbanzo Bean
+Germanchot Gaga
+
+Geography
+In which country is Lake Victoria primarily located?
+Uganda
+Kenya
+United States
+Victoria Secret 
+
+Science
+Who developed the theory of relativity?
+Albert Einstein
+Isaac Newton 
+Galileo Galilei
+Einstein's mischievous twin, Frank
+
+History
+In what year was the Magna Carta signed?
+1215
+1776
+1492
+The year of the Dragon
+
+People
+Who is the lead vocalist of U2?
+Bono
+The Edge
+Larry Mullen Jr.
+You too
+
+Geography
+Where are the Galapagos Islands located?
+Ecuador
+Fiji
+Hawaii
+Bikini Bottom
+
+Science
+Which planet is known for its rings?
+Saturn
+Mars
+Uranus
+Planet Hollywood
+
+History
+Which president ended the prohibition in 1933?
+Franklin D. Roosevelt
+George Washington
+Abraham Lincoln
+Al Capone
+
+People
+Who is Oprah Winfrey's best friend?
+Gayle King
+Sheri Salata
+Steve Harvey
+Every Book Club Member
+
+Geography 
+In which state would you find Mount Rushmore?
+South Dakota
+Wyoming
+Colorado
+Mount Rushless
+
+Science
+What gas do plants absorb from the atmosphere?
+Carbon dioxide
+Oxygen
+Helium
+Plant breath
+
+History
+What event took place on April 26, 1986?
+Chernobyl Disaster
+Moon Landing
+Watergate
+The Great Spaghetti Incident 
+
+People
+Who wrote the "Harry Potter" series?
+J.K. Rowling
+Roald Dahl
+Hermione Granger
+Harry's ghostwriter 
+
+Geography
+What is the capital of Peru?
+Lima 
+Cuzco
+Bogotá
+Alpaca City
+
+Science
+What does a Geiger counter measure?
+Radiation 
+Temperature
+Ego Size
+Laughter intensity 
+
+History
+What killed off the dinosaurs?
+Asteroid 
+Ice Age
+Time Travelers 
+Indifference
+
+People
+Who is considered the 'King of Pop'?
+Michael Jackson
+Elvis Presley
+Beyoncé
+Sock Puppet 
+
+Geography
+What is the smallest country in the world?
+Vatican City
+Monaco
+Liechtenstein
+Hobbiton
+
+Science
+What is the largest bird in the world?
+Ostrich 
+Eagle
+Albatross
+Big Bird
+
+History
+Who was the first woman to fly solo across the Atlantic?
+Amelia Earhart 
+Sally Ride
+Ada Lovelace
+Neverland's Tinkerbell 
+
+People
+Who won an Oscar for his role in "Dallas Buyers Club"?
+Matthew McConaughey
+Leonardo DiCaprio
+Brad Pitt
+Oscar's Adoptive Dad 
+
+Geography
+The Panama Canal connects which two bodies of water?
+Atlantic and Pacific Oceans
+Black and Mediterranean Seas
+NoRush and SuperRush Rivers
+Pool and Bathtub 
+
+Science
+What causes a rainbow?
+Refraction of light in water droplets
+Unicorns Sneezing
+Paint Explosions
+Pot of Gold Experiments
+
+History
+Who led the first expedition that circumnavigated the Earth?
+Ferdinand Magellan
+Christopher Columbus
+Sydney Carton
+The Flat Earth Society 
+
+People
+How many Oscars has Leonardo DiCaprio won?
+One
+None
+Five
+A whole Dumpster
+
+Geography
+Where is the lowest point on Earth's surface?
+Dead Sea
+Mount Everest
+Middle of my living room
+Curvature of the Moon
+
+Science
+What is the largest Organ in the human body?
+Skin
+Liver
+Heart
+Your mother-in-law's mouth
+
+History
+Who was named Time Magazine's Person of the Century in 1999?
+Albert Einstein
+Steve Jobs
+Mickey Mouse
+Whoever read this
+
+People
+Who voiced Woody in Toy Story?
+Tom Hanks
+Tim Allen
+Tom Cruise
+Woody Harrelson
+
+Geography
+Where is Petra, the ancient city, located?
+Jordan
+Egypt
+Greece
+Petraland
+
+Science
+What does DNA stand for?
+Deoxyribonucleic acid
+Don't Know Anything
+Do Not Ask
+Dancing Nude Aliens
+
+History
+What structure was 26.5 miles long until 1989?
+Berlin Wall
+Great Wall of China
+Hadrian's Wall
+Walmart
+
+People
+Who was the first person to reach the South Pole?
+Roald Amundsen
+Ernest Shackleton
+Edward "Chilly" Blizzardo
+Santa Clause
+
+Geography
+Which city is known as "The City of Canals"?
+Venice
+Amsterdam
+Copenhagen
+Canal City
+
+Science
+What is the biggest shark?
+Whale Shark
+Great White Shark
+Sharknado
+Megamouth Shark
+
+History
+Who was the first Roman Emperor?
+Augustus
+Julius Caesar
+Roman Noodles
+Biggus Dickus
+
+People
+Who plays Tony Stark in Iron Man?
+Robert Downey Jr.
+Chris Hemsworth
+Benedict Cumberbatch
+Tony Stark Himself
+
+Geography
+Where would you find Ayers Rock?
+Australia
+United States
+South Africa
+Rock Bottom
+
+Science
+What is the study of plants called?
+Botany
+Herbology
+Greenology
+Saladology
+
+History
+Who said, "I have a dream"?
+Martin Luther King Jr.
+Barack Obama
+Thomas Jefferson
+Freddy Krueger
+
+People
+Who is known as the "Material Girl"?
+Madonna
+Britney Spears
+Kim Kardashian
+Imelda Marcos
+
+Geography
+What is the capital of Sweden?
+Stockholm
+Copenhagen
+Helsinki
+Sweder City
+
+Science
+What is the common name for Ascorbic Acid?
+Vitamin C
+Vitamin D
+Vitamin B12
+Scurvy Medicine 
+
+History
+What did Gutenberg invent?
+Printing Press
+Internet
+Gutentag
+TikTok
+
+People
+What is Elton John's birth name?
+Reginald Kenneth Dwight
+John Lennon
+Rocket Man
+Tiny Dancer
+
+Geography
+Which country has the most freshwater?
+Brazil
+United States
+Canada
+Waterworld
+
+Science
+Which blood type is considered the universal donor?
+O Negative
+A Positive
+B Negative
+Pure Maple Syrup
+
+History
+Who was the longest reigning British monarch?
+Queen Elizabeth II
+Queen Victoria
+King George V
+Sir Long Reign
+
+People
+Who painted Starry Night?
+Vincent Van Gogh
+Pablo Picasso
+Frida Kahlo
+Bob Ross
+
+Geography
+Where would you find the Mojave desert?
+United States
+Mexico
+Australia
+Desert-ville
+
+Science
+Which element is named after the sun?
+Helium
+Sunium
+Solarium 
+Radium
+
+History
+Who was known as the Iron Lady?
+Margaret Thatcher
+Joan of Arc
+Sarah Connor
+Iron Maiden
+
+People
+Who sang "I Will Always Love You" in The Bodyguard?
+Whitney Houston
+Mariah Carey
+Celine Dion
+The Bodyguard
+
+Geography
+In what country are the famous pyramids of Giza located?
+Egypt
+Mexico
+Peru
+Pyramidia
+
+Science
+What is the full form of NASA?
+National Aeronautics and Space Administration
+Not Another Silly Acronym
+National Association of Space Astronauts
+Keep Looking Upwards Association
+
+History
+Which Tsar modernized Russia?
+Peter the Great
+Ivan the Terrible
+Tsar Binks
+Tsar Trek
+
+People
+Who is the director of "Titanic"?
+James Cameron
+Steven Spielberg
+Tim Burton
+The Unsinkable Molly Brown
+
+Geography
+What is the largest lake in Africa?
+Lake Victoria
+Lake Tanganyika
+Lake Placid
+Lake Afro
+
+Science
+What is the smallest bone in the human body?
+Stapes
+Femur
+Humerus
+I'm a small bone
+
+History
+Who was the Greek Goddess of Love?
+Aphrodite
+Athena
+Nyx
+Glitterus Lovealis
+
+People
+Who wrote "To Kill a Mockingbird"?
+Harper Lee
+J.D. Salinger
+Ernest Hemingway
+Killjoy Mock
+
+Geography
+What is the capital of New Zealand?
+Wellington
+Auckland
+Christchurch
+Kiwiville
+
+Science
+Who discovered penicillin?
+Alexander Fleming
+Sir Isaac Newton 
+Madam Curie 
+Dr. Illandwell
+
+History
+Who was the 16th President of the United States?
+Abraham Lincoln
+George Washington
+Thomas Jefferson
+President Sweet-Sixteen
+
+People
+Whose real name is Robyn Fenty?
+Rihanna
+Beyoncé
+Taylor Swift
+Fenty Beauty
+
+Geography
+What is the world's largest coral reef system?
+The Great Barrier Reef
+Red Sea Coral Reef
+New Caledonia Barrier Reef
+Coralville
+
+Science
+Which planet is closest to the sun?
+Mercury
+Venus
+Earth
+Fiesty Hotball
+
+History
+Who ruled England during the Spanish Armada?
+Queen Elizabeth I
+Queen Victoria
+Queen of Hearts
+Spanish Inquisition Surprise
+People
+Who did Beyonce marry in 2008?
+Jay Z
+Kanye West
+Chris Martin
+Sean Combs
+
+Geography
+What is the largest ocean on Earth?
+Pacific Ocean
+Atlantic Ocean
+Indian Ocean
+Arctic Ocean
+
+Science
+What is the speed of light in a vacuum?
+186,282 miles per second
+200,000 miles per second
+175,000 miles per second
+210,000 miles per second
+
+History
+Which event sparked the American Revolution?
+The Boston Tea Party
+The Boston Coffee Party
+The New York Cola Party
+The Philadelphia Lemonade Party
+
+People
+Who was the first woman to fly solo across the Atlantic Ocean?
+Amelia Earhart
+Marilyn Monroe
+Queen Elizabeth II
+Wonder Woman
+
+Geography
+What is the highest mountain in the world?
+Mount Everest
+Mount Rushmore
+Mount Kilimanjaro
+Mount Olympus
+
+Scientific fact
+What is the primary gas in the Earth's atmosphere?
+Nitrogen
+Oxygen
+Carbon Dioxide
+Helium
+
+History
+Who led the African campaign during the Napoleonic Wars?
+Napoleon Bonaparte
+General Elephants
+Captain Africa
+Corporal Lionheart
+
+People
+Who did Barack Obama succeed as President of the United States?
+George W. Bush
+George Washington
+Bill Clinton
+Abe Lincoln
+
+Geography
+Which city is also known as 'The Big Apple'?
+New York City
+Apple Valley
+Apple City
+Apple Orchard City
+
+Scientific Fact
+What is the branch of science dealing with the study of matter and energy and the interactions between the two?
+Physics
+Biology
+Chemistry
+Psychics
+
+History
+What was the name of the ship on which the Pilgrims traveled to America?
+Mayflower
+Roseflower
+Lilyflower
+Buttercup
+
+People
+Which song made Whitney Houston an international superstar?
+I Will Always Love You
+I Love You Forever
+Loving You Always
+Forever In Love with You
+
+Geography
+What is the capital of Australia?
+Canberra 
+Sydney
+Melbourne 
+Brisbane 
+
+Scientific Fact
+A pH of 7 is known as?
+Neutral
+Acidic
+Basic
+Dynamic
+
+History
+During which war was the Battle of Gettysburg fought?
+American Civil War
+World War I
+War of 1812
+Vietnam War
+
+People
+Who played Forrest Gump in the movie of the same name?
+Tom Hanks
+Han Solo
+The Rock
+Johnny Depp
+
+Geography
+What is the driest place on Earth?
+Atacama Desert
+Sahara Desert
+Kalahari Desert
+Great Sandy Desert
+
+Scientific Fact
+What is the force that causes objects to fall to the ground?
+Gravity
+Levity
+Generosity
+Hilarity
+
+History
+What was the main reason for the fall of the Roman Empire?
+Invasions by Barbarian tribes
+Alien invasion
+Gladiator uprising
+Overdose of pizza
+
+People
+Who was the first African-American woman to win the Nobel Prize for Literature?
+Toni Morrison
+Maya Angelou
+Alice Walker
+Oprah Winfrey
+
+People
+What is Beyonce's real first name?
+Beyoncé
+Lemonade
+Beysus
+Qween B
+
+Geography
+What country is the largest by land area?
+Russia
+Greenland
+China
+United States
+
+Science
+What is the boiling point of water at sea level in Fahrenheit?
+212°
+100°
+32°
+72°
+
+History
+In what year did the American Revolution start?
+1775
+1492
+1914
+1066
+
+People
+Where was Albert Einstein born?
+Ulm, Germany
+Einstein, Pennsylvania
+Theoretical, Physics
+Relatively, Germany
+
+Geography
+What's the capital of Japan?
+Tokyo
+Shanghai
+Hiroshima
+Samurai City
+
+Science
+What is the human body's largest organ?
+Skin
+Heart
+Liver
+The appendix
+
+History
+Who was the shortest-reigning monarch in British History?
+Lady Jane Grey
+King George III
+Chicken Tikka Masala
+Fish and Chips
+
+People
+What sport did Michael Jordan retire from to play baseball?
+Basketball
+Golf
+Motocross
+Extreme Ironing
+
+Geography
+What river flows through Paris?
+Seine
+Rhine
+Picnic
+Eiffel
+
+Science
+What is the chemical symbol for Iron?
+Fe
+Ir
+Rn
+Gym
+
+History
+Who was the US President during World War I?
+Woodrow Wilson
+Abraham Lincoln
+Burger King
+Colonel Sanders
+
+People
+What is Elon Musk's middle name?
+Reeve
+Mars
+Rocketman
+Tesla
+
+Geography
+Where is the Dead Sea located?
+Between Jordan and Israel
+In the graveyard
+Underwater
+In a horror movie
+
+Science
+What galaxy is Earth located in?
+Milky Way
+Snickers
+Mars
+Twix
+
+History
+Who lost the Battle of Waterloo?
+Napoleon Bonaparte
+Napoleon Dynamite
+Napoleon Solo
+Napoleon Ice Cream
+
+People
+In what year did Madonna release her first album?
+1983
+1963
+1973
+1993
+
+Geography
+What is the capital of Australia?
+Canberra
+Sydney
+Albuquerque
+Down Under City
+
+Science
+What is the closest star to Earth?
+Proxima Centauri
+Alpha Centauri
+Starbucks
+Midnight Star
+
+History
+During which war was the Gettysburg Address delivered?
+Civil War
+World War I
+Cold War
+War of the Roses
+
+People
+Where was Arnold Schwarzenegger born?
+Thal, Styria, Austria
+Los Angeles, USA
+Muscle Beach, California
+"I'll be", Austria
+
+Geography
+What is the smallest country in the world?
+Vatican City
+Tiny Town
+WeeWard
+Lil' Land
+
+Science
+Which animal has the longest lifespan?
+The Bowhead Whale
+The Immortal Jellyfish
+Dinosaur
+Polar Bear
+
+History
+Which famous document begins: "When in the course of human events..."?
+Declaration of Independence
+U.S. Constitution
+Gettysburg Address
+Monroe Doctrine
+
+People
+Where did Mother Teresa originally hail from?
+Skopje, North Macedonia
+Calcutta, India
+Heaven
+A Halo, Alabama
+
+Geography
+Where is the world's highest waterfall?
+Venezuela
+United States
+South Africa
+Niagara Falls
+
+Science
+Which planet is known for its rings?
+Saturn
+Earth
+Pluto
+Mars Bar
+
+History
+What year did World War II end?
+1945
+1918
+1783
+1969
+
+People
+Who directed the movie Jaws?
+Steven Spielberg
+Alfred Hitchcock
+James Cameron
+Eaten Spielberg
+
+Geography
+What is the national flower of Australia?
+Golden Wattle
+Kangaroo Paw
+Koala Blossom
+Barbie-B-Q Rose
+
+Science
+What is the rarest blood type?
+AB negative
+O positive
+B positive
+Type X
+
+History
+Who was the first woman to fly solo across the Atlantic?
+Amelia Earhart
+Marie Curie
+Rosa Parks
+Flyette Airington
+
+People
+What is Taylor Swift's middle name?
+Alison
+Singer
+Love
+Fast
+
+Geography
+What is the official language of Brazil?
+Portuguese
+Spanish
+Brazilian
+Samba
+
+Science
+What is the age of the Earth?
+4.54 billion years
+6000 years
+50 million years
+Over 9000
+
+History
+What year was the Declaration of Independence signed?
+1776
+1492
+1865
+1066
+
+People
+Where was actress Penelope Cruz born?
+Madrid, Spain
+Barcelona, Spain
+Malibu, USA
+Pirate Cove
+
+Geography
+What country is Mount Kilimanjaro in?
+Tanzania
+Kenya
+Egypt
+Mountainville
+
+Science
+What is the half-life of carbon-14?
+5730 years
+50 years
+10000 years
+When carbon-14 gets a divorce
+
+History
+Who helped draft the U.S. Declaration of Independence?
+Thomas Jefferson
+George Washington
+Abraham Lincoln
+Bic Pen
+
+People
+Who was the first black woman to win an Oscar?
+Hattie McDaniel
+Oprah Winfrey
+Whoopi Goldberg
+Hollywood McHollywoodface
+
+Geography
+What country is the volcano Vesuvius located?
+Italy
+Japan
+Indonesia
+Hotlandia
+
+Science
+What is the fastest land animal?
+The cheetah
+The roadrunner
+The peregrine falcon
+Usain Bolt
+
+History
+Who was the 16th U.S. President?
+Abraham Lincoln
+George Washington
+Thomas Jefferson
+Rainbow Lincoln
+
+People
+What is the real name of rapper Jay-Z?
+Shawn Corey Carter
+Marshall Mathers III
+Dwayne Michael Carter Jr.
+Rap McRapperson
+
+Geography
+What is the northernmost capital city in the world?
+Reykjavik, Iceland
+Oslo, Norway
+Helsinki, Finland
+Ice City
+
+Science
+What is the main gas found in the air we breathe?
+Nitrogen
+Oxygen
+Carbon dioxide
+Laughing gas
+
+History
+What famous ship sank on its maiden voyage in 1912?
+Titanic
+Queen Mary
+Mayflower
+Ship McShipface
+
+People
+In what year did Princess Diana die?
+1997
+1987
+2007
+1981
+
+Geography
+What is South America's smallest country?
+Suriname
+Brazil
+Argentina
+Minima Americana
+
+Science
+What causes a tsunami?
+Undersea Earthquakes
+Rain
+Moon's gravity
+Poseidon's bad mood
+
+History
+Which U.S. President served the shortest term in office?
+William Henry Harrison
+John F. Kennedy
+James A. Garfield
+Shorty Shorterson
+
+People
+Who played the character of Han Solo in Star Wars?
+Harrison Ford
+Mark Hamill
+Ewan McGregor
+Hands Solo
+
+Geography
+The Dalmatian Coast belongs to what country?
+Croatia
+Italy
+Greece
+Doglandia
+
+Science
+How many bones does an adult human have?
+206
+300
+120
+Bone-a-Palooza
+
+History
+What war took place from 1955 to 1975?
+Vietnam War
+Korean War
+World War II
+Netflix and War
+
+People
+Who wrote "To Kill a Mockingbird"?
+Harper Lee
+J.D. Salinger
+Ernest Hemingway
+Murder Sparrow
+
+Geography
+What city is known as "The City of a Hundred Spires"?
+Prague
+Paris
+Moscow
+Spikyville
+
+Science
+What is the chemical symbol for silver?
+Ag
+Au
+Si
+Shiny Stuff
+
+History
+Who discovered America?
+Christopher Columbus
+Neil Armstrong
+Amerigo Vespucci
+Lost McLostface
+
+People
+Who starred in "The Matrix"?
+Keanu Reeves
+Tom Cruise
+Leonardo DiCaprio
+Mr. Techie
+
+Geography
+Which U.S. state has the longest coastline?
+Alaska
+California
+Florida
+Waterlandia
+
+Science
+What gas do plants absorb from the atmosphere?
+Carbon dioxide
+Oxygen
+Helium
+Diet Carbon Dioxide
+
+History
+What year did the French Revolution start?
+1789
+1776
+1914
+Bread and Guillotine Fest
+
+People
+Who is the author of "1984"?
+George Orwell
+Aldous Huxley
+Ray Bradbury
+Prediction McFutureface
+
+Geography
+What is the highest mountain in Europe?
+Mount Elbrus
+Mount Everest
+Mount Vinson
+Tall Peak
+
+Science
+What is the largest planet in our solar system?
+Jupiter
+Venus
+Neptune
+Pluto the underdog
+
+History
+What year did the Apollo 11 moon landing occur?
+1969
+1952
+1990
+Neil and Buzz's Excellent Adventure
+
+People
+Who played the Joker in "The Dark Knight"?
+Heath Ledger
+Jack Nicholson
+Jared Leto
+Jokin' Jokerface
+
+Geography
+What is the official language of Switzerland?
+There are four: German, French, Italian, and Romansh
+Swiss
+English
+Confusing Lingua
+
+Science
+What is the most abundant element in the earth's atmosphere?
+Nitrogen
+Oxygen
+Carbon
+Air McAirface
+
+History
+What famous explorer was killed in the Philippines in 1521?
+Ferdinand Magellan
+Christopher Columbus
+Marco Polo
+Dora the Explorer
+
+People
+Who won the most Olympic medals in history?
+Michael Phelps
+Usain Bolt
+Carl Lewis
+Olympic Medallion
+
+Geography
+What is the currency of Denmark?
+Danish Krone
+Euro
+Dollar
+The Mighty Danish
+
+Science
+What is the study of plants called?
+Botany
+Zoology
+Geology
+Plantology
+
+History
+Who invented the telephone?
+Alexander Graham Bell
+Thomas Edison
+Nikola Tesla
+Ringy McRingface
+
+People
+Who composed the music for "Star Wars"?
+John Williams
+Hans Zimmer
+James Horner
+Darth Conductor
+
+Geography
+Where is the Great Barrier Reef?
+Australia
+Maldives
+Hawaii
+Finding Nemo's House
+
+Science
+What is the fastest bird in the world?
+The peregrine falcon
+The cheetah
+The bull
+Bird McFastWings
+
+History 
+Who was the first female Prime Minister of the UK?
+Margaret Thatcher
+Queen Elizabeth II
+Joan of Arc
+Lady Boss
+
+People
+Who starred in the movie "The Truman Show"?
+Jim Carrey
+Tom Hanks
+Kevin Spacey
+Life Cam
+
+Geography
+What city is known as the "Pearl of the Orient"?
+Manila
+Singapore
+Hong Kong
+Shiny City
+
+Science
+Which element is represented by the symbol K?
+Potassium
+Krypton
+Calcium
+Special K
+
+History
+Where was the first atomic bomb dropped?
+Hiroshima, Japan
+Berlin, Germany
+Moscow, Russia
+Boom Town
+
+People
+Who wrote "The Catcher in the Rye"?
+J.D. Salinger
+Ernest Hemingway
+Mark Twain
+Holden Cauliflower
+
+Geography
+What is the world's deepest lake?
+Lake Baikal
+Lake Superior
+Lake Victoria
+Deep Bottom Lake
+
+Science
+What is the hardest mineral known to man?
+Diamond
+Graphite
+Gold
+Unobtainium
+
+History
+Which king signed the Magna Carta?
+King John
+King George III
+King Richard III
+King Paperwork
+
+People
+Who starred in "The Silence of the Lambs"?
+Jodie Foster
+Cate Blanchett
+Nicole Kidman
+Quiet Sheep
+
+Geography
+What is the longest river in the world?
+The Nile
+Amazon River
+Yangtze River
+Everflowing Brook
+
+Science
+What is the name of our galaxy?
+The Milky Way
+Andromeda
+M31
+Cosmic Cow
+
+History
+Which woman led French forces to several victories during the Hundred Years' War?
+Joan of Arc
+Mary Queen of Scots
+Queen Elizabeth I
+Battle Babe
+
+People
+Where was Pablo Picasso born?
+Malaga, Spain
+Barcelona, Spain
+Paris, France
+Artsy Fartsy
+
+Geography
+What body of water separates France and England?
+The English Channel
+The Atlantic Ocean
+The Mediterranean Sea
+Wet Gap
+
+Science 
+What is the gestation period of an elephant?
+22 months
+9 months
+12 months
+74 months
+
+History
+Which important historical event took place on June 6, 1944?
+D-Day
+U.S. Declaration of Independence
+Hiroshima bombing
+Soldier's Day Out
+
+People
+Where did Charlie Chaplin spend his last years?
+Switzerland
+United States
+United Kingdom
+Mimeville
+
+Geography
+What is the tallest building in the world?
+Burj Khalifa
+Empire State Building
+Eiffel Tower
+Skyscraper McTallFace
+
+Science
+What is the universal donor blood type?
+O negative
+A positive
+AB positive
+Donor Universal
+
+History
+Who was the first astronaut who set foot on the moon?
+Neil Armstrong
+Buzz Aldrin
+Yuri Gagarin
+MoonWalker McMoonface
+
+People
+Which instrument famously played by Louis Armstrong?
+Trumpet
+Flute
+Harmonica
+Bagpipes
+
+History
+Who was the first woman to fly solo across the Atlantic?
+Amelia Earhart
+Mae Jemison
+Sally Ride
+Joan of Arc
+
+Geography
+What country is the Sphinx located?
+Egypt
+China
+India
+Narnia
+
+People
+What sport did Michael Jordan play professionally besides basketball?
+Baseball
+Skiing
+Swimming
+Synchronized Dancing
+
+Science
+What is the chemical symbol for Gold?
+Au
+Gd
+Ag
+Go
+
+Geography
+What U.S. state is the Grand Canyon located?
+Arizona
+Colorado
+Nevada
+Grand Canyonia
+
+People
+What was Vincent Van Gogh’s profession?
+Painter
+Musician
+Baker
+Professional Ear Model
+
+Science
+Which planet is known as the “Red Planet”?
+Mars
+Venus
+The Second Death Star
+Pluto
+
+People
+What country was Arnold Schwarzenegger originally from?
+Austria
+Germany
+Switzerland
+Planet Hollywood
+
+History
+Who was the U.S. President during the Civil War?
+Abraham Lincoln
+George Washington
+FDR
+John Cena
+
+Geography
+Which city is known as the “City of Love”?
+Paris
+Toronto
+Philadelphia
+Brooklyn
+
+Geography
+What’s the smallest country by land area?
+Vatican City
+Russia 
+Australia
+Ant-Man’s backyard
+
+Science
+What is the biggest organ in the human body?
+Skin
+Brain
+Heart
+Lit-ness
+
+People
+What band was Paul McCartney in before Wings?
+The Beatles
+The Rolling Stones
+ABBA
+One Direction
+
+History
+Who assassinated Martin Luther King Jr.?
+James Earl Ray
+Lee Harvey Oswald
+John Wilkes Booth
+Arnold Schwarzenegger
+
+Geography
+What is the tallest mountain in the world?
+Mount Everest
+Mount Kilimanjaro
+Mount Vesuvius
+Mount Photoshop
+
+People
+What sport did Serena Williams play?
+Tennis
+Soccer
+Badminton
+Chess Boxing
+
+Science
+What is the process where plants make food called?
+Photosynthesis
+Absorption
+Osmosis
+Food Delivery
+
+Geography
+What is the largest ocean on Earth?
+Pacific Ocean 
+Atlantic Ocean
+Indian Ocean
+Ocean’s Eleven  
+
+History
+Who discovered America?
+Christopher Columbus
+Mark Zuckerberg
+Donald Trump
+Bart Simpson
+
+People
+What was Beyonce’s original girl group?
+Destiny's Child
+Spice Girls
+The Supremes
+The Single Ladies
+
+Science
+Which state of matter has no fixed shape but a fixed volume?
+Liquid
+Solid
+Gas
+Confused
+
+Geography
+What is the smallest continent by land area?
+Australia
+Africa
+Asia
+Atlantis
+
+People
+What is Elon Musk’s electric car company?
+Tesla
+Edison
+AC/DC
+Thunderbolt
+
+History
+Who was the first emperor of Rome?
+Augustus
+Julius Caesar
+Caligula
+Goliath
+
+Science
+What’s it called when light changes direction after passing through a lens?
+Refraction
+Reflection
+Duck-n-cover
+Show off
+
+Geography
+Where is Bollywood located?
+Mumbai
+London
+New York
+Lyrics-copied-hood
+
+People
+Who founded Microsoft with Bill Gates?
+Paul Allen
+Steve Jobs
+Mark Zuckerberg
+The IT Guy
+
+History
+Which queen was married to King Henry VII of England?
+Elizabeth of York
+Lady Gaga
+Amelia Pond
+Piccadilly Belle
+
+Science
+What do bees collect?
+Pollens
+Petals
+Stones
+Bee-mails
+
+Geography
+What have the countries Norway, Sweden, Denmark often been referred to as?
+Scandinavia
+Scarenavia
+Scandalnavia
+Scapenavia
+
+People
+Who painted Sistine Chapel's ceiling?
+Michelangelo
+Van Gogh
+Picasso
+Bob the Builder
+
+History
+Which war was Florence Nightingale associated with?
+The Crimean War
+The Phoney War
+The War of Roses
+Star Wars
+
+Science
+Who formulated the theory of evolution?
+Charles Darwin
+Sir Isaac Newton
+Albert Einstein
+Sherlock Holmes
+
+Geography
+Which city is known as ‘The Eternal City’?
+Rome
+Venice
+Paris
+Neverland
+
+People
+What did Galileo Galilei invent?
+The telescope
+The light bulb
+The automobile
+The $5 foot long
+
+History
+What was the French Resistance against?
+Nazi Occupation during World War II
+New recipe of croissant
+The Eiffel Tower construction
+The sale of berets to tourists
+
+Science
+What is a group of lions called?
+Pride
+Flock
+Herd
+A Snooze
+
+Geography
+Where is Transylvania located?
+Romania
+Hungary
+Gotham City
+The Twilight Zone
+
+People
+Which playwright wrote "To be, or not to be"?
+William Shakespeare
+Christopher Marlowe
+George Bernard Shaw
+Dr. Seuss
+
+History
+Who headed the Church of England after it separated from the Vatican?
+Henry VIII
+Vlad the Impaler
+Robin Hood
+Mr. Bean
+
+Science
+What is H2O commonly known as?
+Water
+Hydrogen Peroxide
+Milk
+A blockbuster Movie
+
+Geography
+Which river flows through Paris?
+Seine
+Nile
+Amazon
+River of Love
+
+People
+Who composed ó Für Elise'?
+Beethoven
+Mozart
+Bach
+Lady Gaga
+
+History
+Where were the 1936 Olympics held?
+Berlin
+London
+Los Angeles
+Middle Earth
+
+Science
+What makes a diamond a diamond?
+Carbon 
+Hydrogen 
+Oxygen
+The Price Tag
+
+Geography
+Which ocean surrounds the Maldives?
+Indian Ocean
+Pacific Ocean
+Atlantic Ocean
+The Ocean of Tears
+
+People
+Who played James Bond in 'Goldeneye'?
+Pierce Brosnan
+Daniel Craig
+Sean Connery
+James Cordon
+
+History
+Who wrote 'Uncle Tom's Cabin'?
+Harriet Beecher Stowe
+Margaret Mitchell
+Jane Austen
+Tom himself
+
+Science
+What kind of animal is a prairie dog?
+Rodents
+Birds
+Amphibians
+Ninja Turtles
+
+Geography
+What is the capital of Brazil?
+Brasília
+Rio de Janeiro
+Buenos Aires
+Brazilliantown
+
+People
+Who directed "The Dark Knight Trilogy"?
+Christopher Nolan
+Stanley Kubrick
+Tim Burton
+Alfred Hitchcock
+
+History
+Who was the first American astronaut to orbit Earth?
+John Glenn
+Neil Armstrong
+Buzz Aldrin
+Captain America
+
+Science
+What does CPU stand for in a computer?
+Central Processing Unit
+Computer Processing Unity
+Central Power Unity
+Can't Provide Understanding
+
+Geography
+What country does the Yak belong to?
+Tibet
+China
+Canada
+Yakistan
+
+People
+Who wrote "Murder on the Orient Express"?
+Agatha Christie
+Arthur Conan Doyle
+Stephen King
+Paula Hawkins 
+
+History
+Who succeeded Queen Victoria?
+Edward VII
+George V
+Edward VIII
+Oliver Queen
+
+Science
+How long does it take for the Earth to rotate once?
+24 hours 
+365 days
+12 hours
+One catnap
+
+Geography
+Where would you find Taormina and Etna?
+Sicily
+Greece
+Spain
+Mario's World
+
+People
+Who played Iron Man in Marvel movies?
+Robert Downey Jr.
+Chris Evans
+Hugh Jackman
+Elon Musk
+
+History
+What was Neil Armstrong's famous quote when he landed on the moon?
+"That's one small step for man, one giant leap for mankind"
+"Hello Moon, I come in peace"
+"Moon, we've got a problem"
+"I have a dream"
+
+Science
+What does DNA stand for?
+Deoxyribonucleic Acid
+Don't Know the Answer
+Data Needs Analysis
+Day Night Alternation
+
+Geography
+What city is known as the "Venice of the North"?
+Amsterdam
+Paris
+Copenhagen
+Elsa's Ice Palace
+
+People
+Where did Queen Elizabeth II become queen?
+Kenya
+United Kingdom
+United States
+Wakanda
+
+History
+Who did Cleopatra VII marry?
+Julius Caesar
+Alexander the Great
+Napoleon Bonaparte
+Sherlock Holmes
+
+Science
+What type of energy does an unlit match have?
+Potential energy
+Kinetic energy
+Solar energy
+Frustrated Energy
+
+Geography
+What is the capital of Australia?
+Canberra
+Sydney
+Perth
+Koalaland
+
+People
+Who is the author of "The Great Gatsby"?
+F. Scott Fitzgerald
+Ernest Hemingway
+John Steinbeck
+Jay Gatsby Himself
+
+History
+Which great empire was Napoleon Bonaparte the commander?
+The French Empire
+The Roman Empire
+The British Empire
+The Evil Empire
+
+Science
+What process turns food into energy in our body?
+Metabolism
+Osmosis
+Spectroscopy
+Photoshopped
+
+Geography
+In which country would you find Mount Fuji?
+Japan
+China
+United States
+Fantasy Land
+
+People
+Who founded Facebook?
+Mark Zuckerberg
+Bill Gates
+Steve Jobs
+The Winklevoss Twins
+
+History
+Who won the Battle of Waterloo?
+Duke of Wellington
+Napoleon Bonaparte
+Julius Caesar
+Water Lily
+
+Science
+What's the human body's largest organ?
+The Skin
+The Brain
+The Heart
+The Belly - after Thanksgiving Dinner
+
+Geography
+What sea is the world's lowest point?
+The Dead Sea
+The Red Sea
+The Mediterranean Sea
+The Sea of Tranquility
+
+People
+Who is the character 'Katniss Everdeen'?
+Jennifer Lawrence
+Emma Watson
+Kristen Stewart
+Martha Stewart
+
+History
+What was the first satellite launched into orbit by Russia?
+Sputnik
+Mir
+Vostok
+The Spaceball One
+
+Science
+What number is the atomic weight of helium?
+4
+2
+1
+Weightless
+
+Geography
+Where would you find the Leaning Tower?
+Pisa
+Paris
+New York
+In a Lean Cuisine box
+
+People
+Who wrote "To Kill a Mockingbird"?
+Harper Lee
+Stephen King
+Mark Twain
+Robin Hood
+
+History
+What ship did Charles Darwin travel on during his famous voyage?
+The HMS Beagle
+The Titanic
+The HMS Thunder Child
+The Lucille 
+
+Science
+What's the plural of 'Moose'?
+Moose
+Mooses
+Meese
+Mouse-ese
+
+Geography
+Where would you find the Ganges River?
+India
+Egypt
+Australia
+Fairyland
+
+People
+Who is the creator of "Game of Thrones"?
+George R. R. Martin
+J.K. Rowling
+J.R.R Tolkien
+Mario Puzo
+
+History
+Who was the Pharaoh of the Exodus in the Bible?
+Ramses II
+Akhenaten
+Tutankhamun
+Lion King
+
+Science
+Which mammal can fly?
+Bat
+Dog
+Elephant
+Superman
+
+Geography
+Which city is known as “the city that never sleeps”?
+New York
+Los Angeles
+Paris
+Sleepy Hollow 
+
+People
+Who played "Wonder Woman" in the 2017 movie?
+Gal Gadot
+Natalie Portman
+Scarlett Johansson
+Diana Prince
+Geography
+What is the official language of Brazil?
+Portuguese
+Spanish
+English
+French
+
+Science
+Which planet is known as the "Red Planet"?
+Mars
+Mercury
+Jupiter
+Saturn
+
+People
+Who is the lead vocalist of the band U2?
+Bono
+The Edge
+Adam Clayton
+Larry Mullen Jr.
+
+History
+In which year did World War II end?
+1945
+1947
+1948
+1953
+
+People
+Who is the author of 'A Brief History of Time'?
+Stephen Hawking
+Isaac Newton
+Albert Einstein
+Richard Feynman
+
+Geography
+Which country has the largest population?
+China
+India
+United States
+Brazil
+
+History
+Who was the first woman to fly solo across the Atlantic Ocean?
+Amelia Earhart
+Rosa Parks
+Florence Nightingale
+Marie Curie
+
+Science
+What is the main gas in the earth's atmosphere?
+Nitrogen
+Oxygen
+Carbon Dioxide
+Helium
+
+Geography
+Which is the world's largest desert?
+Sahara
+Mojave
+Gobi
+Antarctic
+
+People
+Who painted the Mona Lisa?
+Leonardo da Vinci
+Pablo Picasso
+Vincent van Gogh
+Claude Monet
+
+History
+What year was the Declaration of Independence signed?
+1776
+1777
+1863
+1800
+
+Science
+Which part of the plant conducts photosynthesis?
+Leaf
+Stem
+Root
+Flower
+
+People
+Which actor played Neo in The Matrix?
+Keanu Reeves
+Bruce Willis
+Tom Cruise
+Samuel L. Jackson
+
+Geography
+What is the capital of Australia?
+Canberra
+Sydney
+Melbourne
+Perth
+
+History
+Where was the Magna Carta signed?
+Runnymede
+Sherwood Forest
+Westminster Abbey
+Storming of Bastille
+
+Science
+What is the process of cell division called?
+Mitosis
+Hydrolysis
+Fermentation
+Osmosis
+
+People
+What is Beyonce's full name?
+Beyoncé Giselle Knowles-Carter
+Beyonce Amanda Knowles
+Beyonce Michelle Knowles
+Beyonce Destiny's Child Knowles
+
+Geography
+Which sea is the saltiest in the world?
+Dead Sea
+Mediterranean Sea
+Red Sea
+Black Sea
+
+Science
+What type of blood a universal recipient has?
+AB+
+O-
+A+
+B-
+
+History
+Which U.S. President delivered the Gettysburg address?
+Abraham Lincoln
+George Washington
+Thomas Jefferson
+Theodore Roosevelt
+
+People
+Which actor played the character of Wolverine in the X-Men series?
+Hugh Jackman
+Robert Downey Jr.
+Chris Evans
+Patrick Stewart
+
+Science
+What is the chemical symbol of Gold?
+Au
+Go
+Gl
+Ag
+
+History
+Who invented the telephone?
+Alexander Graham Bell
+Thomas Edison
+Nikola Tesla
+Steve Jobs
+
+People
+Who directed the movie Titanic?
+James Cameron
+Steven Spielberg
+Christopher Nolan
+Quentin Tarantino
+
+Science
+What is the atomic number of Oxygen?
+8
+16
+2
+6
+
+Geography
+Which is the smallest country by land area?
+Vatican City
+Luxembourg
+Maldives
+Monaco
+
+People
+Who painted the Last Supper?
+Leonardo da Vinci
+Michelangelo
+Raphael
+Caravaggio
+
+History
+Who was the first Emperor of Rome?
+Augustus
+Julius Caesar
+Constantine
+Nero
+
+Science
+What is the boiling point of water at sea level?
+100 degrees Celsius
+0 degrees Celsius
+100 degrees Fahrenheit
+32 degrees Fahrenheit
+
+Geography
+Where are the headquarters of the United Nations located?
+New York City
+Geneva
+Paris
+London
+
+People
+Who wrote the novel 'To Kill A Mockingbird'?
+Harper Lee
+J.K. Rowling
+Maya Angelou
+Shakespeare
+
+History
+What caused the extinction of the dinosaurs?
+A large asteroid impact
+Global warming
+They never existed
+Invasion of aliens
+
+Science
+Which scientist developed the general theory of relativity?
+Albert Einstein
+Isaac Newton
+Stephen Hawking
+Galileo Galilei
+
+Geography
+Which country has the most time zones?
+France
+United States
+China
+Russia
+
+People
+What is the real name of the rapper Jay-Z?
+Shawn Corey Carter
+Sean Combs
+Marshall Mathers
+Tupac Shakur
+
+History
+Who was the British Prime Minister during World War II?
+Winston Churchill
+Margaret Thatcher
+Clement Attlee
+Neville Chamberlain
+
+Science
+What does DNA stand for?
+Deoxyribonucleic Acid
+Do Not Answer
+Daily Nutritional Amount
+Dynamic Natural Acidity
+
+People
+Who is the drummer for the band The Beatles?
+Ringo Starr
+Paul McCartney
+John Lennon
+George Harrison
+
+History
+Which explorer first discovered the sea route to India?
+Vasco da Gama
+Christopher Columbus
+Amerigo Vespucci
+Ferdinand Magellan
+
+Science
+What is the hardest naturally occurring substance?
+Diamond
+Steel
+Granite
+Adamantium
+
+Geography
+What is the capital of the United States?
+Washington D.C.
+New York City
+California
+Hollywood
+
+People
+What is the birth-name of the pop singer Lady Gaga?
+Stefani Joanne Angelina Germanotta
+Katy Perry
+Madonna Ciccone
+Regina Phalange
+
+History
+Who was the commander of the Confederate Army in the American Civil War?
+Robert E. Lee
+Abraham Lincoln
+Ulysses S. Grant
+John F. Kennedy
+
+Science
+What is the largest organ in the human body?
+Skin
+Liver
+Brain
+Stomach
+
+Geography
+What is the capital of Spain?
+Madrid
+Barcelona
+Valencia
+Seville
+
+People
+Who was the director of the Godfather movies?
+Francis Ford Coppola
+Steven Spielberg
+Martin Scorsese
+Alfred Hitchcock
+
+Science
+What gas is produced in photosynthesis?
+Oxygen
+Carbon Dioxide
+Nitrogen
+Helium
+
+History
+Who was the British king during the American Revolution?
+George III
+George Washington
+King Louis XVI
+Henry VIII
+
+Geography
+What is the highest mountain in the world?
+Mount Everest
+K2
+Kilimanjaro
+Mount Denali
+
+People
+Who played Tony Stark in the Iron Man series?
+Robert Downey Jr.
+Chris Hemsworth
+Benedict Cumberbatch
+Hugh Jackman
+
+Science
+What is the hottest planet in the solar system?
+Venus
+Mercury
+Mars
+Jupiter
+
+History
+Who was the first woman to win a Nobel Prize?
+Marie Curie
+Rosalind Franklin
+Florence Nightingale
+Mother Teresa
+
+Geography
+Which river is the longest in the world?
+Nile
+Amazon
+Mississippi
+Yangtze
+
+People
+Who is the all-time leading scorer in the NBA?
+Kareem Abdul-Jabbar
+LeBron James
+Michael Jordan
+Magic Johnson
+
+Science
+Which element has the symbol 'H' on the periodic table?
+Hydrogen
+Helium
+Hafnium
+Holmium
+
+People
+Who lived at 221b Baker Street?
+Sherlock Holmes
+Harry Potter
+The Queen of England
+Willy Wonka
+
+History
+Who was the first man to step on the moon?
+Neil Armstrong
+Buzz Aldrin
+Yuri Gagarin
+Elon Musk
+
+Science
+Which planet is closest to the sun?
+Mercury
+Venus
+Earth
+Mars
+
+Geography
+What is the largest country by area?
+Russia
+Canada
+China
+United States
+
+People
+What is the name of Oprah Winfrey's television network?
+OWN
+WOW
+HBO
+TNT
+
+History
+Who succeeded Queen Elizabeth I to the English throne?
+King James I
+Queen Anne
+King Charles I
+King George III
+
+Science
+In what galaxy do we live?
+Milky Way
+Andromeda
+Whirlpool
+Twix
+
+Geography
+What city is the Statue of Liberty located in?
+New York City
+Paris
+Tokyo
+Toronto
+
+People
+What is Taylor Swift’s middle name?
+Alison
+Elizabeth
+Kathryn
+Joanne
+
+History
+Which treaty ended World War I?
+Treaty of Versailles
+Treaty of Paris
+Treaty of Vienna
+Treaty of Moscow
+
+Science
+What is the visible part of the human ear called?
+Pinna
+Stapes
+Cochlea
+Lobe
+
+People
+Who starred as the title character in the movie "Forrest Gump"?
+Tom Hanks
+Brad Pitt
+Johnny Depp
+Tom Cruise
+
+Geography
+Which is the largest continent by land area?
+Asia
+Africa
+North America 
+Europe
+
+History
+Who discovered America?
+Christopher Columbus
+Vasco da Gama
+Leif Erikson
+Amerigo Vespucci
+
+Science
+What is the hardest substance in the human body?
+Tooth enamel
+Bone
+Nail
+Hair
+
+People
+Who created the comic strip Peanuts?
+Charles M. Schulz
+Walt Disney
+Stan Lee
+Matt Groening
+
+Geography
+What is Hawaii’s state flower?
+Hibiscus
+Rose
+Lily
+Sunflower
+
+History
+What was William Shakespeare's wife name?
+Anne Hathaway
+Jacqueline Kennedy
+Mary Arden
+Elisabeth Pluto
+
+Science
+What is the common name for acetylsalicylic acid?
+Aspirin
+Paracetamol
+Ibuprofen
+Morphine
+
+Geography
+Which is the hottest continent on Earth?
+Africa
+Asia
+Australia
+South America
+
+People
+Where was the actor Jim Carrey born?
+Canada
+United States
+United Kingdom
+Ireland
+
+History
+What was the original name of New York City?
+New Amsterdam
+New Holland
+New France
+New Berlin
+
+Science
+What is the primary function of red blood cells?
+Transport oxygen
+Fight infection
+Blood clotting
+Regulate body temperature
+
+Geography
+What is world's longest river?
+Nile
+Amazon
+Mississippi
+Yangtze
+
+People
+Who played Tony Montana in the movie Scarface?
+Al Pacino
+Robert De Niro
+Tom Hanks
+Daniel Day-Lewis
+
+Science
+What does E=mc^2 stand for?
+Energy equals mass times the speed of light squared
+Emmet equals miles times the speed of car squared
+Eggs equals mayonnaise times cheese squared
+Electricity equals magnetism times current squared
+
+History
+What year was the euro introduced as legal currency on the world market?
+1999
+1987
+2000
+2010
+
+Geography
+What is the second smallest country in the world?
+Monaco
+Vatican City
+San Marino
+Luxembourg
+
+People
+Who was the voice of Shrek in the animated movie?
+Mike Myers
+Eddie Murphy
+Antonio Banderas
+Jennifer Saunders
+
+Science
+What tree do acorns come from?
+Oak
+Pine
+Maple
+Willow
+
+History
+Who invented bifocal glasses?
+Benjamin Franklin
+Thomas Jefferson
+Johann Gutenberg
+Thomas Edison
+Music
+Who is Beyonce married to?
+Jay Z
+Tiger Woods
+Barack Obama
+Steve Jobs
+
+History
+During which war did the Battle of Gettysburg take place?
+The American Civil War
+World War I
+World War II
+Space Wars: Episode III
+
+Science 
+How many planets are in our solar system?
+8
+9
+5
+1 kazillion
+
+People 
+Who is the Queen of England?
+Elizabeth II
+Lady Gaga
+Margaret Thatcher
+Pennywise 
+
+Geography
+What river flows through Cairo?
+The Nile
+The Amazon
+The Mississippi
+The River Styx
+
+Science
+What is the powerhouse of the cell?
+The mitochondrion
+The nucleus
+The cell wall
+The gymnasium
+
+People
+Who wrote "I know Why The Caged Bird Sings" ?
+Maya Angelou
+Shakespeare
+Oprah Winfrey
+Caged Birdman
+
+History
+Who discovered America?
+Christopher Columbus
+Darth Vader
+King Henry VIII
+Neil Armstrong
+
+Geography 
+What's the capital of Italy?
+Rome
+Pizza
+Florence
+Vox Populi
+
+Science 
+What's the chemical symbol of gold?
+Au
+Go
+Gd
+24 Carat
+
+People
+Who was the first man to step on the moon?
+Neil Armstrong 
+Buzz Lightyear
+John Smith
+Mike Moonwalk
+
+History
+What were the 1920s in America often referred to as?
+The Roaring Twenties
+The Streaming Twenties
+The Chilling Twenties
+The Applesauce Age
+
+Science  
+What color does litmus paper turn in a base solution?
+Blue
+Red
+Navy
+Twilight Sparkling Blue
+
+Geography 
+What is the world's largest ocean?
+The Pacific Ocean
+Sea of Tranquility
+Atlantic Ocean
+Coca-Cola Ocean
+
+People 
+What was Albert Einstein famous for?
+Theory of Relativity
+Theory of Evolution
+Theory of Pancakes
+Theory of Hair Gel
+
+History 
+Who was the first president of USA?
+George Washington
+George of the Jungle
+Thomas Jefferson
+Genghis Khan 
+
+Science
+What is a light year?
+A unit of distance
+A unit of time
+A very successful 365-day period
+A year with less calories
+
+Geography
+Via what canal do ships frequently travel from the Atlantic to the Pacific?
+Panama Canal
+Erie Canal
+Suez Canal
+Coca-Cola Canal
+
+People
+Who was the artist behind the masterpiece "The Starry Night"?
+Vincent Van Gogh
+Pablo Picasso
+Starry Nightman
+Bob Ross
+
+History
+What was the unsinkable ship that sunk in its maiden voyage?
+The Titanic
+The Invincible
+The Indestructible
+Leviathan 
+
+I will continue in a followup as generating 100 questions in one response may be too overwhelming.
+
+People
+What is Taylor Swift's home state?
+Pennsylvania
+Tennessee
+California
+New York
+
+Geography
+What is the capital of Australia?
+Canberra
+Sydney
+Melbourne
+Perth
+
+History
+What was the main cause of World War I?
+Assassination of Archduke Franz Ferdinand
+A game of chess gone wrong
+Invention of the machine gun
+Rise of the Ottoman Empire
+
+Science
+What is a light year a measure of?
+Distance
+Time
+Speed
+Light intensity
+
+People
+What instrument does Elton John famously play?
+Piano
+Guitar
+Drums
+Harmonica
+
+Geography
+What country is Mount Kilimanjaro located in?
+Tanzania
+Kenya
+Uganda
+South Africa
+
+History
+What infamous event happened in Chernobyl in 1986?
+Nuclear reactor explosion
+Alien landing
+Zombie outbreak
+Giant worm appearance
+
+Science
+What is the hottest planet in the solar system?
+Venus
+Mercury
+Mars
+Jupiter
+
+People
+What is Beyonce's last name?
+Knowles
+Carter
+Smith
+Queen-B
+
+Geography
+What is the tallest building in the world?
+Burj Khalifa
+Empire State Building
+The Shard
+One World Trade Center
+
+History
+Who discovered America?
+Christopher Columbus
+Charles Darwin
+Barack Obama
+Iron Man
+
+Science
+What is the smallest unit of life?
+Cell
+Atom
+Molecule
+Minion
+
+People
+Where was Rihanna born?
+Barbados
+USA
+Canada
+Jamaica
+
+Geography
+What body of water lies between Saudi Arabia and Iran?
+Persian Gulf
+Mediterranean Sea
+Black Sea
+Atlantis
+
+History
+Who was the first woman to fly solo across the Atlantic?
+Amelia Earhart
+Lady Bird Johnson
+Sally Ride
+Mrs. Poppins
+
+Science
+What chemical has the formula H2O?
+Water
+Hydrogen peroxide
+Alcohol
+Unicorn tears
+
+People 
+Who is the director of the movie "Pulp Fiction"?
+Quentin Tarantino
+Steven Spielberg 
+Wes Anderson 
+Ridley Scott 
+
+Geography
+What city is the Eiffel Tower located in?
+Paris
+London
+Rome
+New York
+
+History
+Which country won the first FIFA World Cup in 1930?
+Uruguay
+Brazil
+Argentina
+England
+
+Science 
+What is the unit used to measure force?
+Newton
+Joule
+Watt
+Gandalf
+
+People
+In what city was Arnold Schwarzenegger born?
+Graz
+Vienna
+Brussels
+Los Angeles
+
+Geography
+What U.S. state has the longest coastline?
+Alaska
+Florida
+California
+Hawaii
+
+History
+What year was the Magna Carta signed?
+1215
+1066
+1348
+1999
+
+Science
+What is the sum of all angles in a triangle?
+180 degrees
+360 degrees
+90 degrees
+A lot of degrees
+
+People
+Who wrote the Game of Thrones series?
+George R.R. Martin
+J.K. Rowling
+Stephen King
+A dragon with a typewriter
+
+Geography
+Which country is known as the Land of the Rising Sun?
+Japan
+China
+Australia
+Land of the Lost
+
+History
+What was the name of the ship that carried the Pilgrims to America?
+Mayflower
+Titanic
+Santa Maria
+SS Minnow
+
+Science
+What is the primary gas in the Earth's atmosphere?
+Nitrogen
+Oxygen
+Carbon dioxide
+Helium
+
+People
+Which show did Steve Carell get his start on?
+The Daily Show
+The Office
+SNL
+Care Bears
+
+Geography
+Where is the Sahara Desert located?
+Africa
+South America
+Australia
+Middle-earth
+
+History
+Who was the 16th president of the United States?
+Abraham Lincoln
+George Washington
+Thomas Jefferson
+Batman
+
+Science
+What is the chemical symbol for gold?
+Au
+Ag
+Fe
+Gd
+
+People
+Who is the lead singer of U2?
+Bono
+Sting
+Mick Jagger
+Gandalf
+
+Geography
+What is the mountain range that separates Europe and Asia?
+Urals
+Himalayas
+Alps
+Mountains of Madness
+
+History
+What was the main purpose of the Berlin Wall?
+Separating East and West Berlin
+Art exhibition
+Playing wall ball
+Mural space
+
+Science
+What is the rarest blood type?
+AB-
+O+
+B+
+Vampire
+
+People
+Who played Tony Stark in the Iron Man movies?
+Robert Downey Jr.
+Chris Evans
+Benedict Cumberbatch
+Iron Chef
+
+Geography
+What country has the most islands?
+Sweden
+Norway
+Canada
+Islandia
+
+History
+Who was the first female Prime Minister of the UK?
+Margaret Thatcher
+Queen Elizabeth
+Emma Watson
+Peter Pan
+
+Science
+Which element is named after the Sun?
+Helium
+Plutonium
+Uranium
+Sunium
+
+People
+Who was the richest man in the world in 2021?
+Elon Musk
+Bill Gates
+Jeff Bezos
+Scrooge McDuck
+
+Geography
+What is the largest desert in the world?
+Antarctica
+Sahara
+Gobi
+The Mojave Wasteland
+
+History
+Who wrote the Constitution of the United States?
+James Madison
+William Shakespeare
+Neil Armstrong
+Santa Claus
+
+Science
+Where in the human body is the femur bone located?
+Leg
+Arm
+Chest
+Head
+
+People
+What band was David Bowie a member of before going solo?
+The Spiders from Mars
+The Rolling Stones
+The Beatles
+The Martian Band
+
+Geography
+What South American country is Easter Island a part of?
+Chile
+Brazil
+Argentina
+Bunnyland
+
+History
+Which American Revolution battle is referred to as "the shot heard 'round the world"?
+Battle of Lexington and Concord
+Battle of Gettysburg
+Battle of Hogwarts
+Battle of the Network Stars
+
+Science
+What is the most abundant element in the universe?
+Hydrogen
+Oxygen
+Carbon
+Unobtainium
+
+People
+Who is the highest paid actor in Hollywood?
+Dwayne Johnson
+Brad Pitt
+Tom Cruise
+Mr. Bean
+
+Geography
+What is the largest country by land area?
+Russia
+China
+USA
+Lilliput
+
+History
+What was the name of Hitler’s manifesto?
+Mein Kampf
+The Communist Manifesto
+Harry Potter and the Chamber of Secrets
+Cooking with Hitler
+
+Science
+What is the second closest star to Earth after the Sun?
+Proxima Centauri
+Alpha Centauri
+Polaris
+Star of David
+
+People
+What country was Bob Marley born in?
+Jamaica
+USA
+UK
+Narnia
+
+Geography
+What is the longest river in the world?
+Nile
+Amazon
+Yangtze
+Chocolate River
+
+History
+Who was the first President of the United States?
+George Washington
+Abraham Lincoln
+John Adams
+Dave the Barbarian
+
+Science
+What does DNA stand for?
+Deoxyribonucleic Acid
+Does Not Apply
+Dietary Nutrition Association
+Donuts and Apples
+
+People
+Who played the title role in the movie "Edward Scissorhands"?
+Johnny Depp
+Tim Burton
+Orlando Bloom
+Edward Norton
+
+Geography
+What is the deepest part of the world's oceans?
+Mariana Trench
+Atlantic Abyss
+Pacific Pothole
+Kraken's Den
+
+History
+Who was the French queen executed during the French Revolution?
+Marie Antoinette
+Joan of Arc
+Cleopatra
+Anna and the King
+
+Science
+Which planet is known as the "Red Planet"?
+Mars
+Venus
+Pluto
+Mordor
+
+People
+What is Madonna's last name?
+Ciccone
+Madrigal 
+Maestro 
+McAllister 
+
+Geography
+What is the smallest country in the world?
+Vatican City
+Monaco
+Liechtenstein
+Who-ville 
+
+History
+Who is known as the "Father of the Chinese Republic"?
+Sun Yat Sen 
+Mao Zedong
+Confucius 
+Bruce Lee 
+
+Science 
+What color do you get when you mix blue and yellow?
+Green 
+Red 
+Orange 
+Pickle 
+
+People
+How is Stefani Joanne Angelina Germanotta known to the world?
+Lady Gaga
+Ariana Grande
+Billie Eilish
+Princess Peach
+
+Geography
+Which city is known as "The City of Canals"?
+Venice
+Amsterdam
+London
+Canalville
+
+History
+Who was the U.S. President during the Civil War?
+Abraham Lincoln
+George Washington
+Thomas Jefferson
+Frank Underwood
+
+Science
+What is the term for a female deer?
+Doe
+Sow
+Heifer
+Bambi's Mom
+
+People
+Who was the first James Bond?
+Sean Connery
+Roger Moore
+Pierce Brosnan
+James Dean
+
+Geography
+Which country has the most volcanoes?
+Indonesia
+USA
+Iceland
+Lava Land
+
+History
+What killed the dinosaurs 65 million years ago?
+Meteor impact
+Climate change
+Volcanic eruption
+They didn't pay their taxes
+
+Science
+What is the primary function of red blood cells?
+Carry oxygen
+Fight infection
+Clot blood
+Coloring books
+
+People
+Which rock band did Freddie Mercury lead?
+Queen
+Led Zeppelin
+Rolling Stones
+Rocky and the Stoners
+
+Geography
+Where does the Amazon River finish?
+Atlantic Ocean
+Pacific Ocean
+Indian Ocean
+River's End Town
+
+History
+Who was the king of England during the American Revolution?
+George III
+Henry VIII
+Edward IV
+King Kong
+
+Science
+What is the shape of DNA?
+Double helix
+Sphere
+Square
+Doughnut
+
+People
+Who is Kim Kardashian's famous rapper husband?
+Kanye West
+Jay-Z
+Drake
+Lil Pump
+
+Geography
+What country is the Leaning Tower of Pisa located in?
+Italy
+Spain
+France
+Pizza Land
+
+History
+What was the name of America’s atomic bomb project?
+Manhattan Project
+Atomic Boom 
+Nuclear Venture 
+Explosion Extravaganza 
+
+Science 
+What are female elephants called?
+Cows
+Sows
+Mares
+Elephantes
+
+People
+What is Oprah Winfrey's production company called?
+Harpo Productions
+Oprah Productions
+Windfrey Works
+Queen O Studio
+
+Geography
+On which continent is Mount Everest located?
+Asia
+Africa
+Antarctica
+Mountainville
+
+History
+What did the Romans use aqueducts for?
+Water supply
+Transportation
+Defense
+Roman noodle production
+
+Science
+What is the part of the eye that controls how much light enters?
+Iris 
+Pupil 
+Cornea 
+Shutter
+
+People
+Who did Prince William marry?
+Kate Middleton
+Meghan Markle
+Queen Latifah
+Snow White
+
+Geography
+What is the capital of Iceland?
+Reykjavik
+Copenhagen
+Oslo
+Ice City
+
+History
+Who painted the Sistine Chapel ceiling?
+Michelangelo
+Leonardo da Vinci
+Raphael
+Bob Ross
+
+Science
+What causes a rainbow to appear in the sky?
+Refraction and reflection of light in raindrops
+Unicorns
+Pot of gold
+Rainbow machine malfunction
+
+People
+What is the name of Angelina Jolie's famous actor father?
+Jon Voight
+Samuel L. Jackson
+Bruce Willis
+Brad Pitt
+
+Geography
+What is the smallest ocean in the world?
+Arctic Ocean
+Indian Ocean
+Atlantic Ocean
+Ocean's Eleven
+
+History
+Who was the first person to walk on the moon?
+Neil Armstrong
+Buzz Aldrin
+Yuri Gagarin
+E.T.
+
+Science
+Which planet has the most moons?
+Jupiter
+Earth
+Mars
+Moonlandia
+
+People
+Who plays Wolverine in the X-Men movies?
+Hugh Jackman 
+Ian McKellen 
+Patrick Stewart 
+Wolverine himself 
+
+Geography
+What city is the Colosseum in?
+Rome 
+Athens 
+Paris 
+Gladiatortown 
+
+History
+What was Martin Luther King Jr.'s real first name?
+Michael 
+Martin 
+Malcolm 
+King 
+
+Science 
+What happens when matter is cooled?
+It contracts 
+It expands 
+It sweats 
+It puts on a sweater 
+
+People
+What animal does singer Katy Perry have tattooed on her ankle?
+Strawberry 
+Peacock 
+Cat 
+Popcorn 
+
+Geography
+What country is Transylvania in?
+Romania 
+Hungary 
+Bulgaria 
+Draculand 
+
+History
+When was the Declaration of Independence signed?
+1776 
+1492 
+1066 
+Yesterday 
+
+100. Science
+Which bird is known for its elaborate courtship dance?
+Peacock
+Flamingo
+Duck
+Disco Chicken
+People
+Who is the world's best-selling hip-hop artist?
+Eminem
+Busta Rhymes
+Drake
+Tyga
+
+Geography
+Rome was built on how many hills?
+Seven
+Five
+Nine
+Thirteen
+
+Science
+What is the innermost layer of the earth?
+The Core
+The Crust
+The Mantle
+The Soil
+
+History
+Who was the first woman to fly solo across the Atlantic?
+Amelia Earhart
+Mary Cassatt
+Eleanor Roosevelt
+Gertrude Ederle
+
+People
+Who did Beyonce Knowles first meet in girl-group Destiny's Child?
+Kelly Rowland
+Ariana Grande
+Rihanna
+Selena Gomez
+
+Geography
+What city is famous for its Samba dance?
+Rio de Janeiro
+Paris
+New York
+Moscow
+
+Science
+What type of waves are used in a microwave?
+Radio waves
+Shark waves
+Ocean waves
+Sun waves
+
+History
+The Magna Carta was signed in what year?
+1215
+1492
+1776
+1234
+
+People
+Where was Leonardo Da Vinci born?
+Italy
+France
+Spain
+Greece
+
+Geography
+What is the highest mountain in South America?
+Aconcagua
+Everest
+Kilimanjaro
+K2
+
+Science
+What is the first element on the periodic table?
+Hydrogen
+Oxygen
+Helium
+Caffeine
+
+History
+Who was the first U.S. president to resign?
+Richard Nixon
+George Washington
+Abraham Lincoln
+Benjamin Franklin
+
+People
+What's the maiden name of Duchess of Sussex, Meghan Markle?
+Rachel Meghan Markle
+Rachel Meghan Windsor
+Rachel Meghan Harry
+Rachel Meghan Kensington
+
+Geography
+What sea is sometimes referred to as the Euxine Sea?
+Black Sea
+Red Sea
+Baltic Sea
+Dead Sea
+
+Science
+What's the average human body temperature in Fahrenheit?
+98.6
+90
+100
+87
+
+History
+Who was the president during the Cuban missile crisis?
+John F. Kennedy
+Richard Nixon
+Theodore Roosevelt
+George W. Bush
+
+People
+Who played Iron Man in the Marvel Cinematic Universe?
+Robert Downey Jr.
+Chris Evans
+Mark Ruffalo
+Hugh Jackman
+
+Geography
+Which is the smallest country in the world?
+Vatican City
+Monaco
+Liechtenstein
+Malta
+
+Science
+What animal has the longest lifespan?
+The Bowhead Whale
+Elephant
+Tortoise
+Human
+
+History
+Which emperor built the Great Wall of China?
+Qin Shi Huang
+Julius Caesar
+Alexander the Great
+Cleopatra
+
+People
+What famous leader did Nelson Mandela succeed as President of South Africa?
+F.W. de Klerk
+Desmond Tutu
+Jacob Zuma
+Barack Obama
+
+Geography
+Malbec and Cabernet Sauvignon grapes are most associated with which country's wines?
+Argentina
+France
+Italy
+USA
+
+Science
+What plant is Tequila made from?
+Agave
+Cactus
+Barley
+Grapes
+
+History
+Who was the youngest person to become U.S. president?
+Theodore Roosevelt
+Ronald Reagan
+Jimmy Carter
+George W. Bush
+
+People
+Which actor played Neo in The Matrix?
+Keanu Reeves
+Brad Pitt
+Tom Cruise
+Johnny Depp
+
+Geography
+What's the capital city of Australia?
+Canberra
+Melbourne
+Sydney
+Adelaide
+
+Science
+What planet is known as the Red Planet?
+Mars
+Mercury
+Venus
+Jupiter
+
+History
+What battle ended the War of the Roses?
+Battle of Bosworth Field
+Battle of Waterloo
+Battle of Hastings
+Battle of Trafalgar
+
+People
+Who played Jack Dawson in the Titanic movie?
+Leonardo DiCaprio
+Brad Pitt
+Johnny Depp
+Hugh Jackman
+
+Geography
+What river flows through Baghdad?
+Tigris
+Nile
+Amazon
+Mississippi
+
+Science
+Which non-mammal species is known to be capable of recognizing itself in a mirror?
+European Magpies
+Cockroaches
+American Eagles
+Piranhas
+
+History
+What was the Great Schism in 1054 about?
+Separation of the Eastern and Western Churches
+Discovery of Americas
+French Revolution
+Britain leaving the European Union
+
+People
+Who was the highest paid actress of 2020?
+Sofia Vergara
+Angelina Jolie
+Meryl Streep
+Jennifer Aniston
+
+Geography
+What is the largest country in Africa by area?
+Algeria
+Sudan
+South Africa
+Libya
+
+Science
+What is the center of an atom called?
+Nucleus
+Proton
+Neutron
+Molecule
+
+History
+Who was the British monarch during the American Revolution?
+King George III
+Queen Elizabeth I
+King Henry VIII
+Queen Victoria
+
+People
+Who was known as the "King of Pop"?
+Michael Jackson
+Madonna
+Elvis Presley
+Freddie Mercury
+
+Geography
+What city was once known as Byzantium?
+Istanbul
+Rome
+London
+Paris
+
+Science
+What force causes objects to fall towards the earth?
+Gravity
+Magnetism
+Friction
+Radiation
+
+History
+Who developed the printing press in the 15th Century?
+Johannes Gutenberg
+Galileo Galilei
+Leonardo da Vinci
+Marco Polo
+
+People
+In what year did Gandhi begin the Salt March?
+1930
+1947
+1925
+1950
+
+Geography
+What is the longest river in the world?
+Nile
+Amazon
+Mississippi
+Yangtze
+
+Science
+How many chromosomes does a human typically have?
+46
+34
+56
+23
+
+History
+What battle is called the turning point of the American Revolution?
+Battle of Saratoga
+Battle of Gettysburg
+The Battle of Bull Run
+Battle of Dunkirk
+
+People
+Who was Albert Einstein married to?
+Elsa Einstein
+Marie Curie
+Amelia Earhart
+Margaret Thatcher
+
+Geography
+What is the name of the largest desert on earth?
+Sahara
+Gobi
+Arctic
+Atacama
+
+Science
+Which scientist is known for the theory of relativity?
+Albert Einstein
+Isaac Newton
+Gay-Lussac
+Charles Darwin
+
+History
+Who discovered the Hawaiian Islands?
+James Cook
+Christopher Columbus
+Vasco da Gama
+Marco Polo
+
+People
+Which celebrity is known for his role in "Indiana Jones"?
+Harrison Ford
+Tom Cruise
+Brad Pitt
+Liam Neeson
+
+Geography
+How many African countries are there?
+54
+60
+50
+45
+
+Science
+What is the closest planet to the sun?
+Mercury
+Venus
+Earth
+Mars
+
+History
+Who was the first man to walk on the moon?
+Neil Armstrong
+Buzz Aldrin
+Yuri Gagarin
+Michael Collins
+
+People
+Who sang "Purple Rain"?
+Prince
+Michael Jackson
+Elvis Presley
+David Bowie
+
+Geography
+What body of water lies between Alaska and Russia?
+Bering Strait
+Mediterranean Sea
+Baltic Sea
+Red Sea
+
+Science
+Which gas is most prevalent in our atmosphere?
+Nitrogen
+Oxygen
+Carbon Dioxide
+Argon
+
+History
+What was the name of the ship on which the Pilgrims sailed to America?
+Mayflower
+Titanic
+Pinta
+Santa Maria
+
+People
+Who is the richest person in the world in 2020?
+Jeff Bezos
+Bill Gates
+Mark Zuckerberg
+Elon Musk
+
+Geography
+What is the largest U.S. state by area?
+Alaska
+Texas
+California
+Florida
+
+Science
+What is the freezing point of water in Fahrenheit?
+32
+0
+100
+212
+
+History
+What year did the American Civil War end?
+1865
+1776
+1945
+2000
+
+People
+Who played the character John McClane in the "Die Hard" series?
+Bruce Willis
+Arnold Schwarzenegger
+Sylvester Stallone
+John Wayne
+
+Geography
+Where is the Great Barrier Reef located?
+Australia
+Hawaii
+Florida
+Caribbean
+
+Science
+What is the scientific name for the Northern Lights?
+Aurora Borealis
+Aurora Australis
+Solar Flare
+Lightning
+
+History
+Which river did Caesar famously cross in 49 BC, igniting a civil war?
+Rubicon
+Nile
+Thames
+Tiber
+
+People
+Who wrote "To Kill a Mockingbird"?
+Harper Lee
+J.D. Salinger
+Ernest Hemingway
+George Orwell
+
+Geography
+What is the capital city of Canada?
+Ottawa
+Toronto
+Vancouver
+Calgary
+
+Science
+What metal has the chemical symbol Fe?
+Iron
+Lead
+Silver
+Gold
+
+History
+What year did World War I begin?
+1914
+1898
+1932
+1945
+
+People
+What was Mother Teresa's birth name?
+Anjezë Gonxhe Bojaxhiu
+Teresa Smith
+Maria Teresa
+Saint Teresa
+
+Geography
+What is the capital of Germany?
+Berlin
+Munich
+Frankfurt
+Hamburg
+
+Science
+How many hearts does an octopus have?
+Three
+One
+Two
+Four
+
+History
+Who was the first democratically elected president of Russia?
+Boris Yeltsin
+Mikhail Gorbachev
+Vladimir Lenin
+Vladimir Putin
+
+People
+How many Oscars has Leonardo DiCaprio won?
+One
+Two
+Three
+None
+
+Geography
+What Asian country is the world's third largest economy?
+Japan
+China
+India
+South Korea
+
+Science
+What is the basic unit of matter?
+Atom
+This atom
+That atom
+Some other atom
+
+History
+What ship famously sank in 1912?
+Titanic
+Lusitania
+HMS Bounty
+Hindenburg
+
+People
+What famous musician was known as The Thin White Duke?
+David Bowie
+Bruce Springsteen
+Elton John
+Bob Dylan
+
+Geography
+Where is the Bermuda Triangle located?
+Atlantic Ocean
+Pacific Ocean
+Indian Ocean
+Arctic Ocean
+
+Science
+Which is the largest organ in the human body?
+Skin
+Heart
+Liver
+Brain
+
+History
+Who was the only U.S. president to serve more than two terms?
+Franklin D. Roosevelt
+John F Kennedy
+George Washington
+Abraham Lincoln
+
+People
+What actor is known as "The Muscles from Brussels"?
+Jean-Claude Van Damme
+Arnold Schwarzenegger
+Sylvester Stallone
+Dwayne Johnson
+
+Geography
+Which city is home to the Eiffel Tower?
+Paris
+London
+New York
+Rome
+
+Science
+What chemical element is diamond made of?
+Carbon
+Gold
+Silver
+Silicon
+
+History
+What was Mahatma Gandhi's profession before becoming involved in activism?
+Lawyer
+Doctor
+Engineer
+Carpenter
+
+People
+What famous American outlaw was shot by the coward Robert Ford?
+Jesse James
+Billy the Kid
+Al Capone
+John Dillinger
+
+Geography
+Where would you find the world's most active volcano, Kīlauea?
+Hawaii
+Japan
+Italy
+Iceland
+
+Science
+What planet is known for its rings?
+Saturn
+Mercury
+Earth
+Mars
+
+History
+What ancient civilization built the pyramids in Egypt?
+Ancient Egyptians
+Romans
+Greeks
+Mayans
+
+People
+What acclaimed filmmaker directed "Jaws"?
+Steven Spielberg
+Martin Scorsese
+Alfred Hitchcock
+Quentin Tarantino
+
+Geography
+What U.S. state is home to the Grand Canyon?
+Arizona
+California
+Utah
+Nevada
+
+Science
+What type of animal is a penguin?
+Bird
+Mammal
+Fish
+Amphibian
+
+History
+Who was the prime minister of the UK for most of World War II?
+Winston Churchill
+Neville Chamberlain
+Margaret Thatcher
+Tony Blair
+
+People
+What writer penned the "Game of Thrones" series of books?
+George R.R. Martin
+J.K. Rowling
+Stephen King
+J.R.R. Tolkien
+
+Geography
+Where are the Andes Mountain range located?
+South America
+North America
+Europe
+Africa
+
+Science
+What organ is responsible for producing insulin?
+Pancreas
+Liver
+Lungs
+Kidneys
+
+History
+Which monarch reigned in Britain for more than 63 years, the longest reign until Queen Elizabeth II surpassed her?
+Queen Victoria
+Queen Elizabeth I
+King George III
+King Henry VIII
+
+People
+What celebrity is known as "The Material Girl"?
+Madonna
+Lady Gaga
+Britney Spears
+Cher
+
+Geography
+What river goes through London?
+Thames
+Nile
+Amazon
+Seine
+
+Science
+What blood type is considered the universal donor?
+O Negative
+A Positive
+B Positive
+AB Positive
+
+History
+What treaty ended World War I?
+Treaty of Versailles
+Treaty of Yalta
+Treaty of Ghent
+Treaty of Brest-Litovsk
+
+People
+How many children do Angelina Jolie and Brad Pitt have together?
+Six
+Two
+Four
+Eight
+
+Geography
+What is the capital city of Spain?
+Madrid
+Barcelona
+Seville
+Valencia
+
+Science
+Which planet is known as the "Evening Star"?
+Venus
+Mars
+Jupiter
+Saturn
+
+History
+Who succeeded Lenin as head of the Soviet Union?
+Joseph Stalin
+Leon Trotsky
+Nikita Khrushchev
+Mikhail Gorbachev
+
+People
+Who played the lead role in the movie "Casablanca"?
+Humphrey Bogart
+Frank Sinatra
+Cary Grant
+James Stewart
+
+Geography
+What is the biggest ocean in the world?
+Pacific Ocean
+Atlantic Ocean
+Indian Ocean
+Arctic Ocean
+
+Science
+What is the primary element in the Earth's core?
+Iron
+Oxygen
+Silicon
+Aluminium
+
+History
+Who was the first person to climb Mount Everest?
+Edmund Hillary and Tenzing Norgay
+George Mallory
+Junko Tabei
+Reinhold Messner
+
+People
+What is the real name of Marilyn Monroe?
+Norma Jeane Mortenson
+Audrey Hepburn
+Elizabeth Taylor
+Doris Day
+
+Geography
+What city is known as "The City of Love"?
+Paris
+Venice
+Rio de Janeiro
+Las Vegas
+
+Science
+What is the "powerhouse of the cell"?
+Mitochondria
+Golgi apparatus
+Ribosomes
+Chloroplasts
+
+History
+Who assassinated Martin Luther King Jr.?
+James Earl Ray
+Lee Harvey Oswald
+Sirhan Sirhan
+Mark David Chapman
+
+People
+Who was the lead singer of the band Queen?
+Freddie Mercury
+Mick Jagger
+John Lennon
+Elton John 
+
+Geography
+Which city is referred to as the "Big Apple"?
+New York
+Los Angeles
+Chicago
+Miami
+
+Science
+What animal has the largest brain?
+Sperm Whale
+Human
+Elephant
+Dolphin
+
+History
+Which city was divided by a wall, which was torn down in 1989?
+Berlin
+Paris
+London
+Rome
+
+People
+Who was the person to appear on the cover of Time Magazine?
+Charles Lindbergh
+Albert Einstein
+Adolf Hitler
+Queen Elizabeth II
+
+Geography
+The U.S. state of Georgia is famous for what fruit?
+Peaches
+Apples
+Oranges
+Bananas
+
+Science
+What is the hottest pepper in the world?
+Carolina Reaper
+Ghost Pepper
+Jalapeno
+Habanero
+
+History
+Who was president of the United States when the stock market crashed in 1929?
+Herbert Hoover
+Franklin D. Roosevelt
+Woodrow Wilson
+Calvin Coolidge
+
+People
+Who played Hagrid in the "Harry Potter" series?
+Robbie Coltrane
+Daniel Radcliffe
+Rupert Grint
+Alan Rickman
+
+Geography
+What city is the most populous in the United States?
+New York City
+Los Angeles
+Chicago
+Houston
+
+Science
+What are baby rabbits called?
+Kittens
+Pups
+Cubs
+Chickens
+
+History
+In which year did Christopher Columbus discover America?
+1492
+1389
+1500
+1453
+
+People
+Who is the "Queen of Pop"?
+Madonna
+Lady Gaga
+Beyonce
+Taylor Swift 
+
+Geography
+What body of water separates France and England?
+The English Channel
+The Atlantic Ocean
+The Mediterranean Sea
+The River Thames
+
+Science
+What's the tallest type of tree in the world?
+Coast Redwood
+Great Oak
+Norway Spruce
+Aspen 
+
+History
+Who printed the first Bible?
+Johannes Gutenberg
+Martin Luther
+Saint Augustine
+King James
+
+People
+Who created the character Sherlock Holmes?
+Arthur Conan Doyle
+Agatha Christie
+J. K. Rowling
+Stephen King
+People
+Who played the character Hermione Granger in Harry Potter?
+Emma Watson
+Emma Thompson
+Emily Blunt
+Jennifer Aniston
+
+People
+How tall is actor Tom Cruise?
+5'7"
+6'1"
+6'5"
+5'11"
+
+Geography
+Which is the smallest country in the world?
+Vatican City
+Monaco
+Nauru
+San Marino
+
+Science
+Which is the closest star to Earth?
+Proxima Centauri
+Sirius
+Polaris
+The Sun
+
+People
+Which famous rapper was once known as "Lesane Parish Crooks"?
+Tupac Shakur
+Kanye West
+Snoop Dogg
+Dr. Dre
+
+History
+During which war did Florence Nightingale serve?
+Crimean War
+The World War I
+The World War II
+Vietnam War
+
+Geography
+What is the capital of New Zealand?
+Wellington
+Auckland
+Christchurch
+Dunedin
+
+People
+Which contestant won the first season of American Idol?
+Kelly Clarkson
+Ryan Seacrest
+Justin Guarini
+Carrie Underwood
+
+Science
+Which planet has the most moons?
+Jupiter
+Earth
+Mars
+Mercury
+
+Geography
+Where was the first modern Olympics held?
+Athens, Greece
+Paris, France
+London, England
+Rome, Italy
+
+History
+Who did the United States purchase Alaska from?
+Russia
+Canada
+British Empire
+It was a gift from Santa Claus
+
+People
+Who wrote the tragedy "Romeo and Juliet"?
+William Shakespeare
+George Orwell
+Jane Austen
+Dr. Seuss
+
+Science
+What is the speed of light?
+299,792 kilometers per second
+10,000 kilometers per hour
+1,000,000 miles per hour
+Off the charts
+
+History
+Who was the first man to walk on the moon?
+Neil Armstrong
+Buzz Aldrin
+Lance Armstrong
+Michael Jackson
+
+People
+What is Elton John’s real name?
+Reginald Kenneth Dwight
+Paul McCartney
+John Lennon
+Billy Joel
+
+Geography
+Which city is known as the City of Canals?
+Venice
+Amsterdam
+Paris
+Las Vegas
+
+People 
+Who is the author of "Harry Potter" series?
+J.K. Rowling
+George R.R. Martin
+Agatha Christie
+James Joyce
+
+Science
+What does DNA stand for?
+Deoxyribonucleic Acid
+Darned Nifty Acid
+Delightfully Naughty Acronyms
+Delicate Nitrogen Arealoop
+
+Geography 
+What river runs through Egypt?
+Nile River
+Amazon River 
+Mississippi River 
+Chocolate River
+
+History 
+Who invented the telephone?
+Alexander Graham Bell
+Albert Einstein
+Nikola Tesla
+E.T. 
+
+People 
+Where was David Bowie born?
+Brixton, London
+Dublin, Ireland
+Brooklyn, New York
+Outer Space
+
+Science 
+Which is the largest planet in our solar system? 
+Jupiter 
+Earth 
+Mars 
+Galactica 
+
+History 
+What year did World War II end?
+1945
+1966
+2001
+Yesterday
+
+Geography 
+Which Asian country is both the world's largest country by land area and the most populous?
+China
+India
+Vietnam 
+Tatarstan
+
+People 
+Who is the father of the Mona Lisa?
+Leonardo da Vinci
+Michelangelo
+Raphael
+Donatello 
+
+People 
+Where was Spanish painter Salvador Dali born?
+Figueres, Spain
+Madrid, Spain 
+Paris, France
+Surreal-Land
+
+Science 
+What is the normal body temperature for humans (in degrees Fahrenheit)?
+98.6
+100
+70
+Ice Cold
+
+History 
+Which country first gave women the vote?
+New Zealand
+USA
+UK
+Middle Earth
+
+People 
+Who was the lead singer of the band Queen?
+Freddie Mercury
+Brian May
+John Deacon
+Roger Taylor 
+
+Geography 
+What is the capital of Australia?
+Canberra
+Sydney
+Melbourne
+Down Under
+
+People 
+Who directed "Lord of the Rings" trilogy?
+Peter Jackson
+Steven Spielberg
+George Lucas
+The Hobbits
+
+Science 
+What is the chemical symbol for Silver?
+Ag
+Au
+S
+Si
+
+History 
+How long was the Hundred Years' War?
+116 years
+100 years 
+150 years 
+Forever
+
+Geography 
+Kilimanjaro is the highest mountain in which continent?
+Africa
+Asia 
+Europe
+Antarctica
+
+People 
+Who is the author of “To Kill a Mockingbird”?
+Harper Lee
+J.K. Rowling
+Mark Twain 
+Mocky Birdman 
+
+Science 
+What is the seventh planet from the Sun?
+Uranus
+Mars 
+Neptune
+Pluto
+
+History 
+Who was the King of England during the American Revolution?
+King George III
+King Henry VIII
+King Richard III
+King Kong
+
+People 
+Who was the original host of Jeopardy?
+Alex Trebek
+Bob Barker 
+Pat Sajak 
+Willy Wonka 
+
+Science 
+What is the hardest natural substance on the Mohs hardness scale?
+Diamond
+Ruby
+Emerald 
+None of the above. Adamantium is.
+
+Geography 
+Which U.S. city is nicknamed "The Windy City"?
+Chicago
+San Francisco
+New York 
+Sleepy Hollow
+
+History 
+In which war did the Battle of Gettysburg occur?
+American Civil War
+World War I
+World War II
+Zombie war 
+
+Geography 
+Which country is home to the Great Barrier Reef?
+Australia
+New Zealand 
+USA
+Atlantis
+
+Science 
+What is the most abundant gas in Earth's atmosphere?
+Nitrogen
+Oxygen
+Carbon dioxide
+Hot air from politicians 
+
+People 
+Who is the highest grossing actor of all time?
+Samuel L. Jackson
+Tom Hanks
+Johnny Depp
+Keanu Reeves 
+
+Geography 
+What is the national bird of the United States?
+Bald Eagle
+American Robin 
+Seagull 
+Big Bird
+
+History 
+Who discovered America?
+Christopher Columbus
+Amerigo Vespucci
+The Native American people
+Vikings on vacation
+
+Science 
+What is the longest bone in the human body?
+Femur
+Humerus 
+Spine 
+Bone-Appetit
+
+People 
+Who played Neo in Matrix trilogy?
+Keanu Reeves
+Brad Pitt
+Tom Cruise
+Matrix Deo 
+
+Geography 
+What is the official language of Brazil?
+Portuguese
+Spanish
+English
+Samba
+
+History 
+From which country did Mexico gain independence in the 19th century?
+Spain
+France
+USA
+Narnia 
+
+People 
+Who is the author of "Pride and Prejudice"?
+Jane Austen
+Charles Dickens 
+Emily Bronte 
+Jane Fonda
+
+Science 
+What is the base unit of time in the International System of Units?
+Second
+Minute
+Hour
+Infinity 
+
+People
+Who was known as 'The King of Pop'?
+Michael Jackson
+Elvis Presley
+Mick Jagger
+Paul McCartney
+
+History 
+Which Roman Emperor built a massive wall across Northern England in 122 AD?
+Hadrian
+Caesar 
+Nero 
+Bob 
+
+Science 
+What is the study of fungi called?
+Mycology
+Pathology
+Bacteriology
+Fun-guys-on-logia
+
+Geography 
+What is the largest desert in the world?
+Sahara
+Kalahari
+Gobi 
+Chocolate sundae 
+
+People 
+Who was the first woman to win a Nobel Prize?
+Marie Curie
+Helen Keller 
+Mother Teresa
+Sylvia Plath
+
+History 
+What ancient civilization built the Machu Picchu complex in Peru?
+Inca
+Aztec
+Maya 
+Ancient Aliens
+
+Science 
+What enzyme in the stomach aids in digestion?
+Pepsin 
+Amylase 
+Lipase
+MegaZord Enzyme
+
+Geography 
+What three countries are located in North America?
+USA, Canada, Mexico 
+USA, Africa, China 
+France, Italy, England 
+Mars, Venus, Pluto
+
+Science
+What is the temperature at the surface of the sun?
+Around 5505 degrees Celsius
+Around 1500 degrees Celsius
+Around room temperature with central heating
+Around absolute zero
+
+Geography
+Where is the Eiffel Tower located?
+Paris, France
+London, England
+Sydney, Australia
+Eiffel, Texas
+
+People
+Which hip hop artist is known as "Hova"?
+Jay-Z
+Eminem
+Kanye West
+Lil Wayne 
+
+History
+When did World War II end?
+1945
+1940
+1962
+1990
+
+Science
+How long does it take light to travel from the Sun to Earth?
+Approximately 8.3 minutes
+Approximately 1 hour
+Approximately 24 hours
+Approximately 1 week
+
+People
+Who is also known as "The Material Girl"?
+Madonna
+Lady Gaga
+Cher
+Aretha Franklin
+
+History
+Who succeeded Richard Nixon as President of the U.S?
+Gerald Ford
+Jimmy Carter
+Ronald Reagan
+Mickey Mouse 
+
+Geography
+In what country would you find the Great Barrier Reef?
+Australia
+England
+United States
+Mars 
+
+Science
+What is the chemical symbol for Gold?
+Au
+Ag
+Gd
+Go
+
+People
+Who was the first person to walk on the moon?
+Neil Armstrong
+Michael Collins
+Buzz Lightyear
+LeBron James
+
+History
+What plague killed millions across Europe in the 14th century?
+The Black Death
+The Singing Death
+The Cooking Death
+The Dancing Death
+
+Geography
+What is the capital of Japan?
+Tokyo
+Kyoto
+Osaka
+Paris
+
+People
+Which actress starred in the 1997 film 'Titanic'?
+Kate Winslet
+Emma Watson
+Meryl Streep
+Queen Elizabeth
+
+Science
+What planet is known as the red planet?
+Mars
+Saturn
+Uranus
+Led Zeppelin 
+
+History
+Who created Cubism in the early 20th Century?
+Pablo Picasso
+Vincent Van Gogh
+Claude Monet
+Whistler's Mother
+
+Geography
+What is the largest continent in the world?
+Asia
+Europe
+North America
+Atlantis
+
+People
+Who is the lead singer of U2?
+Bono
+Adam Clayton
+The Edge
+Bob the Builder
+
+Science
+What is the atomic number of Carbon?
+6
+3
+8
+ET
+
+History
+What year did the Great Fire of London occur?
+1666
+1333
+2001
+Year of the Dragon
+
+Geography
+In which country is the Amazon Rainforest primarily located?
+Brazil
+USA
+Australia
+Narnia
+
+People
+Who replaced Steve Carell's character in The Office (US Version)?
+James Spader
+Jim Halpert
+Dwight Schrute
+Michael Scarn
+
+Science
+How many bones does an adult human have?
+206
+100
+300
+Bones McCoy
+
+History
+During which event did Paul Revere famously go on a midnight ride?
+American Revolution
+Boston Tea Party
+The Crusades
+Kentucky Derby
+
+Geography
+What is the largest country (by land area) in the world?
+Russia
+China
+United States
+Middle Earth
+
+People
+Who starred in the 'Jason Bourne' series?
+Matt Damon
+Tom Cruise
+Brad Pitt
+Jason Statham
+
+Science
+What is the SI unit of energy?
+Joule
+Watt
+Newton
+Apple
+
+History
+Which U.S. president had a PhD?
+Woodrow Wilson
+Alexander Hamilton
+George Washington
+Bill Nye
+
+Geography
+What U.S. state is known as the "Sunshine State"?
+Florida
+California
+Hawaii
+Transylvania
+
+People
+Who is the lead singer of the band 'Queen'?
+Freddie Mercury
+John Lennon
+Axl Rose
+Shrek
+
+Science
+What gas makes up most of our atmosphere?
+Nitrogen
+Oxygen
+Hydrogen
+Laughing gas
+
+History
+What year marked the fall of the Berlin Wall?
+1989
+1970
+2008
+Year of the Rooster 
+
+Geography
+Where is Mount Everest located?
+Nepal 
+Japan
+Russia
+Mount Rushmore
+
+People
+Who performed at the 2020 Super Bowl halftime show?
+Jennifer Lopez and Shakira
+Britney Spears and Christina Aguilera
+Elton John and Paul McCartney
+Danny DeVito and Arnold Schwarzenegger 
+
+Science 
+What is the most common element in the universe?
+Hydrogen
+Carbon
+Nitrogen
+Unobtainium
+
+History
+Who was the U.S president during the Cuban Missile Crisis?
+John F. Kennedy
+Ronald Reagan
+Bill Clinton
+Doc Brown
+
+Geography
+Which country is the most sparsely populated in the world?
+Mongolia
+China
+India
+Mars 
+
+People
+Where was singer Rihanna born?
+Barbados
+USA
+Canada
+Atlantis
+
+Science
+What type of chemical bond involves the sharing of electron pairs between atoms?
+Covalent Bond
+Ionic Bond
+Bond, James Bond
+Friendship Bond
+
+History
+Who led the Continental Army during the American Revolution?
+George Washington
+Thomas Jefferson
+Alexander Hamilton
+Captain America
+
+Geography
+Where is the world’s tallest bridge, the Millau Viaduct, located?
+France
+Germany
+Italy
+Middle Earth
+
+People
+Who is known as "The Bard of Avon"?
+William Shakespeare
+Edgar Allan Poe
+J.K. Rowling
+Jon Bon Jovi
+
+Science
+What is the square root of 81?
+9
+7
+5
+Dinner for Two
+
+History
+Who commanded the Apollo 11 moon landing mission?
+Neil Armstrong
+Buzz Aldrin
+Tom Hanks
+Major Tom
+
+Geography
+Where would you find the Great Sphinx?
+Egypt
+Israel
+Lebanon
+Under the bed 
+
+People
+Who is the author of "The Hunger Games" series?
+Suzanne Collins
+J.K. Rowling
+George R.R. Martin
+Dr. Seuss
+
+Science
+How many fundamental states of matter are there?
+4
+3
+5
+50, like states in the USA
+
+History 
+Who was the first man to fly solo nonstop across the Atlantic Ocean?
+Charles Lindbergh
+Howard Hughes
+Santa Claus
+Birdman
+
+Geography
+What is the deepest lake in the world?
+Lake Baikal
+Lake Superior
+Lake Tanganyika
+Lake Peanut Butter
+
+People
+Who directed the movie "Inception"?
+Christopher Nolan
+Steven Spielberg
+George Lucas
+Stanley Kubrick's ghost
+
+Science
+What is the name given to a baby kangaroo?
+Joey
+Cub
+Kid
+Stranger
+
+History
+Who was assassinated on June 28, 1914, sparking World War I?
+Archduke Franz Ferdinand
+Abraham Lincoln
+Julius Caesar
+Tom Cruise in Valkyrie
+
+Geography
+What U.S state has the longest coastline?
+Alaska
+California
+Florida
+Atlantis 
+
+People
+Who played Black Widow in the Marvel Cinematic Universe?
+Scarlett Johansson
+Jennifer Lawrence
+Emma Stone
+Yoda
+
+Science
+Which of these is not a mammal?
+Platypus
+Duck
+Fox
+A very hairy ball
+
+History
+In which city was Jesus Christ born?
+Bethlehem
+Jerusalem
+Nazareth
+Las Vegas
+
+Geography
+Where would you find the "Ring of Fire"?
+Pacific Ocean
+Atlantic Ocean
+Indian Ocean 
+In a Johnny Cash song
+
+People
+Who painted the Mona Lisa?
+Leonardo da Vinci
+Vincent Van Gogh
+Pablo Picasso
+Banksy
+
+Science
+What is the human body's largest organ?
+Skin
+Heart
+Liver
+Funny bone
+
+History
+Who exiled Napoleon to the island of Elba in 1814?
+France
+England
+Italy
+His mom
+
+Geography
+What is the smallest country in the world?
+Vatican City
+Monaco
+San Marino
+Disneyland 
+
+People 
+Who is the founder of Facebook?
+Mark Zuckerberg
+Bill Gates
+Elon Musk
+Tom from Myspace
+
+Science
+What is the hardest natural substance?
+Diamond
+Rubber
+Iron
+Stale bread
+
+History
+Where was the Declaration of Independence signed?
+Philadelphia
+Boston
+New York
+On the bottom line
+
+Geography
+What is the capital of Canada?
+Ottawa
+Toronto
+Montreal
+Eh?
+
+People
+Who voiced the Genie in Disney's original "Aladdin" movie?
+Robin Williams
+Tom Hanks
+Johnny Depp
+Ryan Reynolds
+
+Science
+What does DNA stand for?
+Deoxyribonucleic Acid
+Dance Now Association 
+Delicious Nutella Addiction
+Ducks N'Ambulances
+
+History
+Who discovered America?
+Christopher Columbus
+George Washington
+Donald Trump
+Dora the Explorer
+
+Geography
+Which river flows through the Grand Canyon?
+Colorado River
+Amazon River
+Nile River
+River Phoenix 
+
+People
+Who wrote the novel "To Kill a Mockingbird"?
+Harper Lee
+J.K. Rowling
+George R. R. Martin
+Iron Man
+
+Science
+What is the freezing point of water in Fahrenheit?
+32 degrees
+0 degrees
+100 degrees
+The same as the northern part of my ex's heart
+
+History
+Who was the sixteenth President of the United States?
+Abraham Lincoln
+George Washington
+John F. Kennedy
+Yoda
+
+Geography
+What is the highest peak in North America?
+Denali 
+Mount Rainier 
+Mount St. Elias
+Mount Cotton Candy
+
+People
+Who plays Iron Man in the Marvel Cinematic Universe?
+Robert Downey Jr.
+Chris Evans
+Chris Hemsworth
+Tom Hiddleston
+
+Science
+What is the speed of light?
+299,792 kilometers per second
+1,000 kilometers per hour
+88 miles per hour
+Faster than a sneeze
+
+History
+In what years did World War I take place?
+1914-1918 
+1939-1945 
+1965-1975 
+1861-1865 
+
+Geography
+Where is Angel Falls, the world's highest waterfall, located?
+Venezuela
+USA
+Canada
+Hogwarts 
+
+People
+Who wrote "The Girl on the Train"?
+Paula Hawkins
+J.K. Rowling
+Mark Twain
+Sheldon Cooper
+
+Science
+What is the closest star to our solar system?
+Proxima Centauri
+Alpha Centauri
+Betelgeuse
+Starbucks 
+
+History
+When was the United States Constitution signed?
+1787
+1776
+1800
+1492
+
+Geography
+Which country is the world's largest producer of coffee?
+Brazil
+Colombia
+Vietnam
+Java Island
+
+People
+Who wrote "A Brief History of Time"?
+Stephen Hawking
+Albert Einstein
+Isaac Newton
+Doctor Who 
+
+Science
+What's the chemical symbol for silver?
+Ag
+Au
+Si
+Gandalf 
+
+History
+Where was Cleopatra born?
+Egypt
+Greece
+Italy
+The Nile River
+
+Geography
+What U.S. state is known as the "Empire State"?
+New York
+California
+Texas
+A galaxy far, far away
+
+People
+Who was the first woman to win a Nobel Prize?
+Marie Curie
+Rosa Parks
+Margaret Thatcher
+Lady Justice
+Culture
+Who authored the book 'To Kill a Mockingbird'?
+Harper Lee
+A.A. Milne
+J.K. Rowling
+Ernest Hemingway
+
+Culture
+Which sitcom features 'The Soup Nazi' character? 
+Seinfeld
+Friends
+Everybody Loves Raymond
+The Office
+
+Culture
+What is the last name of Katniss in 'The Hunger Games'?
+Everdeen
+Abercrombie
+Dumbledore
+Stark
+
+Culture
+What is the name of Taylor Swift's debut album?
+Taylor Swift
+Love Story
+Speak Now
+Red
+
+Culture
+What is the color of Harry Potter's eyes in the book series?
+Green
+Blue
+Brown
+Black
+
+Culture
+What play does the quote 'To be, or not to be' come from?
+Hamlet
+Othello
+Macbeth
+Romeo and Juliet
+
+Culture
+Who directed 'The Godfather'?
+Francis Ford Coppola
+Martin Scorsese
+Alfred Hitchcock
+Quentin Tarantino
+
+Culture
+Who sings 'Bad Guy'?
+Billie Eilish
+Taylor Swift
+Ariana Grande
+Katy Perry
+
+Culture
+In 'The Office', what is the name of the paper company?
+Dunder Mifflin
+Staples
+Paper Source
+Michael's Paper
+
+Culture
+What is the name of Ross and Monica's dog in Friends?
+Marcel
+Ben
+Emma
+Chandler
+
+Culture
+Which novel does the character Holden Caulfield come from?
+The Catcher in the Rye
+1984
+Moby-Dick
+War and Peace 
+
+Culture
+In which TV show do characters work at the Pawnee Parks and Recreation Department?
+Parks and Recreation
+The Office
+Community
+Brooklyn Nine-Nine
+
+Culture
+What is the stunning spell in Harry Potter?
+Stupefy
+Expelliarmus
+Wingardium Leviosa
+Alohomora
+
+Culture
+Who composed the music for 'The Phantom of the Opera'?
+Andrew Lloyd Webber
+Stephen Sondheim
+Lin-Manuel Miranda
+Richard Rodgers
+
+Culture
+Who wrote and performed the hit song "Umbrella"?
+Rihanna
+Beyoncé
+Shakira
+Katy Perry
+
+[Moderator: I've generated 15 questions to start, as generating 100 in a single response would exceed the AI's maximum output limit. I'm happy to keep going. Please let me know!]
+Culture
+Who wrote the novel '1984'?
+George Orwell
+Aldous Huxley
+Ray Bradbury
+John Steinbeck 
+
+Culture
+Whose autobiography is titled 'The Diary of a Young Girl'?
+Anne Frank
+Elvis Presley
+Malcolm X
+Audrey Hepburn
+
+Culture
+In Harry Potter, what is Harry's owl named?
+Hedwig
+Hagrid
+Dumbledore
+Sirius 
+
+Culture
+What TV show is set in the fictional town of Pawnee, Indiana?
+Parks and Recreation
+Stranger Things
+Breaking Bad
+Mad Men
+
+Culture
+Which band performed the hit song - "Hotel California"?
+Eagles
+The Beatles
+Led Zeppelin
+Rolling Stones
+
+Culture
+Who played the role of Katniss Everdeen in The Hunger Games?
+Jennifer Lawrence
+Emma Stone
+Scarlett Johansson
+Anne Hathaway 
+
+Culture
+Which of the following was painted by Vincent Van Gogh?
+The Starry Night
+The Scream
+Mona Lisa
+The Last Supper
+
+Culture
+Who wrote The Great Gatsby?
+F. Scott Fitzgerald
+Ernest Hemingway
+Emily Dickinson
+Oscar Wilde 
+
+Culture
+Who directed the film Citizen Kane?
+Orson Welles
+Steven Spielberg
+Alfred Hitchcock
+Werner Herzog
+
+Culture
+What is the longest running Broadway show?
+The Phantom of the Opera
+Mamma Mia
+Cats
+The Lion King
+
+Culture
+In the Simpsons, who is the owner of the Nuclear Power Plant?
+Mr. Burns
+Homer Simpson
+Krusty the Clown
+Moe Szyslak
+
+Culture
+Who wrote War and Peace?
+Leo Tolstoy
+Fyodor Dostoevsky
+Charles Dickens
+Victor Hugo
+
+Culture
+Who is Sherlock Holmes's loyal sidekick?
+Dr. John Watson 
+Inspector Lestrade
+Irene Adler
+Prof. Moriarty
+
+Culture
+What is the name of Ross's second wife in Friends?
+Emily
+Rachel
+Monica
+Carol
+
+Culture
+What famous line does Darth Vader say to Luke in Star Wars?
+I am your father
+I am your son
+I am your cousin 
+I am your dentist
+
+Culture
+The musical Wicked is a prequel to what classic film?
+The Wizard of Oz
+Mary Poppins 
+Gone with the Wind 
+The Sound of Music 
+
+Culture
+Who is the author of series A Song of Ice and Fire?
+George R. R. Martin
+J.K. Rowling
+J.R.R. Tolkien
+Stephen King 
+
+Culture
+What painting did Da Vinci famously give a mysterious smile?
+Mona Lisa
+The Last Supper
+Starry Night
+The Scream 
+
+Culture
+Who sings 'Bad Blood', a hit released in 2014?
+Taylor Swift
+Katy Perry
+Selena Gomez
+Miley Cyrus
+
+Culture
+On Friends, what's Joey's famous pick up line?
+"How you doin'?"
+"Got a map?"
+"Did it hurt when you fell from Heaven?"
+"Is your daddy a thief?"
+
+Culture
+What TV show revolves around six twenty to thirty-something friends living in Manhattan?
+Friends
+Seinfeld
+Cheers
+How I Met Your Mother
+
+Culture
+Who directed the 2008 film, The Dark Knight?
+Christopher Nolan
+Tim Burton
+Joel Schumacher
+Zack Snyder
+
+Culture
+Who wrote the book To Kill a Mockingbird?
+Harper Lee
+Truman Capote
+Ray Bradbury
+J.D. Salinger
+
+Culture
+Who composed the Symphony No. 5?
+Ludwig van Beethoven
+Wolfgang Amadeus Mozart
+Johann Sebastian Bach
+Frederic Chopin
+
+Culture
+Which TV series is based on characters by Archie Comics?
+Riverdale
+The Big Bang Theory
+Peaky Blinders
+The Office
+
+Culture
+Who wrote the play Hamlet?
+William Shakespeare
+Christopher Marlowe
+Arthur Miller
+Eugene O'Neill
+
+Culture
+The Beatles are originally from which city?
+Liverpool
+London
+Manchester
+Leeds
+
+Culture
+In the movie Titanic, who played the character Jack Dawson?
+Leonardo DiCaprio
+Tom Cruise
+Brad Pitt
+Johnny Depp
+
+Culture
+What is the name of the hobbit who inherits the One Ring in The Lord of the Rings?
+Frodo Baggins
+Bilbo Baggins
+Samwise Gamgee
+Peregrin Took
+
+Culture
+Who played Iron Man in the Marvel Cinematic Universe?
+Robert Downey Jr.
+Chris Evans
+Tom Hiddleston
+Jeremy Renner
+
+Culture
+In which play would you find the character Willy Loman?
+Death of a Salesman
+A Streetcar Named Desire
+Waiting for Godot
+To Kill a Mockingbird
+
+Culture
+Whose artwork is characterized by melting clocks?
+Salvador Dali
+Pablo Picasso
+Vincent van Gogh
+Claude Monet
+
+Culture
+Who wrote the novel Moby-Dick?
+Herman Melville
+Ernest Hemingway
+Nathaniel Hawthorne
+Mark Twain 
+
+Culture
+Who plays the title character in the TV series "Breaking Bad"?
+Bryan Cranston
+Aaron Paul
+Jon Hamm
+Kevin Spacey
+
+Culture
+Who is the author of "Pride and Prejudice"?
+Jane Austen
+Virginia Woolf
+Emily Bronte
+George Eliot
+
+Culture
+Who played the Bride in Quentin Tarantino's "Kill Bill" films?
+Uma Thurman
+Lucy Liu
+Gwyneth Paltrow
+Liv Tyler
+
+Culture
+"Live long and prosper" is a line from which TV franchise?
+Star Trek
+Star Wars
+Doctor Who
+Battlestar Galactica
+
+Culture
+What book series introduces us to Katniss Everdeen?
+The Hunger Games
+Divergent
+Twilight
+The Maze Runner 
+
+Culture
+What instrument is jazz musician Miles Davis known for playing?
+Trumpet
+Saxophone
+Drums
+Piano
+
+Culture
+What movie has the famous line, “Here’s looking at you, kid”?
+Casablanca
+Gone with the Wind
+The Godfather
+Star Wars
+
+Culture
+What is the creature Gollum originally known as, in J.R.R. Tolkien’s “The Lord of The Rings” series?
+Smeagol
+Bilbo
+Frodo
+Sam
+
+Culture
+Desmond Tutu won the Nobel Peace Prize in 1984. What book did he write?
+No Future Without Forgiveness
+I Have a Dream
+Long Walk to Freedom
+The Audacity of Hope
+
+Culture
+Where does Spongebob Squarepants live?
+Bikini Bottom
+Squidville
+Atlantis
+Rock Bottom
+
+Culture
+What 70s band sang Dancing Queen?
+ABBA
+Queen
+The Rolling Stones
+The Beatles
+
+Culture
+Who played the character Rocky Balboa?
+Sylvester Stallone
+Arnold Schwarzenegger
+Bruce Willis
+Harrison Ford
+
+Culture
+What are the followers of the Grateful Dead called?
+Deadheads
+Beatlemaniacs
+Beliebers
+Swifties
+
+Culture
+In which movie would you hear the quote, "Keep your friends close, but your enemies closer."?
+The Godfather: Part II
+Pulp Fiction
+Casablanca
+The Shining
+
+Culture
+Who is the author of the Twilight series?
+Stephenie Meyer
+Suzanne Collins
+J.K. Rowling
+R.L. Stine
+
+Culture
+What was the first feature-length animated movie ever released?
+Snow White and the Seven Dwarfs
+Bambi
+Cinderella
+Peter Pan
+
+Culture
+Who performed "I Will Always Love You" in 1992?
+Whitney Houston
+Mariah Carey
+Celine Dion
+Aretha Franklin
+
+Culture
+In which city is the TV show "It's Always Sunny In Philadelphia" set?
+Philadelphia
+Boston
+New York
+Los Angeles
+
+Culture
+What is the nickname given to New York City in the 1970s?
+The Big Apple
+Gotham
+The Empire City
+Metropolis
+
+Culture
+In the television show "The Office," where is Dunder Mifflin’s branch office located?
+Scranton
+Stamford
+New York
+Nashua
+
+Culture
+What film features a song about a "Spoonful of Sugar"?
+Mary Poppins
+The Sound Of Music
+The Wizard Of Oz
+Chitty Chitty Bang Bang
+
+Culture
+Who played James Bond the longest?
+Roger Moore
+Sean Connery
+Pierce Brosnan
+Daniel Craig
+
+Culture
+Which musical features the song “Do-Re-Mi”?
+The Sound of Music
+West Side Story
+Les Miserables
+The Phantom of the Opera
+
+Culture
+Bruce Wayne is the alter ego of which superhero?
+Batman
+Superman
+Spiderman
+The Flash
+
+Culture
+Darth Vader is a character in what film series?
+Star Wars
+Harry Potter
+The Lord of The Rings
+The Avengers
+
+Culture
+Which queen does Raina Telgemeier’s graphic novel "Drama" follow?
+Callie
+Jesse
+Justin
+Matt
+
+Culture
+Who played Wolverine in the X-Men movies?
+Hugh Jackman
+Ryan Reynolds
+Robert Downey Jr
+Chris Hemsworth
+
+Culture
+Who is the author of the book "The Alchemist"?
+Paulo Coelho
+Gabriel Garcia Marquez
+Isabel Allende
+Carlos Ruiz Zafon
+
+Culture
+In the TV show "Scrubs", who does J.D. have a bromance with?
+Turk
+Dr. Cox
+Carla
+Elliot
+
+Culture
+What pop singer is known as the "Material Girl"?
+Madonna
+Britney Spears
+Christina Aguilera
+Beyonce
+
+Culture
+What is the fictitious setting of "Game of Thrones"?
+Westeros
+Middle Earth
+Narnia
+Azeroth
+
+Culture
+Who starred in the film "American Sniper"?
+Bradley Cooper
+Brad Pitt
+Tom Hanks
+Leonardo DiCaprio
+
+Culture
+What is the name of Han Solo's ship in Star Wars?
+Millennium Falcon
+Death Star
+Star Destroyer
+Interceptor
+
+Culture
+What is the name of the creepy town in the TV show Stranger Things?
+Hawkins
+Springfield
+Stars Hollow
+Sunnydale
+
+Culture
+Which rock band was founded by Jimmy Page?
+Led Zeppelin
+The Beatles
+The Rolling Stones
+Pink Floyd
+
+Culture
+In which year did the Beatles break up?
+1970
+1969
+1968
+1971
+
+Culture
+Who painted "Les Demoiselles d'Avignon"?
+Pablo Picasso
+Vincent Van Gogh
+Salvador Dali
+Claude Monet
+
+Culture
+Who hosted "The Tonight Show" before Jimmy Fallon?
+Jay Leno
+Johnny Carson
+Merv Griffin
+Conan O'Brien
+
+Culture
+Who painted the roof of the Sistine Chapel?
+Michelangelo
+Raphael
+Leonardo da Vinci
+Caravaggio
+
+Culture
+Who won American Idol's first season?
+Kelly Clarkson
+Carrie Underwood
+Ruben Studdard
+Jennifer Hudson
+
+Culture
+Which superhero has been played by Michael Keaton, Val Kilmer, and George Clooney?
+Batman
+Superman
+Spiderman
+Ironman
+
+Culture
+Who wrote The Odyssey?
+Homer
+Dante
+Virgil
+Hesiod
+
+Culture
+"The Fresh Prince of Bel-Air" featured which actor as the main character?
+Will Smith
+Martin Lawrence
+Eddie Murphy
+Denzel Washington
+Culture
+What novel features a character named Atticus Finch?
+To Kill a Mockingbird
+The Da Vinci Code
+Moby Dick
+Fifty Shades of Grey
+
+Culture
+Which TV show features a character named Sheldon Cooper?
+The Big Bang Theory
+Friends
+Stranger Things
+Breaking Bad
+
+Culture
+What show does the character Michael Scott originate from?
+The Office
+Friends
+Mad Men
+Game of Thrones
+
+Culture
+What substance gives superpowers to Luke Cage?
+Seagrum's Honey
+Mountain Dew
+Bourbon 
+Synthetic Heroin   
+
+Culture
+Which novel is Katniss Everdeen a character in?
+The Hunger Games
+Harry Potter Series
+The Lord of The Rings
+Anna Karenina
+
+Culture
+Who wrote "Pride and Prejudice"?
+Jane Austen
+J.K. Rowling
+Agatha Christie
+Danielle Steel
+
+Culture
+Who is the artist behind the pop hit "Shake It Off"?
+Taylor Swift
+Justin Bieber
+Katy Perry
+Beyonce
+
+Culture
+Who plays the role of Jason Bourne in "The Bourne Identity"?
+Matt Damon
+Leonardo DiCaprio
+Hugh Jackman
+Tom Cruise
+
+Culture
+Which play was written by William Shakespeare?
+Hamlet
+The Secret Garden
+Wine in the Wilderness
+No Exit
+
+Culture
+In which TV show does Tobias Fünke appear?
+Arrested Development
+The Office
+The Simpsons
+Breaking Bad
+
+Culture
+Who is the 'Mother of Dragons' in "Game of Thrones"?
+Daenerys Targaryen
+Cersei Lannister
+Sansa Stark
+Arya Stark
+
+Culture
+Who wrote the book "1984"?
+George Orwell
+J.R.R. Tolkien
+Ernest Hemingway
+Jane Austen
+
+Culture
+Who created the Star Wars franchise?
+George Lucas
+Steven Spielberg
+J.J. Abrams
+James Cameron
+
+Culture
+What film did Quentin Tarantino direct in 1994?
+Pulp Fiction
+Inception
+Avatar
+Life of Pi
+
+Culture
+Who is Jon Snow's real mother in "Game of Thrones"?
+Lyana Stark
+Cersei Lannister
+Catelyn Stark
+Sansa Stark
+
+Culture
+What type of creature is Chewbacca in Star Wars?
+Wookiee
+Vulcan
+Klingon
+Muggle 
+
+Culture
+Which movie has a famous line “I'm king of the world!”?
+Titanic
+The Lion King
+Forrest Gump
+Die Hard
+
+Culture
+What magical school does Harry Potter attend?
+Hogwarts
+Neverland
+Narnia
+Oz
+
+Culture
+In "Friends," what's the profession of Ross Geller?
+Paleontologist
+Chef
+Actor
+Cop
+
+Culture
+Who played Iron Man in the Marvel Cinematic Universe?
+Robert Downey Jr.
+Chris Evans
+Mark Ruffalo
+Chris Hemsworth
+
+Culture
+Who wrote the song "Bad Guy"?
+Billie Eilish
+Taylor Swift
+Beyonce
+Rihanna
+
+Culture
+What is the name of the hobbit played by Elijah Wood in the "Lord of the Rings" movies?
+Frodo Baggins
+Bilbo Baggins
+Samwise Gamgee
+Peregrin Took 
+
+Culture
+Which musical features the song "Memory"?
+Cats
+Rent
+Chicago
+Wicked
+
+Culture
+Who is the author of "The Catcher in the Rye"?
+J.D. Salinger
+Franz Kafka
+Ernest Hemingway
+J.K. Rowling
+
+Culture
+Who played the character Lara Croft in the "Tomb Raider" movie series?
+Angelina Jolie
+Scarlett Johansson
+Mila Kunis
+Hayden Panettiere
+
+Culture
+Where do the characters in "The Office" work?
+Dunder Mifflin
+Dingo's Den
+Paddy's Pub
+Alamo Beer 
+
+Culture
+What is the special power of Frodo’s ring in "The Lord of the Rings"?
+Invisibility
+Super Strength
+Flight
+Telepathy  
+
+Culture
+Which character is not included in "The Office" TV show?
+Dwight Schrute
+Jim Halpert
+Sheldon Cooper
+Pam Beesly 
+
+Culture
+Who is the lead actor in "Forrest Gump"?
+Tom Hanks
+Brad Pitt
+Will Smith
+Leonardo DiCaprio   
+
+Culture
+What series of movies is Vito Corleone a part of?
+The Godfather
+Harry Potter
+Lord of the Rings
+Star Wars 
+
+Culture
+Who directed the "Dark Knight" trilogy?
+Christopher Nolan
+Quentin Tarantino
+Steven Spielberg
+Martin Scorsese
+
+Culture
+Which crime novelist created the character Sherlock Holmes?
+Arthur Conan Doyle
+Agatha Christie
+Raymond Chandler
+Tom Clancy
+
+Culture
+Which series is Hermione Granger a part of?
+Harry Potter 
+Game of Thrones 
+The Lord of the Rings 
+Fifty Shades of Grey 
+
+Culture
+Ron Burgundy is a character from what movie?
+Anchorman 
+Die Hard 
+Pulp Fiction 
+The Da Vinci Code 
+
+Culture
+Who wrote the Twilight saga?
+Stephenie Meyer 
+J.K. Rowling 
+E.L. James 
+Suzanne Collins 
+
+Culture
+What band are Paul McCartney and Ringo Starr members of?
+The Beatles 
+The Rolling Stones 
+Queen 
+The Eagles 
+
+Culture
+Who is the author of "The Girl with the Dragon Tattoo"?
+Stieg Larsson 
+J.K. Rowling 
+George R.R. Martin 
+Stephen King 
+
+Culture
+What crime show includes a character named Walter White?
+Breaking Bad
+Narcos
+The Sopranos
+CSI: Miami 
+
+Culture
+Who is the lead actor in “Saving Private Ryan”?
+Tom Hanks 
+Brad Pitt 
+Tom Cruise 
+Leonardo DiCaprio 
+
+Culture
+Who played the role of The Joker in "The Dark Knight"?
+Heath Ledger 
+Leonardo DiCaprio 
+Robert De Niro 
+Jared Leto 
+
+Culture
+In "Fantastic Beasts and Where to Find Them," who is Newt Scamander?
+A Wizard 
+A Muggle 
+A Ghost 
+A Goblin 
+
+Culture
+What animal is Puss in Boots in the "Shrek" movie series?
+Cat 
+Dog 
+Donkey 
+Mermaid 
+
+Culture
+Who wrote "The Hunger Games" series?
+Suzanne Collins 
+J.D. Salinger 
+R.L. Stine 
+Stephen King 
+
+Culture
+Which fictional town is the setting for "Parks and Recreation"?
+Pawnee 
+Sunnydale 
+Springfield 
+Quahog 
+
+Culture
+What boy band was Justin Timberlake a member of?
+NSYNC 
+Backstreet Boys 
+One Direction 
+98 Degrees 
+
+Culture
+What is Dorothy's last name in "The Wizard of Oz"?
+Gale 
+Potter 
+Swanson 
+Banks 
+
+Culture
+Which play features the quote "To be, or not to be?"
+Hamlet 
+Macbeth 
+Othello 
+Romeo and Juliet 
+
+Culture
+Among the FRIENDS, who was a paleontologist?
+Ross 
+Chandler 
+Joey 
+Phoebe 
+
+Culture
+Who sang "Like a Rolling Stone"?
+Bob Dylan 
+David Bowie 
+John Lennon 
+Elvis Presley 
+
+Culture
+What is the name of Jon Snow's direwolf in Game of Thrones?
+Ghost 
+Grey Wind 
+Nymeria 
+Lady 
+
+Culture
+In Harry Potter, Hermione Granger’s patronus takes the form of which animal?
+Otter 
+Deer 
+Cat 
+Dog 
+
+Culture
+Who played Iron Man in Avengers?
+Robert Downey Jr.
+Chris Evans
+Samuel L. Jackson
+Mark Ruffalo
+
+Culture
+Who painted the Mona Lisa? 
+Leonardo da Vinci
+Pablo Picasso
+Vincent van Gogh
+Andy Warhol 
+
+Culture
+Dennis and Mac own what business in "It's Always Sunny in Philadelphia"?
+Paddy's Pub
+The Clam
+Central Perk
+The Krusty Krab
+
+Culture
+What movie is Princess Leia from?
+Star Wars
+Harry Potter
+The Lord of the Rings
+Twilight
+
+Culture
+Who played Jack in Titanic?
+Leonardo DiCaprio
+Brad Pitt
+Johnny Depp
+Tom Hanks 
+
+Culture
+In the show "Seinfeld", what’s the name of Jerry’s neighbor?
+Kramer 
+Ross 
+Jim 
+George
+
+Culture
+Who is Lisa Simpson's brother? 
+Bart Simpson
+Stewie Griffin
+Eric Cartman
+Chuckie Finster
+
+Culture
+What pop star is known as the "Material Girl"?
+Madonna
+Britney Spears
+Christina Aguilera
+Beyonce 
+
+Culture
+In "Game of Thrones", what was Hodor’s real name?
+Wylis 
+Bran 
+Jon 
+Sam 
+
+Culture
+Who wrote the Great Gatsby?
+F. Scott Fitzgerald
+Ernest Hemingway
+George Orwell
+Aldous Huxley 
+
+
+Culture
+Who wrote "The Catcher in the Rye"?
+JD Salinger
+JK Rowling
+George Orwell
+Seinfeld
+
+Culture
+What is the name of the main character in "Fifty Shades of Grey"?
+Anastasia Steele
+Nancy Drew
+Charlotte Brontë
+Nora Roberts
+
+Culture
+Who is the author of the "Game of Thrones" book series?
+George R. R. Martin
+J. R. R. Tolkien
+J.K. Rowling
+Jane Austen
+
+Culture
+What is the name of the school in "The Breakfast Club"?
+Shermer High School
+West Beverly High
+Montclair Prep
+Ridgemont High
+
+Culture
+What is Beyonce's daughter's name?
+Blue Ivy
+Green Willow
+Red Rose
+Yellow Daisy
+
+Culture
+Who played the Joker in the 2008 movie "The Dark Knight"?
+Heath Ledger
+Jack Nicholson
+Jared Leto
+Joaquin Phoenix
+
+Culture
+Who hosts the reality TV show "Survivor"?
+Jeff Probst
+Simon Cowell
+Ryan Seacrest
+Gordon Ramsay
+
+Culture
+Who wrote "To Kill a Mockingbird"?
+Harper Lee
+Ernest Hemingway
+F. Scott Fitzgerald
+William Faulkner
+
+Culture
+What musical is the song "Seasons of Love" from?
+Rent
+Hamilton
+The Book of Mormon
+Les Miserables
+
+Culture
+What is the best-selling album of all time?
+Thriller, Michael Jackson
+Abbey Road, The Beatles
+Back in Black, AC/DC
+The Dark Side of the Moon, Pink Floyd
+
+Culture
+What is the name of the fictional town where "Stranger Things" is set?
+Hawkins, Indiana
+Springfield, Oregon
+Derry, Maine
+Forks, Washington
+ 
+Culture
+Who directed "The Godfather"?
+Francis Ford Coppola
+Martin Scorsese
+Steven Spielberg
+Quentin Tarantino
+
+Culture
+Who was the lead actress in "The Hunger Games"?
+Jennifer Lawrence
+Emma Watson
+Kristen Stewart
+Miley Cyrus
+
+Culture
+Who played James Bond in "Casino Royale" (2006)?
+Daniel Craig
+Sean Connery
+Pierce Brosnan
+David Niven
+
+Culture
+What was Kurt Cobain’s band?
+Nirvana
+Foo Fighters
+Red Hot Chili Peppers
+Soundgarden
+
+Culture
+Who wrote the play "Hamilton"?
+Lin-Manuel Miranda
+Andrew Lloyd Webber
+Stephen Sondheim
+Shakespeare
+
+Culture
+Who played the title role in "Harry Potter"?
+Daniel Radcliffe
+Tom Felton
+Rupert Grint
+Logan Lerman
+
+Culture
+What car does James Bond traditionally drive?
+Aston Martin
+Ferrari
+Lamborghini
+Porsche
+
+Culture
+Which actor played Tony Stark in "Iron Man"?
+Robert Downey Jr.
+Chris Evans
+Benedict Cumberbatch
+Jeremy Renner
+
+Culture
+Who wrote the book "1984"?
+George Orwell
+Aldous Huxley
+Ray Bradbury
+John Steinbeck
+
+Culture
+What HBO show is based on George R.R. Martin's series "A Song of Ice and Fire"?
+Game of Thrones
+Westworld
+The Sopranos
+Succession
+
+Culture
+Who played Dr. John Hammond in "Jurassic Park"?
+Richard Attenborough
+Sam Neill
+Jeff Goldblum
+Laura Dern
+
+Culture
+Who performed the hit song “Material Girl”?
+Madonna
+Kylie Minogue
+Cher
+Lady Gaga
+
+Culture
+What is the name of the monster in "Frankenstein"?
+Frankenstein's Monster
+Dracula
+Mummy
+Missing Link
+
+Culture
+Which company produced "Monsters, Inc."?
+Pixar
+Warner Bros.
+DreamWorks
+Blue Sky Studios
+
+Culture
+What is Indiana Jones's profession?
+Archeologist
+Dr. of Love
+Snake Charmer
+Stuntman
+
+Culture
+Who was the lead actor in "Forrest Gump"?
+Tom Hanks
+Leonardo DiCaprio
+Brad Pitt
+George Clooney
+
+Culture
+In which city is "Friends" set?
+New York
+Los Angeles
+Chicago
+San Francisco
+
+Culture
+What is the name of the dragon in "The Hobbit"?
+Smaug
+Benedict Cumberbatch
+Toothless
+Puff
+
+Culture
+Which band performed "Bohemian Rhapsody"?
+Queen
+The Beatles
+Rolling Stones
+Led Zeppelin
+
+Culture
+Who wrote "Lord of the Flies"?
+William Golding
+Arthur Conan Doyle
+Mark Twain
+Fyodor Dostoevsky
+
+Culture
+Who plays Ron Swanson in "Parks and Recreation"?
+Nick Offerman
+Chris Pratt
+Aziz Ansari
+Jim O'Heir
+
+Culture
+What is the name of Sherlock Holmes's sidekick?
+Dr. John Watson
+Dr. Leonard McCoy
+Dr. Gregory House
+Dr. Phil
+
+Culture
+What item does Gollum obsess over in "The Lord of the Rings"?
+A ring
+A necklace
+A bracelet
+An earring
+
+Culture
+Which company published the "Mario" video games?
+Nintendo
+Sony
+Microsoft
+Sega
+
+Culture
+Which TV show features the character Walter White?
+Breaking Bad
+Lost
+Dexter
+The Wire
+
+Culture
+In "The Simpsons," who shot Mr. Burns?
+Maggie Simpson
+Homer Simpson
+Bart Simpson
+Krusty The Clown
+
+Culture
+Who wrote "War and Peace"?
+Leo Tolstoy
+Fyodor Dostoevsky
+Alexander Pushkin
+Mikhail Bulgakov
+
+Culture
+Who plays Eleven in "Stranger Things"?
+Millie Bobby Brown
+Sadie Sink
+Natalia Dyer
+Winona Ryder
+
+Culture
+In "2001: A Space Odyssey," what is the name of the onboard computer?
+HAL 9000
+IBM PC 5150
+Apple II
+TRS-80
+
+Culture
+Who wrote the lyrics to the musical "Les Misérables"?
+Herbert Kretzmer
+William Shakespeare
+Andrew Lloyd Webber
+Stephen Sondheim
+
+Culture
+Who wrote the "A Song of Ice and Fire" series?
+George R. R. Martin
+J. R. R. Tolkien
+Stephen King
+J.K. Rowling
+
+Culture
+Who directed "Pulp Fiction"?
+Quentin Tarantino
+Christopher Nolan
+Stanley Kubrick
+Martin Scorsese
+
+Culture
+Who hosts the "Joe Rogan Experience" podcast?
+Joe Rogan
+Joe Exotic
+Joe Biden
+Joe Dirt
+
+Culture
+In "Star Trek," what is Spock's species?
+Vulcan
+Borg
+Ferengi
+Elvis Impersonator
+
+Culture
+What is Taylor Swift's debut album?
+Taylor Swift
+Fearless
+1989
+Speak Now
+
+Culture
+What is the fictional setting of the "Star Wars" series?
+A galaxy far, far away
+Chicago
+Toronto
+Amazon Rainforest
+
+Culture
+Who plays the character Sheldon Cooper on "The Big Bang Theory"?
+Jim Parsons
+Johnny Galecki
+Simon Helberg
+Kunal Nayyar
+
+Culture
+Who played Jack Sparrow in "Pirates of the Caribbean"?
+Johnny Depp
+Orlando Bloom
+Geoffrey Rush
+Keira Knightley
+
+Culture
+What is the name of the lion in "The Lion King"?
+Simba
+Mufasa
+Scar
+Pumbaa
+
+Culture
+In which series would you find the character Don Draper?
+Mad Men
+Breaking Bad
+The Sopranos
+The West Wing
+
+Culture
+Who did Collin Firth play in "The King's Speech"?
+King George VI
+Prince Albert
+Edward VIII
+Henry VIII
+
+Culture
+What year was Netflix founded?
+1997
+2000
+2005
+2010
+
+Culture
+Who composed "The Planets" suite?
+Gustav Holst
+Wolfgang Amadeus Mozart
+Ludwig van Beethoven
+Johann Sebastian Bach
+
+Culture
+Who is the author of the "Twilight" series?
+Stephenie Meyer
+Suzanne Collins
+J.K. Rowling
+J.R.R. Tolkien
+
+Culture
+Who created Batman?
+Bob Kane
+Stan Lee
+John Romita
+Steve Ditko
+
+Culture
+What is the Joker's real name?
+Arthur Fleck
+Joey Clown
+Mister Giggles
+Punchline Pete
+
+Culture
+Who wrote "The Grapes of Wrath"?
+John Steinbeck
+Ernest Hemingway
+F. Scott Fitzgerald
+George Orwell
+
+Culture
+In which film did Robert Pattinson play a vampire?
+Twilight
+Harry Potter
+Paranormal Activity
+The Vampire Diaries
+
+Culture
+Who directed the film "Inception"?
+Christopher Nolan
+Steven Spielberg
+Quentin Tarantino
+Wes Anderson
+
+Culture
+In "The Little Mermaid," what is the name of Ariel's best friend?
+Flounder
+Dory
+Sebastian
+Nemo
+
+Culture
+In "The Matrix", what color is the pill that Neo takes?
+Red
+Blue
+Green
+Yellow
+
+Culture
+What is the name of the coffee shop in "Friends"?
+Central Perk
+Java Junction
+Brew Buddies
+Coffee Comrades
+
+Culture
+Who played the title role in "The Big Lebowski"?
+Jeff Bridges
+John Goodman
+Steve Buscemi
+Julianne Moore
+
+Culture
+What is the name of Captain Ahab's ship in "Moby-Dick"?
+Pequod
+Nantucket
+Narwhal
+Leviathan
+
+Culture
+Who was the first host of "The Tonight Show"?
+Steve Allen
+Johnny Carson
+Jay Leno
+Jack Paar
+
+Culture
+Who is Kermit's girlfriend on "The Muppet Show"?
+Miss Piggy
+Janice
+Rowlf
+Fozzie Bear
+
+Culture
+Which actor portrayed Spider-Man first?
+Tobey Maguire
+Andrew Garfield
+Tom Holland
+Nicholas Hammond
+
+Culture
+Who wrote "Pride and Prejudice"?
+Jane Austen
+Charlotte Bronte
+Emily Bronte
+George Eliot
+
+Culture
+Who starred as Max Rockatansky in the original "Mad Max"?
+Mel Gibson
+Tom Hardy
+Heath Ledger
+Russell Crowe
+
+Culture
+On "Seinfeld", what is Kramer's first name?
+Cosmo
+Jerry
+George
+Elaine
+
+Culture
+What is the name of the main character in "The Great Gatsby"?
+Jay Gatsby
+Nick Carraway
+Tom Buchanan
+Daisy Buchanan
+
+Culture
+Who played The Black Panther in the Marvel Cinematic Universe?
+Chadwick Boseman
+Michael B. Jordan
+Iidris Elba
+Anthony Mackie
+
+Culture
+What band is known as the "Fab Four"?
+The Beatles
+The Rolling Stones
+U2
+Queen
+
+Culture
+What city is Batman's home?
+Gotham City
+Metropolis
+New York City
+Chicago
+
+Culture
+Who composed the music for "Star Wars"?
+John Williams
+Hans Zimmer
+Ennio Morricone
+Danny Elfman
+
+Culture
+What's the name of Harry Potter’s owl?
+Hedwig
+Harry the Hawk
+Honey-eyed Hootie
+Harrish
+
+Culture
+Who wrote "Game of Thrones" novels?
+George R.R. Martin
+J.R.R. Tolkien
+Stephen King
+J.K. Rowling
+
+Culture
+Who played Tony Stark in the Marvel Cinematic Universe?
+Robert Downey Jr.
+Chris Evans
+Tom Hiddleston
+Mark Ruffalo
+
+Culture
+What's the name of the virtual reality world in 'Ready Player One'?
+Oasis
+Wildest Dreams
+Digital Playground
+Second Life
+
+Culture
+In what series is the phrase "Winter is Coming" from?
+Game of Thrones
+The Crown
+Breaking Bad
+Friends
+
+Culture
+Who composed the music for West Side Story?
+Leonard Bernstein
+Andrew Lloyd Webber
+Claude-Michel Schönberg
+Cole Porter
+
+Culture
+What's the main character's name in 'To Kill a Mockingbird'?
+Scout Finch
+Boo Radley
+Harper Lee
+Atticus Finch
+
+Culture
+Who painted 'The Starry Night'?
+Vincent Van Gogh
+Pablo Picasso
+Michelangelo
+Claude Monet
+
+Culture
+Who directed 'Pulp Fiction'?
+Quentin Tarantino
+Steven Spielberg
+George Lucas
+Alfred Hitchcock
+
+Culture
+What writer duo created 'Rick and Morty'?
+Dan Harmon and Justin Roiland
+Matt Stone and Trey Parker
+Michael LeSieur and Tommy Swerdlow
+Seth MacFarlane and Steve Callaghan
+
+Culture
+Who sings the song 'Bad Guy'?
+Billie Eilish
+Taylor Swift
+Ariana Grande
+Dua Lipa
+
+Culture
+What are the names of Disney's 'Sleeping Beauty' three fairy godmothers?
+Flora, Fauna, and Merryweather
+Cinderella, Belle, and Ariel
+Snug, Plum, and Fig
+Rose, Ivy, and Lily
+
+Culture
+What are the names of the four houses in 'Hogwarts School of Witchcraft and Wizardry'?
+Gryffindor, Hufflepuff, Ravenclaw, Slytherin
+Hobbit, Dwarf, Elf, Human
+Eagle, Bear, Lion, Cobra
+Ruby, Emerald, Sapphire, Amethyst
+
+Culture
+Who is considered the King of Pop?
+Michael Jackson
+Elvis Presley
+Prince
+John Lennon
+
+Culture
+Who wrote 'Pride and Prejudice'?
+Jane Austen
+Charlotte Bronte
+George Eliot
+Virginia Woolf
+
+Culture
+In what film does Kate Winslet fall in love with a fugitive?
+The Reader
+Titanic
+Eternal Sunshine of the Spotless Mind
+Revolutionary Road
+
+Culture
+Who sang the song 'Like a Virgin'?
+Madonna
+Whitney Houston
+Beyonce
+Britney Spears
+
+Culture
+Which 'Friends' character was a paleontologist?
+Ross Geller
+Rachel Green
+Chandler Bing
+Joey Tribbiani
+
+Culture
+Which TV series is set in Albuquerque, New Mexico?
+Breaking Bad
+Friends
+The Crown
+Stranger Things
+
+Culture
+Who wrote 'The Shining'?
+Stephen King
+J.K. Rowling
+H.P. Lovecraft
+George Orwell
+
+Culture
+Who is Mario's brother in the video game series?
+Luigi
+Peach
+Bowser
+Yoshi
+
+Culture
+What's the name of Don Quixote’s horse?
+Rocinante
+Bellerophon
+Pegasus
+Trigger
+
+Culture
+Who painted the 'Mona Lisa'?
+Leonardo da Vinci
+Vincent van Gogh
+Pablo Picasso
+Claude Monet
+
+Culture
+What's the name of the coffee shop in 'Friends'?
+Central Perk
+Brew Buddies
+Mocha Joe's
+The Coffee Bean
+
+Culture
+Who sings the song 'Shake It Off'?
+Taylor Swift
+Ariana Grande
+Katy Perry
+Selena Gomez
+
+Culture
+What’s the villain's name in Batman: 'The Dark Knight'?
+The Joker
+The Penguin
+Catwoman
+Two-Face
+
+Culture
+In 'The Simpsons,' who’s the bar owner?
+Moe Szyslak
+Barney Gumble
+Homer Simpson
+Ned Flanders
+
+Culture
+What's the name of SpongeBob's pet snail?
+Gary
+Squidward
+Mr. Krabs
+Larry
+
+Culture
+Who wrote 'A Song of Ice and Fire'?
+George R. R. Martin
+J.R.R. Tolkien
+Patrick Rothfuss
+J.K. Rowling
+
+Culture
+In what show do we find Moe’s Tavern?
+The Simpsons
+Family Guy
+Friends
+Cheers
+
+Culture
+Who won the Oscar for best supporting actor in 'Whiplash'?
+J.K. Simmons
+Tom Hanks
+Brad Pitt
+Christopher Plummer
+
+Culture
+Who voiced 'Frozen'’s Elsa?
+Idina Menzel
+Kristen Bell
+Mandy Moore
+Emma Watson
+
+Culture
+Who wrote 'A Tale of Two Cities'?
+Charles Dickens
+George Orwell
+F. Scott Fitzgerald
+H.G. Wells
+
+Culture
+What TV show revolves around chemistry teacher turned meth cook Walter White?
+Breaking Bad
+The Sopranos 
+The Big Bang Theory
+Stranger Things
+
+Culture
+Who painted 'The Persistence of Memory'?
+Salvador Dali
+Pablo Picasso
+Claude Monet
+Vincent Van Gogh
+
+Culture
+What grunge band was Kurt Cobain part of?
+Nirvana
+Pearl Jam
+Soundgarden
+Alice In Chains
+
+Culture
+Who wrote 'Les Misérables'?
+Victor Hugo
+Alexandre Dumas
+Charles Dickens
+Honoré de Balzac
+
+Culture
+Who directed 'Inception'?
+Christopher Nolan
+Steven Spielberg
+Quentin Tarantino
+Alfred Hitchcock
+
+Culture
+In 'Game of Thrones,' who is Jon Snow’s love interest?
+Ygritte
+Cersei Lannister
+Arya Stark
+Daenerys Targaryen
+
+Culture
+Who wrote 'The Catcher in the Rye'?
+J.D. Salinger
+F. Scott Fitzgerald
+Ernest Hemingway
+George Orwell
+
+Culture
+Who sang the song 'Bohemian Rhapsody'?
+Queen
+The Beatles
+The Rolling Stones
+Aerosmith
+
+Culture
+In 'The Wizard of Oz', what does the Scarecrow want?
+A brain
+A heart
+Courage
+To go home
+
+Culture
+What are the names of the sisters in 'Little Women'?
+Meg, Jo, Beth, and Amy
+Jane, Elizabeth, Mary, Kitty, Lydia
+Ana, Elsa, Olga, Ingrid
+Belle, Celine, Anne, Mary
+
+Culture
+What children's author wrote 'Charlie and the Chocolate Factory'?
+Roald Dahl
+J.K. Rowling
+Dr. Seuss
+Beatrix Potter
+
+Culture
+Who are the two main characters of 'Romeo and Juliet'?
+Romeo Montague and Juliet Capulet
+Romeo Capulet and Juliet Montague
+Romeo Tybalt and Juliet Montague
+Romeo Montague and Juliet Tybalt
+
+Culture
+In 'The Lord of the Rings,' which character is the ring bearer?
+Frodo Baggins
+Samwise Gamgee
+Gandalf
+Aragorn
+
+Culture
+What TV show features zombies known as "walkers"?
+The Walking Dead
+Breaking Bad
+Game of Thrones
+Stranger Things
+
+Culture
+Who sang 'Purple Rain'?
+Prince
+Elvis Presley
+Michael Jackson
+Mick Jagger
+
+Culture
+What's the name of the duck in 'Tom and Jerry'?
+Quacker
+Daffy
+Donald
+Drake
+
+Culture
+What's the name of Sherlock Holmes' sidekick?
+Dr. John Watson
+Prof. James Moriarty
+Mrs. Hudson
+Detective Lestrade
+
+Culture
+Who is the main antagonist in 'Star Wars: A New Hope'?
+Darth Vader
+Yoda
+Boba Fett
+Jabba the Hutt
+
+Culture
+Who wrote ‘His Dark Materials’ trilogy?
+Philip Pullman
+J.K. Rowling
+C.S. Lewis
+George R.R. Martin
+
+Culture
+In what show does Ted Mosby tell his children the story of how he met their mother?
+How I Met Your Mother
+Friends
+Big Bang Theory
+Seinfeld
+
+Culture
+Who is famous for his comedic silent films, including 'The Tramp'?
+Charlie Chaplin
+Buster Keaton
+Harold Lloyd
+Laurel and Hardy
+
+Culture
+Who wrote the novel 'Moby Dick'?
+Herman Melville
+Mark Twain
+Ernest Hemingway
+Charles Dickens
+
+Culture
+Who wrote the musical 'Hamilton'?
+Lin-Manuel Miranda
+Andrew Lloyd Webber
+Stephen Sondheim
+Benny Andersson and Björn Ulvaeus
+
+Culture
+In 'The Jungle Book', who teaches Mowgli about 'The Bare Necessities' of life?
+Baloo
+Bagheera
+Kaa
+Shere Khan
+
+Culture
+What snack is Scooby Doo and Shaggy always on the hunt for?
+Scooby Snacks
+Doggy Biscuits
+Mystery Munchies
+Haunted Hotdogs
+
+Culture
+Which actor played the character of 'Rocky Balboa'?
+Sylvester Stallone
+Arnold Schwarzenegger
+Bruce Willis
+Paul Newman
+
+Culture
+What's the surname of the sisters in 'Pride and Prejudice'?
+Bennet
+Dashwood
+Everdeen
+Bronte 
+
+Culture
+What's Batman’s real name?
+Bruce Wayne
+Clark Kent
+Peter Parker
+Tony Stark
+
+Culture
+What's the last name of the family in 'The Sound of Music'?
+von Trapp
+von Hammerstein
+von Liechtenstein
+von Mozart
+
+Culture
+Who won the Best Actor Oscar for the movie 'The Revenant'?
+Leonardo DiCaprio
+Tom Hardy
+Brad Pitt
+Denzel Washington
+
+Culture
+Who made the iconic moonwalk dance famous?
+Michael Jackson
+Elvis Presley
+Fred Astaire
+James Brown
+
+Culture
+Who wrote 'The Hobbit' and 'The Lord of the Rings' trilogy?
+J.R.R. Tolkien
+George R.R. Martin
+C.S. Lewis
+J.K. Rowling
+
+Culture
+In the 'Harry Potter' series, what house is Draco Malfoy in?
+Slytherin
+Gryffindor
+Hufflepuff
+Ravenclaw
+
+Culture
+Who sings the pop hit 'Bad Romance'?
+Lady Gaga
+Madonna
+Rihanna
+Beyoncé
+
+Culture
+In the film 'Jaws,' what type of creature is Jaws?
+A shark
+A whale
+A dolphin
+A piranha
+
+Culture
+Who played the lead in 'The Wolf of Wall Street'?
+Leonardo DiCaprio
+Johnny Depp
+Brad Pitt
+Tom Cruise
+
+Culture
+Who wrote the sci-fi novel '1984'?
+George Orwell
+Ray Bradbury
+Aldous Huxley
+H.G. Wells
+
+Culture
+Who are the four main characters in 'Seinfeld'?
+Jerry, Elaine, George, Kramer
+Bob, Larry, Susan, Elaine
+Jerry, Larry, George, Newman
+George, Kramer, Newman, Jerry
+
+Culture
+What show revolves around the Bluth family?
+Arrested Development
+Modern Family
+The Simpsons
+Family Guy
+
+Culture
+What's the real name of rapper Eminem?
+Marshall Mathers
+Curtis Jackson
+Calvin Broadus
+Sean Combs
+
+Culture
+Who wrote the play 'Macbeth'?
+William Shakespeare
+George Bernard Shaw
+Oscar Wilde
+Arthur Miller
+
+Culture
+In 'Tangled,' who provides the voice for Rapunzel?
+Mandy Moore
+Amanda Seyfried
+Anne Hathaway
+Emma Watson
+
+Culture
+What early 2000's show follows Lorelai and Rory, a mother and daughter in Connecticut?
+Gilmore Girls
+Friends
+Sex and the City
+Desperate Housewives
+Culture
+Who wrote "Pride and Prejudice"?
+Jane Austen
+Charles Dickens
+Emily Bronte
+Mary Shelley
+
+Culture
+What's the real name of Slim Shady?
+Eminem
+Jay Z
+Ed Sheeran
+Kanye West
+
+Culture
+Which city is the setting for the TV show "Friends"?
+New York
+Los Angeles
+Miami
+Seattle
+
+Culture
+In which state does the NASCAR Daytona 500 take place?
+Florida
+Texas
+California
+Indiana
+
+Culture
+Who played the character Tony Stark in "Iron Man"?
+Robert Downey Jr.
+Hugh Jackman
+Chris Evans
+Leonardo DiCaprio
+
+Culture
+Who is the author of the Harry Potter series?
+J.K. Rowling
+J.D. Salinger
+R.L. Stine
+H.P. Lovecraft
+
+Culture
+In which state is the TV show "Breaking Bad" set?
+New Mexico
+California
+Nevada
+Florida
+
+Culture
+What was the name of the ship in the film "Titanic"?
+Titanic
+Queen Elizabeth
+Spruce Goose
+Unsinkable Molly
+
+Culture
+What is Lady Gaga's real name?
+Stefani Joanne Angelina Germanotta
+Courtney Love
+Britney Spears
+Madonna Ciccone
+
+Culture
+The Broadway hit "Hamilton" is based on whose life?
+Alexander Hamilton
+Aaron Burr
+George Washington
+Thomas Jefferson
+
+Culture
+What is the name of Homer’s wife in "The Simpsons"?
+Marge
+Lisa
+Maggie
+Apu
+
+Culture
+Who played Jack in "Titanic"?
+Leonardo DiCaprio
+Johnny Depp
+Brad Pitt
+Tom Hanks
+
+Culture
+What band was Justin Timberlake previously a member of before his solo career?
+'N Sync
+Backstreet Boys
+98 Degrees
+Westlife
+
+Culture
+Who is the author of "1984"?
+George Orwell
+Aldous Huxley
+Ray Bradbury
+J.R.R. Tolkien
+
+Culture
+In the movie "The Matrix", what color pill does Neo take to see the truth about the Matrix?
+Red
+Blue
+Green
+Yellow
+
+Culture
+Who plays Daenerys Targaryen in "Game of Thrones"?
+Emilia Clarke
+Sophie Turner
+Maisie Williams
+Lena Headey
+
+Culture
+In "Star Wars: A New Hope", who is Princess Leia’s real father?
+Darth Vader
+Obi-Wan Kenobi
+Yoda
+Han Solo
+
+Culture
+Which animal is associated with Tchaikovsky's "Swan Lake" ballet?
+Swan
+Cat
+Elephant
+Cricket
+
+Culture
+In the TV show "Friends", what is the name of Rachel's dog?
+Laika
+Hachi
+Balto
+She doesn't have a dog
+
+Culture
+Who wrote the play "Death of a Salesman"?
+Arthur Miller
+Tennessee Williams
+Eugene O'Neill
+Samuel Beckett
+
+Culture
+Who is the author of the "Chronicles of Narnia" series?
+C.S. Lewis
+Brian Jacques
+Terry Pratchett
+J.K. Rowling
+
+Culture
+What profession does Indiana Jones have when he’s not adventuring?
+Archaeology Professor
+Police Officer
+Truck Driver
+Plumber
+
+Culture
+Which group sang the song "Hotel California"?
+The Eagles
+The Beach Boys
+Fleetwood Mac
+The Rolling Stones
+
+Culture
+Which character said, "To be or not to be" in a Shakespeare play?
+Hamlet
+Macbeth
+King Lear
+Othello
+
+Culture
+Who portrayed James Bond in the movie "Skyfall"?
+Daniel Craig
+Sean Connery
+Roger Moore
+Pierce Brosnan
+
+Culture
+Who painted Starry Night?
+Vincent van Gogh
+Leonardo da Vinci
+Pablo Picasso
+Salvador Dalí
+
+Culture
+Who composed the iconic 5th Symphony?
+Ludwig van Beethoven
+Wolfgang Amadeus Mozart
+Johann Sebastian Bach
+Franz Schubert
+
+Culture
+What age is Adele's album "25" named after?
+Her own age at the time
+Her husband's age
+Her daughter's age
+The age her dog turned that year
+
+Culture
+Who directed the film "The Godfather"?
+Francis Ford Coppola
+Martin Scorsese
+Steven Spielberg
+George Lucas
+
+Culture
+Who is the creator of the Star Trek franchise?
+Gene Roddenberry
+George Lucas
+Stan Lee
+Joss Whedon
+
+Culture
+What's the subtitle of the second Harry Potter book?
+Chamber of Secrets
+Goblet of Fire
+Order of the Phoenix
+Deathly Hallows
+
+Culture
+Which superhero is Clark Kent's alter ego?
+Superman
+Batman
+Spider-Man
+The Flash
+
+Culture
+What novel features protagonist Katniss Everdeen?
+The Hunger Games
+Twilight
+Divergent
+Fahrenheit 451
+
+Culture
+Who was the lead vocalist of band Queen?
+Freddie Mercury
+David Bowie
+Mick Jagger
+John Lennon
+
+Culture
+What is the name of Princess Diana's youngest son?
+Prince Harry
+Prince William
+Prince Charles
+Prince Philip
+
+Culture
+Which novel features the character Captain Ahab?
+Moby Dick
+Treasure Island
+Pride and Prejudice
+To Kill a Mockingbird
+
+Culture
+Who painted the Mona Lisa?
+Leonardo da Vinci
+Vincent van Gogh
+Claude Monet
+Pablo Picasso
+
+Culture
+Who is the author of "Moby Dick"?
+Herman Melville
+Ernest Hemingway
+Charles Dickens
+Mark Twain
+
+Culture
+Who designed the Eiffel Tower?
+Gustave Eiffel
+Leonardo da Vinci
+Archimedes
+Pierre Curie
+
+Culture
+What's the setting of the TV show "The Sopranos"?
+New Jersey
+Italy
+New York
+Los Angeles
+
+Culture
+What is Tom Cruise's character's name in "Top Gun"?
+Maverick
+Goose
+Iceman
+Hawk
+
+Culture
+Who composed the Four Seasons?
+Antonio Vivaldi
+Ludwig van Beethoven
+Johannes Brahms
+Claude Debussy
+
+Culture
+Who wrote "To Kill a Mockingbird"?
+Harper Lee
+Virginia Woolf
+Emily Dickinson
+George Eliot
+
+Culture
+Who is the author of "The Great Gatsby"?
+F. Scott Fitzgerald
+Ernest Hemingway
+J.D. Salinger
+John Steinbeck
+
+Culture
+What nationality was Pablo Picasso?
+Spanish
+Italian
+French
+German
+
+Culture
+What is the name of Beyoncé's husband?
+Jay Z
+Kanye West
+Usher
+Justin Timberlake
+
+Culture
+What instrument did Louis Armstrong play?
+Trumpet
+Saxophone
+Piano
+Drums
+
+Culture
+What's the highest grossing movie of all time (unadjusted for inflation)?
+Avengers: Endgame
+Titanic
+Avatar
+Star Wars: The Force Awakens
+
+Culture
+Whose life is the Broadway musical "Jersey Boys" based on?
+Frankie Valli & The Four Seasons
+The Beatles
+The Rolling Stones
+Queen
+
+Culture
+What city does Batman protect in the comics?
+Gotham City
+Metropolis
+New York
+San Francisco
+
+Culture
+Who wrote the novel "1984"?
+George Orwell
+Aldous Huxley
+Isaac Asimov
+Ernest Hemingway
+
+Culture
+Who created Mickey Mouse?
+Walt Disney
+Fritz Freleng
+Charles M. Schulz
+Stan Lee
+
+Culture
+What color is the ring that controls fear in the "Green Lantern" series?
+Yellow
+Green
+Red
+Blue
+
+Culture
+What was the name of Taylor Swift's first album?
+Taylor Swift
+Speak Now
+Red
+Fearless
+
+Culture
+Who composed the opera "Madame Butterfly"?
+Giacomo Puccini
+Richard Wagner
+Johannes Brahms
+Wolfgang Amadeus Mozart
+
+Culture
+Which actor portrays Iron Man in the Marvel Cinematic Universe?
+Robert Downey Jr.
+Chris Evans
+Paul Rudd
+Jeremy Renner
+
+Culture
+"Hello" is a hit song by which artist?
+Adele
+Rihanna
+Beyonce
+Taylor Swift
+
+Culture
+Who created the fashion brand Chanel?
+Coco Chanel
+Dior
+Versace
+Louis Vuitton
+
+Culture
+The character Holden Caulfield is from which novel?
+The Catcher in the Rye
+To Kill a Mockingbird
+Pride and Prejudice
+Great Expectations
+
+Culture
+Who won the Nobel Prize in Literature in 2016?
+Bob Dylan
+Margaret Atwood
+Toni Morrison
+Haruki Murakami
+
+Culture
+Which band had a hit with "Stairway to Heaven"?
+Led Zeppelin
+Queen
+The Beatles
+The Rolling Stones
+
+Culture
+Who directed the film "Pulp Fiction"?
+Quentin Tarantino
+Martin Scorsese
+Steven Spielberg
+Stanley Kubrick
+
+Culture
+Who wrote "Les Misérables"?
+Victor Hugo
+Charles Dickens
+Alexandre Dumas
+Fyodor Dostoevsky
+
+Culture
+What is the alter ego of Peter Parker?
+Spider-Man
+Batman
+Superman
+Iron Man 
+
+Culture
+Steven Spielberg directed which dinosaur movie?
+Jurassic Park
+Godzilla
+King Kong
+Dinosaur
+
+Culture
+Who wrote "The Catcher in the Rye"?
+J.D. Salinger
+F. Scott Fitzgerald
+John Steinbeck
+Harper Lee
+
+Culture
+What is the name of Sherlock Holmes's sidekick?
+Dr. Watson
+Dr. Jekyll
+Dr. Doolittle
+Dr. Frankenstein
+
+Culture
+David Bowie's real name was what?
+David Jones
+David Smith
+David Johnson
+David Davies
+
+Culture
+In the "Harry Potter" series, which house did Harry belong to?
+Gryffindor
+Slytherin
+Ravenclaw
+Hufflepuff
+
+Culture
+Who composed the music for "The Lion King"?
+Elton John
+Phil Collins
+Paul McCartney
+Billy Joel
+
+Culture
+What is the name of the clown in "It"?
+Pennywise
+Bozo
+Patch
+Ronald
+
+Culture
+Who wrote "A Tale of Two Cities"?
+Charles Dickens
+William Shakespeare
+Mark Twain
+George Orwell
+
+Culture
+What is the second book in the "Twilight" series?
+New Moon
+Eclipse
+Breaking Dawn
+Twilight's Dawn
+
+Culture
+Who wrote the stage play "Waiting for Godot"?
+Samuel Beckett
+Arthur Miller
+Tennessee Williams
+Harold Pinter
+
+Culture
+What is Dorian Gray's secret in Oscar Wilde's novel?
+His portrait ages, but he does not
+He's a vampire
+He's the devil
+He's immortal but not because of a painting
+
+Culture
+Who wrote "The Adventures of Tom Sawyer"?
+Mark Twain
+Herman Melville
+Ernest Hemingway
+F. Scott Fitzgerald
+
+Culture
+Who directed "Gone with the Wind"?
+Victor Fleming
+George Cukor
+David O. Selznick
+William Wyler
+
+Culture
+Who is the star of the movie "Die Hard"?
+Bruce Willis
+Arnold Schwarzenegger
+Keanu Reeves
+Sylvester Stallone
+
+Culture
+What's the title of Beyoncé's debut solo album?
+Dangerously in Love
+B'Day
+I Am... Sasha Fierce
+Lemonade
+
+Culture
+Who wrote the screenplay for "The Social Network"?
+Aaron Sorkin
+Quentin Tarantino
+Christopher Nolan
+Paul Thomas Anderson
+
+Culture
+Who is the protagonist in the "Indiana Jones" series?
+Indiana Jones
+Jack Ryan
+James Bond
+John McClane
+Culture
+Which series of books features Katniss Everdeen as the protagonist?
+The Hunger Games
+The Chronicles of Narnia
+Twilight
+The Da Vinci Code
+
+Culture
+The show Seinfeld was primarily set in which city?
+New York City
+Chicago
+Seattle
+Los Angeles
+
+Culture
+What Beatles song was banned by the BBC because of its political nature?
+A Day in the Life
+Hey Jude
+Let It Be
+Yellow Submarine
+
+Culture 
+Who wrote the novel "The Catcher in the Rye"?
+J D Salinger
+Ernest Hemingway
+F Scott Fitzgerald
+Stephen King
+
+Culture
+What's Matthew McConaughey's signature catchphrase? 
+Alright, Alright, Alright
+Howdy, Howdy, Howdy
+Cheers, Cheers, Cheers
+Yes, Yes, Yes 
+
+Culture
+Which rapper coined "Yeezy" as his nickname?
+Kanye West 
+Drake
+Eminem
+Jay Z
+
+Culture
+The Sound of Music was set in which country?
+Austria
+Germany
+Switzerland
+France
+
+Culture
+Who directed the movie Pulp Fiction?
+Quentin Tarantino
+Steven Spielberg
+Martin Scorsese
+Woody Allen
+
+Culture
+Which Broadway musical is about a deformed bell-ringer in Notre-Dame?
+The Hunchback of Notre Dame
+Beauty and the Beast
+Evita
+The Phantom of the Opera
+
+Culture
+Who served as the host of "The Daily Show" before Trevor Noah?
+Jon Stewart
+Stephen Colbert
+Jimmy Fallon
+Craig Ferguson
+
+Culture
+In the office, who is the head of Dunder Mifflin's Scranton branch?
+Michael Scott
+Dwight Schrute
+Jim Halpert
+Andy Bernard
+
+Culture
+What is the name of Sherlock Holmes's landlady in the books by Arthur Conan Doyle?
+Mrs. Hudson
+Mrs. Smith
+Mrs. Watson
+Mrs. Baker
+
+Culture
+What item does Indiana Jones famously fear in the Indiana Jones series?
+Snakes
+Spiders
+Sharks
+Boulders
+
+Culture
+Who wrote the song "Bad Guy"?
+Billie Eilish
+Ariana Grande
+Lorde
+Dua Lipa
+
+Culture
+In 1984, what author wrote a dystopian novel?
+George Orwell
+Aldous Huxley
+Ray Bradbury
+Margaret Atwood
+
+Culture
+Who narrates the 1999 film Fight Club?
+Edward Norton
+Brad Pitt
+Helena Bonham Carter
+Jared Leto
+
+Culture
+Which movie features a "flux capacitor" as a time-travel device?
+Back to the Future
+Looper
+Interstellar
+Men in Black
+
+Culture
+Lady Macbeth is a character in which play by William Shakespeare?
+Macbeth
+Othello
+Hamlet
+King Lear
+
+Culture
+Who played Wolverine in the X-Men Movies?
+Hugh Jackman
+Ryan Reynolds
+Chris Hemsworth
+Brad Pitt
+
+Culture
+On the show, Arrested Development who lost part of his arm performing a magic trick?
+Buster Bluth
+George Michael Bluth
+Michael Bluth
+Gob Bluth
+
+Culture
+What actor played the iconic role of Harry Potter in the movie franchise?
+Daniel Radcliffe
+Ralph Fiennes
+Rupert Grint
+Tom Felton
+
+Culture
+The autobiography "Bossypants" was written by what comedic actress?
+Tina Fey
+Amy Poehler
+Kristen Wiig
+Melissa McCarthy
+
+Culture
+Who won the best actor Oscar for the film "The King's Speech"?
+Colin Firth
+Tom Hanks
+Leonardo DiCaprio
+Brad Pitt
+
+Culture
+In Star Wars, who was Anakin Skywalker's master?
+Obi-Wan Kenobi
+Yoda
+Qui-Gon Jinn
+Mace Windu
+
+Culture
+Who wrote the Ugly Betty TV show?
+Silvio Horta
+Shonda Rhimes
+Aaron Sorkin
+David E. Kelley
+
+Culture
+In the show "Parks and Recreation", who is Ron Swanson's first wife?
+Tammy One
+Tammy Two
+April
+Ann
+
+Culture
+Who is the author of "A Series of Unfortunate Events"?
+Lemony Snicket
+R.L. Stine
+Roald Dahl
+J.K. Rowling
+
+Culture
+Who played the Joker in the 2008 film "The Dark Knight"?
+Heath Ledger
+Jack Nicholson
+Jared Leto
+Joquin Phoenix
+
+Culture
+Which superhero is not a part of Marvel's Avengers?
+Batman
+Iron Man
+Captain America
+Hulk
+
+Culture
+What novel by Harper Lee won the Pulitzer Prize in 1961?
+To Kill a Mockingbird
+In Cold Blood
+The Great Gatsby
+Moby Dick
+
+Culture
+Who directed the movie "Inception"?
+Christopher Nolan
+Martin Scorsese
+Stanley Kubrick
+Steven Spielberg
+
+Culture
+What show does "Winter is Coming" line come from?
+Game of Thrones
+Breaking Bad
+Stranger Things
+The Walking Dead
+
+Culture
+Who served as the original host of "Jeopardy"?
+Alex Trebek
+Pat Sajak
+Steve Harvey
+Drew Carey
+
+Culture
+Which rapper was also known as 'Slim Shady'?
+Eminem
+Drake
+Lil Wayne
+50 Cent
+
+Culture
+In the Big Bang Theory, what exactly does Sheldon Cooper's job involve?
+Theoretical Physics
+Biological Studies
+Philosophical Thinking
+Musical Composing
+
+Culture
+Who is the author of "The Da Vinci Code"?
+Dan Brown
+Stephen King
+James Patterson
+John Grisham
+
+Culture
+Mary Poppins is a character from?
+Disney
+Looney Tunes
+Warner Bros
+Pixar
+
+Culture
+Which actor starred as Iron Man in the Marvel Cinematic Universe?
+Robert Downey Jr.
+Chris Evans
+Chris Hemsworth
+Mark Ruffalo
+
+Culture
+"Dunder Mifflin, this is Pam" is a reference to which TV show?
+The Office
+Parks and Recreation
+The Big Bang Theory
+Friends
+
+Culture
+Who directed the Lord of the Rings trilogy?
+Peter Jackson
+George Lucas
+James Cameron
+Steven Spielberg
+
+Culture
+From which series of children's books do both Nymphadora Tonks and Fleur Delacour hail from?
+Harry Potter
+Percy Jackson
+The Hunger Games
+Twilight
+
+Culture
+Which pop star sings the hit song "Shake It Off"?
+Taylor Swift
+Katy Perry
+Beyonce
+Miley Cyrus
+
+Culture
+"Monet X Change" won which season of RuPaul's Drag Race All-Stars?
+4
+5
+3
+2
+
+Culture
+Who created the television show "Luther"?
+Neil Cross
+David E. Kelley
+Vince Gilligan
+Brian Yorkey
+
+Culture
+Breaking Bad's Walter White is a teacher of which subject?
+Chemistry
+Physics
+Mathematics
+English Literature
+
+Culture
+Which late night host's show features a segment called "Mean Tweets"?
+Jimmy Kimmel
+Jimmy Fallon
+Stephen Colbert
+John Oliver
+
+Culture
+In the show "Friends", who was Ross's first wife?
+Carol Willick
+Rachel Green
+Emily Waltham
+Julie
+
+Culture
+Joan Didion wrote "The Year of Magical..." what?
+Thinking
+Dancing
+Dreaming
+Wishing
+
+Culture
+The famous phrase "To be, or not to be" comes from which Shakespeare play?
+Hamlet
+Macbeth
+Romeo and Juliet
+Othello
+
+Culture
+Who directed "Jurassic Park"?
+Steven Spielberg
+George Lucas
+Alfred Hitchcock
+Stanley Kubrick
+
+Culture
+The Sopranos is set in which US state?
+New Jersey
+New York
+Pennsylvania
+California
+
+Culture
+Who is the author of "The Martian" that was later made into a movie?
+Andy Weir
+Ernest Cline
+Neal Stephenson
+James S. A. Corey
+
+Culture
+Whose life is the musical "Hamilton" based on?
+Alexander Hamilton
+Thomas Jefferson
+George Washington
+Aaron Burr
+
+Culture
+Which band is known for the hit "Bohemian Rhapsody"?
+Queen
+The Beatles
+Pink Floyd
+The Rolling Stones
+
+Culture
+In "How I Met Your Mother", what is Barney Stinson's most used catchphrase?
+"Suit up!"
+"Have you met Ted?"
+"Legen..wait for it..dary"
+"It's gonna be legen..wait for it..dary"
+
+Culture
+What is the name of Jon Snow's direwolf in Game of Thrones?
+Ghost
+Grey Wind
+Summer
+Nymeria
+
+Culture
+Which famous American playwright wrote A Streetcar Named Desire?
+Tennessee Williams
+Arthur Miller
+Eugene O'Neill
+Edward Albee
+
+Culture
+Who is the author of "The Hunger Games" trilogy?
+Suzanne Collins
+J.K. Rowling
+Stephenie Meyer
+C.S. Lewis.
+
+Culture
+Who wrote the script for "The West Wing"?
+Aaron Sorkin
+Shonda Rhimes
+Neil Simon
+David Mamet
+
+Culture
+The novel "Catch-22" was set during which war?
+World War II
+Vietnam War
+Korean War
+World War I
+
+Culture
+The 2010 film "The Social Network" was based on the creation of which website?
+Facebook
+LinkedIn
+Instagram
+Twitter
+
+Culture
+Who played Han Solo in the original Star Wars trilogy?
+Harrison Ford
+Mark Hamill
+Carrie Fisher
+Billy Dee Williams
+
+Culture
+Who wrote "The Fault in Our Stars"?
+John Green
+J.K. Rowling
+Markus Zusak
+James Dashner
+
+Culture
+"Carry On Wayward Son" is a hit song by which band?
+Kansas
+The Eagles
+Journey
+Led Zeppelin
+
+Culture
+"Life is like a box of chocolates, you never know what you're gonna get" is a quote from which film?
+Forrest Gump
+The Shawshank Redemption
+Casablanca
+The Godfather
+
+Culture
+Who played Tony Stark's father in the Marvel movies?
+John Slattery
+Robert Downey, Sr.
+Jeff Bridges
+Stan Lee
+
+Culture
+What is the name of the main character in "The Bourne Identity"?
+Jason Bourne
+James Bond
+Jack Ryan
+Ethan Hunt
+
+Culture
+The boys' choir in which sitcom sings the song "Blue Shadows on the Trail"?
+The Big Bang Theory
+30 Rock
+The Simpsons
+Community
+
+Culture
+Modern Family is primarily set in which city?
+Los Angeles
+New York
+Chicago
+San Francisco
+
+Culture
+What does James T. Kirk command in Star Trek?
+US Enterprise
+US Millenium Falcon
+US Death Star
+US Voyager
+
+Culture
+In the Harry Potter series, who teaches Divination at Hogwarts?
+Sybill Trelawney
+Severus Snape
+Albus Dumbledore
+Minerva McGonagall
+
+Culture
+Fenrir Greyback is a character in what book series?
+Harry Potter
+The Vampire Diaries
+The Hobbit
+A Song of Ice and Fire
+
+Culture
+The vocal group Pentatonix won which reality competition show?
+The Sing-Off
+American Idol
+The Voice
+America's Got Talent
+
+Culture
+Who plays "Eleven" in the Netflix series "Stranger Things"?
+Millie Bobby Brown
+Winona Ryder
+Natalia Dyer
+Sadie Sink
+
+Culture
+Who is the author of the classic novel "1984"?
+George Orwell
+Aldous Huxley
+Charles Dickens
+F Scott Fitzgerald
+
+Culture
+Who played the Genie in the 1992 Disney’s Aladdin Work?
+Robin Williams
+Will Smith
+Tom Hanks
+Billy Crystal
+
+Culture
+Who hosted "The Late Show" before Stephen Colbert?
+David Letterman
+Jay Leno
+Jimmy Fallon
+Conan O'Brien
+
+Culture
+In the TV show Friends, what's the name of Ross and Monica’s dog when they were kids?
+Chi-Chi
+Marcel
+Yeller
+Smelly Cat
+
+Culture
+Which C.S. Lewis series features a magical world found in a wardrobe?
+The Chronicles of Narnia
+The Screwtape Letters
+A Grief Observed
+The Space Trilogy
+
+Culture
+"Hamilton" the musical was written by who?
+Lin-Manuel Miranda
+Andrew Lloyd Webber
+Stephen Sondheim
+Claude-Michel Schönberg
+
+Culture
+What novel has the lead character Bridget with a diary?
+Bridget Jones's Diary
+The Diary of a Young Girl
+Diary of a Wimpy Kid
+The Princess Diaries
+
+Culture
+Who is Big Bird's best friend on Sesame Street?
+Snuffy
+Elmo
+Cookie Monster
+Grover
+
+Culture
+Who wrote the novel "The Girl with the Dragon Tattoo"?
+Stieg Larsson
+John Grisham
+Scott Turow
+Michael Connelly
+
+Culture
+In the Matrix trilogy who is Neo's love interest?
+Trinity
+Morpheus
+Agent Smith
+Oracle
+
+Culture
+Who famously played Catwoman in the 1960s Batman TV series?
+Julie Newmar
+Halle Berry
+Anne Hathaway
+Michelle Pfeiffer
+
+Culture
+The hit song "Rocket Man" was performed by which artist? 
+Elton John
+David Bowie
+Prince
+Billy Joel
+
+Culture
+"May the odds be ever in your favor" is a quote from what film/book series?
+The Hunger Games
+Harry Potter
+The Lord of the Rings
+Divergent
+
+Culture
+What creature lives in Naboo's waters in Star Wars?
+Gungans
+Sarlacc
+Ewoks
+Wampas
+
+Culture
+What Band had a massive hit with the “Hotel California” song?
+The Eagles
+Rolling Stones
+Led Zeppelin
+Pink Floyd
+
+Culture
+"Jailhouse Rock" is a song famously performed by who?
+Elvis Presley
+The Beatles
+Chuck Berry
+Buddy Holly
+
+Culture
+What TV show features characters named Ted Mosby and Barney Stinson?
+How I Met Your Mother
+Friends
+Seinfeld
+30 Rock
+
+Culture
+Aladdin’s genie was trapped in?
+A Magic Lamp
+A Magic Carpet
+A Magic Cave
+A Magic Ruby
+
+Culture
+"Hakuna Matata" is a song from which Disney film?
+The Lion King
+Aladdin
+Mulan
+Frozen
+
+Culture
+Who narrates Arrested Development?
+Ron Howard
+Mitchell Hurwitz
+Jason Bateman
+George Michael
+
+Culture
+The Great Gatsby novel is set during the ... era?
+Roaring Twenties
+Victorian Era
+Civil War Era
+Great Depression
+
+Culture
+Who played Theon Greyjoy in "Game of Thrones"?
+Alfie Allen
+Kit Harington
+Nikolaj Coster-Waldau
+Peter Dinklage
+
+Culture
+What famous pop star was the voice of Smurfette in "The Smurfs" (2011)?
+Katy Perry
+Taylor Swift
+Selena Gomez
+Ariana Grande
+
+Culture
+Who authored "The Catcher in the Rye"?
+JD Salinger
+JD Power
+HD Wells
+USB Port
+
+Culture
+Which of these is a real Taylor Swift album?
+Fearless
+Fearful
+Terrified
+Petrified
+
+Culture
+What is the name of the female lead in "Titanic"?
+Rose
+Lily
+Daisy
+Iris
+
+Culture
+In "The Hunger Games", what's the name of the battle competition?
+Hunger Games
+Dinner Games
+Appetizer Games
+Luncheon Games
+
+Culture
+Who played the role of Peter Parker in the 2002 film, "Spider-Man"?
+Tobey Maguire
+Tom Holland
+Andrew Garfield
+Spyder Manfredi
+
+Culture
+In the TV show "Friends", what's the name of Ross and Monica's dog?
+They don't have a dog
+Marcel
+Comet
+Santa's Little Helper
+
+Culture
+Who wrote the musical "Hamilton"?
+Lin-Manuel Miranda
+Aaron Burr
+King George III
+Hamilton
+
+Culture 
+What is the name of the prison in "The Shawshank Redemption"?
+Shawshank State Penitentiary
+Arkham Asylum
+Azkaban
+Folsom Prison
+
+Culture 
+Meryl Streep won an Academy Award for which film?
+The Iron Lady
+The Steel Gentlewoman
+The Copper Dame 
+The Bronze Miss
+
+Culture 
+What is the real name of author Mark Twain?
+Samuel Clemens
+Samuel Adams
+Samuel Jackson
+Samuel L. Ipsum
+
+Culture
+Who played the female lead in the movie "Pretty Woman"?
+Julia Roberts
+Pretty Woman
+Sandra Bullock
+Nicole Kidman
+
+Culture
+Who wrote "To Kill a Mockingbird"?
+Harper Lee
+Mockingbird Slayer
+Arthur Pendragon
+Scout Finch 
+
+Culture
+"Fawlty Towers" is set in which English county?
+Torquay, Devon
+Cheese, Cheshire
+Apple, Kent
+Dorset, Doily
+
+Culture
+In "Game of Thrones", what is Hodor's real name?
+Wylis
+Door Stop
+Hold The Door
+Hodor McHodorface
+
+Culture
+Who composed the music for "The Phantom of the Opera"?
+Andrew Lloyd Webber
+Webby McWebface
+Henry Purcell
+Felix Mendelssohn
+
+Culture 
+What is the blood type of Edward in "Twilight"?
+He doesn't have one
+Type A
+Type B
+Type O
+
+Culture 
+What famed monster does the character Newt study in "Fantastic Beasts"?
+Niffler
+Bloodsucker
+Gorgon
+Krakenstein
+
+Culture 
+Where did the TV show "Cheers" take place?
+Boston
+Cheersville
+New York
+Los Angeles
+
+Culture 
+Who wrote "Fifty Shades of Grey"?
+E.L. James
+K.L. Steward
+G.L. Smith
+H.L. Johnson
+
+Culture 
+Where is "The Office (US)" set?
+Scranton, Pennsylvania
+The Office Building
+Chicago, Illinois
+New York, New York
+
+Culture 
+Who originally sung "Sweet Caroline"?
+Neil Diamond
+Sour Caroline
+Iron Pyrite
+Graphite Cubic Zirconium
+
+Science
+What is the chemical formula for bleach?
+NaClO
+H2O
+CO2
+O2
+
+Science
+What does Uranium decay into?
+Lead
+Iron
+Copper
+Gold
+
+Science
+Which Mars mission first discovered water?
+Phoenix
+Voyager 1
+Pioneer
+Viking
+
+Science
+What are the lightest elements on the periodic table?
+Hydrogen and Helium
+Gold and Silver
+Iron and Copper
+Platinum and Palladium
+
+Science
+What is the most common gas found in the Earth's atmosphere?
+Nitrogen
+Oxygen
+Argon
+Carbon Dioxide
+
+Science
+What is the atomic number of Gold?
+79
+100
+50
+200
+
+Science
+What is the boiling point of water in Kelvin?
+373 K
+100 K
+30 K
+500 K
+
+Science
+Which body organ produces Insulin?
+Pancreas
+Liver
+Kidney
+Stomach
+
+Science
+What is the main element in diamonds?
+Carbon
+Oxygen
+Hydrogen
+Iron
+
+Science
+What was Marie Curie's primary field of study?
+Radioactivity
+Relativity 
+Quantum mechanics 
+Cell biology 
+
+Science
+Which planet is most similar to Earth in terms of size and mass?
+Venus
+Jupiter
+Mars
+Mercury
+
+Science
+Which planet has the largest moon in our solar system?
+Jupiter
+Venus
+Saturn
+Mars
+
+Science
+Who discovered the cause of Yellow Fever?
+Walter Reed
+Albert Einstein
+Sir Isaac Newton
+Thomas Edison
+
+Science
+What is the scientific term for the knee-cap?
+Patella
+Femur
+Tibia
+Fibula
+
+Science
+Which group of animals is cold-blooded?
+Reptiles
+Mammals
+Birds
+Insects
+
+Science
+Which chemical element has the shortest name?
+Tin
+Iron
+Gold
+Lead
+
+Science
+What is the normal blood pH level?
+7.4
+10
+5.5
+8.5
+
+Science
+Which planet rotates on its side?
+Uranus
+Mercury
+Earth
+Mars
+
+Science
+Which planet is known as the “Red Planet”?
+Mars
+Venus
+Saturn
+Jupiter
+
+Science
+How many planets in our solar system have rings?
+4
+8
+2
+6
+
+Science
+Which animal has the longest life span?
+Bowhead Whale
+Elephant
+Golden Retriever
+Mayfly
+
+Science
+What is the common name for ascorbic acid?
+Vitamin C
+Calcium
+Sodium
+Iron
+
+Science
+What does our solar system orbit around?
+The Milky Way's Center
+The Sun
+The Moon
+Galaxy's Farthest Edge
+
+Science
+What is the most common blood type?
+O+
+AB-
+B+
+AB+
+
