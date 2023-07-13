@@ -56148,3 +56148,675 @@ Raymond van Barneveld
 Gary Anderson
 
 (And so forth. I need to stop here because of the word limit. In real implementation, I would continue this pattern to create 100 questions.)
+Culture
+Who holds the record for the most home runs in a single Major League Baseball season?
+Barry Bonds
+Babe Ruth
+Mickey Mantle
+Willie Mays
+
+Culture
+What is the term for a perfect game in bowling?
+300
+Perfect 10
+Full Strike
+Kingpin
+
+Culture
+Who has won the most World Chess Champion titles?
+Garry Kasparov
+Bobby Fischer
+Anatoly Karpov
+Magnus Carlsen
+
+Culture
+In what sport do athletes compete for the America's Cup?
+Sailing
+Soccer
+Tennis
+Cricket
+
+Culture
+Who is the most decorated Olympian of all time?
+Michael Phelps
+Usain Bolt
+Simone Biles
+Larisa Latynina
+
+Culture
+Which football team has won the most Super Bowl titles?
+Pittsburgh Steelers
+New England Patriots
+Dallas Cowboys
+San Francisco 49ers
+
+Culture
+What weight division did boxing legend Muhammad Ali compete in?
+Heavyweight
+Lightweight
+Middleweight
+Featherweight
+
+Culture
+Who won the Tour de France five times consecutively from 1999 to 2003?
+Lance Armstrong
+Eddy Merckx
+Bernard Hinault
+Miguel Induráin
+
+Culture
+Who is the highest run-scorer in Test cricket?
+Sachin Tendulkar
+Ricky Ponting
+Brian Lara
+Kumar Sangakkara
+
+Culture
+Who has won the most World Championships in Professional Darts?
+Phil Taylor
+Gary Anderson
+Michael van Gerwen
+Raymond van Barneveld
+
+Culture
+Which country has won the most Rugby World Cup titles?
+New Zealand
+England
+South Africa
+Australia
+
+Culture
+What is the term used when a player scores three goals in a hockey match?
+Hat trick
+Triple Goal
+three-peat
+Treble
+
+Culture
+What is the highest possible break in snooker?
+147
+150
+120
+200
+
+Culture
+In tennis, who has won the most men's Grand Slam titles?
+Roger Federer
+Rafael Nadal
+Novak Djokovic
+Pete Sampras
+
+Culture
+Who holds the record for most touchdowns in an NFL season?
+Peyton Manning
+Tom Brady
+Drew Brees
+Aaron Rodgers
+
+Culture
+Which horse is the most recent Triple Crown winner?
+Justify
+American Pharoah
+Secretariat
+Affirmed
+
+Culture
+What is the maximum weight for a heavyweight boxer?
+200+ lbs
+210 lbs
+220 lbs
+230 lbs
+
+Culture
+What nation won the first baseball world series in 1903?
+Boston Americans (United States)
+New York Yankees (United States)
+Chicago Cubs (United States)
+Toronto Blue Jays (Canada)
+
+Culture
+Who has the most home runs in MLB history?
+Barry Bonds
+Babe Ruth
+Hank Aaron
+Willie Mays
+
+Culture
+Which NBA player has the most MVP awards?
+Kareem Abdul-Jabbar
+Michael Jordan
+LeBron James
+Magic Johnson
+
+Culture
+Who holds the record for most goals in a Premier League season?
+Mohamed Salah
+Alan Shearer
+Wayne Rooney
+Thierry Henry
+
+Culture
+What nation has the most Olympic gold medals in swimming?
+United States
+Australia
+Russia
+China
+
+Culture
+What is the fastest recorded serve in men's tennis?
+Sam Groth
+Andy Roddick
+Roger Federer
+Rafael Nadal
+
+Culture
+In motor racing, which driver has won the most F1 World Championships?
+Lewis Hamilton
+Michael Schumacher
+Niki Lauda
+Ayrton Senna
+
+Culture
+Which team won the first NBA Championship?
+Philadelphia Warriors
+Boston Celtics
+Los Angeles Lakers
+New York Knicks
+
+Culture
+What sport uses terms like "alley-oop," "dunk," and "three-pointer"?
+Basketball
+Baseball
+Football
+Hockey
+
+Culture
+Who has the most career wins in NASCAR history?
+Richard Petty
+Dale Earnhardt
+Jeff Gordon
+Jimmie Johnson
+
+Culture
+Who has scored the most goals in NHL history?
+Wayne Gretzky
+Mario Lemieux
+Gordie Howe
+Bobby Orr
+
+Culture
+In cricket, how many runs does a player score if they hit the ball over the boundary without it bouncing?
+6
+4
+5
+10
+
+Culture
+Which footballer has the most Ballon d'Or awards?
+Lionel Messi
+Cristiano Ronaldo
+Diego Maradona
+Zinedine Zidane
+
+Culture
+What is a "yogi" in baseball slang?
+A clutch player
+A left-handed player
+A slow runner
+A tough pitcher
+
+Culture
+Which NFL team won the first Super Bowl?
+Green Bay Packers
+Kansas City Chiefs
+New York Jets
+Chicago Bears
+
+Culture
+Who holds the record for most points in a single NBA game?
+Wilt Chamberlain
+Michael Jordan
+Kobe Bryant
+Kareem Abdul-Jabbar
+
+Culture
+Which nation won the first World Cup in soccer?
+Uruguay
+Brazil
+Germany
+Argentina
+
+Culture
+Who scored the "Goal of the Century" in the 1986 FIFA World Cup?
+Diego Maradona
+Pele
+Lionel Messi
+Zinedine Zidane
+
+Culture
+What is the term for a baseball game with no hits and no walks?
+Perfect game
+No-hitter
+Shutout
+Clean Sheet
+
+Culture
+In golf, what is the term for a hole-in-one on a par five?
+Condor
+Eagle
+Birdie
+Albatross
+
+Culture
+Which boxer coined the phrase "float like a butterfly, sting like a bee"?
+Muhammad Ali
+Mike Tyson
+Sugar Ray Robinson
+George Foreman
+
+Culture
+In baseball, what is a "grand slam"?
+A home run with bases loaded
+A double play
+A strong pitch
+A fast runner
+
+Culture
+Who is the all-time leading scorer in women’s professional basketball?
+Diana Taurasi
+Sue Bird
+Lisa Leslie
+Sheryl Swoopes
+
+Culture
+What is the time limit for each move in "Bullet" chess?
+1 minute
+2 minutes
+3 minutes
+5 minutes
+
+Culture
+Who holds the highest number of World Records in Track and Field events?
+Usain Bolt
+Mo Farah
+Michael Johnson
+Carl Lewis
+
+Culture
+In soccer, what is a "hat-trick"?
+Scoring three goals in one game
+Scoring a goal with a header
+Saving a penalty
+Scoring a goal from halfway line 
+
+Culture
+What does "KO" stand for in boxing?
+Knockout
+Kick off
+Knock on
+Knock over
+
+Culture
+In what year did the first modern Olympic Games take place?
+1896
+1900
+1904
+1912
+
+Culture
+Who has won the most World Snooker Championships?
+Stephen Hendry
+Ronnie O'Sullivan
+Steve Davis
+John Higgins
+
+Culture
+Which footballer has won the World Cup three times?
+Pele
+Diego Maradona
+Lionel Messi
+Ronaldo
+
+Culture
+Which country has won the most Davis Cup titles?
+USA
+Australia
+France
+Great Britain
+
+Culture
+Who is the most successful jockey in the history of the Grand National?
+George Stevens
+Ruby Walsh
+Tony McCoy
+Richard Johnson
+
+Culture
+What is the highest score possible in 10-pin bowling?
+300
+400
+500
+600
+
+Culture
+Who has the most career goals in the history of professional soccer?
+Josef Bican
+Pele
+Lionel Messi
+Cristiano Ronaldo
+
+Culture
+In which sport might you "spike" and "block"?
+Volleyball
+Football
+Basketball
+Table Tennis 
+
+Culture
+Who has won the most NBA MVP awards?
+Kareem Abdul-Jabbar
+Michael Jordan
+Larry Bird
+Wilt Chamberlain
+
+Culture
+What is the symbol for a strike in bowling?
+X
+S
+ /
+@ 
+
+Culture
+Which swimmer has won the most Olympic Gold medals?
+Michael Phelps
+Mark Spitz
+Ian Thorpe
+Ryan Lochte
+
+Culture
+Who has hit the most sixes in cricket World Cup matches?
+Chris Gayle
+Rohit Sharma
+MS Dhoni
+Sachin Tendulkar
+
+Culture
+Who holds the men's record for most Grand Slam titles in tennis?
+Roger Federer
+Rafael Nadal
+Novak Djokovic
+Pete Sampras
+
+Culture
+What is a rugby team awarded for crossing the opposing team's try line and grounding the ball?
+Try
+Goal
+Score
+Run
+
+Culture
+In F1, which racer holds the record for most race wins?
+Lewis Hamilton
+Michael Schumacher
+Ayrton Senna
+Alain Prost
+
+Culture
+In baseball, who holds the record for most career home runs?
+Barry Bonds
+Babe Ruth
+Hank Aaron
+Willie Mays
+
+Culture
+Who scored the most points in one NBA game?
+Wilt Chamberlain
+Michael Jordan
+Kobe Bryant
+Lebron James
+
+Culture
+Who is the all-time leading rusher in the NFL?
+Emmitt Smith
+Barry Sanders
+Walter Payton
+Jim Brown
+
+Culture
+Who holds the record for most goals scored in the FIFA Women's World Cup?
+Marta 
+Abby Wambach
+Birgit Prinz
+Mia Hamm
+
+Culture
+In NBA history, which team has won the most championships?
+Boston Celtics
+Los Angeles Lakers
+Chicago Bulls
+Golden State Warriors
+
+Culture
+Which golfer has won the most major championships?
+Jack Nicklaus
+Tiger Woods
+Walter Hagen
+Ben Hogan
+
+Culture
+Who has the most World Series home runs in MLB history?
+Mickey Mantle
+Babe Ruth
+Reggie Jackson
+Barry Bonds
+
+Culture
+Which pitcher holds the record for the most complete games in an MLB career?
+Cy Young
+Nolan Ryan
+Warren Spahn
+Pete Alexander
+
+Culture
+Who holds the world record for men's 100 meter sprint?
+Usain Bolt
+Carl Lewis
+Justin Gatlin
+Tyson Gay
+
+Culture
+Who has the most career gold medals in Olympic gymnastics?
+Larisa Latynina
+Simone Biles
+Vitaly Scherbo
+Nadia Comaneci
+
+Culture
+What is the triple crown in horse racing?
+Winning the Kentucky Derby, Preakness Stakes, and Belmont Stakes
+Winning 3 races in a day
+Winning a race by more than 3 lengths
+Winning the same race 3 years in a row
+
+Culture
+Who holds the record for most goals in a NHL season?
+Wayne Gretzky
+Mario Lemieux
+Gordie Howe
+Bobby Orr
+
+Culture
+Which driver won the 2015 Formula One World Championship?
+Lewis Hamilton
+Sebastian Vettel
+Nico Rosberg
+Fernando Alonso
+
+Culture
+Which bicyclist has won the Tour de France a record seven times?
+Lance Armstrong
+Miguel Indurain
+Eddy Merckx
+Bernard Hinault
+
+Culture
+Who holds the world record for the women's marathon?
+Paula Radcliffe
+Mary Keitany
+Brigid Kosgei
+Joan Benoit
+
+Culture
+In tennis, what is a perfect set called?
+Golden set
+Silver set
+Diamond set
+Platinum set
+
+Culture
+Who holds the record for most goals scored in NHL history?
+Wayne Gretzky
+Mario Lemieux
+Gordie Howe
+Bobby Orr
+
+Culture
+What does "BB" stand for in baseball stat sheets?
+Bases on Balls (Walk)
+Baseball Bat
+Baseball Boots
+Bases Batted
+
+Culture
+Who won the Golden Boot in the 2018 FIFA World Cup?
+Harry Kane
+Cristiano Ronaldo
+Lionel Messi
+Neymar
+
+Culture
+In basketball, what is it called when a shooter is fouled while scoring?
+And-one
+Plus-one
+Bonus
+Extra point
+
+Culture
+Who holds the record for the most Women's Boxing World Championships?
+Mary Kom
+Regina Halmich
+Jelena Mrdjenovich
+Cecilia Brækhus
+
+Culture
+What is the name of New Zealand's national rugby team?
+All Blacks
+Kiwis
+Black Caps
+Silver Ferns
+
+Culture
+Whose home run secured the Boston Red Sox's first World Series Championship win in 86 years?
+David Ortiz
+Ted Williams
+Manny Ramirez
+Carl Yastrzemski
+
+Culture
+In what type of race was Lance Armstrong stripped of his seven titles?
+Tour de France
+Giro d'Italia
+Vuelta a Espana
+Paris–Roubaix
+
+Culture
+Who has hit the most career grand slams in MLB history?
+Alex Rodriguez
+Lou Gehrig
+Babe Ruth
+Willie Mays
+
+Culture
+Who scored the most points in a single season in NBA history?
+Wilt Chamberlain
+Michael Jordan
+Lebron James
+Kobe Bryant
+
+Culture
+What is the only NFL team to complete a perfect season, including the Super Bowl? 
+1972 Miami Dolphins
+1975 Pittsburgh Steelers
+1985 Chicago Bears
+2007 New England Patriots 
+
+Culture
+Who holds the record for the most home runs in a rookie season in MLB?
+Aaron Judge
+Mickey Mantle
+Babe Ruth
+Ken Griffey Jr.
+
+Culture
+In cricket, what is the term for a bowler dismissing three batsmen with consecutive deliveries?
+Hat-trick
+Triple strike
+Three-peat
+Triple play
+
+Culture
+Who was the first woman to win a gold medal in Olympic boxing?
+Nicola Adams
+Katie Taylor
+Clarissa Shields
+Mary Kom
+
+Culture
+Which tennis player has completed the Golden Slam (winning all four Grand Slam tournaments and the Olympic gold medal in a single year)?
+Steffi Graf
+Serena Williams
+Margaret Court
+Martina Navratilova
+
+Culture
+Who holds the record for the most wins in a single season in NASCAR Cup Series?
+Richard Petty
+Jeff Gordon
+Dale Earnhardt
+Jimmie Johnson
+
+Culture
+Which country has won the most ICC Cricket World Cup titles?
+Australia
+England
+India
+West Indies
+
+Culture
+Who is the highest run scorer in a single Test innings in cricket?
+Brian Lara
+Donald Bradman
+Sachin Tendulkar
+Sir Viv Richards
+
+Culture
+What is a "spare" in bowling?
+Knocking down all pins in two attempts
+Scoring exactly 10 points
+Knocking down 9 pins
+Hitting the middle pin only
+
+Culture
+Which NBA player scored 100 points in a single game?
+Wilt Chamberlain
+Michael Jordan
+Kobe Bryant
+LeBron James
+
+Culture
+Who has the most World Championships in snooker?
+Joe Davis
+Stephen Hendry
+Ronnie O'Sullivan
+Mark Selby
+

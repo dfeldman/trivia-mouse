@@ -73709,5 +73709,929 @@ questions=[
       "Gary Anderson"
     ],
     "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the term for a perfect game in bowling?",
+    "answers": [
+      "300",
+      "Perfect 10",
+      "Full Strike",
+      "Kingpin"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has won the most World Chess Champion titles?",
+    "answers": [
+      "Garry Kasparov",
+      "Bobby Fischer",
+      "Anatoly Karpov",
+      "Magnus Carlsen"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In what sport do athletes compete for the America's Cup?",
+    "answers": [
+      "Sailing",
+      "Soccer",
+      "Tennis",
+      "Cricket"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which football team has won the most Super Bowl titles?",
+    "answers": [
+      "Pittsburgh Steelers",
+      "New England Patriots",
+      "Dallas Cowboys",
+      "San Francisco 49ers"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What weight division did boxing legend Muhammad Ali compete in?",
+    "answers": [
+      "Heavyweight",
+      "Lightweight",
+      "Middleweight",
+      "Featherweight"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who won the Tour de France five times consecutively from 1999 to 2003?",
+    "answers": [
+      "Lance Armstrong",
+      "Eddy Merckx",
+      "Bernard Hinault",
+      "Miguel Indur\u00e1in"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who is the highest run-scorer in Test cricket?",
+    "answers": [
+      "Sachin Tendulkar",
+      "Ricky Ponting",
+      "Brian Lara",
+      "Kumar Sangakkara"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has won the most World Championships in Professional Darts?",
+    "answers": [
+      "Phil Taylor",
+      "Gary Anderson",
+      "Michael van Gerwen",
+      "Raymond van Barneveld"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which country has won the most Rugby World Cup titles?",
+    "answers": [
+      "New Zealand",
+      "England",
+      "South Africa",
+      "Australia"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the term used when a player scores three goals in a hockey match?",
+    "answers": [
+      "Hat trick",
+      "Triple Goal",
+      "three-peat",
+      "Treble"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the highest possible break in snooker?",
+    "answers": [
+      "147",
+      "150",
+      "120",
+      "200"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In tennis, who has won the most men's Grand Slam titles?",
+    "answers": [
+      "Roger Federer",
+      "Rafael Nadal",
+      "Novak Djokovic",
+      "Pete Sampras"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for most touchdowns in an NFL season?",
+    "answers": [
+      "Peyton Manning",
+      "Tom Brady",
+      "Drew Brees",
+      "Aaron Rodgers"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which horse is the most recent Triple Crown winner?",
+    "answers": [
+      "Justify",
+      "American Pharoah",
+      "Secretariat",
+      "Affirmed"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the maximum weight for a heavyweight boxer?",
+    "answers": [
+      "200+ lbs",
+      "210 lbs",
+      "220 lbs",
+      "230 lbs"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What nation won the first baseball world series in 1903?",
+    "answers": [
+      "Boston Americans (United States)",
+      "New York Yankees (United States)",
+      "Chicago Cubs (United States)",
+      "Toronto Blue Jays (Canada)"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for most goals in a Premier League season?",
+    "answers": [
+      "Mohamed Salah",
+      "Alan Shearer",
+      "Wayne Rooney",
+      "Thierry Henry"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What nation has the most Olympic gold medals in swimming?",
+    "answers": [
+      "United States",
+      "Australia",
+      "Russia",
+      "China"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the fastest recorded serve in men's tennis?",
+    "answers": [
+      "Sam Groth",
+      "Andy Roddick",
+      "Roger Federer",
+      "Rafael Nadal"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In motor racing, which driver has won the most F1 World Championships?",
+    "answers": [
+      "Lewis Hamilton",
+      "Michael Schumacher",
+      "Niki Lauda",
+      "Ayrton Senna"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which team won the first NBA Championship?",
+    "answers": [
+      "Philadelphia Warriors",
+      "Boston Celtics",
+      "Los Angeles Lakers",
+      "New York Knicks"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What sport uses terms like \"alley-oop,\" \"dunk,\" and \"three-pointer\"?",
+    "answers": [
+      "Basketball",
+      "Baseball",
+      "Football",
+      "Hockey"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has the most career wins in NASCAR history?",
+    "answers": [
+      "Richard Petty",
+      "Dale Earnhardt",
+      "Jeff Gordon",
+      "Jimmie Johnson"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has scored the most goals in NHL history?",
+    "answers": [
+      "Wayne Gretzky",
+      "Mario Lemieux",
+      "Gordie Howe",
+      "Bobby Orr"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In cricket, how many runs does a player score if they hit the ball over the boundary without it bouncing?",
+    "answers": [
+      "6",
+      "4",
+      "5",
+      "10"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which footballer has the most Ballon d'Or awards?",
+    "answers": [
+      "Lionel Messi",
+      "Cristiano Ronaldo",
+      "Diego Maradona",
+      "Zinedine Zidane"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is a \"yogi\" in baseball slang?",
+    "answers": [
+      "A clutch player",
+      "A left-handed player",
+      "A slow runner",
+      "A tough pitcher"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which NFL team won the first Super Bowl?",
+    "answers": [
+      "Green Bay Packers",
+      "Kansas City Chiefs",
+      "New York Jets",
+      "Chicago Bears"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which nation won the first World Cup in soccer?",
+    "answers": [
+      "Uruguay",
+      "Brazil",
+      "Germany",
+      "Argentina"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who scored the \"Goal of the Century\" in the 1986 FIFA World Cup?",
+    "answers": [
+      "Diego Maradona",
+      "Pele",
+      "Lionel Messi",
+      "Zinedine Zidane"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the term for a baseball game with no hits and no walks?",
+    "answers": [
+      "Perfect game",
+      "No-hitter",
+      "Shutout",
+      "Clean Sheet"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In golf, what is the term for a hole-in-one on a par five?",
+    "answers": [
+      "Condor",
+      "Eagle",
+      "Birdie",
+      "Albatross"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which boxer coined the phrase \"float like a butterfly, sting like a bee\"?",
+    "answers": [
+      "Muhammad Ali",
+      "Mike Tyson",
+      "Sugar Ray Robinson",
+      "George Foreman"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In baseball, what is a \"grand slam\"?",
+    "answers": [
+      "A home run with bases loaded",
+      "A double play",
+      "A strong pitch",
+      "A fast runner"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who is the all-time leading scorer in women\u2019s professional basketball?",
+    "answers": [
+      "Diana Taurasi",
+      "Sue Bird",
+      "Lisa Leslie",
+      "Sheryl Swoopes"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the time limit for each move in \"Bullet\" chess?",
+    "answers": [
+      "1 minute",
+      "2 minutes",
+      "3 minutes",
+      "5 minutes"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the highest number of World Records in Track and Field events?",
+    "answers": [
+      "Usain Bolt",
+      "Mo Farah",
+      "Michael Johnson",
+      "Carl Lewis"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In soccer, what is a \"hat-trick\"?",
+    "answers": [
+      "Scoring three goals in one game",
+      "Scoring a goal with a header",
+      "Saving a penalty",
+      "Scoring a goal from halfway line"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What does \"KO\" stand for in boxing?",
+    "answers": [
+      "Knockout",
+      "Kick off",
+      "Knock on",
+      "Knock over"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In what year did the first modern Olympic Games take place?",
+    "answers": [
+      "1896",
+      "1900",
+      "1904",
+      "1912"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which footballer has won the World Cup three times?",
+    "answers": [
+      "Pele",
+      "Diego Maradona",
+      "Lionel Messi",
+      "Ronaldo"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has the most career goals in the history of professional soccer?",
+    "answers": [
+      "Josef Bican",
+      "Pele",
+      "Lionel Messi",
+      "Cristiano Ronaldo"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In which sport might you \"spike\" and \"block\"?",
+    "answers": [
+      "Volleyball",
+      "Football",
+      "Basketball",
+      "Table Tennis"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the symbol for a strike in bowling?",
+    "answers": [
+      "X",
+      "S",
+      "/",
+      "@"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which swimmer has won the most Olympic Gold medals?",
+    "answers": [
+      "Michael Phelps",
+      "Mark Spitz",
+      "Ian Thorpe",
+      "Ryan Lochte"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has hit the most sixes in cricket World Cup matches?",
+    "answers": [
+      "Chris Gayle",
+      "Rohit Sharma",
+      "MS Dhoni",
+      "Sachin Tendulkar"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the men's record for most Grand Slam titles in tennis?",
+    "answers": [
+      "Roger Federer",
+      "Rafael Nadal",
+      "Novak Djokovic",
+      "Pete Sampras"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is a rugby team awarded for crossing the opposing team's try line and grounding the ball?",
+    "answers": [
+      "Try",
+      "Goal",
+      "Score",
+      "Run"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In F1, which racer holds the record for most race wins?",
+    "answers": [
+      "Lewis Hamilton",
+      "Michael Schumacher",
+      "Ayrton Senna",
+      "Alain Prost"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In baseball, who holds the record for most career home runs?",
+    "answers": [
+      "Barry Bonds",
+      "Babe Ruth",
+      "Hank Aaron",
+      "Willie Mays"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who scored the most points in one NBA game?",
+    "answers": [
+      "Wilt Chamberlain",
+      "Michael Jordan",
+      "Kobe Bryant",
+      "Lebron James"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who is the all-time leading rusher in the NFL?",
+    "answers": [
+      "Emmitt Smith",
+      "Barry Sanders",
+      "Walter Payton",
+      "Jim Brown"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for most goals scored in the FIFA Women's World Cup?",
+    "answers": [
+      "Marta",
+      "Abby Wambach",
+      "Birgit Prinz",
+      "Mia Hamm"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In NBA history, which team has won the most championships?",
+    "answers": [
+      "Boston Celtics",
+      "Los Angeles Lakers",
+      "Chicago Bulls",
+      "Golden State Warriors"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has the most World Series home runs in MLB history?",
+    "answers": [
+      "Mickey Mantle",
+      "Babe Ruth",
+      "Reggie Jackson",
+      "Barry Bonds"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which pitcher holds the record for the most complete games in an MLB career?",
+    "answers": [
+      "Cy Young",
+      "Nolan Ryan",
+      "Warren Spahn",
+      "Pete Alexander"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the world record for men's 100 meter sprint?",
+    "answers": [
+      "Usain Bolt",
+      "Carl Lewis",
+      "Justin Gatlin",
+      "Tyson Gay"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has the most career gold medals in Olympic gymnastics?",
+    "answers": [
+      "Larisa Latynina",
+      "Simone Biles",
+      "Vitaly Scherbo",
+      "Nadia Comaneci"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the triple crown in horse racing?",
+    "answers": [
+      "Winning the Kentucky Derby, Preakness Stakes, and Belmont Stakes",
+      "Winning 3 races in a day",
+      "Winning a race by more than 3 lengths",
+      "Winning the same race 3 years in a row"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for most goals in a NHL season?",
+    "answers": [
+      "Wayne Gretzky",
+      "Mario Lemieux",
+      "Gordie Howe",
+      "Bobby Orr"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which driver won the 2015 Formula One World Championship?",
+    "answers": [
+      "Lewis Hamilton",
+      "Sebastian Vettel",
+      "Nico Rosberg",
+      "Fernando Alonso"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which bicyclist has won the Tour de France a record seven times?",
+    "answers": [
+      "Lance Armstrong",
+      "Miguel Indurain",
+      "Eddy Merckx",
+      "Bernard Hinault"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In tennis, what is a perfect set called?",
+    "answers": [
+      "Golden set",
+      "Silver set",
+      "Diamond set",
+      "Platinum set"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for most goals scored in NHL history?",
+    "answers": [
+      "Wayne Gretzky",
+      "Mario Lemieux",
+      "Gordie Howe",
+      "Bobby Orr"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What does \"BB\" stand for in baseball stat sheets?",
+    "answers": [
+      "Bases on Balls (Walk)",
+      "Baseball Bat",
+      "Baseball Boots",
+      "Bases Batted"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who won the Golden Boot in the 2018 FIFA World Cup?",
+    "answers": [
+      "Harry Kane",
+      "Cristiano Ronaldo",
+      "Lionel Messi",
+      "Neymar"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In basketball, what is it called when a shooter is fouled while scoring?",
+    "answers": [
+      "And-one",
+      "Plus-one",
+      "Bonus",
+      "Extra point"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for the most Women's Boxing World Championships?",
+    "answers": [
+      "Mary Kom",
+      "Regina Halmich",
+      "Jelena Mrdjenovich",
+      "Cecilia Br\u00e6khus"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the name of New Zealand's national rugby team?",
+    "answers": [
+      "All Blacks",
+      "Kiwis",
+      "Black Caps",
+      "Silver Ferns"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Whose home run secured the Boston Red Sox's first World Series Championship win in 86 years?",
+    "answers": [
+      "David Ortiz",
+      "Ted Williams",
+      "Manny Ramirez",
+      "Carl Yastrzemski"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In what type of race was Lance Armstrong stripped of his seven titles?",
+    "answers": [
+      "Tour de France",
+      "Giro d'Italia",
+      "Vuelta a Espana",
+      "Paris\u2013Roubaix"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has hit the most career grand slams in MLB history?",
+    "answers": [
+      "Alex Rodriguez",
+      "Lou Gehrig",
+      "Babe Ruth",
+      "Willie Mays"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who scored the most points in a single season in NBA history?",
+    "answers": [
+      "Wilt Chamberlain",
+      "Michael Jordan",
+      "Lebron James",
+      "Kobe Bryant"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the only NFL team to complete a perfect season, including the Super Bowl?",
+    "answers": [
+      "1972 Miami Dolphins",
+      "1975 Pittsburgh Steelers",
+      "1985 Chicago Bears",
+      "2007 New England Patriots"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for the most home runs in a rookie season in MLB?",
+    "answers": [
+      "Aaron Judge",
+      "Mickey Mantle",
+      "Babe Ruth",
+      "Ken Griffey Jr."
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In cricket, what is the term for a bowler dismissing three batsmen with consecutive deliveries?",
+    "answers": [
+      "Hat-trick",
+      "Triple strike",
+      "Three-peat",
+      "Triple play"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who was the first woman to win a gold medal in Olympic boxing?",
+    "answers": [
+      "Nicola Adams",
+      "Katie Taylor",
+      "Clarissa Shields",
+      "Mary Kom"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which tennis player has completed the Golden Slam (winning all four Grand Slam tournaments and the Olympic gold medal in a single year)?",
+    "answers": [
+      "Steffi Graf",
+      "Serena Williams",
+      "Margaret Court",
+      "Martina Navratilova"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for the most wins in a single season in NASCAR Cup Series?",
+    "answers": [
+      "Richard Petty",
+      "Jeff Gordon",
+      "Dale Earnhardt",
+      "Jimmie Johnson"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which country has won the most ICC Cricket World Cup titles?",
+    "answers": [
+      "Australia",
+      "England",
+      "India",
+      "West Indies"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who is the highest run scorer in a single Test innings in cricket?",
+    "answers": [
+      "Brian Lara",
+      "Donald Bradman",
+      "Sachin Tendulkar",
+      "Sir Viv Richards"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is a \"spare\" in bowling?",
+    "answers": [
+      "Knocking down all pins in two attempts",
+      "Scoring exactly 10 points",
+      "Knocking down 9 pins",
+      "Hitting the middle pin only"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which NBA player scored 100 points in a single game?",
+    "answers": [
+      "Wilt Chamberlain",
+      "Michael Jordan",
+      "Kobe Bryant",
+      "LeBron James"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has the most World Championships in snooker?",
+    "answers": [
+      "Joe Davis",
+      "Stephen Hendry",
+      "Ronnie O'Sullivan",
+      "Mark Selby"
+    ],
+    "seen": 0
   }
 ]
