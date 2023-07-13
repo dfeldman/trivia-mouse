@@ -62150,6 +62150,1359 @@ questions=[
     "seen": 0
   },
   {
+    "category": "Culture",
+    "question": "Which duo composed the opera \"Carmen\"?",
+    "answers": [
+      "Georges Bizet and Ludovic Hal\u00e9vy",
+      "Wolfgang Amadeus Mozart and Lorenzo Da Ponte",
+      "Richard Wagner and Franz Liszt",
+      "Gioachino Rossini and Gaetano Donizetti"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the genre of \"The Waste Land\" by T.S.Eliot?",
+    "answers": [
+      "Poetry",
+      "Novel",
+      "Play",
+      "Essay"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the type of Chinese art involving brushwork and ink?",
+    "answers": [
+      "Calligraphy",
+      "Watercolors",
+      "Paper Quilling",
+      "Porcelain painting"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which play is also known as the 'Scottish Play'?",
+    "answers": [
+      "Macbeth",
+      "Hamlet",
+      "Othello",
+      "King Lear"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who composed the opera \"The Magic Flute\"?",
+    "answers": [
+      "Wolfgang Amadeus Mozart",
+      "Richard Wagner",
+      "Giacomo Puccini",
+      "Ludwig van Beethoven"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which famous painting is also referred to as \"La Gioconda\"?",
+    "answers": [
+      "Mona Lisa",
+      "Starry Night",
+      "Girl with a Pearl Earring",
+      "The Last Supper"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What dance style originates from Argentina?",
+    "answers": [
+      "Tango",
+      "Ballet",
+      "Tap Dance",
+      "Breakdance"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which artist created the \u201cVitruvian Man\u201d?",
+    "answers": [
+      "Leonardo Da Vinci",
+      "Michelangelo",
+      "Raphael",
+      "Titian"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who wrote the play \u201cWaiting for Godot\u201d?",
+    "answers": [
+      "Samuel Beckett",
+      "G.B.Shaw",
+      "Eugene O\u2019Neill",
+      "Tom Stoppard"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Where was the dance form Flamenco originated?",
+    "answers": [
+      "Spain",
+      "Mexico",
+      "Portugal",
+      "Italy"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who sculpted the statue of David in Florence?",
+    "answers": [
+      "Michelangelo",
+      "Donatello",
+      "Rodin",
+      "Bernini"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What are the instruments primarily used in a symphony orchestra?",
+    "answers": [
+      "Strings, Woodwinds, Brass, and Percussion",
+      "Guitars, Drums, Keyboards, and Synthesizers",
+      "Harmonium, Tabla, Tanpura, and Sitar",
+      "Bagpipes, Drums, Fiddles, and Banjo"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which French painter is associated with the Impressionist movement?",
+    "answers": [
+      "Claude Monet",
+      "Paul C\u00e9zanne",
+      "Pablo Picasso",
+      "Katsushika Hokusai"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who composed the \u201cMoonlight Sonata\u201d?",
+    "answers": [
+      "Ludwig van Beethoven",
+      "Fr\u00e9d\u00e9ric Chopin",
+      "Wolfgang Amadeus Mozart",
+      "John Cage"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who authored the dramatic monologue, My Last Duchess?",
+    "answers": [
+      "Robert Browning",
+      "Emily Dickinson",
+      "Percy Bysshe Shelley",
+      "William Wordsworth"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What material was primarily used in Greek sculpture?",
+    "answers": [
+      "Marble",
+      "Copper",
+      "Clay",
+      "Wood"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What art movement was Salvador Dal\u00ed a part of?",
+    "answers": [
+      "Surrealism",
+      "Impressionism",
+      "Renaissance",
+      "Cubism"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "The play 'AStreetcar Named Desire' was written by whom?",
+    "answers": [
+      "Tennessee Williams",
+      "Arthur Miller",
+      "Eugene O\u2019Neill",
+      "Edward Albee"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who composed \"The Blue Danube Waltz\"?",
+    "answers": [
+      "Johann Strauss II",
+      "Ludwig van Beethoven",
+      "Frederic Chopin",
+      "Richard Wagner"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "\"Gulliver's Travels\" was written by which author?",
+    "answers": [
+      "Jonathan Swift",
+      "Charles Dickens",
+      "Mark Twain",
+      "George Orwell"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In ballet, what does 'en pointe' mean?",
+    "answers": [
+      "On the tips of the toes",
+      "In a circle",
+      "In a straight line",
+      "On one leg"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "\u201cThe Great Wave off Kanagawa\u201d is a print by which Japanese artist?",
+    "answers": [
+      "Katsushika Hokusai",
+      "Takashi Murakami",
+      "Yayoi Kusama",
+      "Utagawa Hiroshige"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who is the author of the novel \"To Kill a Mockingbird\"?",
+    "answers": [
+      "Harper Lee",
+      "J.D. Salinger",
+      "John Updike",
+      "Ernest Hemingway"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What does 'fresco' mean in Italian Renaissance painting?",
+    "answers": [
+      "Fresh",
+      "Dry",
+      "Old",
+      "New"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who is the author of \"A Room of One's Own\"?",
+    "answers": [
+      "Virginia Woolf",
+      "Jane Austen",
+      "Emily Bronte",
+      "J.K. Rowling"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which artist is known for the \"Drip Technique\"?",
+    "answers": [
+      "Jackson Pollock",
+      "Andy Warhol",
+      "Pablo Picasso",
+      "Vincent van Gogh"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who wrote the plays 'The Crucible' and 'Death of a Salesman'?",
+    "answers": [
+      "Arthur Miller",
+      "Tennessee Williams",
+      "Edward Albee",
+      "Sam Shepard"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who is the author of the Wheel of Time series?",
+    "answers": [
+      "Robert Jordan",
+      "J.K. Rowling",
+      "George R. R. Martin",
+      "J.R.R. Tolkien"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "\"Guernica\" was a painting by which famous artist?",
+    "answers": [
+      "Pablo Picasso",
+      "Salvador Dal\u00ed",
+      "Diego Rivera",
+      "Frida Kahlo"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What period did the Dutch painter Rembrandt belong to?",
+    "answers": [
+      "Baroque",
+      "Impressionism",
+      "Cubism",
+      "Abstract Expressionism"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What genre do TS Eliot's 'The Hollow Men' and Dante's 'Divine Comedy' belong to?",
+    "answers": [
+      "Epic poetry",
+      "Drama",
+      "Autobiography",
+      "Mystery"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What material was used to create the moai statues on Easter Island?",
+    "answers": [
+      "Volcanic ash",
+      "Marble",
+      "Clay",
+      "Bronze"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which famous Beatles album cover features the band members walking across a zebra crossing?",
+    "answers": [
+      "Abbey Road",
+      "Yellow Submarine",
+      "Help!",
+      "Revolver"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which play of William Shakespeare is based on the Moor of Venice?",
+    "answers": [
+      "Othello",
+      "Macbeth",
+      "King Lear",
+      "Romeo and Juliet"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "The renaissance period originated from which country?",
+    "answers": [
+      "Italy",
+      "Spain",
+      "France",
+      "Germany"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What unique performance art involves acting without words?",
+    "answers": [
+      "Mime",
+      "Opera",
+      "Ballet",
+      "Theater"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which famous author wrote the novel \"1984\"?",
+    "answers": [
+      "George Orwell",
+      "Aldous Huxley",
+      "Kurt Vonnegut",
+      "H.G. Wells"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In which country did the art style 'Impressionism' originate?",
+    "answers": [
+      "France",
+      "Italy",
+      "Germany",
+      "United States"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who choreographed the ballet 'The Rite of Spring'?",
+    "answers": [
+      "Vaslav Nijinsky",
+      "George Balanchine",
+      "Marianne Gaellman",
+      "Antoine Vereecken"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who composed Symphony No.5 (Beethoven)?",
+    "answers": [
+      "Ludwig van Beethoven",
+      "Johannes Brahms",
+      "Sergei Prokofiev",
+      "Richard Wagner"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which poet wrote 'O Captain! My Captain!'?",
+    "answers": [
+      "Walt Whitman",
+      "Emily Dickinson",
+      "Robert Frost",
+      "Langston Hughes"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who authored \"War and Peace\"?",
+    "answers": [
+      "Leo Tolstoy",
+      "Fyodor Dostoevsky",
+      "Mikhail Bulgakov",
+      "Anton Chekhov"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the medium of 'The Persistence of Memory' by Salvador Dali?",
+    "answers": [
+      "Oil on canvas",
+      "Marble sculpture",
+      "Watercolor on paper",
+      "Graphite on paper"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who painted 'The Girl With a Pearl Earring'?",
+    "answers": [
+      "Johannes Vermeer",
+      "Rembrandt",
+      "Pablo Picasso",
+      "Leonardo Da Vinci"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What genre are Arthur Conan Doyle's Sherlock Holmes stories?",
+    "answers": [
+      "Detective Fiction",
+      "Romance",
+      "Fantasy",
+      "Dystopian"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In the opera, who is the lover of Romeo?",
+    "answers": [
+      "Juliet",
+      "Ophelia",
+      "Carmen",
+      "Norma"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who created the sculpture 'The Venus de Milo'?",
+    "answers": [
+      "Alexandros of Antioch",
+      "Michelangelo",
+      "Rodin",
+      "Donatello"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who wrote \"The Old Man and The Sea\"?",
+    "answers": [
+      "Ernest Hemingway",
+      "Mark Twain",
+      "J.D. Salinger",
+      "F. Scott Fitzgerald"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What historical event is depicted in the Bayeux Tapestry?",
+    "answers": [
+      "The Norman Conquest of England",
+      "The Battle of Waterloo",
+      "The Crusades",
+      "The Signing of the Magna Carta"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which ancient civilization is known for hieroglyphic writing?",
+    "answers": [
+      "Egyptian",
+      "Greek",
+      "Aztec",
+      "Roman"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who is the author of 'Les Mis\u00e9rables'?",
+    "answers": [
+      "Victor Hugo",
+      "Charles Dickens",
+      "George Eliot",
+      "Leo Tolstoy"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What art movement is Vincent Van Gogh commonly associated with?",
+    "answers": [
+      "Post-Impressionism",
+      "Cubism",
+      "Surrealism",
+      "Abstract Expressionism"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which artist created 'The Last Supper' mural?",
+    "answers": [
+      "Leonardo da Vinci",
+      "Michelangelo",
+      "Raphael",
+      "Caravaggio"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Where did Flamenco dance originate?",
+    "answers": [
+      "Andalusia, Spain",
+      "Provence, France",
+      "Sicily, Italy",
+      "Crete, Greece"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who is the author of the novel \"Moby-Dick\"?",
+    "answers": [
+      "Herman Melville",
+      "F. Scott Fitzgerald",
+      "Ernest Hemingway",
+      "Mark Twain"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which Renaissance artist painted the Sistine Chapel Ceiling?",
+    "answers": [
+      "Michelangelo",
+      "Raphael",
+      "Leonardo da Vinci",
+      "Titian"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who is the author of the Ulysses?",
+    "answers": [
+      "James Joyce",
+      "Shakespeare",
+      "Ernest Hemmingway",
+      "Mark Twain"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who composed the opera La Traviata?",
+    "answers": [
+      "Giuseppe Verdi",
+      "Wolfgang Amadeus Mozart",
+      "Ludwig van Beethoven",
+      "Claude Debussy"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is Picasso's full name?",
+    "answers": [
+      "Pablo Diego Jos\u00e9 Francisco de Paula Juan Nepomuceno Mar\u00eda de los Remedios Cipriano de la Sant\u00edsima Trinidad Martyr Patricio Clito Ru\u00edz y Picasso",
+      "Sergio Antonio Stefano Picasso",
+      "Paulo Roberto Picasso Soromenho",
+      "Pedro Juan Domingo Picasso"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What type of painting technique did Jackson Pollock famously use?",
+    "answers": [
+      "Drip painting",
+      "Pointillism",
+      "Cubism",
+      "Impressionism"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who was the primary author of the Federalist Papers?",
+    "answers": [
+      "Alexander Hamilton",
+      "Benjamin Franklin",
+      "George Washington",
+      "Thomas Jefferson"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What play is the quote \"To be or not to be\" from?",
+    "answers": [
+      "Hamlet",
+      "Macbeth",
+      "Othello",
+      "Romeo and Juliet"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who wrote \"The Raven\"?",
+    "answers": [
+      "Edgar Allan Poe",
+      "Emily Dickinson",
+      "Robert Frost",
+      "William Shakespeare"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the name of Don Quixote's horse?",
+    "answers": [
+      "Rocinante",
+      "Bellerophon",
+      "Shadowfax",
+      "Pegasus"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which artist created the piece Guernica?",
+    "answers": [
+      "Pablo Picasso",
+      "Salvador Dali",
+      "Joan Miro",
+      "Francisco Goya"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who painted The Persistence of Memory?",
+    "answers": [
+      "Salvador Dali",
+      "Pablo Picasso",
+      "Joan Miro",
+      "Francisco Goya"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who wrote the play The Importance of Being Earnest?",
+    "answers": [
+      "Oscar Wilde",
+      "George Bernard Shaw",
+      "Henrik Ibsen",
+      "Samuel Beckett"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who wrote the poem Ode on a Grecian Urn?",
+    "answers": [
+      "John Keats",
+      "Robert Browning",
+      "Percy Bysshe Shelley",
+      "Lord Byron"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who was the lead actress in the movie Breakfast at Tiffany's?",
+    "answers": [
+      "Audrey Hepburn",
+      "Marilyn Monroe",
+      "Elizabeth Taylor",
+      "Grace Kelly"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who painted American Gothic?",
+    "answers": [
+      "Grant Wood",
+      "Edward Hopper",
+      "Andrew Wyeth",
+      "Norman Rockwell"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who is the author of To the Lighthouse?",
+    "answers": [
+      "Virginia Woolf",
+      "Agatha Christie",
+      "Emily Bronte",
+      "Margaret Atwood"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who composed the music for the ballet Swan Lake?",
+    "answers": [
+      "Pyotr Ilyich Tchaikovsky",
+      "Johann Sebastian Bach",
+      "Ludwig van Beethoven",
+      "Benjamin Britten"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who painted Las Meninas?",
+    "answers": [
+      "Diego Vel\u00e1zquez",
+      "Francisco Goya",
+      "El Greco",
+      "Pablo Picasso"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In what year was Shakespeare's Macbeth first performed?",
+    "answers": [
+      "1606",
+      "1600",
+      "1640",
+      "1680"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What opera contains the famous aria Nessun Dorma?",
+    "answers": [
+      "Turandot",
+      "La Traviata",
+      "Rigoletto",
+      "Carmen"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the name of Beethoven's Symphony No. 9 in D minor, Op. 125?",
+    "answers": [
+      "Choral",
+      "Pastoral",
+      "Eroica",
+      "The Musical Offering"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What American poet wrote \"The Road Not Taken\"?",
+    "answers": [
+      "Robert Frost",
+      "Emily Dickinson",
+      "Walt Whitman",
+      "Langston Hughes"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who painted the \"American Gothic\"?",
+    "answers": [
+      "Grant Wood",
+      "Norman Rockwell",
+      "Edward Hopper",
+      "Thomas Hart Benton"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who wrote the tragedy \"Macbeth\"?",
+    "answers": [
+      "William Shakespeare",
+      "Christopher Marlowe",
+      "Thomas Kyd",
+      "John Webster"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who composed the opera \"The Barber of Seville\"?",
+    "answers": [
+      "Gioachino Rossini",
+      "Wolfgang Amadeus Mozart",
+      "Ludwig van Beethoven",
+      "Richard Wagner"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What ballet score was Pyotr Ilyich Tchaikovsky known for?",
+    "answers": [
+      "Swan Lake",
+      "The Rite of Spring",
+      "Giselle",
+      "Don Quixote"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who wrote the poem \"Ode on a Grecian Urn\"?",
+    "answers": [
+      "John Keats",
+      "William Wordsworth",
+      "Samuel Taylor Coleridge",
+      "Percy Bysshe Shelley"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "The painting \"The Starry Night\" was painted by which painter?",
+    "answers": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Claude Monet",
+      "Edvard Munch"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who is the author of the play \"The Importance of Being Earnest\"?",
+    "answers": [
+      "Oscar Wilde",
+      "George Bernard Shaw",
+      "No\u00ebl Coward",
+      "Harold Pinter"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "The painting \"Las Meninas\" was created by which artist?",
+    "answers": [
+      "Diego Vel\u00e1zquez",
+      "Pablo Picasso",
+      "Francisco Goya",
+      "Salvador Dal\u00ed"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the name of J.S. Bach's famous unfinished work?",
+    "answers": [
+      "The Art of Fugue",
+      "Brandenburg Concertos",
+      "St Matthew Passion",
+      "Goldberg Variations"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who wrote the play \"A Doll's House\"?",
+    "answers": [
+      "Henrik Ibsen",
+      "Anton Chekhov",
+      "August Strindberg",
+      "George Bernard Shaw"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "The painting \"Girl with a Pearl Earring\" was painted by whom?",
+    "answers": [
+      "Johannes Vermeer",
+      "Rembrandt van Rijn",
+      "Peter Paul Rubens",
+      "Frans Hals"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who wrote the poem \"The Waste Land\"?",
+    "answers": [
+      "T.S. Eliot",
+      "Robert Frost",
+      "William Carlos Williams",
+      "Wallace Stevens"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "The painting \"The Scream\" was created by which artist?",
+    "answers": [
+      "Edvard Munch",
+      "Claude Monet",
+      "Pablo Picasso",
+      "Vincent van Gogh"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which artist is known for his drip painting technique?",
+    "answers": [
+      "Jackson Pollock",
+      "Willem de Kooning",
+      "Mark Rothko",
+      "Piet Mondrian"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which artist painted the Sistine Chapel Ceiling?",
+    "answers": [
+      "Michelangelo",
+      "Leonardo da Vinci",
+      "Raphael",
+      "Donatello"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who wrote the opera \"Turandot\"?",
+    "answers": [
+      "Giacomo Puccini",
+      "Richard Wagner",
+      "Giuseppe Verdi",
+      "Antonio Vivaldi"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which Shakespearian play mentions the \"Green-eyed Monster\"?",
+    "answers": [
+      "Othello",
+      "Macbeth",
+      "Romeo and Juliet",
+      "King Lear"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the setting of Puccini's Madame Butterfly?",
+    "answers": [
+      "Nagasaki, Japan",
+      "Venice, Italy",
+      "Seville, Spain",
+      "Vienna, Austria"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the main character's name in \"The Metamorphosis\" by Franz Kafka?",
+    "answers": [
+      "Gregor Samsa",
+      "Josef K.",
+      "Tyler Durden",
+      "Vladimir"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which playwright wrote \"The Crucible\"?",
+    "answers": [
+      "Arthur Miller",
+      "Tennessee Williams",
+      "William Shakespeare",
+      "Edward Albee"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who composed the \"Moonlight Sonata\"?",
+    "answers": [
+      "Ludwig van Beethoven",
+      "Wolfgang Amadeus Mozart",
+      "Johann Sebastian Bach",
+      "Franz Schubert"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who wrote the poetry collection \"Leaves of Grass\"?",
+    "answers": [
+      "Walt Whitman",
+      "Robert Frost-",
+      "Emily Dickinson",
+      "Maya Angelou"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What style of architecture is the Cathedral of Notre-Dame in Paris?",
+    "answers": [
+      "Gothic",
+      "Baroque",
+      "Renaissance",
+      "Romanesque"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which artist painted the \"Girl with a Pearl Earring\"?",
+    "answers": [
+      "Johannes Vermeer",
+      "Rembrandt van Rijn",
+      "Pablo Picasso",
+      "Vincent van Gogh"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who wrote \"The Waste Land\"?",
+    "answers": [
+      "T.S. Eliot",
+      "W.B. Yeats",
+      "Sylvia Plath",
+      "Edgar Allen Poe"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What material was the statue \"David\" by Michelangelo carved from?",
+    "answers": [
+      "Marble",
+      "Bronze",
+      "Stone",
+      "Granite"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the setting of the opera \"La Boheme\"?",
+    "answers": [
+      "Paris, France",
+      "Milan, Italy",
+      "Vienna, Austria",
+      "New York, USA"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who is known as the father of English literature?",
+    "answers": [
+      "Geoffrey Chaucer",
+      "Shakespeare",
+      "Charles Dickens",
+      "Milton"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the subject of Caravaggio's \"The Musicians\" painting?",
+    "answers": [
+      "Greek mythology",
+      "Supper at Emmaus",
+      "Self-portrait",
+      "Card Players"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the most famous painting in the Uffizi Gallery?",
+    "answers": [
+      "The Birth of Venus",
+      "The Mona Lisa",
+      "The Last Supper",
+      "Starry Night"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In which play does the character Willy Loman appear?",
+    "answers": [
+      "Death of a Salesman",
+      "A Streetcar Named Desire",
+      "The Crucible",
+      "To Kill a Mockingbird"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who wrote the play \"Waiting for Godot\"?",
+    "answers": [
+      "Samuel Beckett",
+      "Tom Stoppard",
+      "Eugene Ionesco",
+      "Harold Pinter"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the setting of the ballet \"Swan Lake\"?",
+    "answers": [
+      "A lake",
+      "A castle",
+      "A forest",
+      "A kingdom"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the national dance of Spain?",
+    "answers": [
+      "Flamenco",
+      "Salsa",
+      "Tango",
+      "Waltz"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which of the following is a letter in the Japanese hiragana alphabet?",
+    "answers": [
+      "\u3057 (shi)",
+      "\u3147 (ieung)",
+      "\u0e20(Pho)",
+      "\u0915 (ka)"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In what language was The Divine Comedy originally written?",
+    "answers": [
+      "Italian",
+      "Latin",
+      "French",
+      "Spanish"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Van Gogh's \"Starry Night\" was painted during his time at what place?",
+    "answers": [
+      "Saint-Paul Asylum",
+      "Caf\u00e9 Terrace",
+      "Yellow House",
+      "Olive Orchards"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What does a choreographer primarily do?",
+    "answers": [
+      "Designs dance movements",
+      "Writes scripts",
+      "Sew costumes",
+      "Writes music"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who painted \"American Gothic\"?",
+    "answers": [
+      "Grant Wood",
+      "Vincent Van Gogh",
+      "Edward Hopper",
+      "Pablo Picasso"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "By what name is the ballet \"The Nutcracker and the Mouse King\" more commonly known?",
+    "answers": [
+      "The Nutcracker",
+      "Swan Lake",
+      "Coppelia",
+      "The Sleeping Beauty"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "\"Hamlet\", \"Othello\", \"King Lear\", and \"Macbeth\" are often collectively referred to as?",
+    "answers": [
+      "Shakespeare's Four Tragedies",
+      "Shakespeare's Major Plays",
+      "Shakespeare's Most Famous Works",
+      "Shakespeare's Favorite Plays"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Into which language did Ezra Pound translate poetry?",
+    "answers": [
+      "Chinese",
+      "French",
+      "German",
+      "Italian"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "The poem \"Howl\" was written by?",
+    "answers": [
+      "Allen Ginsberg",
+      "Robert Frost",
+      "Langston Hughes",
+      "Emily Dickinson"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which city is home to the Bolshoi Ballet?",
+    "answers": [
+      "Moscow",
+      "Paris",
+      "London",
+      "New York"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What type of artwork is \"The Thinker\"?",
+    "answers": [
+      "Sculpture",
+      "Painting",
+      "Mosaic",
+      "Bas-relief"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which opus number marks Beethoven's Symphony No. 5?",
+    "answers": [
+      "Opus 67",
+      "Opus 77",
+      "Opus 70",
+      "Opus 42"
+    ],
+    "seen": 0
+  },
+  {
     "category": "Science",
     "question": "Which plant does saffron come from?",
     "answers": [
@@ -71408,6 +72761,952 @@ questions=[
       "Tiger Woods",
       "Arnold Palmer",
       "Gary Player"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which Major League Baseball player holds the record for the most career home runs?",
+    "answers": [
+      "Barry Bonds",
+      "Babe Ruth",
+      "Hank Aaron",
+      "Willie Mays"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which soccer team has won the most Premier League titles?",
+    "answers": [
+      "Manchester United",
+      "Arsenal",
+      "Liverpool",
+      "Manchester City"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What country has won the most Cricket World Cups?",
+    "answers": [
+      "Australia",
+      "England",
+      "India",
+      "South Africa"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who won the most Olympic gold medals in Gymnastics?",
+    "answers": [
+      "Simone Biles",
+      "Nadia Com\u0103neci",
+      "Nellie Kim",
+      "Larisa Latynina"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for the most Olympic gold medals won in swimming?",
+    "answers": [
+      "Michael Phelps",
+      "Mark Spitz",
+      "Ian Thorpe",
+      "Ryan Lochte"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for the most Tour de France wins?",
+    "answers": [
+      "Lance Armstrong",
+      "Eddy Merckx",
+      "Alberto Contador",
+      "Fausto Coppi"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has been named World Chess Champion the most times?",
+    "answers": [
+      "Garry Kasparov",
+      "Magnus Carlsen",
+      "Bobby Fischer",
+      "Viswanathan Anand"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has won the most Bassmaster Classic fishing tournaments?",
+    "answers": [
+      "Kevin VanDam",
+      "Mike Iaconelli",
+      "Rick Clunn",
+      "Hank Parker"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for the most career strikes in professional bowling?",
+    "answers": [
+      "Walter Ray Williams Jr.",
+      "Earl Anthony",
+      "Norm Duke",
+      "Pete Weber"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for the most century breaks in professional snooker?",
+    "answers": [
+      "Ronnie O'Sullivan",
+      "Stephen Hendry",
+      "Steve Davis",
+      "John Higgins"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who is the most successful player in professional darts history?",
+    "answers": [
+      "Phil Taylor",
+      "Eric Bristow",
+      "Michael van Gerwen",
+      "John Lowe"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the most World Championship titles in rhythmic gymnastics?",
+    "answers": [
+      "Yevgeniya Kanayeva",
+      "Simona Peycheva",
+      "Margarita Mamun",
+      "Anastasia Bliznyuk"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the world record for the highest score in women's ODI cricket?",
+    "answers": [
+      "Belinda Clark",
+      "Mithali Raj",
+      "Suzie Bates",
+      "Meg Lanning"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which tennis player holds the record for the most Grand Slam wins?",
+    "answers": [
+      "Margaret Court",
+      "Serena Williams",
+      "Steffi Graf",
+      "Martina Navratilova"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which golfer holds the record for most wins in the Masters Tournament?",
+    "answers": [
+      "Jack Nicklaus",
+      "Tiger Woods",
+      "Arnold Palmer",
+      "Gary Player"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the MLB record for the highest career batting average?",
+    "answers": [
+      "Ty Cobb",
+      "Babe Ruth",
+      "Ted Williams",
+      "Honus Wagner"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which NFL player holds the record for the most career receptions?",
+    "answers": [
+      "Jerry Rice",
+      "Larry Fitzgerald",
+      "Tony Gonzalez",
+      "Marvin Harrison"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which soccer player holds the record for most goals in World Cup matches?",
+    "answers": [
+      "Marta",
+      "Birgit Prinz",
+      "Abby Wambach",
+      "Mia Hamm"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who is the highest run scorer in Test Cricket history?",
+    "answers": [
+      "Sachin Tendulkar",
+      "Ricky Ponting",
+      "Jacques Kallis",
+      "Kumar Sangakkara"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has won the most total prizes in Jeopardy history?",
+    "answers": [
+      "Brad Rutter",
+      "Ken Jennings",
+      "James Holzhauer",
+      "Jennings, Brad"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the world record for the 100 meters freestyle in swimming?",
+    "answers": [
+      "Cesar Cielo",
+      "Michael Phelps",
+      "Pieter van den Hoogenband",
+      "Ian Thorpe"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the world record for the most career Grandmasters chess titles?",
+    "answers": [
+      "Garry Kasparov",
+      "Anatoly Karpov",
+      "Bobby Fischer",
+      "Mikhail Tal"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which country has won the most Women's Netball World Cups?",
+    "answers": [
+      "Australia",
+      "New Zealand",
+      "England",
+      "Jamaica"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for the most career wins in PBA bowling history?",
+    "answers": [
+      "Walter Ray Williams Jr.",
+      "Earl Anthony",
+      "Norm Duke",
+      "Pete Weber"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for the most 180's in a single session in professional darts?",
+    "answers": [
+      "Phil Taylor",
+      "Raymond van Barneveld",
+      "Michael van Gerwen",
+      "Gary Anderson"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for the longest successful field goal in NFL history?",
+    "answers": [
+      "Matt Prater",
+      "Jason Elam",
+      "Sebastian Janikowski",
+      "Tom Dempsey"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which NBA player holds the record for the most career triple-doubles?",
+    "answers": [
+      "Russell Westbrook",
+      "Magic Johnson",
+      "Oscar Robertson",
+      "LeBron James"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for the most career home runs in Nippon Professional Baseball?",
+    "answers": [
+      "Sadaharu Oh",
+      "Hideki Matsui",
+      "Kazuhiro Kiyohara",
+      "Hiromitsu Kadota"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for the most receptions in a single NFL season?",
+    "answers": [
+      "Michael Thomas",
+      "Marvin Harrison",
+      "Julio Jones",
+      "Antonio Brown"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for the most gold medals won at a single Summer Olympics?",
+    "answers": [
+      "Michael Phelps",
+      "Mark Spitz",
+      "Matt Biondi",
+      "Ryan Lochte"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which country has won the most Olympic medals in track cycling?",
+    "answers": [
+      "France",
+      "Great Britain",
+      "Netherlands",
+      "Australia"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for the fastest try in Rugby Union history?",
+    "answers": [
+      "Dafydd Howells",
+      "Brian Robinson",
+      "David Campese",
+      "Jonah Lomu"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for the most victories in professional bull riding?",
+    "answers": [
+      "Adriano Moraes",
+      "Chris Shivers",
+      "Silvano Alves",
+      "Justin McBride"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for the most touchdowns in a single NFL season?",
+    "answers": [
+      "LaDainian Tomlinson",
+      "Shaun Alexander",
+      "Priest Holmes",
+      "Marshall Faulk"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for the most career three-pointers in the NBA?",
+    "answers": [
+      "Ray Allen",
+      "Reggie Miller",
+      "Stephen Curry",
+      "Klay Thompson"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which country has won the most Women's World Hockey Championships?",
+    "answers": [
+      "USA",
+      "Canada",
+      "Sweden",
+      "Finland"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for the fastest century in One Day International Cricket?",
+    "answers": [
+      "AB de Villiers",
+      "Shahid Afridi",
+      "Corey Anderson",
+      "Chris Gayle"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the Major League Baseball record for the most career stolen bases?",
+    "answers": [
+      "Rickey Henderson",
+      "Lou Brock",
+      "Ty Cobb",
+      "Tim Raines"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the National Hockey League record for the most career goals?",
+    "answers": [
+      "Wayne Gretzky",
+      "Gordie Howe",
+      "Mario Lemieux",
+      "Mark Messier"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the Major League Soccer record for the most career goals?",
+    "answers": [
+      "Landon Donovan",
+      "Chris Wondolowski",
+      "Jaime Moreno",
+      "Bradley Wright-Phillips"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the World Record for most gold medals in Olympic Weightlifting?",
+    "answers": [
+      "Dimas Pyrros",
+      "Hossein Rezazadeh",
+      "Vasily Alekseyev",
+      "Kakhi Kakhiashvili"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which country has won the most Davis Cup titles in tennis?",
+    "answers": [
+      "USA",
+      "Australia",
+      "Great Britain",
+      "France"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for the longest jump in ski jumping?",
+    "answers": [
+      "Stefan Kraft",
+      "Johan Remen Evensen",
+      "Bj\u00f8rn Einar Rom\u00f8ren",
+      "Andreas Goldberger"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for the fastest knockout in UFC history?",
+    "answers": [
+      "Jorge Masvidal",
+      "Conor McGregor",
+      "Ronda Rousey",
+      "Amanda Nunes"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for the greatest margin of victory in a PGA Tour event?",
+    "answers": [
+      "Tiger Woods",
+      "Bobby Locke",
+      "Ben Hogan",
+      "Byron Nelson"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for the most World Series of Poker bracelets won?",
+    "answers": [
+      "Phil Hellmuth",
+      "Doyle Brunson",
+      "Johnny Chan",
+      "Stu Ungar"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which NHL team holds the record for the most Stanley Cup wins?",
+    "answers": [
+      "Montreal Canadiens",
+      "Toronto Maple Leafs",
+      "Boston Bruins",
+      "Detroit Red Wings"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for the most career goals in FIFA Women's World Cup matches?",
+    "answers": [
+      "Marta",
+      "Birgit Prinz",
+      "Abby Wambach",
+      "Christiane"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for most wickets taken in Test Cricket history?",
+    "answers": [
+      "Muttiah Muralitharan",
+      "Shane Warne",
+      "Anil Kumble",
+      "Glenn McGrath"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the all-time record for points on a single turn in professional Scrabble?",
+    "answers": [
+      "Karl Khoshnaw",
+      "Nigel Richards",
+      "David Webb",
+      "Brian Cappelletto"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the world record for the highest dive?",
+    "answers": [
+      "Laso Schaller",
+      "Orlando Duque",
+      "Jan Kocian",
+      "Randy Dickison"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has the highest verified score in a game of Pac-Man?",
+    "answers": [
+      "Billy Mitchell",
+      "Steve Wiebe",
+      "Dwayne Richard",
+      "Chris Ayra"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the world record for the most Rubik's cubes solved while blindfolded?",
+    "answers": [
+      "Jack Cai",
+      "Marcell Endrey",
+      "Gianfranco Huanqui",
+      "Max Hilliard"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for the highest vertical leap in the NBA?",
+    "answers": [
+      "Wilt Chamberlain",
+      "Michael Jordan",
+      "LeBron James",
+      "Zach LaVine"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the world record for fastest mile run backwards?",
+    "answers": [
+      "Dallas Stricker",
+      "Mark Kenny",
+      "Aaron Yoder",
+      "Jim McConnel"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the world record for the longest television watching marathon?",
+    "answers": [
+      "Aleksandr Kudlay",
+      "Erik Pettersson",
+      "Christoph L\u00fcbke",
+      "Kevin Coyle"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who competed in the most consecutive ironman triathlons?",
+    "answers": [
+      "James Lawrence",
+      "Markus Fachbach",
+      "Andreas Raelert",
+      "Paul Amey"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which team holds the record for the longest win streak in NBA history?",
+    "answers": [
+      "1971-72 Los Angeles Lakers",
+      "1986-87 Boston Celtics",
+      "2015-16 Golden State Warriors",
+      "1995-96 Chicago Bulls"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for the most Fantasy Football points in a single NFL season?",
+    "answers": [
+      "LaDainian Tomlinson",
+      "Aaron Rodgers",
+      "Peyton Manning",
+      "Christian McCaffrey"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which country has won the most Olympic Volleyball gold medals?",
+    "answers": [
+      "USA",
+      "Brazil",
+      "Russia",
+      "Japan"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has the highest ever score in a competitive game of Space Invaders?",
+    "answers": [
+      "Neubauer, Eric",
+      "Martin Bedard",
+      "Bill Carlton",
+      "David Race"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for the most backflips on a pogo stick in one minute?",
+    "answers": [
+      "Michael Mena",
+      "Fred Grzybowski",
+      "Jack Sexty",
+      "Biff Hutchison"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for fastest speed in a body controlled jet engine powered suit?",
+    "answers": [
+      "Richard Browning",
+      "David Mayman",
+      "Franky Zapata",
+      "Rossy, Yves"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which team hold the record for the longest winning streak in NFL history?",
+    "answers": [
+      "2007 New England Patriots",
+      "1972 Miami Dolphins",
+      "1984 San Francisco 49ers",
+      "1998 Denver Broncos"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for most points in a single NFL game (individual)?",
+    "answers": [
+      "Ernie Nevers",
+      "Gale Sayers",
+      "LaDainian Tomlinson",
+      "Dub Jones"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which country has won the most medals in Olympic Wrestling?",
+    "answers": [
+      "USSR",
+      "USA",
+      "Japan",
+      "Sweden"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for the largest bass caught?",
+    "answers": [
+      "George Perry",
+      "Manabu Kurita",
+      "Mike Long",
+      "Larry Kurosaki"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which team holds the record for the most consecutive wins in MLB history?",
+    "answers": [
+      "1916 New York Giants",
+      "2001 Seattle Mariners",
+      "1935 Chicago Cubs",
+      "2002 Oakland Athletics"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which country holds the record for the most medals in Olympic Gymnastics?",
+    "answers": [
+      "USA",
+      "Russia",
+      "China",
+      "Japan"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which country has won the most World Cup Ski Racing titles?",
+    "answers": [
+      "Austria",
+      "USA",
+      "Switzerland",
+      "Germany"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for the most correct answers on a single episode of Jeopardy?",
+    "answers": [
+      "James Holzhauer",
+      "Ken Jennings",
+      "Roger Craig",
+      "Frank Spangenberg"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who hit the most career home runs in Major League Baseball?",
+    "answers": [
+      "Barry Bonds",
+      "Babe Ruth",
+      "Hank Aaron",
+      "Alex Rodriguez"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who was the first NFL player to rush for 2,000 yards in a season?",
+    "answers": [
+      "O.J. Simpson",
+      "Jim Brown",
+      "Emmitt Smith",
+      "Adrian Peterson"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for scoring the most goals in a single World Cup tournament?",
+    "answers": [
+      "Just Fontaine",
+      "Pel\u00e9",
+      "Ronaldo",
+      "Geoff Hurst"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for highest individual score in an innings in Test cricket?",
+    "answers": [
+      "Brian Lara",
+      "Sachin Tendulkar",
+      "Don Bradman",
+      "Vivian Richards"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who won the most Olympic gold medals in gymnastics?",
+    "answers": [
+      "Simone Biles",
+      "Nadia Comaneci",
+      "Shannon Miller",
+      "Larisa Latynina"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has the record for most Olympic swimming gold medals?",
+    "answers": [
+      "Michael Phelps",
+      "Mark Spitz",
+      "Matt Biondi",
+      "Johnny Weissmuller"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who won the most individual Tour de France titles?",
+    "answers": [
+      "Lance Armstrong",
+      "Eddy Merckx",
+      "Bernard Hinault",
+      "Miguel Indurain"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for most Formula 1 Championship wins?",
+    "answers": [
+      "Lewis Hamilton",
+      "Michael Schumacher",
+      "Fangio",
+      "Alain Prost"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who was the youngest ever chess World Champion?",
+    "answers": [
+      "Garry Kasparov",
+      "Bobby Fischer",
+      "Magnus Carlsen",
+      "Viswanathan Anand"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who scored the most goals in a single Netball World Cup tournament?",
+    "answers": [
+      "Irene van Dyk",
+      "Maria Folau",
+      "Laura Geitz",
+      "Caitlin Bassett"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who tallied the most points in a single Volleyball World Championship tournament?",
+    "answers": [
+      "Karch Kiraly",
+      "Sergey Tetyukhin",
+      "Giba",
+      "Ivan Zaytsev"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which angler holds the IGFA record for the heaviest Blue Marlin?",
+    "answers": [
+      "Alfred Glassell Jr.",
+      "Frank Mundus",
+      "Patrick Sebile",
+      "Mike Livingston"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the highest pinfall in a three-game series in Ten-pin bowling?",
+    "answers": [
+      "Bill Fong",
+      "Pete Weber",
+      "Walter Ray Williams Jr.",
+      "Chris Barnes"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for most century breaks in Snooker?",
+    "answers": [
+      "Ronnie O'Sullivan",
+      "Stephen Hendry",
+      "John Higgins",
+      "Steve Davis"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for most 180s in a professional Darts match?",
+    "answers": [
+      "Phil Taylor",
+      "Michael van Gerwen",
+      "Raymond van Barneveld",
+      "Gary Anderson"
     ],
     "seen": 0
   }
