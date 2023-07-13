@@ -61413,6 +61413,743 @@ questions=[
     "seen": 0
   },
   {
+    "category": "Culture",
+    "question": "What type of art is \"La Pieta\" by Michelangelo?",
+    "answers": [
+      "Sculpture",
+      "Painting",
+      "Mosaic",
+      "Calligraphy"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In which museum can you find the Mona Lisa?",
+    "answers": [
+      "Louvre",
+      "Metropolitan Museum of Art",
+      "Museum of Modern Art",
+      "Vatican Museums"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who composed the opera \"La Traviata\"?",
+    "answers": [
+      "Giuseppe Verdi",
+      "Wolfgang Amadeus Mozart",
+      "Richard Wagner",
+      "Ludwig van Beethoven"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Where is the home of the Royal Shakespeare Company?",
+    "answers": [
+      "Stratford-upon-Avon",
+      "London",
+      "Oxford",
+      "Edinburgh"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who is the author of the epic poem \"Paradise Lost\"?",
+    "answers": [
+      "John Milton",
+      "William Shakespeare",
+      "Geoffrey Chaucer",
+      "Dante Alighieri"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What famous dancer is known for \"The Dying Swan\"?",
+    "answers": [
+      "Anna Pavlova",
+      "Mikhail Baryshnikov",
+      "Rudolf Nureyev",
+      "Fred Astaire"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which artist created the sculpture \"The Thinker\"?",
+    "answers": [
+      "Auguste Rodin",
+      "Michelangelo Buonarroti",
+      "Henry Moore",
+      "Pablo Picasso"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who composed \"The Magic Flute\"?",
+    "answers": [
+      "Wolfgang Amadeus Mozart",
+      "Johann Sebastian Bach",
+      "Ludwig van Beethoven",
+      "Fr\u00e9d\u00e9ric Chopin"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What character is the antagonist in the play \"Othello\"?",
+    "answers": [
+      "Iago",
+      "Othello",
+      "Desdemona",
+      "Cassio"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which artist is known for his Pointillism style?",
+    "answers": [
+      "Georges Seurat",
+      "Claude Monet",
+      "Pierre Auguste Renoir",
+      "Edvard Munch"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who composed the ballet \"The Nutcracker\"?",
+    "answers": [
+      "Pyotr Ilyich Tchaikovsky",
+      "Johann Sebastian Bach",
+      "Richard Wagner",
+      "Igor Stravinsky"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who is the author of \"Don Quixote\"?",
+    "answers": [
+      "Miguel de Cervantes",
+      "Johann Wolfgang von Goethe",
+      "Leo Tolstoy",
+      "Victor Hugo"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who composed the opera \"Aida\"?",
+    "answers": [
+      "Giuseppe Verdi",
+      "Richard Wagner",
+      "Gioachino Rossini",
+      "Ludwig van Beethoven"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which artist created the installation \"The Weather Project\" in the Tate Modern?",
+    "answers": [
+      "Olafur Eliasson",
+      "Damien Hirst",
+      "Yayoi Kusama",
+      "Marina Abramovic"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who is the author of \"The Divine comedy\"?",
+    "answers": [
+      "Dante Alighieri",
+      "Geoffrey Chaucer",
+      "William Shakespeare",
+      "John Milton"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the setting for Shakespeare's \"Macbeth\"?",
+    "answers": [
+      "Scotland",
+      "England",
+      "Denmark",
+      "Greece"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What style of painting is Van Gogh's \"Starry Night\"?",
+    "answers": [
+      "Post-Impressionism",
+      "Impressionism",
+      "Cubism",
+      "Expressionism"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In what language did Franz Kafka write most of his works?",
+    "answers": [
+      "German",
+      "Czech",
+      "English",
+      "Russian"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What nationality was the surrealist artist Salvador Dali?",
+    "answers": [
+      "Spanish",
+      "Italian",
+      "French",
+      "American"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who sculpted the famous statue \"David\"?",
+    "answers": [
+      "Michelangelo Buonarroti",
+      "Auguste Rodin",
+      "Leonardo da Vinci",
+      "Donatello"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the style of painting in Grant Wood's \"American Gothic\"?",
+    "answers": [
+      "Regionalism",
+      "Impressionism",
+      "Baroque",
+      "Dadaism"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who painted the famous work \"Impression, Sunrise\"?",
+    "answers": [
+      "Claude Monet",
+      "Pierre-Auguste Renoir",
+      "Paul C\u00e9zanne",
+      "Edouard Manet"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who composed the music for Swan Lake?",
+    "answers": [
+      "Pyotr Ilyich Tchaikovsky",
+      "Claude Debussy",
+      "Johann Sebastian Bach",
+      "Ludwig van Beethoven"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What type of poem is \"The Raven\" by Edgar Allan Poe?",
+    "answers": [
+      "Narrative poem",
+      "Sonnet",
+      "Haiku",
+      "Epic"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which painter started the cubist movement along with Georges Braque?",
+    "answers": [
+      "Pablo Picasso",
+      "Vincent Van Gogh",
+      "Claude Monet",
+      "Salvador Dali"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What was James Joyce's most famous work?",
+    "answers": [
+      "Ulysses",
+      "War and Peace",
+      "To Kill a Mockingbird",
+      "Great Expectations"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who sculpted \"The Statue of Liberty\"?",
+    "answers": [
+      "Fr\u00e9d\u00e9ric Auguste Bartholdi",
+      "Gustave Eiffel",
+      "Auguste Rodin",
+      "Michelangelo Buonarroti"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which playwright wrote \"A Streetcar Named Desire\"?",
+    "answers": [
+      "Tennessee Williams",
+      "Arthur Miller",
+      "Eugene O'Neill",
+      "George Bernard Shaw"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who wrote the novel \"The Brothers Karamazov\"?",
+    "answers": [
+      "Fyodor Dostoevsky",
+      "Leo Tolstoy",
+      "Thomas Mann",
+      "Ernest Hemingway"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who is the prominent pop artist behind \"Campbell's Soup Cans\"?",
+    "answers": [
+      "Andy Warhol",
+      "Jeff Koons",
+      "Damien Hirst",
+      "David Hockney"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which artist created the drip-painting style?",
+    "answers": [
+      "Jackson Pollock",
+      "Pablo Picasso",
+      "Mark Rothko",
+      "Claude Monet"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who is the author of \"War and Peace\"?",
+    "answers": [
+      "Leo Tolstoy",
+      "Fyodor Dostoevsky",
+      "Victor Hugo",
+      "Alexander Pushkin"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who painted \"The Girl with a Pearl Earring\"?",
+    "answers": [
+      "Johannes Vermeer",
+      "Vincent van Gogh",
+      "Edouard Manet",
+      "Rembrandt van Rijn"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In what year was Beethoven's 5th Symphony first performed?",
+    "answers": [
+      "1808",
+      "1785",
+      "1824",
+      "1792"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who is considered the father of the modern short story?",
+    "answers": [
+      "Edgar Allan Poe",
+      "Mark Twain",
+      "Ernest Hemingway",
+      "Nathaniel Hawthorne"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who is the author of the novel \"Moby Dick\"?",
+    "answers": [
+      "Herman Melville",
+      "J.D. Salinger",
+      "Ernest Hemingway",
+      "F. Scott Fitzgerald"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who composed \"The Four Seasons\"?",
+    "answers": [
+      "Antonio Vivaldi",
+      "Johann Sebastian Bach",
+      "Wolfgang Amadeus Mozart",
+      "Georg Friedrich Handel"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who painted \"Las Meninas\"?",
+    "answers": [
+      "Diego Vel\u00e1zquez",
+      "Francisco Goya",
+      "Pablo Picasso",
+      "Salvador Dali"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who wrote the tragic play \"King Lear\"?",
+    "answers": [
+      "William Shakespeare",
+      "Christopher Marlowe",
+      "John Webster",
+      "Ben Jonson"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who composed the music for the opera \"Carmen\"?",
+    "answers": [
+      "Georges Bizet",
+      "Wolfgang Amadeus Mozart",
+      "Giuseppe Verdi",
+      "Gioachino Rossini"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the name of Don Quixote's faithful squire in Miguel de Cervantes' novel?",
+    "answers": [
+      "Sancho Panza",
+      "Rocinante",
+      "Yorick",
+      "Leporello"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who created the sculpture \"Bird in Space\"?",
+    "answers": [
+      "Constantin Br\u00e2ncu\u0219i",
+      "Auguste Rodin",
+      "Henry Moore",
+      "Michelangelo Buonarroti"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which artist is famous for the cutout technique?",
+    "answers": [
+      "Henri Matisse",
+      "Pablo Picasso",
+      "Vincent Van Gogh",
+      "Andy Warhol"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who painted the iconic \"American Gothic\"?",
+    "answers": [
+      "Grant Wood",
+      "Edward Hopper",
+      "James Whistler",
+      "Norman Rockwell"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who wrote the novel \"Mrs. Dalloway\"?",
+    "answers": [
+      "Virginia Woolf",
+      "James Joyce",
+      "F. Scott Fitzgerald",
+      "Ernest Hemingway"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who painted \"Guernica\"?",
+    "answers": [
+      "Pablo Picasso",
+      "Francisco Goya",
+      "Salvador Dali",
+      "Joan Mir\u00f3"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who composed \"Rhapsody in Blue\"?",
+    "answers": [
+      "George Gershwin",
+      "Igor Stravinsky",
+      "Johann Sebastian Bach",
+      "Wolfgang Amadeus Mozart"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who is the author of \"In Search of Lost Time\" (A la recherche du temps perdu)?",
+    "answers": [
+      "Marcel Proust",
+      "Gustave Flaubert",
+      "Victor Hugo",
+      "Charles Baudelaire"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who painted \"The Persistence of Memory\"?",
+    "answers": [
+      "Salvador Dali",
+      "Pablo Picasso",
+      "Vincent Van Gogh",
+      "Andy Warhol"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who composed the famous \"Bolero\"?",
+    "answers": [
+      "Maurice Ravel",
+      "Ludwig van Beethoven",
+      "Wolfgang Amadeus Mozart",
+      "Johann Sebastian Bach"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who is the author of \"One Hundred Years of Solitude\"?",
+    "answers": [
+      "Gabriel Garc\u00eda M\u00e1rquez",
+      "Mario Vargas Llosa",
+      "Jorge Luis Borges",
+      "Pablo Neruda"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the dance style of \"Swan Lake\"?",
+    "answers": [
+      "Ballet",
+      "Modern",
+      "Jazz",
+      "Tango"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In which city is the Hermitage Museum located?",
+    "answers": [
+      "Saint Petersburg",
+      "Moscow",
+      "London",
+      "Paris"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What type of painting is \"The Birth of Venus\" by Botticelli?",
+    "answers": [
+      "Tempera on canvas",
+      "Oil on canvas",
+      "Acrylic on canvas",
+      "Watercolor on paper"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who wrote \"The Importance of Being Earnest\"?",
+    "answers": [
+      "Oscar Wilde",
+      "George Bernard Shaw",
+      "William Shakespeare",
+      "Harold Pinter"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who is the author of \"Anna Karenina\"?",
+    "answers": [
+      "Leo Tolstoy",
+      "Fyodor Dostoevsky",
+      "Mikhail Bulgakov",
+      "Anton Chekhov"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who painted \"The Birth of Venus\"?",
+    "answers": [
+      "Sandro Botticelli",
+      "Caravaggio",
+      "Titian",
+      "Leonardo da Vinci"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What ballet company did Sergei Diaghilev found?",
+    "answers": [
+      "Ballet Russes",
+      "The Bolshoi Ballet",
+      "The Royal Ballet",
+      "New York City Ballet"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is Auguste Rodin's \"The Thinker\" thinking about?",
+    "answers": [
+      "The Gates of Hell",
+      "His grocery list",
+      "His ex-girlfriend",
+      "His imminent sculpting"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who wrote the epic poem \"Iliad\"?",
+    "answers": [
+      "Homer",
+      "Virgil",
+      "Dante Alighieri",
+      "John Milton"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What's unusual about Michelangelo's \"David\" compared to earlier versions of David?",
+    "answers": [
+      "His nudity",
+      "His size",
+      "His pose",
+      "His weapon of choice"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who wrote the tragic play \"Death of a Salesman\"?",
+    "answers": [
+      "Arthur Miller",
+      "Tennessee Williams",
+      "George Bernard Shaw",
+      "Eugene O'Neill"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who painted \"The Ladies of Avignon\"?",
+    "answers": [
+      "Pablo Picasso",
+      "Henri Matisse",
+      "Claude Monet",
+      "Vincent Van Gogh"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who composed the Symphony No. 9, also known as the \"Choral\" Symphony?",
+    "answers": [
+      "Ludwig van Beethoven",
+      "Wolfgang Amadeus Mozart",
+      "Johann Sebastian Bach",
+      "Richard Wagner"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What famous artist is known for creating \"mobiles\"?",
+    "answers": [
+      "Alexander Calder",
+      "Pablo Picasso",
+      "Jackson Pollock",
+      "Auguste Rodin"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who painted \"The Arnolfini Wedding\"?",
+    "answers": [
+      "Jan van Eyck",
+      "Rembrandt van Rijn",
+      "Hieronymus Bosch",
+      "Peter Paul Rubens"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who is the author of \"The Old Man and the Sea\"?",
+    "answers": [
+      "Ernest Hemingway",
+      "F. Scott Fitzgerald",
+      "John Steinbeck",
+      "Herman Melville"
+    ],
+    "seen": 0
+  },
+  {
     "category": "Science",
     "question": "Which plant does saffron come from?",
     "answers": [
@@ -69780,6 +70517,897 @@ questions=[
       "Marcel Hirscher",
       "Alberto Tomba",
       "Hermann Maier"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which country has won the FIFA World Cup the most times?",
+    "answers": [
+      "Brazil",
+      "Germany",
+      "Argentina",
+      "Italy"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which team won the first ever Super Bowl?",
+    "answers": [
+      "Green Bay Packers",
+      "Denver Broncos",
+      "New England Patriots",
+      "Dallas Cowboys"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who won the Men's Singles title in Wimbledon 2018?",
+    "answers": [
+      "Novak Djokovic",
+      "Rafael Nadal",
+      "Roger Federer",
+      "Andy Murray"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What team did basketball player Michael Jordan play for before retiring in 1998?",
+    "answers": [
+      "Chicago Bulls",
+      "Washington Wizards",
+      "New York Knicks",
+      "Los Angeles Lakers"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which cricketer holds the record for the highest individual score in Test Cricket?",
+    "answers": [
+      "Brian Lara",
+      "Sachin Tendulkar",
+      "Ricky Ponting",
+      "Steve Smith"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What place are the 2028 Summer Olympics going to be held in?",
+    "answers": [
+      "Los Angeles",
+      "Tokyo",
+      "Paris",
+      "Buenos Aires"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which country holds the most Olympic medals in gymnastics?",
+    "answers": [
+      "Russia",
+      "USA",
+      "China",
+      "Romania"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the highest score in a single dart game?",
+    "answers": [
+      "Phil Taylor",
+      "Darts Vader",
+      "Raymond van Barneveld",
+      "Bull\u2019s Eye Bill"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the world record in the 100-meter sprint?",
+    "answers": [
+      "Usain Bolt",
+      "Maurice Greene",
+      "Bailey Donovan",
+      "Ato Boldon"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has the record for the most home runs in MLB history?",
+    "answers": [
+      "Barry Bonds",
+      "Babe Ruth",
+      "Hank Aaron",
+      "Mickey Mantle"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who won the 2020 Tour de France?",
+    "answers": [
+      "Tadej Poga\u010dar",
+      "Chris Froome",
+      "Egan Bernal",
+      "Geraint Thomas"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has won the most World Chess Championships?",
+    "answers": [
+      "Magnus Carlsen",
+      "Anatoly Karpov",
+      "Bobby Fischer",
+      "Garry Kasparov"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What country won the first Rugby Union World Cup?",
+    "answers": [
+      "New Zealand",
+      "Australia",
+      "South Africa",
+      "England"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which country has won the most Netball World Championships?",
+    "answers": [
+      "Australia",
+      "New Zealand",
+      "Trinidad and Tobago",
+      "England"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who won the most world heavyweight boxing titles?",
+    "answers": [
+      "Muhammad Ali",
+      "Tyson Fury",
+      "Joe Frazier",
+      "Rocky Marciano"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which country is the all-time leader in Volleyball Olympic medals?",
+    "answers": [
+      "Brazil",
+      "USA",
+      "Italy",
+      "Russia"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who won the most NBA titles as player?",
+    "answers": [
+      "Bill Russell",
+      "Michael Jordan",
+      "LeBron James",
+      "Magic Johnson"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the most Bowling World Cup titles?",
+    "answers": [
+      "Lindsay Boomershine",
+      "Michael Schmidt",
+      "Walter Ray Williams Jr",
+      "Paul Moor"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the most consecutive snooker World Championship wins?",
+    "answers": [
+      "Stephen Hendry",
+      "John Higgins",
+      "Ronnie O'Sullivan",
+      "Joe Davis"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who won the most FIFA Women's World Cup titles?",
+    "answers": [
+      "USA",
+      "Germany",
+      "China",
+      "Brazil"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which NFL quarterback has won the most Super Bowl rings?",
+    "answers": [
+      "Tom Brady",
+      "Peyton Manning",
+      "Joe Montana",
+      "Brett Favre"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the most Men's Singles titles at the Grand Slam in tennis?",
+    "answers": [
+      "Roger Federer",
+      "Rafael Nadal",
+      "Novak Djokovic",
+      "Pete Sampras"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the most career rebounds in NBA history?",
+    "answers": [
+      "Wilt Chamberlain",
+      "Michael Jordan",
+      "Lew Alcindor (Kareem Abdul-Jabbar)",
+      "Bill Russell"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has scored the most points in a Single NBA game?",
+    "answers": [
+      "Wilt Chamberlain",
+      "LeBron James",
+      "Michael Jordan",
+      "Kobe Bryant"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the maximum possible score in a single frame of traditional bowling?",
+    "answers": [
+      "300",
+      "350",
+      "200",
+      "250"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What city hosted the first modern Olympics?",
+    "answers": [
+      "Athens",
+      "Paris",
+      "London",
+      "St. Louis"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which soccer player has the most international goals?",
+    "answers": [
+      "Ali Daei",
+      "Cristiano Ronaldo",
+      "Pele",
+      "Lionel Messi"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which country has won most Davis Cup titles in tennis?",
+    "answers": [
+      "USA",
+      "Australia",
+      "Great Britain",
+      "France"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who was the first non-American to win the Masters Golf tournament?",
+    "answers": [
+      "Gary Player",
+      "Seve Ballesteros",
+      "Greg Norman",
+      "Nick Faldo"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has won the most Commonwealth Games gold medals in athletics?",
+    "answers": [
+      "Australia",
+      "England",
+      "Canada",
+      "Indian"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has won the most Stanley Cups in the NHL?",
+    "answers": [
+      "Montreal Canadiens",
+      "Boston Bruins",
+      "Toronto Maple Leafs",
+      "Detroit Red Wings"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What country has won the most Copa America titles in soccer?",
+    "answers": [
+      "Uruguay",
+      "Argentina",
+      "Brazil",
+      "Chile"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who won the first NBA Championship?",
+    "answers": [
+      "Philadelphia Warriors",
+      "Boston Celtics",
+      "Chicago Bulls",
+      "Los Angeles Lakers"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has won the most World Series in MLB?",
+    "answers": [
+      "New York Yankees",
+      "Boston Red Sox",
+      "Watchful Walruses",
+      "Los Angeles Dodgers"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which country has won the most Volleyball World Championships (men)?",
+    "answers": [
+      "Russia",
+      "Brazil",
+      "Italy",
+      "USA"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who won the most Ballon d'Or in soccer?",
+    "answers": [
+      "Lionel Messi",
+      "Cristiano Ronaldo",
+      "Johan Cruyff",
+      "Michel Platini"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which tennis player has won the most Women's Singles Grand Slam titles?",
+    "answers": [
+      "Margaret Court",
+      "Serena Williams",
+      "Steffi Graf",
+      "Martina Navratilova"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for the most goals scored in the English Premier League?",
+    "answers": [
+      "Alan Shearer",
+      "Wayne Rooney",
+      "Thierry Henry",
+      "Sergio Aguero"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What nation won the first rugby union World Cup?",
+    "answers": [
+      "New Zealand",
+      "South Africa",
+      "Australia",
+      "England"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which country has won the most Olympic gold medals in basketball?",
+    "answers": [
+      "USA",
+      "Soviet Union",
+      "Spain",
+      "Argentina"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which country has won the most gold medals in rowing at the Olympics?",
+    "answers": [
+      "Great Britain",
+      "USA",
+      "Germany",
+      "Canada"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for the highest break in professional snooker?",
+    "answers": [
+      "Ronnie O'Sullivan",
+      "Stephen Hendry",
+      "Steve Davis",
+      "John Higgins"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has scored the most runs in test cricket?",
+    "answers": [
+      "Sachin Tendulkar",
+      "Brian Lara",
+      "Ricky Ponting",
+      "Jacques Kallis"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for most Olympic gold medals in swimming?",
+    "answers": [
+      "Michael Phelps",
+      "Ryan Lochte",
+      "Mark Spitz",
+      "Ian Thorpe"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which National Football League team has the most Super Bowl wins?",
+    "answers": [
+      "Pittsburgh Steelers",
+      "San Francisco 49ers",
+      "Dallas Cowboys",
+      "Green Bay Packers"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which country has won the most men's ice hockey world championships?",
+    "answers": [
+      "Canada",
+      "Russia",
+      "USA",
+      "Finland"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What city is known as the Home of Golf?",
+    "answers": [
+      "St Andrews, Scotland",
+      "Florida, USA",
+      "New South Wales, Australia",
+      "Ontario, Canada"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has won the most gold medals at the World Athletics Championships?",
+    "answers": [
+      "Usain Bolt",
+      "Mo Farah",
+      "Carl Lewis",
+      "Haile Gebrselassie"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which country won the inaugural Rugby World Cup Sevens for Women?",
+    "answers": [
+      "New Zealand",
+      "USA",
+      "Australia",
+      "Canada"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who won the first FIFA World Cup in 1930?",
+    "answers": [
+      "Uruguay",
+      "Argentina",
+      "Brazil",
+      "Italy"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What year was the inaugural season of the NFL?",
+    "answers": [
+      "1920",
+      "1930",
+      "1940",
+      "1950"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which country won the first ever women's football World Cup?",
+    "answers": [
+      "USA",
+      "Germany",
+      "Norway",
+      "Brazil"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which boxer has the most wins in heavyweight boxing?",
+    "answers": [
+      "Joe Louis",
+      "Muhammad Ali",
+      "Langford Sam",
+      "George Foreman"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who won the inaugural World Chess Championships?",
+    "answers": [
+      "Wilhelm Steinitz",
+      "Emmanuel Lasker",
+      "Jos\u00e9 Capablanca",
+      "Anatoly Karpov"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which racing driver holds the record for the most Grand Prix wins?",
+    "answers": [
+      "Lewis Hamilton",
+      "Sebastian Vettel",
+      "Michael Schumacher",
+      "Ayrton Senna"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What team has won the most Football League First Division titles before it became the Premier League?",
+    "answers": [
+      "Liverpool",
+      "Manchester United",
+      "Everton",
+      "Arsenal"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who won the first ever Rugby World Cup?",
+    "answers": [
+      "New Zealand",
+      "Australia",
+      "South Africa",
+      "England"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which player holds the record of most goals in a single World Cup tournament in football?",
+    "answers": [
+      "Just Fontaine",
+      "Pele",
+      "Miroslav Klose",
+      "Miracle Mike"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who won the most Masters Tournament in golf?",
+    "answers": [
+      "Jack Nicklaus",
+      "Tiger Woods",
+      "Arnold Palmer",
+      "Ben Hogan"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What nation has won the most Fed Cup titles in tennis?",
+    "answers": [
+      "USA",
+      "Australia",
+      "Czech Republic",
+      "Russia"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for the fastest 100m breaststroke in swimming?",
+    "answers": [
+      "Adam Peaty",
+      "Michael Phelps",
+      "Lark the Shark",
+      "Cameron van der Burgh"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which country has won the most Alpine Skiing World Cups?",
+    "answers": [
+      "Austria",
+      "Switzerland",
+      "USA",
+      "Germany"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for the most 147 breaks in professional snooker?",
+    "answers": [
+      "Ronnie O'Sullivan",
+      "Stephen Hendry",
+      "John Higgins",
+      "Judd Trump"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "How many holes are played in a round of traditional golf?",
+    "answers": [
+      "18",
+      "20",
+      "16",
+      "22"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which football team won the first ever FA Cup?",
+    "answers": [
+      "Wanderers F.C.",
+      "Blackburn Rovers",
+      "Aston Villa",
+      "Manchester United"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which country has produced the most F1 World Drivers' Champions?",
+    "answers": [
+      "United Kingdom",
+      "Germany",
+      "Brazil",
+      "France"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for the most world title fights in boxing?",
+    "answers": [
+      "Joe Louis",
+      "Muhammad Ali",
+      "Floyd Mayweather Jr",
+      "Manny Pacquiao"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has made the most successful title defenses in UFC history?",
+    "answers": [
+      "Anderson Silva",
+      "Jon Jones",
+      "Georges St-Pierre",
+      "Matt Hughes"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has the most World Cup goals overall?",
+    "answers": [
+      "Marta",
+      "Miroslav Klose",
+      "Pele",
+      "Cristiano Ronaldo"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has the most career touchdowns in the NFL?",
+    "answers": [
+      "Jerry Rice",
+      "Tom Brady",
+      "Peyton Manning",
+      "Brett Favre"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who is the only boxer to retire undefeated after more than 50 fights?",
+    "answers": [
+      "Rocky Marciano",
+      "Floyd Mayweather Jr.",
+      "Muhammad Ali",
+      "Mike Tyson"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In pole vaulting, who holds the men\u2019s world record?",
+    "answers": [
+      "Armand Duplantis",
+      "Sergey Bubka",
+      "Renaud Lavillenie",
+      "Sam Kendricks"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In tennis, who has won the most Grand Slam women's single titles?",
+    "answers": [
+      "Serena Williams",
+      "Margaret Court",
+      "Steffi Graf",
+      "Martina Navratilova"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What team has won the most Super Bowls in NFL history?",
+    "answers": [
+      "Pittsburgh Steelers",
+      "New England Patriots",
+      "San Francisco 49ers",
+      "Dallas Cowboys"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who is the most awarded athlete in Olympic swimming?",
+    "answers": [
+      "Michael Phelps",
+      "Ryan Lochte",
+      "Ian Thorpe",
+      "Mark Spitz"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which team has won the most English Premier League titles?",
+    "answers": [
+      "Manchester United",
+      "Liverpool",
+      "Arsenal",
+      "Chelsea"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the world record in the 100m sprint?",
+    "answers": [
+      "Usain Bolt",
+      "Tyson Gay",
+      "Yohan Blake",
+      "Asafa Powell"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has the most wins in Formula 1 racing?",
+    "answers": [
+      "Lewis Hamilton",
+      "Michael Schumacher",
+      "Alain Prost",
+      "Ayrton Senna"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the women\u2019s world record in the marathon?",
+    "answers": [
+      "Paula Radcliffe",
+      "Mary Keitany",
+      "Brigid Kosgei",
+      "Catherine Ndereba"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which baseball team has won the most World Series?",
+    "answers": [
+      "New York Yankees",
+      "Boston Red Sox",
+      "Los Angeles Dodgers",
+      "Chicago Cubs"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In golf, who has won the most major championships?",
+    "answers": [
+      "Jack Nicklaus",
+      "Tiger Woods",
+      "Arnold Palmer",
+      "Gary Player"
     ],
     "seen": 0
   }
