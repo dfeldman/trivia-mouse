@@ -80,10 +80,10 @@
     <div v-if="gameState === 'running'">
       <h2>{{ selectedCategory }}</h2>
       <div class="score-board left">
-        <h3>Current Points: {{ points }}</h3>
+        <h3>{{ points }}</h3>
       </div>
       <div class="score-board right">
-        <h3>Total Score: {{ score }}</h3>
+        <h3>{{ score }}</h3>
       </div>
       <p>{{ question }}</p>
       <button class="retro-button" v-for="option in options" @click="checkAnswer(option)">
