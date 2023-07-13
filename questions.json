@@ -68418,5 +68418,1369 @@ questions=[
       "Raymond van Barneveld"
     ],
     "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which cricketer holds the record for the most runs in Test cricket?",
+    "answers": [
+      "Sachin Tendulkar",
+      "Don Bradman",
+      "Brian Lara",
+      "Ricky Ponting"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the highest score in a single match in billiards?",
+    "answers": [
+      "Mike Russell",
+      "Gary Spelman",
+      "Satya Singh",
+      "Jim Daly"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who is the reigning World Chess Champion?",
+    "answers": [
+      "Magnus Carlsen",
+      "Viswanathan Anand",
+      "Vladimir Kramnik",
+      "Anatoly Karpov"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In which sport would you perform a Fosbury Flop?",
+    "answers": [
+      "High Jump",
+      "Golf",
+      "Basketball",
+      "Football"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the most home runs in a single season in MLB history?",
+    "answers": [
+      "Barry Bonds",
+      "Babe Ruth",
+      "Hank Aaron",
+      "Willie Mays"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who won the Tour de France five times between 1999 and 2005?",
+    "answers": [
+      "Lance Armstrong",
+      "Alberto Contador",
+      "Eddy Merckx",
+      "Miguel Indurain"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which swimmer holds the women's world record in the 100 meters freestyle?",
+    "answers": [
+      "Cate Campbell",
+      "Katie Ledecky",
+      "Simone Manuel",
+      "Sarah Sjostrom"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the most goals in a single season in the NHL?",
+    "answers": [
+      "Wayne Gretzky",
+      "Mario Lemieux",
+      "Bobby Orr",
+      "Gordie Howe"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the world record for the most wickets in ODI Cricket?",
+    "answers": [
+      "Muttiah Muralitharan",
+      "Shane Warne",
+      "Wasim Akram",
+      "Glenn McGrath"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who is the most decorated gymnast in world championship history?",
+    "answers": [
+      "Simone Biles",
+      "Svetlana Khorkina",
+      "Aly Raisman",
+      "Gabby Douglas"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which country has won the most Rugby World Cups?",
+    "answers": [
+      "New Zealand",
+      "Australia",
+      "South Africa",
+      "England"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has won the most MVP awards in the NBA?",
+    "answers": [
+      "Michael Jordan",
+      "LeBron James",
+      "Kareem Abdul-Jabbar",
+      "Magic Johnson"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which country has the most Olympic medals in volleyball?",
+    "answers": [
+      "United States",
+      "Brazil",
+      "Russia",
+      "China"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has won the World Snooker Championship the most times?",
+    "answers": [
+      "Joe Davis",
+      "Ronnie O'Sullivan",
+      "Stephen Hendry",
+      "Steve Davis"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which female tennis player has won the most Grand Slam single titles?",
+    "answers": [
+      "Serena Williams",
+      "Steffi Graf",
+      "Martina Navratilova",
+      "Billie Jean King"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has the most world champion titles in Formula 1 racing?",
+    "answers": [
+      "Lewis Hamilton",
+      "Michael Schumacher",
+      "Juan Manuel Fangio",
+      "Ayrton Senna"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the world record for the most sixes in an innings in a T20 International cricket match?",
+    "answers": [
+      "Yuvraj Singh",
+      "Chris Gayle",
+      "David Warner",
+      "Evin Lewis"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which country has won the most Men's Beach Volleyball Olympic gold medals?",
+    "answers": [
+      "USA",
+      "Australia",
+      "Brazil",
+      "Germany"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In bowling, what is a perfect score?",
+    "answers": [
+      "300",
+      "500",
+      "1000",
+      "200"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who is the most successful jockey in the history of the Kentucky Derby?",
+    "answers": [
+      "Eddie Arcaro",
+      "Bill Shoemaker",
+      "Pat Day",
+      "Oliver Lewis"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which nation has won the most Cricket World Cups?",
+    "answers": [
+      "Australia",
+      "India",
+      "England",
+      "West Indies"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the highest score possible in a single game of traditional darts?",
+    "answers": [
+      "501",
+      "401",
+      "301",
+      "201"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has the most wins in NASCAR history?",
+    "answers": [
+      "Richard Petty",
+      "Jeff Gordon",
+      "Jim Johnson",
+      "Dale Earnhardt Sr."
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has won the most world titles in male professional surfing?",
+    "answers": [
+      "Kelly Slater",
+      "Laird Hamilton",
+      "Mick Fanning",
+      "Andy Irons"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which female golfer has won the most professional majors?",
+    "answers": [
+      "Patty Berg",
+      "Annika Sorenstam",
+      "Babe Zaharias",
+      "Mickey Wright"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which country has the most Olympic gold medals in ice hockey?",
+    "answers": [
+      "Canada",
+      "Russia",
+      "United States",
+      "Sweden"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In fencing, which of these is NOT one of the three competitive weapons used?",
+    "answers": [
+      "Saber",
+      "Foil",
+      "Rapier",
+      "Epee"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who was the first player to score 100 points in a single NBA game?",
+    "answers": [
+      "Wilt Chamberlain",
+      "Michael Jordan",
+      "Kareem Abdul-Jabbar",
+      "LeBron James"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which country has the most Olympic gold medals in judo?",
+    "answers": [
+      "Japan",
+      "France",
+      "South Korea",
+      "China"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which female gymnast has won the most individual all-around World Championship gold medals?",
+    "answers": [
+      "Simone Biles",
+      "Nadia Comaneci",
+      "Svetlana Khorkina",
+      "Larisa Latynina"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has won the most World Series of Poker Main Events?",
+    "answers": [
+      "Phil Hellmuth",
+      "Johnny Chan",
+      "Stu Ungar",
+      "Chris Moneymaker"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who was the first person to run a marathon under 2 hours?",
+    "answers": [
+      "Eliud Kipchoge",
+      "Haile Gebrselassie",
+      "Kenenisa Bekele",
+      "Wilson Kipsang"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has the most home runs in Major League Baseball history?",
+    "answers": [
+      "Barry Bonds",
+      "Babe Ruth",
+      "Hank Aaron",
+      "Willie Mays"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which bowler has the most hat-tricks in cricket?",
+    "answers": [
+      "Wasim Akram",
+      "Muttiah Muralitharan",
+      "Brett Lee",
+      "Lasith Malinga"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which golfer has won the most Masters Tournaments?",
+    "answers": [
+      "Jack Nicklaus",
+      "Tiger Woods",
+      "Arnold Palmer",
+      "Phil Mickelson"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the maximum score in one \"end\" of curling?",
+    "answers": [
+      "8",
+      "6",
+      "10",
+      "4"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for the highest individual score in a women's T20 cricket international?",
+    "answers": [
+      "Meg Lanning",
+      "Harmanpreet Kaur",
+      "Beth Mooney",
+      "Sophie Devine"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for the most touchdowns in a NFL regular season?",
+    "answers": [
+      "LaDainian Tomlinson",
+      "Jim Brown",
+      "Emmitt Smith",
+      "Peyton Manning"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which male tennis player has won the most Grand Slam singles titles?",
+    "answers": [
+      "Roger Federer",
+      "Pete Sampras",
+      "Rafael Nadal",
+      "Novak Djokovic"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What's the lowest score a golfer can get on a regular hole?",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which country has the most Olympic gold medals in Field Hockey?",
+    "answers": [
+      "Netherlands",
+      "Germany",
+      "Australia",
+      "India"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In Professional Bull Riding, how long must a rider stay on the bull to receive a score?",
+    "answers": [
+      "8 seconds",
+      "10 seconds",
+      "12 seconds",
+      "5 seconds"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the men's world record in the 100 meters diver's depth?",
+    "answers": [
+      "Alexey Molchanov",
+      "Herbert Nitsch",
+      "Enzo Majorca",
+      "Martin Stepanek"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which footballer has scored the most goals in a year (calendar)?",
+    "answers": [
+      "Lionel Messi",
+      "Pele",
+      "Diego Maradona",
+      "Cristiano Ronaldo"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for most consecutive pole positions in Formula 1?",
+    "answers": [
+      "Ayrton Senna",
+      "Lewis Hamilton",
+      "Sebastian Vettel",
+      "Nelson Piquet"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who was the first player inducted into the Tennis Hall of Fame?",
+    "answers": [
+      "Jimmy Connors",
+      "Rod Laver",
+      "Fred Perry",
+      "Bill Tilden"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for most no-hitters pitched in a MLB career?",
+    "answers": [
+      "Nolan Ryan",
+      "Cy Young",
+      "Sandy Koufax",
+      "Bob Feller"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which country has won the most gold medals at the World Gymnastics Championships?",
+    "answers": [
+      "Russia",
+      "United States",
+      "Japan",
+      "China"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the highest individual score in professional rugby union?",
+    "answers": [
+      "Jonny Wilkinson",
+      "Dan Carter",
+      "Ronan O'Gara",
+      "Neil Jenkins"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which NBA player holds the record for most points in a single playoff game?",
+    "answers": [
+      "Michael Jordan",
+      "Elgin Baylor",
+      "Wilt Chamberlain",
+      "LeBron James"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the men's world record in the 200 meters freestyle swimming?",
+    "answers": [
+      "Paul Biedermann",
+      "Ian Thorpe",
+      "Michael Phelps",
+      "Yannick Agnel"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which country has won the most gold medals in fencing at the Summer Olympics?",
+    "answers": [
+      "Italy",
+      "France",
+      "Russia",
+      "Hungary"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Name the first professional race car driver to exceed 200 mph?",
+    "answers": [
+      "Richard Petty",
+      "Bobby Allison",
+      "Bill Elliott",
+      "AJ Foyt"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has the most K-1 World Grand Prix titles in kickboxing?",
+    "answers": [
+      "Ernesto Hoost",
+      "Peter Aerts",
+      "Semmy Schilt",
+      "Remy Bonjasky"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for the longest jump in the long jump?",
+    "answers": [
+      "Mike Powell",
+      "Carl Lewis",
+      "Bob Beamon",
+      "Jesse Owens"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which country has the most Olympic gold medals in table tennis?",
+    "answers": [
+      "China",
+      "South Korea",
+      "Germany",
+      "Japan"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has won the most World's Strongest Man competitions?",
+    "answers": [
+      "J\u00f3n P\u00e1ll Sigmarsson",
+      "Bill Kazmaier",
+      "Haf\u00fe\u00f3r J\u00fal\u00edus Bj\u00f6rnsson",
+      "Mariusz Pudzianowski"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who was the first sumo wrestler to reach Yokozuna (the highest ranked) in the modern era?",
+    "answers": [
+      "Tachiyama Mineemon",
+      "Hakuh\u014d Sh\u014d",
+      "Asashoryu Akinori",
+      "Tochinoumi Teruyoshi"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In Professional Bull Riding, which bull has the most buck-off in under 8 seconds?",
+    "answers": [
+      "Bushwacker",
+      "Bodacious",
+      "Chill Factor",
+      "Mossy Oak Mudslinger"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the world record for the women's marathon?",
+    "answers": [
+      "Brigid Kosgei",
+      "Paula Radcliffe",
+      "Mary Keitany",
+      "Tegla Loroupe"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has the most Women's Singles Grand Slam titles in badminton?",
+    "answers": [
+      "Han Aiping",
+      "Li Lingwei",
+      "Lin Dan",
+      "Aung Myint"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who is the most decorated athlete in X Games history?",
+    "answers": [
+      "Shaun White",
+      "Bob Burnquist",
+      "Aori Nishimura",
+      "Nyjah Huston"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for the most grand slams in professional bass fishing?",
+    "answers": [
+      "Kevin VanDam",
+      "Rick Clunn",
+      "Larry Nixon",
+      "Mark Davis"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In the UFC, which fighter holds the fastest knockout record?",
+    "answers": [
+      "Jorge Masvidal",
+      "Conor McGregor",
+      "Jose Aldo",
+      "Amanda Nunes"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which player has won the most titles in the history of professional pool?",
+    "answers": [
+      "Efren Reyes",
+      "Johnny Archer",
+      "Steve Davis",
+      "Shane Van Boening"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who is the two-time Olympic gold medalist in the skeleton event?",
+    "answers": [
+      "Lizzy Yarnold",
+      "Katie Uhlaender",
+      "Noelle Pikus-Pace",
+      "Amy Williams"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has scored the most points in a single NFL game (player)?",
+    "answers": [
+      "Ernie Nevers",
+      "Gale Sayers",
+      "Paul Hornung",
+      "Jim Brown"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which country has won the most Olympic gold medals in wrestling?",
+    "answers": [
+      "Russia",
+      "United States",
+      "Turkey",
+      "Iran"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has won the most Best Fighter ESPY Award?",
+    "answers": [
+      "Floyd Mayweather Jr.",
+      "Manny Pacquiao",
+      "Ronda Rousey",
+      "Conor McGregor"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has the most wins in Professional Rodeo Cowboys Association?",
+    "answers": [
+      "Ty Murray",
+      "Trevor Brazile",
+      "Cody Ohl",
+      "Fred Whitfield"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for most World Championship gold medals in artistic roller skating?",
+    "answers": [
+      "Silvia Nino",
+      "Maria Galigani",
+      "Sandra Duponchel",
+      "Erika Zanetti"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who is considered the most fit male athlete in the world, according to the CrossFit Games?",
+    "answers": [
+      "Mat Fraser",
+      "Rich Froning",
+      "Ben Smith",
+      "Patrick Vellner"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for most gold medals won at a single World Rowing Championships?",
+    "answers": [
+      "Ekaterina Karsten",
+      "Elisabeta Lip\u0103",
+      "Steve Redgrave",
+      "Ondrej Synek"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What's the fastest recorded speed in snowboarding?",
+    "answers": [
+      "Sammy Luebke",
+      "Travis Rice",
+      "Jamie Anderson",
+      "Chloe Kim"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for most goals in a professional water polo league?",
+    "answers": [
+      "Manuel Estiarte",
+      "Ratko Rudic",
+      "Dezs\u0151 Gyarmati",
+      "Tibor Benedek"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who is the triple crown winner in men's professional surfing?",
+    "answers": [
+      "Kelly Slater",
+      "Andy Irons",
+      "John John Florence",
+      "Mark Richards"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the triple crown in women's professional surfing?",
+    "answers": [
+      "Stephanie Gilmore",
+      "Carissa Moore",
+      "Lisa Andersen",
+      "Layne Beachley"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has the most home runs in MLB history?",
+    "answers": [
+      "Barry Bonds",
+      "Babe Ruth",
+      "Hank Aaron",
+      "Mickey Mantle"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has the most goals in World Cup history?",
+    "answers": [
+      "Marta",
+      "Mia Hamm",
+      "Abby Wambach",
+      "Christine Sinclair"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for most career wins in the NBA?",
+    "answers": [
+      "Boston Celtics",
+      "Los Angeles Lakers",
+      "Golden State Warriors",
+      "Chicago Bulls"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who scored the most points in a single NBA game?",
+    "answers": [
+      "Wilt Chamberlain",
+      "Michael Jordan",
+      "Kobe Bryant",
+      "LeBron James"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which team won the first Super Bowl?",
+    "answers": [
+      "Green Bay Packers",
+      "New England Patriots",
+      "Pittsburgh Steelers",
+      "San Francisco 49ers"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which player holds the record for most career touchdowns in the NFL?",
+    "answers": [
+      "Jerry Rice",
+      "Peyton Manning",
+      "Brett Favre",
+      "Tom Brady"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has the most career home runs in NPB (Japan's professional baseball) history?",
+    "answers": [
+      "Sadaharu Oh",
+      "Ichiro Suzuki",
+      "Hideki Matsui",
+      "Shohei Ohtani"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which athlete has won the most Tour de France titles?",
+    "answers": [
+      "Lance Armstrong",
+      "Eddy Merckx",
+      "Miguel Indurain",
+      "Bernard Hinault"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the world record for the 100m sprint?",
+    "answers": [
+      "Usain Bolt",
+      "Tyson Gay",
+      "Yohan Blake",
+      "Carl Lewis"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which country has won the most World Chess Championships?",
+    "answers": [
+      "Russia",
+      "United States",
+      "India",
+      "Ukraine"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who is the reigning World Snooker Champion?",
+    "answers": [
+      "Judd Trump",
+      "John Higgins",
+      "Mark Selby",
+      "Ronnie O'Sullivan"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for most career goals in the NHL?",
+    "answers": [
+      "Wayne Gretzky",
+      "Mario Lemieux",
+      "Gordie Howe",
+      "Bobby Orr"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which country has won the most Women's World Volleyball Championships?",
+    "answers": [
+      "Russia",
+      "Brazil",
+      "China",
+      "Italy"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which country has the most wins in the Davis Cup (tennis)?",
+    "answers": [
+      "United States",
+      "Australia",
+      "France",
+      "Great Britain"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for the highest score in professional darts?",
+    "answers": [
+      "Phil Taylor",
+      "Raymond van Barneveld",
+      "Michael van Gerwen",
+      "Gary Anderson"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has the most career wins in professional bowling?",
+    "answers": [
+      "Walter Ray Williams Jr.",
+      "Pete Weber",
+      "Earl Anthony",
+      "Norm Duke"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has the most World Series of Poker bracelets?",
+    "answers": [
+      "Phil Hellmuth",
+      "Doyle Brunson",
+      "Johnny Chan",
+      "Daniel Negreanu"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which country has won the most Men's Field Hockey World Cups?",
+    "answers": [
+      "Pakistan",
+      "Netherlands",
+      "India",
+      "Germany"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for the most World Titles in professional surfing?",
+    "answers": [
+      "Kelly Slater",
+      "Mick Fanning",
+      "Andy Irons",
+      "Gabriel Medina"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which country has won the most Netball World Cups?",
+    "answers": [
+      "Australia",
+      "New Zealand",
+      "England",
+      "Jamaica"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for the longest confirmed sniper kill in combat?",
+    "answers": [
+      "JTF2 sniper (unnamed)",
+      "Chris Kyle",
+      "Carlos Hathcock",
+      "Rob Furlong"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for fastest knockout in professional boxing?",
+    "answers": [
+      "Elect Moore",
+      "Ed Latimore",
+      "Andre Berto",
+      "Daniel Geale"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has won the most World Fencing Championships?",
+    "answers": [
+      "Valentina Vezzali",
+      "Mangiarotti Edoardo",
+      "Sergei Golubitsky",
+      "Aldo Nadi"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for the highest score in competitive Pac-Man?",
+    "answers": [
+      "Billy Mitchell",
+      "Steve Wiebe",
+      "Todd Rogers",
+      "Ben Gold"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which horse holds the record for the fastest time in the Kentucky Derby?",
+    "answers": [
+      "Secretariat",
+      "American Pharoah",
+      "Seattle Slew",
+      "Affirmed"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for the most runs in Test Cricket?",
+    "answers": [
+      "Sachin Tendulkar",
+      "Ricky Ponting",
+      "Brian Lara",
+      "Jacques Kallis"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who is the world record holder for most goals in a professional soccer season?",
+    "answers": [
+      "Lionel Messi",
+      "Cristiano Ronaldo",
+      "Pele",
+      "Diego Maradona"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for most points in an NHL season?",
+    "answers": [
+      "Wayne Gretzky",
+      "Mario Lemieux",
+      "Gordie Howe",
+      "Bobby Orr"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the fastest goal scored in FIFA World Cup history?",
+    "answers": [
+      "Hakan \u015e\u00fck\u00fcr",
+      "Davor \u0160uker",
+      "Ronaldo",
+      "Miroslav Klose"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has the most goals in NHL history?",
+    "answers": [
+      "Wayne Gretzky",
+      "Brett Hull",
+      "Gordie Howe",
+      "Mario Lemieux"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has the most career interceptions in the NFL?",
+    "answers": [
+      "Paul Krause",
+      "Ronnie Lott",
+      "Rod Woodson",
+      "Ed Reed"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for the most rebounds in an NBA game?",
+    "answers": [
+      "Wilt Chamberlain",
+      "Bill Russell",
+      "Kareem Abdul-Jabbar",
+      "Dennis Rodman"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the fastest 100m sprint record in athletics?",
+    "answers": [
+      "Usain Bolt",
+      "Yohan Blake",
+      "Tyson Gay",
+      "Justin Gatlin"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In which sport is The Ashes a top-level competition?",
+    "answers": [
+      "Cricket",
+      "Baseball",
+      "Rugby",
+      "Soccer"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What country has won the most FIFA World Cups?",
+    "answers": [
+      "Brazil",
+      "Germany",
+      "Argentina",
+      "Italy"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has the record for the most sacks in an NFL season?",
+    "answers": [
+      "Michael Strahan",
+      "Reggie White",
+      "Lawrence Taylor",
+      "J.J. Watt"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for most goals in an NHL season?",
+    "answers": [
+      "Wayne Gretzky",
+      "Bobby Orr",
+      "Mario Lemieux",
+      "Gordie Howe"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for the most Men's Singles Grand Slam titles in tennis?",
+    "answers": [
+      "Roger Federer",
+      "Rafael Nadal",
+      "Novak Djokovic",
+      "Pete Sampras"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has the most World Rally Championship wins?",
+    "answers": [
+      "S\u00e9bastien Loeb",
+      "Tommi M\u00e4kinen",
+      "Juha Kankkunen",
+      "Carlos Sainz"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who is the most successful club in the English Premier League?",
+    "answers": [
+      "Manchester United",
+      "Liverpool",
+      "Arsenal",
+      "Chelsea"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the record for the most Olympic Gold Medals in swimming?",
+    "answers": [
+      "Michael Phelps",
+      "Mark Spitz",
+      "Ian Thorpe",
+      "Ryan Lochte"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has the most titles in the National Lacrosse League (NLL)?",
+    "answers": [
+      "Buffalo Bandits",
+      "Toronto Rock",
+      "Philadelphia Wings",
+      "Rochester Knighthawks"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which team holds the record for the most consecutive wins in the Bundesliga?",
+    "answers": [
+      "Bayern Munich",
+      "Borussia Dortmund",
+      "Schalke 04",
+      "Bayer Leverkusen"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who holds the highest score in a single professional snooker match?",
+    "answers": [
+      "Ronnie O'Sullivan",
+      "Mark Selby",
+      "Stephen Hendry",
+      "John Higgins"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who won the most NBA championships during the 90s?",
+    "answers": [
+      "Chicago Bulls",
+      "Los Angeles Lakers",
+      "Boston Celtics",
+      "San Antonio Spurs"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What team holds the record for most Stanley Cups wins in the NHL?",
+    "answers": [
+      "Montreal Canadiens",
+      "Toronto Maple Leafs",
+      "Boston Bruins",
+      "Detroit Red Wings"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who has the most World Cup wins in Men's Alpine Skiing?",
+    "answers": [
+      "Ingemar Stenmark",
+      "Marcel Hirscher",
+      "Alberto Tomba",
+      "Hermann Maier"
+    ],
+    "seen": 0
   }
 ]
