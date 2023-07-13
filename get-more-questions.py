@@ -74,5 +74,5 @@ response = openai.ChatCompletion.create(
 output = response['choices'][0]['message']['content']
 
 # Append the output to a file
-with open('output.txt', 'a') as f:
+with open('questions-from-chatgpt.txt', 'a') as f:
     f.write(output + '\n')
