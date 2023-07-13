@@ -4239,7 +4239,7 @@ In
 Fr
 
 History
-Who discovered America?
+Which European first went to the Carribean?
 Christopher Columbus
 Vasco De Gama
 Amerigo Vespucci
@@ -4813,7 +4813,7 @@ North Sea
 Baltic Sea 
 
 History
-Who discovered North America?
+Which European first went to North America?
 Christopher Columbus
 Leif Erikson
 Ferdinand Magellan
@@ -9868,7 +9868,7 @@ People
 What sport did Michael Jordan play?
 Basketball
 Soccer
-Baseball
+Volleyball
 Quidditch
 
 Science
@@ -10143,13 +10143,6 @@ Ag
 Au
 S
 Money
-
-People
-Who is the richest man in the world currently?
-Elon Musk
-Bill Gates
-Jeff Bezos
-Scrooge Mcduck
 
 History
 Who was the president during the American Civil War?
@@ -33247,7 +33240,6 @@ Indian Ocean
 Atlantic Ocean
 Southern Ocean
 
-To keep the model from getting exponentially slower, I am going to stop here for now!
 Geography
 What is the capital city of Albania?
 Tirana
@@ -33850,6 +33842,7 @@ Red Sea
 Gulf of Oman
 Arabian Sea
 Geography
+
 What is the capital of Alberta?
 Edmonton
 Vancouver
@@ -34099,7 +34092,7 @@ Which sea is the saltiest in the world?
 Dead sea
 Red sea
 Black sea
-Baltic sea.
+Baltic sea
 
 Geography
 Which African country was never colonized?
@@ -34522,8 +34515,3610 @@ Australia
 Chile 
 
 Geography
-What is the northernmost city in the world?
+What is the northernmost large city in the world?
 Barrow, Alaska
 Oslo, Norway
 Reykjavik, Iceland
 Murmansk, Russia
+
+Culture
+Who is known as the "Queen of Soul"?
+Aretha Franklin
+Diana Ross
+Ella Fitzgerald
+Nina Simone
+
+Culture
+Who was the lead singer of the band Queen?
+Freddie Mercury
+Elton John
+Bono
+Mick Jagger
+
+Culture
+What is the best-selling album of all time?
+Thriller by Michael Jackson
+Back in Black by AC/DC
+The Dark Side of the Moon by Pink Floyd  
+Abbey Road by The Beatles
+
+Culture
+Which Beatle led the way across Abbey Road in the famous album cover?
+John Lennon
+Paul McCartney
+George Harrison
+Ringo Starr
+
+Culture
+What is Beyonce's fan base famously known as?
+The Beyhive
+Queen Bees
+Beyonces
+Destiny's Children
+
+Culture
+What is Jay-Z's real name?
+Shawn Carter
+Jay Smith
+Carter Jay-Z
+Jackson Carter
+
+Culture
+Which rapper started from the bottom?
+Drake
+Kanye West
+Lil Wayne
+Nikki Minaj
+
+Culture
+Who is Rihanna's fashion brand named after?
+Her childhood nickname, Fenty
+Her last name, Robinson
+Her middle name, Tia
+Her mother's name, Monica
+
+Culture
+What is the name of Adele's debut album?
+19
+21
+25
+30
+
+Culture 
+Which instrument does Lizzo famously play?
+Flute
+Trumpet
+Violin
+Saxophone
+
+Culture 
+What is the name of Billie Eilish's debut album?
+When We All Fall Asleep, Where Do We Go?
+Bad Guy
+Ocean Eyes
+Bellyache
+
+Culture
+Who was the lead guitarist of the Rolling Stones?
+Keith Richards
+Mick Jagger
+Ron Wood
+Bryan Jones
+
+Culture
+Which country is singer Shakira originally from?
+Colombia
+Spain
+Mexico
+Brazil
+
+Culture
+What movie soundtrack is Whitney Houston's "I Will Always Love You" a part of?
+The Bodyguard
+Waiting to Exhale
+The Preacher's Wife
+Cinderella
+
+Culture
+What award did Lin-Manuel Miranda win for the musical "Hamilton"?
+Pulitzer Prize for Drama
+Tony Award for Best Actor
+Grammy Award for Best Soundtrack
+Golden Globe for Best Musical or Comedy
+
+Culture
+Who is known as the "King of Pop"?
+Michael Jackson
+Elvis Presley
+Prince
+Stevie Wonder 
+
+Culture
+Which band was Phil Collins the drummer for?
+Genesis
+Queen
+The Beatles
+The Rolling Stones
+
+Culture
+What is the name of Lady Gaga's first album?
+The Fame
+Born This Way
+Artpop
+Joanne
+
+Culture
+Who is Eminem's alter ego?
+Slim Shady
+Marshall Mathers
+Eight Mile 
+Rap God
+
+Culture
+Who performed the Halftime Show at Super Bowl LVI in 2022?
+The Weeknd
+Beyoncé
+Shakira
+Jennifer Lopez
+
+Culture
+Who was the original drummer for Beatles?
+Pete Best
+Ringo Starr
+George Harrison
+Paul McCartney
+
+
+Culture
+Which instrument does Prince claim he can't play?
+Saxophone
+Clarinet
+Flute
+Harmonica
+
+Culture
+Beyonce was a part of Destiny’s Child. Who were the other two members of the final line-up?
+Kelly Rowland and Michelle Williams
+Solange Knowles and Kelly Rowland
+Kelly Clarkson and Michelle Branch
+Zendaya and Kelly Rowland
+
+Culture
+Where is Jay-Z from?
+Brooklyn, New York
+Los Angeles, California
+Chicago, Illinois
+Atlanta, Georgia
+
+Culture
+Which Michael Jackson album spawned five chart-topping singles?
+Bad
+Thriller
+Off the Wall
+Dangerous
+
+Culture
+Who discovered Rihanna?
+Jay-Z
+Eminem
+Drake
+Kanye West
+
+Culture
+What is Adele's birth name?
+Adele Laurie Blue Adkins
+Adele Sarah Brown Adkins
+Adele Red Adkins
+Adele Mary Adkins
+
+Culture
+Who is Lizzo's flute named after?
+Sasha Flute
+Beyoncé Flute
+Rihanna Flute
+Nicki Flute 
+
+Culture
+In which city was Drake born?
+Toronto
+Sydney
+Brooklyn
+Atlanta
+
+Culture
+Who directed the Beyonce visual album Lemonade?
+Kahlil Joseph
+Spike Lee
+Steven Spielberg
+James Cameron
+
+Culture
+What is Jay-Z's real name?
+Shawn Corey Carter
+Sean John Combs
+William Leonard Roberts II
+Christopher George Latore Wallace
+
+Culture
+What is the highest-selling album of The Beatles?
+The White Album
+Sgt. Pepper's Lonely Hearts Club Band
+Let It Be
+Yellow Submarine
+
+Culture
+Who was Adele's album '21' largely inspired by?
+A former boyfriend
+A friendship
+Her career
+Her family
+
+Culture
+Rihanna starred in which 2012 science fiction film?
+Battleship
+The Matrix
+Interstellar
+Arrival
+
+Culture
+Where did Lizzo grow up?
+Houston, Texas
+Brooklyn, New York
+Detroit, Michigan
+Chicago, Illinois
+
+Culture
+Which rapper has Drake cited as a big influence?
+Jay-Z
+Eminem
+Lil Wayne
+Kanye West
+
+Culture
+What is Beyonce's fanbase usually known as?
+Beyhive
+BeyFans
+BeyKingdom
+BeyTribe
+
+Culture
+Which of these is not a Jay-Z Album?
+Blueprint 4
+Blueprint
+Blueprint 2
+Blueprint 3
+
+Culture
+Where is Rihanna originally from?
+Barbados
+Bahamas
+Cuba
+Trinidad and Tobago
+
+Culture
+Who is Adele's son named after?
+An angel
+A river
+A city
+A pope
+
+I will provide the rest of the questions in the following messages.
+Culture - Music
+
+Who was the lead singer of The Doors?
+Jim Morrison
+Jim Ihrem
+Jim James
+Jim Bobson
+
+Who composed the famous tune "Flight of the Bumblebee"?
+Nikolai Rimsky-Korsakov
+Frederic Chopin
+Ludwig van Beethoven
+Johann Sebastian Bach
+
+Who is the King of Rock ‘n' Roll?
+Elvis Presley
+Bob Dylan
+Freddie Mercury
+John Lennon
+
+What was the name of David Bowie's alter ego?
+Ziggy Stardust
+Bobby Stars
+Johnny Starface
+Spaceface Z 
+
+Who was known as the 'Man in Black'?
+Johnny Cash
+Elvis Presley
+Roy Orbison
+Frank Sinatra
+
+Known for his smooth voice, who sang "Unforgettable"?
+Nat King Cole
+Frank Sinatra
+Elvis Presley
+Dean Martin
+
+Which band released the album Dark Side of the Moon?
+Pink Floyd
+The Beatles
+Rolling Stones
+Led Zeppelin
+
+Whocomposed the music for The Nutcracker?
+Tchaikovsky
+Bach
+Mozart
+Beethoven
+
+What's the real name of the artist "Sting"?
+Gordon Sumner
+Robby Williams
+John Lennon
+George Harrison
+
+Which songstress has an alter ego named Sasha Fierce? 
+Beyoncé
+Katy Perry
+Rihanna
+Lady Gaga
+
+What is Keith Richards' nickname in Rolling Stones?
+Keef
+Rocky
+Star
+Richy
+
+Who was the frontwoman of Fleetwood Mac?
+Stevie Nicks
+Christine McVie
+Ann Wilson
+Linda Ronstadt
+
+What was Jimi Hendrix's debut album?
+Are You Experienced
+Electric Ladyland
+Axis: Bold as Love
+Band of Gypsys
+
+What is Madonna's full name?
+Madonna Louise Ciccone
+Madonna Marie Jones
+Madonna Lisa Ann
+Madonna Susan Peters
+
+Who sang "I Heard It Through the Grapevine"?
+Marvin Gaye
+Ray Charles
+Stevie Wonder
+Amy Winehouse
+
+Which band recorded "Stairway to Heaven"?
+Led Zeppelin
+Rolling Stones
+Beatles
+Who
+
+Who did Elton John originally collaborate with for the songwriting of his music?
+Bernie Taupin
+Billy Joel
+Bob Dylan
+Paul Simon
+
+Whose real name is George Ivan Morrison?
+Van Morrison
+Bob Dylan
+John Lennon
+Neil Young
+
+What band was Debbie Harry the lead vocalist of?
+Blondie
+The Go-Go's
+Bananarama
+Talk Talk
+
+Who performed the song "Rocket Man"?
+Elton John
+Billy Joel
+Prince
+David Bowie
+
+Who is the artist behind the album "Back to Black"?
+Amy Winehouse
+Adele
+Rihanna
+Lana Del Rey
+
+You're Still the One" is a song by which artist?
+Shania Twain
+Taylor Swift
+Miley Cyrus
+Miranda Lambert
+
+Which band is known for their hit "Hotel California"?
+Eagles
+Led Zeppelin
+Rolling Stones
+Doobie Brothers
+
+What is the title of Phil Collins' first solo album?
+Face Value
+Hello, I Must Be Going!
+No Jacket Required
+...But Seriously
+
+Who sang the 1981 hit "Don't Stop Believin'"?
+Journey
+Foreigner
+The Eagles
+Def Leppard
+
+Which band was Axl Rose a member of?
+Guns N' Roses
+AC/DC
+Metallica
+Led Zeppelin
+
+Frank Sinatra was famously part of which group of performers?
+Rat Pack
+Four Horsemen
+Ocean's Eleven
+The Crooners 
+
+"Superstition" is a song by which artist? 
+Stevie Wonder
+Michael Jackson
+James Brown
+Marvin Gaye
+
+What was Bob Dylan's original name?
+Robert Zimmerman
+Robert Johnson
+Robert Thompson
+Robert Phillips
+
+"Under Pressure" is a song by Queen and which other artist?
+David Bowie
+Elton John
+Sting
+Mick Jagger
+
+Who sang "American Pie"?
+Don McLean
+James Taylor
+Neil Diamond
+Cat Stevens
+                       
+Which band was known for their song "Bohemian Rhapsody"?
+Queen
+Rolling Stones
+Beatles
+ABBA
+
+"Billie Jean" is a song by which artist? 
+Michael Jackson
+Prince
+Madonna
+Whitney Houston
+
+Which artist is known for the album "Thriller"?
+Michael Jackson
+Elvis Presley
+Eddie Murphy
+Justin Timberlake
+
+Who performed the song "Purple Rain"?
+Prince
+Michael Jackson
+Stevie Wonder
+Chaka Khan
+
+Which group performed "Dancing Queen"?
+ABBA
+Fleetwood Mac
+The Carpenters
+The Supremes
+
+What's the name of Bob Marley's band?
+The Wailers
+The Jammin'
+The Islanders
+The Tuff Gong
+
+Which rock band was originally known as the New Yardbirds?
+Led Zeppelin
+Rolling Stones
+The Doors
+Cream
+
+Who is the artist behind the album "Like a Virgin"? 
+Madonna
+Cyndi Lauper
+Debbie Harry
+Whitney Houston 
+
+Who wrote "Imagine"?
+John Lennon
+Paul McCartney
+George Harrison
+Ringo Starr
+
+Who is the lead singer of U2?
+Bono
+Edge
+Larry Mullen Jr.
+Adam Clayton
+
+Which British rock band did Jimmy Page belong to?
+Led Zeppelin
+The Rolling Stones
+The Beatles
+Queen
+
+"We Will Rock You" is a song by which band?
+Queen
+Rolling Stones
+AC/DC
+KISS
+
+Who is the artist of "Sweet Child o' Mine"?
+Guns N' Roses
+Metallica
+Aerosmith
+Bon Jovi
+
+Ozzy Osbourne was a member of which band?
+Black Sabbath
+Deep Purple
+Led Zeppelin
+The Who
+
+What was the original name of the band, Queen?
+Smile
+Joy
+Cheers
+Happy
+
+Who is known as the Godfather of Soul?
+James Brown
+Stevie Wonder
+Marvin Gaye
+Otis Redding
+
+Who is the artist behind the album "Born in the U.S.A ?
+Bruce Springsteen
+Bob Dylan
+Tom Petty
+John Mellencamp
+
+Who wrote the song "Heartbreak Hotel"?
+Elvis Presley
+Johnny Cash
+Buddy Holly
+Jerry Lee Lewis
+
+Who is the lead vocalist of Red Hot Chili Peppers?
+Anthony Kiedis
+Flea
+John Frusciante
+Chad Smith
+
+What band was Sting the lead vocalist for?
+The Police
+UB40
+The Jam
+The Clash
+
+What is the real name of the artist known as Bjork?
+Björk Guðmundsdóttir
+Hildur Ingveldardóttir Guðnadóttir
+Sólveig Anspach
+Margrét Vilhjálmsdóttir
+
+Who is the artist behind the album "Tapestry"?
+Carole King
+Joni Mitchell
+Linda Ronstadt
+Emmylou Harris
+
+Who is the lead vocalist of Aerosmith?
+Steven Tyler
+Joe Perry
+Axl Rose
+Joey Kramer 
+
+What is the real name of rock singer Alice Cooper?
+Vincent Furnier
+Elmer Gantry
+Layne Staley
+Jack Bruce
+
+Who is the lead vocalist of Metallica?
+James Hetfield
+Lars Ulrich
+Kirk Hammett
+Jason Newsted
+
+In which band did David Gilmour play?
+Pink Floyd
+Queen
+The Who
+The Kinks
+
+What band was Freddie Mercury in?
+Queen
+The Beatles
+Pink Floyd
+The Who
+
+Bruce Springsteen is also known as what?
+The Boss
+The Chief
+The Duke
+The King
+
+Who is the artist behind the album "Bad"?
+Michael Jackson
+Prince
+Whitney Houston
+Madonna
+
+What was Smokey Robinson’s band called?
+The Miracles
+The Wonders
+The Marvels
+The Spectacles
+
+Who is the artist behind "Ain't No Mountain High Enough"?
+Marvin Gaye & Tammi Terrell
+Otis Redding & Carla Thomas
+Roberta Flack & Donny Hathaway
+Sam & Dave
+
+Who sang the 80s hit "Like a Virgin"?
+Madonna
+Cyndi Lauper
+Whitney Houston
+Tina Turner
+
+Who sang the theme from "Skyfall"?
+Adele
+Beyonce
+Taylor Swift
+Rihanna 
+
+What instrument did jazz musician Miles Davis play?
+Trumpet
+Saxophone
+Piano
+Drums
+
+Who sang "I Will Always Love You" in The Bodyguard soundtrack?
+Whitney Houston
+Mariah Carey
+Celine Dion
+Diana Ross
+
+Who is the artist behind the hit "Firework"?
+Katy Perry
+Taylor Swift
+Adele
+Miley Cyrus
+
+Which band sang "I Want It That Way"?
+Backstreet Boys
+N Sync
+98 Degrees
+Boyz II Men
+
+Who is the artist behind the album "21"?
+Adele
+Taylor Swift
+Beyonce
+Katy Perry
+
+What is the real name of rapper Snoop Dogg?
+Calvin Broadus Jr.
+Aubrey Graham
+Sean Combs
+Marshall Mathers III 
+
+Who is the artist of the song "In Da Club"?
+50 Cent
+Eminem
+Jay Z
+Dr. Dre
+
+Who is the artist behind "Toxic"?
+Britney Spears
+Christina Aguilera
+Jessica Simpson
+Mandy Moore
+
+Which band released the album "Nevermind"?
+Nirvana
+Pearl Jam
+Soundgarden
+Stone Temple Pilots
+
+Who is the artist behind "Teenage Dream"?
+Katy Perry
+Taylor Swift
+Ariana Grande
+Selena Gomez
+
+"Gasolina" is a song by which artist? 
+Daddy Yankee
+Pitbull
+Don Omar
+Juanes
+
+What band released an album called "Californication"?
+Red Hot Chili Peppers
+Linkin Park
+Coldplay
+Foo Fighters
+
+"Umbrella" is a song by which artist? 
+Rihanna
+Beyoncé
+Alicia Keys
+Shakira
+
+"Bootylicious" is a song by which group?
+Destiny's Child
+TLC
+Spice Girls
+Pussycat Dolls
+
+EMINEM's "Stan" features samples from a song by which artist?
+Dido
+Sia
+Enya
+Fergie
+
+Who is the lead singer of the band Coldplay?
+Chris Martin
+Jonny Buckland
+Guy Berryman
+Will Champion
+
+What is a form of urban dance that evolved from hip-hop and is seen in Snoop Dogg's "Drop It Like It's Hot" video?
+Crip-walking
+Popping
+Locking
+Breaking
+
+"Blurred Lines" is a song by which artist? 
+Robin Thicke
+Pharrell Williams
+Justin Timberlake
+Bruno Mars
+
+"Chandelier" is a song by which artist?
+Sia
+Katy Perry
+Adele
+Rihanna
+
+Who won the first season of "American Idol"?
+Kelly Clarkson
+Justin Guarini
+Tamyra Gray
+Nikki McKibbin
+
+What was the name of Taylor Swift's first album?
+Taylor Swift
+Fearless
+Speak Now
+Red
+
+Who is the artist behind "Sorry"?
+Justin Bieber
+Shawn Mendes
+Ed Sheeran
+Charlie Puth
+
+Who sang "Piece of Me"?
+Britney Spears
+Christina Aguilera
+Jessica Simpson
+Mandy Moore
+
+Who is the artist behind the album "Ray of Light"?
+Madonna
+Britney Spears
+Christina Aguilera
+Kylie Minogue
+Culture - Music
+Who is generally acknowledged as the 'King of Reggae'?
+Bob Marley
+Bob Dylan
+Fred Astaire
+Jimmy Buffet
+
+Who composed the iconic 'Prelude in C-sharp minor'?
+Sergei Rachmaninoff
+Franz Liszt
+Johannes Brahms
+Wolfgang Mozart
+
+What was Frank Sinatra's signature color?
+Blue
+Black
+Red
+Green
+
+What band was Freddie Mercury the lead vocalist of?
+Queen
+Journey
+Pink Floyd
+The Rolling Stones
+
+In which city was Mozart born?
+Salzburg
+Vienna
+Paris
+Berlin
+
+Who composed the Four Seasons?
+Antonio Vivaldi
+Salvador Dali
+Leonardo Da Vinci
+Vincent Van Gogh
+
+Which band composed the song 'Stairway to Heaven'?
+Led Zeppelin
+The Beatles
+Queen
+Guns N' Roses
+
+Who composed the symphony No. 9?
+Ludwig van Beethoven
+Mozart
+Bach
+Tchaikovsky
+
+What is Elton John's real name?
+Reginald Dwight
+Rodney Stewart
+Harry Jenkins
+Alfred Jones
+
+What rock group was known as the "Fab Four"?
+The Beatles
+The Rolling Stones
+Aerosmith
+The Who
+
+Who wrote 'Hotel California'?
+Eagles
+Beach Boys
+Rolling Stones
+Van Halen
+
+Who composed 'Tutti Frutti'?
+Little Richard
+Chubby Checker
+Chuck Berry
+Elton John
+
+Who was the lead singer of the band Nirvana?
+Kurt Cobain
+Bono
+Mick Jagger
+John Lennon
+
+Patsy Cline is best known for singing in which genre of music?
+Country
+Folk
+Rock
+Opera
+
+What band is known for their hit song 'Bohemian Rhapsody'?
+Queen
+The Beatles
+Pink Floyd
+The Rolling Stones
+
+What style of music is Dolly Parton famed for?
+Country
+Rock
+Jazz
+Classical
+
+Which musician is known as the 'Empress of the Blues'?
+Bessie Smith
+Ella Fitzgerald
+Billie Holiday
+Aretha Franklin
+
+What rock group was known as 'The Bad Boys from Boston'?
+Aerospace
+Led Zeppelin
+The Eagles
+Rolling Stones
+
+For what musical style is Django Reinhardt known?
+Jazz Guitar
+Classical Piano
+Blues Harmonica
+Opera Singing
+
+Who composed 'White Christmas'?
+Irving Berlin
+Cole Porter
+George Gershwin
+Richard Rodgers
+
+Which musician is famous for playing 'Sultans of Swing'?
+Dire Straits
+The Beatles
+Rolling Stones
+Jimi Hendrix
+
+Who composed 'Smoke on the Water'?
+Deep Purple
+Led Zeppelin
+The Who
+Black Sabbath
+
+Who composed the opera 'La Boheme'?
+Giacomo Puccini
+Wolfgang Mozart
+Ludwig van Beethoven
+Richard Wagner
+
+What music group was Brian Jones a founder and original leader of?
+Rolling Stones
+The Beatles
+Led Zeppelin
+The Who
+
+Who composed 'Sweet Home Alabama'?
+Lynyrd Skynyrd
+Rolling Stones
+The Beatles
+Eagles
+
+Which band wrote 'I Can't Get No Satisfaction'?
+Rolling Stones
+The Beatles
+Pink Floyd
+Guns N' Roses
+
+Who originally composed 'All Along the Watchtower'?
+Bob Dylan
+Jimi Hendrix
+Neil Young
+David Bowie
+
+What band had a hit with their song 'Everlong'?
+Foo Fighters
+Nirvana
+Green Day
+Red Hot Chili Peppers
+
+Who composed 'American Idiot'?
+Green Day
+Blink 182
+Sum 41
+The Offspring
+
+Who was the original member and vocalist of the band 'The Police'?
+Sting
+Bono
+Freddie Mercury
+John Lennon
+
+Who was the lead vocalist of the band 'Pearl Jam'?
+Eddie Vedder
+Kurt Cobain
+Chris Cornell
+Layne Staley
+
+Who composed 'Paranoid Android'?
+Radiohead
+Coldplay
+Rammstein
+My Chemical Romance
+
+Who was the lead vocalist of Genesis before launching his solo career?
+Phil Collins
+Peter Gabriel
+Steve Hackett
+Mike Rutherford
+
+What artist composed 'Iron Man'?
+Black Sabbath
+Iron Maiden
+Guns N' Roses
+AC/DC
+
+Who wrote 'Piano Man'?
+Billy Joel
+Elton John
+Paul McCartney
+Neil Diamond
+
+Who composed '(I Can't Get No) Satisfaction'?
+Rolling Stones
+The Beatles
+Led Zeppelin
+The Who
+
+What band is known for their hit 'Hotel California'?
+The Eagles
+The Beatles
+Pink Floyd
+The Rolling Stones
+
+What band is known for their song 'Another Brick in the Wall'?
+Pink Floyd
+The Beatles
+Queen
+The Rolling Stones
+
+What famous musician was the original drummer for Nirvana?
+Dave Grohl
+Kurt Cobain
+Krist Novoselic
+Chris Cornell
+
+What band sang the song 'Paint It, Black'?
+The Rolling Stones
+The Beatles
+Pink Floyd
+The Doors
+
+Who wrote 'Imagine'?
+John Lennon
+Paul McCartney
+George Harrison
+Ringo Starr
+
+What band is known for their song 'Welcome to the Jungle'?
+Guns N' Roses
+The Beatles
+Bon Jovi
+AC/DC
+
+Which contemporary composer is famous for compositions like 'Clocks' and 'Viva La Vida'?
+Coldplay
+U2
+Radiohead 
+Oasis
+
+Who composed 'Sweet Child O' Mine'?
+Guns N' Roses
+The Beatles
+Queen
+AC/DC
+
+Which band is famous for their songs named after U.S. states, like 'Sweet Home Alabama' and 'Free Bird'?
+Lynyrd Skynyrd
+Rolling Stones
+The Beatles
+The Eagles
+
+Who composed 'Yellow Submarine'?
+The Beatles
+The Rolling Stones
+Led Zeppelin
+Pink Floyd
+
+Who was the original member and leader of the band 'Fleetwood Mac'?
+Peter Green
+Lindsey Buckingham
+Mick Fleetwood
+John McVie
+
+The original members of what band were Roger Daltrey, Pete Townshend, John Entwistle, and Keith Moon?
+The Who
+The Beatles
+Queen
+Journey
+
+What band is known for their hit song 'You Can't Always Get What You Want'?
+The Rolling Stones
+Beatles
+Queen
+Led Zeppelin
+
+What band is known for their song 'More Than a Feeling'?
+Boston
+Kansas
+Chicago
+Styx
+
+Who wrote 'Your Song'?
+Elton John
+Billy Joel
+Paul McCartney
+David Bowie
+
+Who was known as 'The Lizard King'?
+Jim Morrison
+Jim Hendrix
+Johnny Cash
+Ronnie Van Zant
+
+Which band is known for 'Dream On'?
+Aerospace
+The Eagles
+Rolling Stones
+The Who
+
+Who originally sang 'Sweet Caroline'?
+Neil Diamond
+Barry Manilow
+Lionel Richie
+Tom Jones
+
+What band is known for their song 'Heartbreak Hotel'?
+Elvis Presley
+The Beatles
+Queen
+Guns N' Roses
+
+Who composed 'In the Air Tonight'?
+Phil Collins
+Peter Gabriel
+George Michael
+David Bowie
+
+Who composed 'Mr. Tambourine Man'?
+Bob Dylan
+The Beatles
+The Rolling Stones
+Pink Floyd
+
+What band is known for their song 'Livin' on a Prayer'?
+Bon Jovi
+The Beatles
+Queen
+Rolling Stones
+
+What band is known for their song 'Carry On Wayward Son'?
+Kansas
+Boston
+Chicago
+Styx
+
+What band is known for their song 'Eye of the Tiger'?
+Survivor
+Europe
+Def Leppard
+Foreigner
+
+Who composed 'Black Dog'?
+Led Zeppelin
+Black Sabbath
+The Rolling Stones
+AC/DC
+
+Who originally sang 'Don't Stop Believin''?
+Journey
+The Beatles
+Queen
+Guns N' Roses
+
+What band is known for their song 'We Are the Champions'?
+Queen
+The Beatles
+Pink Floyd
+Rolling Stones
+
+Who composed '(Sittin' On) The Dock of the Bay'?
+Otis Redding 
+Sam Cooke 
+Ray Charles 
+Marvin Gaye 
+
+What band is known for the song 'Riders on the Storm'?
+The Doors
+The Beatles
+The Rolling Stones
+Cream
+
+Who composed 'A Day in the Life'?
+The Beatles
+The Rolling Stones
+Led Zeppelin
+Pink Floyd
+
+Who sang 'The Times They Are a-Changin''?
+Bob Dylan
+The Beatles
+The Rolling Stones
+Jimi Hendrix
+
+What band is known for their songs 'Born in the U.S.A.' and 'Dancing in the Dark'?
+Bruce Springsteen
+The Beatles
+Queen
+Guns N' Roses
+
+Who originally sang 'Like a Rolling Stone'?
+Bob Dylan
+The Beatles
+The Rolling Stones
+Pink Floyd
+
+What band is known for their song 'Tubular Bells'?
+Mike Oldfield
+The Beatles
+The Rolling Stones
+Pink Floyd
+
+What band is known for their album 'Abbey Road'?
+The Beatles
+The Rolling Stones
+Pink Floyd 
+Led Zeppelin
+
+What band is known for their song 'Highway to Hell'?
+AC/DC
+Aerosmith
+Guns N' Roses
+Metallica
+
+What band is known for their song 'Baba O'Riley'?
+The Who
+The Beatles
+The Rolling Stones
+Pink Floyd
+
+Who composed 'Who'll Stop the Rain'?
+Creedence Clearwater Revival
+The Rolling Stones
+The Beatles
+Pink Floyd
+
+What band is known for their song 'School's Out'?
+Alice Cooper
+Kiss
+The Rolling Stones
+Pink Floyd
+
+What band is known for their song 'Light My Fire'?
+The Doors
+The Rolling Stones
+The Beatles
+Pink Floyd
+
+Who composed 'Blowin' in the Wind'?
+Bob Dylan
+Bob Marley
+The Beatles
+Pink Floyd
+
+What band is known for their song 'Free Bird'?
+Lynyrd Skynyrd
+Aerosmith
+The Eagles
+Pink Floyd
+
+Who composed 'Message in a Bottle'?
+The Police
+The Beatles
+The Doors
+Pink Floyd
+
+What band is known for their song 'Anarchy in the UK'?
+Sex Pistols
+The Beatles
+Queen
+Guns N' Roses
+
+What band is known for their song 'A Day in the Life'?
+The Beatles
+The Rolling Stones
+Pink Floyd 
+Led Zeppelin
+Culture - Music
+Who is the youngest member of the band One Direction?
+Harry Styles
+Niall Horan
+Zayn Malik
+Liam Payne
+
+Culture - Music
+Whose album is "1989"?
+Taylor Swift
+Ariana Grande
+Katy Perry
+Selena Gomez 
+
+Culture - Music
+Which rapper's real name is Marshall Mathers?
+Eminem
+Jay Z
+Kanye West
+Dr. Dre 
+
+Culture - Music
+For what band did Phil Collins serve as lead vocalist?
+Genesis
+Pink Floyd
+Queen
+Led Zeppelin 
+
+Culture - Music
+How many Octaves could Freddie Mercury reportedly sing?
+Four
+Two
+Six
+Three
+
+Culture - Music
+Which artist's first album was entitled 'Born to Die'?
+Lana Del Rey
+Lorde
+Miley Cyrus
+Billie Eilish
+
+Culture - Music
+What band is Flea a part of?
+Red Hot Chili Peppers 
+Nirvana
+Pearl Jam 
+Rage Against The Machine
+
+Culture - Music
+What's the title of Selena's last album before her death?
+Dreaming of You
+Amor Prohibido
+Ven Conmigo
+Selena Live!
+
+Culture - Music
+Who among these is known as "King of Pop"?
+Michael Jackson
+Elton John
+Paul McCartney
+Madonna
+
+Culture - Music
+How many Grammys has U2 won?
+22
+15
+18
+10
+
+Culture - Music
+What's Britney Spears's debut single?
+Baby One More Time
+Oops!... I Did It Again
+Toxic
+Womanizer
+
+Culture - Music
+Which famous popstar is Mariah Carey's godmother?
+Patti LaBelle
+Whitney Houston
+Aretha Franklin
+Diana Ross
+
+Culture - Music
+What DJ scored worldwide success with "Clarity"?
+Zedd
+Calvin Harris
+David Guetta
+Tiësto
+
+Culture - Music
+Which classical composer became deaf later in his life?
+Ludwig van Beethoven
+Johann Sebastian Bach
+Wolfgang Amadeus Mozart
+Franz Schubert
+
+Culture - Music
+Who was the lead singer of the band "Queen"?
+Freddie Mercury
+Roger Taylor
+Brian May
+John Deacon
+
+Culture - Music
+Who sang the female part on "Under Pressure" with Queen?
+Annie Lennox
+Cindy Lauper
+Debbie Harry
+David Bowie
+
+Culture - Music
+"Hotel California" is a song by which American rock band?
+The Eagles
+Led Zeppelin
+The Beatles
+Pink Floyd
+
+Culture - Music
+In what city was Jimi Hendrix born?
+Seattle
+Los Angeles 
+Chicago
+San Francisco
+
+Culture - Music
+What was Madonna’s first UK top ten single?
+Holiday
+Like a Virgin
+Material Girl
+Vogue
+
+Culture - Music
+Who sang lead vocals for the band "Lynyrd Skynyrd"?
+Ronnie Van Zant
+Gary Rossington
+Allen Collins
+Artimus Pyle
+
+Culture - Music
+Whose 2013 world tour was called "The Mrs. Carter Show"?
+Beyoncé
+Adele
+Taylor Swift
+Rihanna
+
+Culture - Music
+What is Justin Timberlake's middle name?
+Randall
+Robert
+Ryan
+Richard
+
+Culture - Music
+What is the title of Adele’s first album?
+19
+21
+25
+30
+
+Culture - Music
+Which Bob Marley song has been covered by artists in genres ranging from reggae to rock, jazz, punk, hip hop, latin, and country?
+One Love
+Redemption Song
+No Woman, No Cry
+Could You Be Loved
+
+Culture - Music
+Who composed the four seasons?
+Antonio Vivaldi
+Ludwig Van Beethoven
+Johann Sebastian Bach
+Franz Schubert
+
+Culture - Music
+What was Elvis Presley's first hit in 1956?
+Heartbreak Hotel
+Jailhouse Rock
+Love Me Tender
+Hound Dog
+
+Culture - Music
+Whose hit album was 'FutureSex/LoveSounds'?
+Justin Timberlake
+Usher
+Ne-Yo
+Justin Bieber
+
+Culture - Music
+What is the first track on Nirvana's Nevermind album?
+Smells Like Teen Spirit
+Come As You Are
+Lithium 
+In Bloom
+
+Culture - Music
+How many members are there in the band Maroon 5?
+5
+6
+7
+8
+
+Culture - Music
+Which song by Luis Fonsi and Daddy Yankee has the most views on YouTube?
+Despacito
+Echame la Culpa
+Taki Taki
+Gasolina
+
+Culture - Music
+Who was the first country artist to sell over 10 million copies of an album?
+Garth Brooks
+Johnny Cash
+Tim McGraw
+Kenny Chesney
+
+Culture - Music
+Who performed "I Will Always Love You" at the 1992 Grammy Awards?
+Whitney Houston
+Mariah Carey
+Celine Dion
+Cher
+
+Culture - Music
+Which band is known for their hit "Sweet Home Alabama"?
+Lynyrd Skynyrd
+Eagles
+Rolling Stones
+AC/DC
+
+Culture - Music
+What was Billie Holiday’s nickname?
+Lady Day
+Queen B
+Empress of the Blues
+First Lady of Song
+
+Culture - Music
+Who is the lead vocalist of the band Coldplay?
+Chris Martin
+Jonny Buckland
+Guy Berryman
+Will Champion
+
+Culture - Music
+Which band had a 1987 hit with the song 'Sweet Child O' Mine'?
+Guns N' Roses
+Aerosmith
+Metallica
+AC/DC
+
+Culture - Music
+Who performed during the halftime show at Super Bowl 50?
+Coldplay
+Bruno Mars 
+Lady Gaga 
+Justin Timberlake
+
+Culture - Music
+Prince won an Oscar for Best Original Score for which film?
+Purple Rain
+Under the Cherry Moon
+Sign “O” the Times
+Graffiti Bridge
+
+Culture - Music
+Who wrote and performed "You've Got a Friend"?
+Carole King
+James Taylor
+Bob Dylan
+Paul Simon
+
+Culture - Music
+Who was the original drummer for The Beatles?
+Pete Best
+Ringo Starr
+George Harrison
+Stuart Sutcliffe
+
+Culture - Music
+What was The Beach Boys first number one song?
+Good Vibrations
+Surfin' U.S.A
+Kokomo
+I Get Around
+
+Culture - Music
+Who wrote "Respect" that was made famous by Aretha Franklin?
+Otis Redding
+Sam Cooke 
+James Brown
+Ray Charles
+
+Culture - Music
+Where was rapper Tupac Shakur born?
+East Harlem, New York
+Los Angeles, California
+Atlanta, Georgia
+Compton, California
+
+Culture - Music
+What is Sting's real name?
+Gordon Sumner 
+Gordon Matthews
+Gordon Adams
+Gordon Davis
+
+Culture - Music
+"The Man Comes Around" is the title of a song by who?
+Johnny Cash
+Kris Kristofferson
+Willie Nelson
+Waylon Jennings
+
+Culture - Music
+Who is known as the "Queen of Soul"?
+Aretha Franklin
+Diana Ross
+Tina Turner 
+Whitney Houston 
+
+Culture - Music
+Who performed "Smooth" with Carlos Santana? 
+Rob Thomas
+Sting
+Adam Levine
+Chris Martin 
+
+Culture - Music
+Who originally wrote and performed "I Will Always Love You"?
+Dolly Parton 
+Whitney Houston
+Mariah Carey 
+Celine Dion 
+
+Culture - Music
+What's AC/DC's highest selling album internationally?
+Back in Black
+High Voltage
+Dirty Deeds Done Dirt Cheap
+For Those About to Rock
+
+Culture - Music
+In what year did the Spice Girls release their debut album, Spice?
+1996
+1995
+1997
+1998
+
+Culture - Music
+Who wrote "Be My Baby," made famous by the Ronettes?
+Phil Spector
+Brian Wilson
+Barry Mann
+Jerry Leiber
+
+Culture - Music
+What band did Paul McCartney form after The Beatles?
+Wings 
+The Rolling Stones
+The Who
+Led Zeppelin
+
+Culture - Music
+What's Lady Gaga's birth name?
+Stefani Germanotta
+Katheryn Hudson
+Alicia Moore
+Aubrey Graham
+
+Culture - Music
+Where was rapper Drake born?
+Toronto, Canada
+Atlanta, Georgia
+Compton, California
+Houston, Texas
+
+Culture - Music
+Who composed the music for The Lion King (1994)?
+Elton John
+Hans Zimmer
+John Williams
+Randy Newman
+
+Culture - Music 
+Where was jazz musician Louis Armstrong born?
+New Orleans
+Chicago
+New York
+Los Angeles
+
+Culture - Music
+Who was the best-selling female artist of the 2000s in America?
+Britney Spears
+Christina Aguilera
+Mariah Carey
+Beyonce
+
+Culture - Music
+What band did Jimmy Page play guitar for?
+Led Zeppelin
+Rolling Stones
+The Who
+Queen 
+
+Culture - Music
+Where was Bob Dylan born?
+Duluth, Minnesota
+New York, New York
+Los Angeles, California
+Chicago, Illinois
+
+Culture - Music
+What is the best-selling album (by copies sold) of all time?
+Michael Jackson's "Thriller"
+The Beatles' "The White Album"
+AC/DC's "Back in Black"
+Pink Floyd's "The Wall"
+
+Culture - Music
+Who was the lead singer of the grunge rock band "Nirvana"?
+Kurt Cobain
+Dave Grohl
+Krist Novoselic
+Chad Channing
+
+Culture - Music
+Under which name did Reginald Dwight become famous?
+Elton John
+Paul McCartney
+Billy Joel
+George Michael
+
+Culture - Music
+What's the title of Ed Sheeran's debut album?
++
+-
+x
+÷
+
+Culture - Music
+What was George Michael’s first solo No. 1 single after Wham!?
+Careless Whisper
+Faith
+Father Figure
+Jesus to a Child 
+
+Culture - Music
+Who recorded the album "Piano Man"?
+Billy Joel
+Elton John
+Paul McCartney
+Neil Diamond
+
+Culture - Music
+Katy Perry, before becoming a pop vocalist, started her career in which genre?
+Gospel
+Country
+Rock
+R&B
+
+Culture - Music
+What famous singer is known for his trademark feature, 'The Sneer'?
+Elvis Presley 
+Bob Dylan 
+John Lennon
+Johnny Cash
+
+Culture - Music
+Who is the "Material Girl"?
+Madonna
+Cher 
+Cyndi Lauper
+Debbie Harry
+
+Culture - Music
+What is David Bowie’s real name?
+David Jones
+David Smith
+David Brown
+David Thomas
+
+Culture - Music
+Who's the lead vocalist of the band U2?
+Bono
+The Edge
+Adam Clayton
+Larry Mullen Jr.
+
+Culture - Music
+What is Fergie's real name?
+Stacy Ferguson
+Stephanie Germanotta
+Fergalicious Superstar
+Fergie Fredrickson 
+
+Culture - Music
+Which band featured Axl Rose, Slash and Izzy Stradlin?
+Guns N' Roses
+Metallica
+Motorhead
+Iron Maiden
+
+Culture - Music
+What is the name of Radiohead's debut single?
+Creep
+High and Dry
+Paranoid Android
+Karma Police
+
+Culture - Music
+How many times has Céline Dion won the Eurovision Song Contest?
+Once
+Never
+Twice
+Three times
+Culture - Music 
+Who is the lead vocalist of the band "Radiohead"?
+Thom Yorke
+Robert Smith
+Chris Martin
+David Bowie
+
+Culture - Music
+What is Madonna's full birth name?
+Madonna Louise Ciccone
+Madonna Maria Louise 
+Regina Louise Ciccone
+Madonna Louise Ciccone Marconi
+
+Culture - Music
+What is the real name of the rapper "Snoop Dogg"?
+Calvin Cordozar Broadus Jr.
+Clyde Carson Broadus Jr.
+Cordell Broadus
+David Blake Jr.
+
+Culture - Music
+Which iconic musician was famously known as "The King of Pop"?
+Michael Jackson
+Elvis Presley
+Prince
+Frank Sinatra
+
+Culture - Music
+What band did Dave Grohl form after the death of Kurt Cobain?
+Foo Fighters
+Nirvana
+Pearl Jam
+Soundgarden
+
+Culture - Music
+What band was Joe Strummer the lead vocalist for?
+The Clash
+The Who
+The Rolling Stones
+The Ramones
+
+Culture - Music
+Who was the first to record the hit single "I Will Always Love You"?
+Dolly Parton
+Whitney Houston
+Mariah Carey
+Celine Dion
+
+Culture - Music
+For which movie did Bruce Springsteen win an Oscar for Best Original Song?
+Philadelphia
+Glory
+Ghost
+Twin Peaks
+
+Culture - Music
+What is Taylor Swift's middle name?
+Alison
+Elizabeth
+Michelle
+Juliette
+
+Culture - Music
+What was Bob Dylan's birth name?
+Robert Zimmerman
+Bob Tailor
+Rubin Zimmerman
+Robert Dillon
+
+Culture - Music
+Who is the youngest Beatle?
+George Harrison
+John Lennon
+Paul McCartney
+Ringo Starr
+
+Culture - Music
+Who was the lead singer of The Velvet Underground?
+Lou Reed
+Iggy Pop
+David Bowie
+Mick Jagger
+
+Culture - Music
+What famous musician was born with the name Stefani Germanotta?
+Lady Gaga
+Katy Perry
+Nicki Minaj
+Christina Aguilera
+
+Culture - Music
+Which hip-hop artist released the critically acclaimed album "To Pimp a Butterfly"?
+Kendrick Lamar
+Eminem
+Jay Z
+Dr. Dre
+
+Culture - Music
+Which band recorded the album "Dark Side of the Moon"?
+Pink Floyd
+Led Zeppelin
+Queen
+The Rolling Stones
+
+Culture - Music
+Who is the lead singer of U2?
+Bono
+The Edge
+Adam Clayton
+Larry Mullen Jr.
+
+Culture - Music
+What is the title of Elton John's first US No.1 hit?
+Your Song
+Tiny Dancer
+Rocket Man
+Crocodile Rock
+
+Culture - Music
+What band was Kurt Cobain the lead singer for?
+Nirvana
+Pearl Jam
+Foo Fighters
+Soundgarden
+
+Culture - Music
+Which famous rapper was born as "Curtis Jackson"?
+50 Cent
+Jay Z
+Eminem
+Dr. Dre
+
+Culture - Music
+Who was known as the "Godfather of Soul"?
+James Brown
+Otis Redding
+Sam Cooke
+Ray Charles
+
+Culture - Music
+In which U.S. city was the famous Motown record label based?
+Detroit
+Chicago
+New York
+Los Angeles
+
+Culture - Music
+Which DJ topped the charts with the hit "Wake Me Up"?
+Avicii
+David Guetta
+Calvin Harris
+Zedd
+
+Culture - Music
+What was Prince's birth name?
+Prince Rogers Nelson
+Freddie Mercury
+James Marshall Hendrix
+The Artist Formerly Known As Prince
+
+Culture - Music
+Who was the lead guitarist of The Beatles?
+George Harrison
+John Lennon
+Paul McCartney
+Ringo Starr
+
+Culture - Music
+What is Whitney Houston's highest selling single?
+I Will Always Love You
+I Wanna Dance with Somebody
+One Moment in Time
+Greatest Love of All
+
+Culture - Music
+Who is known as the "Queen of Soul"?
+Aretha Franklin
+Diana Ross
+Tina Turner
+Whitney Houston
+
+Culture - Music
+Who was the lead singer of the band "Queen"?
+Freddie Mercury
+Brian May
+John Deacon
+Roger Taylor
+
+Culture - Music
+Which band is known for their album "The Joshua Tree"?
+U2
+Rolling Stones
+Beatles
+Eagles
+
+Culture - Music
+Who performed the soundtrack for the film "A Star is Born" alongside Lady Gaga?
+Bradley Cooper
+Chris Pratt
+Robert Downey Jr.
+Hugh Jackman
+
+Culture - Music
+Which famous singer's real name is Audrey Perry?
+Faith Hill
+Reba McEntire
+Dolly Parton
+Shania Twain
+
+Culture - Music
+What song is considered John Lennon's signature song?
+Imagine
+All You Need is Love
+She Loves You
+Hey Jude
+
+Culture - Music
+What singer is famously known for his raspy voice and his song "Maggie May"?
+Rod Stewart
+Elton John
+Mick Jagger
+Sting
+
+Culture - Music
+Which rock band sang the song "Hotel California"?
+The Eagles
+Rolling Stones
+Metallica
+Pink Floyd
+
+Culture - Music
+What is the title of Adele's second studio album, named after the age she was when she wrote it?
+21
+25
+28
+30
+
+Culture - Music
+Which band is known for their hit song "Bohemian Rhapsody"?
+Queen
+Rolling Stones
+AC/DC
+The Beatles
+
+Culture - Music
+Who recorded "Riders on the Storm"?
+The Doors
+The Rolling Stones
+The Who
+Creedence Clearwater Revival
+
+Culture - Music
+Who is the lead vocalist of Iron Maiden?
+Bruce Dickinson
+Steve Harris
+Lars Ulrich
+James Hetfield
+
+Culture - Music
+Who was the famous lead singer of the band "Journey"?
+Steve Perry
+Robert Plant
+Freddie Mercury
+Sting
+
+Culture - Music
+Who is the lead vocalist of the band "Coldplay"?
+Chris Martin
+Jonny Buckland
+Guy Berryman
+Will Champion
+
+Culture - Music
+Which band is famous for their album "A Hard Day's Night"?
+The Beatles
+The Rolling Stones
+The Who
+Pink Floyd
+
+Culture - Music
+What popular band was formerly called "Tony Flow and the Miraculously Majestic Masters of Mayhem"?
+Red Hot Chili Peppers
+Nirvana
+Green Day
+The Rolling Stones
+
+Culture - Music
+Who was the famous bassist for The Beatles?
+Paul McCartney
+Ringo Starr
+George Harrison
+John Lennon
+
+Culture - Music
+Who wrote the iconic song "Hurt", later covered by Johnny Cash?
+Trent Reznor
+Kurt Cobain
+Dave Grohl
+Eddie Vedder
+
+Culture - Music
+What is Billie Joe Armstrong's role in Green Day?
+Lead vocalist and guitarist
+Bassist
+Drummer
+Keyboardist
+
+Culture - Music
+Who is the lead vocalist of Aerosmith?
+Steven Tyler
+Joe Perry
+Tom Hamilton
+Joey Kramer
+
+Culture - Music
+Which singer wrote and sang the anthem "Respect"?
+Aretha Franklin
+Etta James
+Nina Simone
+Billie Holiday
+
+Culture - Music
+Which American singer is associated with the hit song "Sweet Caroline"?
+Neil Diamond
+Elvis Presley
+Frank Sinatra
+Johnny Cash
+
+Culture - Music
+What is the name of the band known for the song "Sweet Home Alabama"?
+Lynyrd Skynyrd
+Alabama
+Eagles 
+ZZ Top
+
+Culture - Music
+What band did Phil Collins join in 1970 as a drummer?
+Genesis
+Pink Floyd
+Queen
+Led Zeppelin
+
+Culture - Music
+Before becoming a solo artist, Paul McCartney was a member of which famous band?
+The Beatles
+The Rolling Stones
+Creedence Clearwater Revival
+The Who
+
+Culture - Music
+What Michael Jackson song contains the lyrics "Annie, are you okay?"?
+Smooth Criminal
+Beat It
+Billie Jean
+Thriller
+
+Culture - Music
+Which rock band is famous for the song "Wonderwall"?
+Oasis
+Blur
+Radiohead
+Guns n Roses
+
+Culture - Music
+Who wrote and originally recorded the song "Hallelujah"?
+Leonard Cohen
+Bob Dylan
+Jeff Buckley
+John Legend
+
+Culture - Music
+Which band is known for their album "(What's the Story) Morning Glory"?
+Oasis
+U2
+The Smiths
+The Beatles
+
+Culture - Music
+Who sang the hit song "Ring of Fire"?
+Johnny Cash
+Elvis Presley
+Roy Orbison
+Bob Dylan
+
+Culture - Music
+Which band is famous for their album "Nevermind"?
+Nirvana
+Pearl Jam
+Soundgarden
+Radiohead
+
+Culture - Music
+What was the name of AC/DC's original lead singer?
+Bon Scott
+Brian Johnson
+Malcolm Young
+Angus Young
+
+Culture - Music
+What is Bruce Springsteen's nickname?
+The Boss
+The Duke
+The King
+The Don
+
+Culture - Music
+Who is the drummer for The Rolling Stones?
+Charlie Watts
+Ronnie Wood
+Keith Richards
+Mick Jagger
+
+Culture - Music
+What iconic American rock band was formed in Athens, Georgia, in 1980?
+R.E.M.
+The Allman Brothers
+Lynyrd Skynyrd
+The Eagles
+
+Culture - Music
+In what city did Fab Four hail from?
+Liverpool
+London
+Manchester
+Bristol
+
+Culture - Music
+What rock band was David Grohl a member of before forming the Foo Fighters?
+Nirvana
+Soundgarden
+Pearl Jam
+Alice in Chains
+
+Culture - Music
+Who was the lead singer of the band "The Police"?
+Sting
+Andy Summers
+Stewart Copeland
+Bono
+
+Culture - Music
+Which famous singer was known as "The Man in Black"?
+Johnny Cash
+Johnny Mathis
+Johnny Rivers
+Johnny Mandel
+
+Culture - Music
+Billy Joel's "We Didn't Start the Fire" refers to events in which century?
+20th Century
+19th Century
+18th Century
+21st Century
+
+Culture - Music
+Who performed the hit song "Don't Stop Believin'"?
+Journey
+Foreigner
+Boston
+Styx
+
+Culture - Music
+Who is the co-lead vocalist and bassist for The Beatles?
+Paul McCartney
+John Lennon
+Ringo Starr
+George Harrison
+
+Culture - Music
+What is the title of Bob Marley's most famous compilation album?
+Legend
+Exodus
+Satisfy My Soul
+Kaya
+
+Culture - Music
+What is Jimi Hendrix's real name?
+James Marshall Hendrix
+Jimmy James
+Orion Hendrix
+Hendrix James Marshall
+
+Culture - Music
+Who recorded the album "Born in the USA"?
+Bruce Springsteen
+Tom Petty
+Bon Jovi
+Billy Joel
+
+Culture - Music
+Which artist won Album of the Year at the 1984 Grammy Awards?
+Michael Jackson
+Prince
+Madonna
+Lionel Richie
+
+Culture - Music
+What band was famous for their live performance at Live Aid in 1985?
+Queen
+The Rolling Stones
+The Beatles
+U2
+
+Culture - Music
+Who was the lead vocalist and flautist of the rock band Jethro Tull?
+Ian Anderson
+Martin Barre
+John Evan
+Jeffrey Hammond
+
+Culture - Music
+Who is the lead vocalist and rhythm guitarist for the rock band Blink-182?
+Mark Hoppus
+Tom DeLonge
+Travis Barker
+Matt Skiba
+
+Culture - Music
+Which singer is known as the "King of Rock and Roll"?
+Elvis Presley
+Chuck Berry
+Jerry Lee Lewis
+Little Richard
+
+Culture - Music
+Who is the lead vocalist for The Rolling Stones?
+Mick Jagger
+Keith Richards
+Ron Wood
+Charlie Watts
+
+Culture - Music
+Who is the drummer for the rock band The Who?
+Keith Moon
+Pete Townshend
+Roger Daltrey
+John Entwistle
+
+Culture - Music
+What was Janis Joplin's biggest hit?
+Me and Bobby McGee
+Piece of My Heart
+Cry Baby
+Mercedes Benz
+
+Culture - Music
+Who sang the song "I Heard It Through the Grapevine"?
+Marvin Gaye
+Smokey Robinson
+Stevie Wonder
+Ray Charles
+
+Culture - Music
+Who was the drummer for The Beatles?
+Ringo Starr
+Paul McCartney
+John Lennon
+George Harrison
+
+Culture - Music  
+What was the name of David Bowie's alter ego?
+Ziggy Stardust
+Stardust Ziggy
+Aladdin Sane
+Thin White Duke 
+
+Culture - Music  
+What band did John Fogerty lead?
+Creedence Clearwater Revival
+The Grateful Dead
+The Doors
+The Allman Brothers Band 
+
+Culture - Music
+Who was the youngest member of The Jackson 5?
+Michael Jackson
+Jermaine Jackson
+Tito Jackson
+Marlon Jackson 
+
+Culture - Music
+What song launched Madonna's career in 1983?
+Like a Virgin
+Material Girl
+Holiday
+Borderline
+
+Culture - Music
+What is Carlos Santana's best-selling album?
+Supernatural
+Santana
+Abraxas
+Shaman
+
+Culture - Music
+What does ABBA stand for in the band's name?
+Agnetha, Björn, Benny, Anni-Frid
+After Beat Before Arrival
+Association of Broadcasting Bands of America
+Authenticated Band of Blended Accords
+
+Another batch in the next round. 
+Culture
+What movie is based on the autobiography of Jordan Belfort?
+The Wolf of Wall Street
+The Iron Lady
+The Theory of Everything
+Beautiful Boy
+
+Culture
+Who played the male lead in "Titanic"?
+Leonardo DiCaprio
+Johnny Depp
+Brad Pitt
+Tom Hanks
+
+Culture
+In what movie does Robin Williams play a therapist?
+Good Will Hunting
+Forest Gump
+The Sixth Sense
+La La Land
+
+Culture
+Who directed "Inception"?
+Christopher Nolan
+Steven Spielberg
+Quentin Tarantino
+Martin Scorsese
+
+Culture
+Which movie features a song "Let It Go"?
+Frozen
+Moana
+Tangled
+Snow White
+
+Culture
+What is the full name of the main character in "Fight Club"?
+The Narrator
+Tyler Durden
+Robert Paulson
+Marla Singer
+
+Culture
+What movie won the Oscar for Best Picture in 1998?
+Titanic
+Gladiator
+American Beauty
+The Lord of the Rings: The Fellowship of the Ring
+
+Culture
+Who is Bruce Wayne's butler in "Batman"?
+Alfred Pennyworth
+Lucius Fox
+Jonathan Crane
+Harvey Bullock
+
+Culture
+Which actress played the Black Swan in the film "Black Swan"?
+Natalie Portman
+Angelina Jolie
+Megan Fox
+Scarlett Johansson
+
+Culture
+Who directed the film "Schindler's List"?
+Steven Spielberg
+Quentin Tarantino
+Christopher Nolan
+Martin Scorsese
+
+Culture
+What does "Hasta la vista" mean in the movie "Terminator 2"?
+See you later
+Goodbye forever
+Until we meet again
+Don't come back
+
+Culture
+What are the names of the two lead characters in "Brokeback Mountain"?
+Ennis Del Mar and Jack Twist
+Chuck Noland and Wilson
+James Bond and Vesper Lynd
+Harry Potter and Hermione Granger
+
+Culture
+Who won an Oscar for her role in "Monster"?
+Charlize Theron
+Halle Berry
+Meryl Streep
+Julia Roberts
+
+Culture
+In the movie Home Alone, what is the name of Kevin's older brother?
+Buzz
+Marv
+Fred
+George
+
+Culture
+Who does Tom Hanks voice in "Toy Story"?
+Woody
+Buzz Lightyear
+Mr. Potato Head
+Slinky Dog
+
+Culture
+Which movie was based on the book "The Hobbit"?
+The Lord of the Rings
+Harry Potter
+The Hunger Games
+Game of Thrones
+
+Culture
+Memorable line "You can't handle the truth!" is from what movie?
+A Few Good Men
+Scent of a Woman
+Jerry Maguire
+Rain Man
+
+Culture
+Who stars as Lara Croft in the movie "Tomb Raider" (2018)?
+Alicia Vikander
+Angelina Jolie
+Megan Fox
+Natalie Portman
+
+Culture
+In what movie did Brad Pitt play a character named Tyler Durden?
+Fight Club
+Se7en
+Mr. & Mrs. Smith
+Oceans Eleven
+
+Culture
+Which movie is also known as "A Long Night at Camp Blood"?
+Friday The 13th
+A Nightmare on Elm Street
+Halloween
+Psycho
+
+Culture
+Who directed the movie "The Dark Knight"?
+Christopher Nolan
+Steven Spielberg
+Tim Burton
+Joel Schumacher
+
+Culture
+Which actor played Iron Man in Marvel's movie series?
+Robert Downey Jr.
+Chris Hemsworth
+Mark Ruffalo
+Chris Evans
+
+Culture
+What is the sequel to the movie "Blade Runner" called?
+Blade Runner 2049
+Blade Runner 2: Electric Boogaloo
+Blade Runner: The Next Generation
+Blade Runner: The Replicant Returns
+
+Culture
+Which actor played the Terminator in the "Terminator" series?
+Arnold Schwarzenegger
+Sylvester Stallone
+Bruce Willis
+Kevin Costner
+
+Culture
+In which movie does Jim Carrey play a man whose life is a TV show?
+The Truman Show
+Liar Liar
+Yes Man
+The Mask
+
+Culture
+Who plays the female lead in "Gone Girl"?
+Rosamund Pike
+Emily Blunt
+Jennifer Lawrence
+Emma Stone
+
+Culture
+In "The Matrix", what is the name of the protagonist?
+Neo
+Morpheus
+Cypher
+Oracle
+
+Culture
+What movie did Russell Crowe win an Oscar for best actor for?
+Gladiator
+A Beautiful Mind
+Master and Commander
+American Gangster
+
+Culture
+What's the name of the princess in Disney's "Aladdin"?
+Jasmine
+Belle
+Aurora
+Ariel
+
+Culture
+Which film did Peter Jackson NOT direct?
+The Hobbit: An Unexpected Journey
+The Lord of the Rings: The Fellowship of the Ring
+King Kong
+Mad Max: Fury Road
+
+Culture
+Who played Don Vito Corleone in "The Godfather"?
+Marlon Brando
+Al Pacino
+Robert Duvall
+James Caan
+
+Culture
+In what movie did Sandra Bullock play a space scientist?
+Gravity
+Interstellar
+The Martian
+Arrival
+
+Culture
+In which movie do Pacino and De Niro appear together for the first time?
+Heat
+Godfather Part II
+Casino
+Goodfellas
+
+Culture
+What is the main character's name in "The Silence of the Lambs"?
+Clarice Starling
+Sarah Connor
+Leia Organa
+Ellen Ripley
+
+Culture
+Which movie features characters named Woody, Buzz Lightyear, and Mr. Potato Head?
+Toy Story
+Monsters, Inc.
+Finding Nemo
+The Incredibles
+
+Culture
+What movie is about a man who can talk to fish?
+Aquaman
+The Little Mermaid
+Finding Nemo
+Jaws
+
+Culture
+Who starred as Deadpool in the "Deadpool" movie series?
+Ryan Reynolds
+Hugh Jackman
+Chris Evans
+Robert Downey, Jr.
+
+Culture
+Who directed "Pulp Fiction"?
+Quentin Tarantino
+Martin Scorsese
+Alfred Hitchcock
+Steven Spielberg
+
+Culture
+Who played Andy Dufresne in The "Shawshank Redemption"?
+Tim Robbins
+Brad Pitt
+Kevin Bacon
+Tom Cruise
+
+Culture
+In which Tarantino movie does the character The Bride appear?
+Kill Bill
+Reservoir Dogs
+Pulp Fiction
+Inglourious Basterds
+
+Culture
+What is the name of the virtual reality in "Ready Player One"?
+The Oasis
+Simspace
+VR World
+Cybersphere
+
+Culture
+Who does Jennifer Lawrence play in "The Hunger Games"?
+Katniss Everdeen
+Peeta Mellark
+Effie Trinket
+Primrose Everdeen
+
+Culture
+What was the first movie to win the Academy Award for Best Animated Feature?
+Shrek
+Finding Nemo
+Toy Story
+Monsters, Inc.
+
+Culture
+Who played William Wallace in "Braveheart"?
+Mel Gibson
+Tom Cruise
+Russell Crowe
+Brad Pitt
+
+Culture
+Who stars in the Gladiator movie?
+Russell Crowe
+Clint Eastwood
+Mel Gibson
+Tom Hanks
+
+Culture
+Who was the "Godfather"?
+Marlon Brando
+Robert De Niro
+James Caan
+Al Pacino
+
+Culture
+In what movie does Will Smith fight aliens?
+Men in Black
+I Robot
+After Earth
+Hancock
+
+Culture
+Who does Michael B. Jordan play in the Rocky sequel Creed?
+Adonis Creed
+Apollo Creed
+Ivan Drago
+Rocky Balboa
+
+Culture
+Who directed the movie "The Grand Budapest Hotel"?
+Wes Anderson
+Quentin Tarantino
+Martin Scorsese
+Steven Spielberg
+
+Culture
+Who starred in the movie "Cast Away"?
+Tom Hanks
+Tom Cruise
+Leonardo DiCaprio
+Harrison Ford
+
+Culture
+Who played the lead role in “The Passion of the Christ”?
+Jim Caviezel
+Mel Gibson
+Brad Pitt
+Hugh Jackman
+
+Culture
+What kind of animal is Baloo in "The Jungle Book"?
+Bear
+Elephant
+Snake
+Tiger
+
+Culture
+What color pill does Neo take in "The Matrix"?
+Red
+Blue
+Green
+Yellow
+
+Culture
+Who played the lead role in "American Beauty"?
+Kevin Spacey
+Russell Crowe
+Brad Pitt
+Robert De Niro
+
+Culture
+What movie starred Leonardo DiCaprio as a con artist?
+Catch Me If You Can
+Titanic
+The Departed
+The Aviator
+
+Culture
+In which movie did Kate Winslet and Leonardo DiCaprio first star together?
+Titanic
+The Holiday
+Inception
+Revolutionary Road
+
+Culture
+Who plays the villain in "No Country for Old Men"?
+Javier Bardem
+Tommy Lee Jones
+Josh Brolin
+Woody Harrelson
+
+Culture
+Who played Tony Stark's AI, Jarvis, in "Iron Man"?
+Paul Bettany
+Robert Downey Jr.
+Chris Evans
+Jeremy Renner
+
+Culture
+What was Will Ferrell's character's name in "Elf"?
+Buddy
+Ryan
+Scott
+Tom
+
+Culture
+In what movie does Jamie Foxx play a character named Ray Charles?
+Ray
+Blunt Force Trauma
+Sleepless
+Annie
+
+Culture
+Who won an Oscar for her role in "Erin Brockovich"?
+Julia Roberts
+Sandra Bullock
+Nicole Kidman
+Charlize Theron
+
+Culture
+Which film had the famous line, "There's no place like home"?
+The Wizard of Oz
+Home Alone
+E.T. the Extra-Terrestrial
+Meet Me in St. Louis
+
+Culture
+Who directed the movie "Interstellar"?
+Christopher Nolan
+Stanley Kubrick
+Steven Spielberg
+Ridley Scott
+
+Culture
+What is the name of the film where Robin Williams cross-dresses to spend more time with his children?
+Mrs. Doubtfire
+The Birdcage
+Jumanji
+Popeye
+
+Culture
+Who played the joker in "The Dark Knight"?
+Heath Ledger
+Jared Leto
+Jack Nicholson
+Joaquin Phoenix
+
+Culture
+What is the name of the actor who played Neo in "The Matrix"?
+Keanu Reeves
+Tom Cruise
+Paul Walker
+Orlando Bloom
+
+Culture
+In which movie did Daniel Day-Lewis play an oilman?
+There Will Be Blood
+My Left Foot
+Gangs of New York
+The Last of the Mohicans
+
+Culture
+In the movie "A Beautiful Mind", who does Russell Crowe play?
+John Nash
+John Forbes
+John Hubble
+John Nash Jr.
+
+Culture
+Who plays Elizabeth Swann in the "Pirates of the Caribbean" series?
+Keira Knightley
+Natalie Portman
+Nicole Kidman
+Kate Winslet
+
+Culture
+Who directed the movie "The Social Network"?
+David Fincher
+Aaron Sorkin
+Martin Scorsese
+Steven Spielberg
+
+Culture
+Who played the lead role in "The Pursuit of Happyness"?
+Will Smith
+Chris Evans
+Chris Hemsworth
+Morgan Freeman
+
+Culture
+What film starred Jim Carrey with a constant, live audience?
+The Truman Show
+The Mask
+Ace Ventura: Pet Detective
+Bruce Almighty
+
+Culture
+In the movie "Kick-Ass", what is the name of the superhero played by Nicolas Cage?
+Big Daddy
+Hit-Girl
+Kick-Ass
+Red Mist
+
+Culture
+Who directed the film "Alien"?
+Ridley Scott
+James Cameron
+Alfred Hitchcock
+John Carpenter
+
+Culture
+What is the title of the sequel to "The Silence of the Lambs"?
+Hannibal
+Red Dragon
+Manhunter
+The Innocent Lamb
+
+Culture
+In the "Jurassic Park" movies, what is Dr. John Hammond's profession?
+Geneticist
+Paleontologist
+Archaeologist
+Entrepreneur
+
+Culture
+What is the profession of Tom Hanks’s character in "The Terminal"?
+Immigrant trapped in an airport
+Air Traffic Controller
+Pilot
+Customs Officer
+Culture
+What is the name of the planet where the Na'vi live in the movie Avatar?
+Pandora
+Narnia
+Panem
+Vulcan
+
+Culture
+What is the name of the head vampire in Twilight?
+Carlisle
+Edward
+Jacob
+Aurora
+
+Culture
+What is the Gladiator's real name in the movie Gladiator?
+Maximus
+Crixus
+Aurora
+Quintus
+
+Culture
+What is the real name of Iron Man in the Marvel movies?
+Tony Stark
+Bruce Wayne
+Clark Kent
+Peter Parker
+
+Culture
+In the movie Gone With the Wind, what is the name of the O'Hara plantation?
+Tara
+Shawnee
+Arcadia
+Briarcliff
+
+Culture
+What is the name of Danny's gang in the movie Grease?
+T-Birds
+Sharks
+Jets
+Bullets
+
+Culture
+In Mean Girls, what day does Aaron ask Cady what day it is?
+October 3rd
+February 14th
+September 1st
+December 25th
+
+Culture
+In the Incredibles, what is the name of the villain in the first movie?
+Syndrome
+Omnidroid
+Bomb Voyage
+Phantom
+
+Culture
+What does the W.W. stand for in W.W. Beaumont in Pulp Fiction?
+Walken Winston
+William Wallace
+Wilson Williams
+Wayne Wright
+
+Culture
+Which of the following was NOT one of the three forms of Id, Ego and Superego in Fight Club?
+Shalker
+Marla Singer
+Tyler Durden
+Robert 'Bob' 
+
+Culture
+What is the name of the town where The Shawshank Redemption was set?
+Shawshank, Maine
+Zihuatanejo, Mexico
+Portland, Maine
+Hadley, Maine
+
+Culture
+In the 1990 film Goodfellas, who played the older Henry Hill?
+Ray Liotta
+Robert De Niro
+Joe Pesci
+Paul Sorvino
+
+Culture
+What model android was Arnold Schwarzenegger in the Terminator films?
+T-800
+T-1000
+T-3000
+T-850
+
+Culture
+Where do the kids in The Chronicles of Narnia enter Narnia for the first time?
+Through a wardrobe
+Through a mirror
+Through a door
+Through a tree
+
+Culture
+In Casablanca, what is the name of Humphrey Bogart's character?
+Rick Blaine
+Victor Laszlo
+Ilsa Lund
+Captain Louis Renault
+
+Culture
+What type of fish is Dory in Finding Nemo?
+Blue Tang
+Clownfish
+Damselfish
+Angelfish
+
+Culture
+In Kill Bill, what is the name of the deadly assassins squad?
+Deadly Viper Assassination Squad
+Venomous Snake Killing Squad
+Killer Mamba Strike Team
+Poisonous Cobra Hit Squad
+
+Culture
+In The Godfather Part II, where was Vito Corleone originally from?
+Corleone, Sicily
+Naples, Italy
+Venice, Italy
+Palermo, Sicily
+
+Culture
+In Saving Private Ryan, how many brothers of Private Ryan were killed in action?
+3
+2
+4
+1
+
+Culture
+In Mad Max Fury Road, why is Max captured at the beginning of the movie?
+Because he has universal blood type 
+Because he was a police officer
+Because he killed Immortan Joe's son
+Because he stole the War Rig
+Culture
+In The Godfather, who utters the classic line, "I'm gonna make him an offer he can't refuse"?
+Vito Corleone
+Sonny Corleone
+Michael Corleone
+Tom Hagen
+
+Culture
+Which Alfred Hitchcock classic is also known as the 'The Ultimate MacGuffin'?
+Psycho
+The Birds
+Vertigo
+Rope
+
+Culture
+In To Kill a Mockingbird, what is Scout's full name?
+Jean Louise Finch
+Harper Lee Finch
+Stephanie Crawford Finch
+Calpurnia Finch
+
+Culture
+Who played Tony Stark's father, Howard Stark, in the Marvel Cinematic Universe?
+John Slattery
+Robert Downey Jr.
+Tom Holland
+Chris Evans
+
+Culture
+What is the name of the town where The Shawshank Redemption prison is located?
+Shawshank
+Maine
+Castle Rock
+Zihuatanejo
+
+Culture
+What is the code name of Beatrix Kiddo in Quentin Tarantino's Kill Bill?
+Black Mamba
+Cottonmouth
+Copperhead
+California Mountain Snake
+
+Culture
+In The Great Escape, who plays "The Cooler King" because of his frequent visits to the prison cooler for acting out?
+Steve McQueen
+James Garner
+Richard Attenborough
+Charles Bronson
+
+Culture
+In the movie Inception, what personal item does Cobb carry to determine if he is in a dream or reality?
+Spinning top
+Die
+Pocket watch
+Mirror
+
+Culture
+In It's a Wonderful Life, what book is Clarence reading when he is sent to help George Bailey?
+Adventures of Tom Sawyer
+The Bible
+Ulysses
+Ivanhoe
+
+Culture
+What town is the setting of Footloose?
+Bomont
+Beaumont
+Barstow
+Burbank
+
+Culture
+What is Captain Jack Sparrow's most prized possession in Pirates of the Caribbean?
+His hat
+The Black Pearl
+His sword
+His rum
+
+Culture
+Who plays Forrest Gump in the movie Forrest Gump?
+Tom Hanks
+Jim Carrey
+Brad Pitt
+Bill Murray
+
+Culture
+What does Andy Dufresne use to escape in The Shawshank Redemption?
+Rock Hammer
+Spoon
+Shovel
+Pickaxe
+
+Culture
+In Pulp Fiction, what is the name of the dance Mia and Vincent do at Jack Rabbit Slim's?
+Twist
+Hustle
+Jitterbug
+Charleston
+
+Culture
+In Alien, what is the name of the spaceship?
+Nostromo
+Prometheus
+Covenant
+Ripley
+
+Culture
+In Schindler's List, what color is the little girl's coat who is seen during the liquidation of the ghetto?
+Red
+Blue
+Green
+Black
+
+Culture
+What American state is the setting of Fargo?
+Minnesota
+North Dakota
+South Dakota
+Montana
+
+Culture
+What was Rose's last name in the movie Titanic?
+Dewitt Bukater
+Dawson
+Calvert
+Astaire
+
+Culture
+In Die Hard, what does John McClane write on his arm?
+Yippee-ki-yay
+Nakatomi Plaza
+Ho ho ho
+Now I have a machine gun
+
+Culture
+In Fight Club, what rule is always in effect?
+Don't talk about Fight Club
+Never mention Project Mayhem
+Become Tyler's alter ego
+Always be beaten to join
+
+Culture
+In The Wizard of Oz, what represents courage for the Cowardly Lion?
+A medal
+A heart
+A brain
+A certificate 
+
+Culture
+Where does Joel Barish and Clementine Kruczynski meet in Eternal Sunshine of the Spotless Mind?
+A bookstore
+On a train
+At a beach in Montauk
+At a memory-erasing clinic
+
+Culture
+What is the name of Luke's sister in the Star Wars franchise?
+Leia Organa
+Malia Organa
+Mariana Organa
+Lana Organa
+
+Culture
+Who played the character of Iron Man in the Marvel Cinematic Universe?
+Robert Downey Jr.
+Robert De Niro
+Bradley Cooper
+Chris Evans
+
+Culture
+What is the name of the fictional African kingdom in the film Black Panther?
+Wakanda
+Zamunda
+Asgard
+Themyscira
+
+Culture
+Which hockey team does young Gordon Bombay play for in The Mighty Ducks?
+Hawks
+Ducks
+Eagles
+Penguins
+
+Culture
+What's the profession of Tom Hanks's character in Sleepless in Seattle?
+Architect
+Pro Golfer
+Fisherman
+Chef
+
+Culture
+In The Sound of Music, Captain Von Trapp is from which country?
+Austria
+Germany
+Empire of Switzerland
+Lichtenstein 
+
+Culture
+In which movie does Robin Williams play the character of a radio DJ for the US Army?
+Good Morning, Vietnam
+Dead Poets Society
+Mrs. Doubtfire
+Jumanji
+
+Culture
+In Fight Club, where does the narrator find Tyler Durden's home address?
+On a bar of soap
+In a garbage can
+At a coffee shop
+On a business card
+
+Culture
+What is the name of the character played by Kate Winslet in Eternal Sunshine of the Spotless Mind?
+Clementine Kruczynski
+Victoria Kowalski
+Alexandra Dubois
+Sophia Rossi
+
+Culture
+In The Hangover, where does the bachelor party take place?
+Las Vegas
+Los Angeles
+Miami
+Chicago
+
+Culture
+What is the color of the pill Neo must choose in The Matrix to stay in Wonderland?
+Red
+Blue
+Yellow
+Green
+
+Culture
+Who directed the epic war film Saving Private Ryan?
+Steven Spielberg
+James Cameron
+Christopher Nolan
+Roman Polanski
+
+Culture
+What is the profession of Matt Damon's character in Good Will Hunting?
+Janitor
+Engineer
+Teacher
+Doctor
+
+Culture
+In Training Day, Denzel Washington plays the role of a corrupt...
+LAPD officer
+Mayor
+FBI agent
+Judge
+
+Culture
+In the movie Troy, who does Brad Pitt play?
+Achilles
+Hector
+Odysseus
+Paris
+
+Culture
+In Finding Nemo, where does Marlin lose his son Nemo?
+The Great Barrier Reef
+The Black Sea
+The Arctic Ocean
+Loch Ness
+
+Culture
+In Jurassic Park, what dinosaur scares the children in the kitchen?
+Velociraptor
+T-rex
+Triceratops
+Pterodactyl
+
+Culture
+In The Dark Knight, which villain does Heath Ledger play?
+Joker
+Bane
+Two-Face
+Scarecrow
+
+Culture
+Who does Renee Zellweger play in Chicago?
+Roxie Hart
+Velma Kelly
+Mama Morton
+Mary Sunshine
+
+Culture
+What is the last name of the family from The Godfather?
+Corleone
+Soprano
+Gambino
+Bonanno
+
+I'm afraid I can only provide 20 trivia questions at this time. Please feel free to ask for more if needed!
+Culture
+In "The Godfather" movie, who ultimately becomes the Godfather?
+Michael Corleone
+Vito Corleone
+Fredo Corleone
+Peter Clemenza
+
+Culture
+In "Gone with the Wind", what is Scarlett O'Hara's home called?
+Tara
+Tarnished
+Tundra
+Tortuga
+
+Culture
+In the movie "Forrest Gump", what company does Forrest Gump build?
+Bubba Gump Shrimp Company
+Alabama Crab Shack
+Gump's Chocolate Factory
+Greenbow Tree Company
+
+Culture
+Who directed The Dark Knight Trilogy?
+Christopher Nolan
+Steven Spielberg
+George Lucas
+Ridley Scott
+
+Culture
+Where does the boat sink in the movie Titanic?
+North Atlantic
+Pacific Ocean
+Indian Ocean
+Arctic Ocean
+
+Culture
+In "Fight Club", who are the two main characters played by?
+Brad Pitt and Edward Norton
+Brad Pitt and Matt Damon
+Tom Cruise and Edward Norton
+Hugh Jackman and Brad Pitt
+
+Culture
+Which movie did Leonardo DiCaprio win his first Oscar for?
+The Revenant
+The Departed
+Titanic
+Inception
+
+Culture
+In the movie "Casablanca", why does Rick say he came to Casablanca?
+For the waters
+For the culture
+For the food
+For the music
+
+Culture
+What movie is the quote “Here’s looking at you, kid” from?
+Casablanca
+Gone with the Wind
+The Godfather
+Breakfast at Tiffany’s
+
+Culture
+In the "Matrix" Trilogy, who played Neo?
+Keanu Reeves
+Bruce Willis
+Brad Pitt
+Will Smith
+
+Culture
+What is the name of the detective in the movie "Chinatown"?
+Jake Gittes
+Phillip Marlowe
+Sam Spade
+Cole Phelps
+
+Culture
+In "Star Wars", who are Luke and Leia’s parents?
+Anakin Skywalker and Padmé Amidala
+Darth Vader and Queen Amidala
+Anakin Skywalker and Princess Leia
+Han Solo and Princess Leia
+
+Culture
+In "Stand by Me", what are the boys looking for?
+A dead body
+Treasure
+A lost dog
+Their missing friend
+
+Culture
+What is the name of Woody’s owner in "Toy Story"?
+Andy
+Johnny
+Billy
+Steve
+
+Culture
+Who directed "E.T. the Extra-Terrestrial"?
+Steven Spielberg
+George Lucas
+Tim Burton
+James Cameron
+
+Culture
+In "Pulp Fiction", what is the name of the dance John Travolta and Uma Thurman perform at Jack Rabbit Slim's?
+Twist
+Charleston
+Jive
+Jitterbug
+
+Culture
+In "Jaws", what is name of the shark-hunting boat?
+Orca
+Mako
+Great White
+Tiburón
+
+Culture
+What actor played the main character in the movie "Rocky"?
+Sylvester Stallone
+Arnold Schwarzenegger
+Bruce Willis
+Dwayne Johnson
+
+Culture
+What is the name of the 8th "Fast & Furious" movie?
+The Fate of the Furious
+Fast & Furious 8
+Fast & Furious Endgame
+Fast & Furious: The Next Ride
+
+Culture
+Who directed "Inception"?
+Christopher Nolan
+David Fincher
+Martin Scorsese
+Alfred Hitchcock
+
+[Continued in another post.]
+Culture
+What is the name of the planet that Luke Skywalker is from in Star Wars?
+Tatooine
+Hoth
+Endor
+Coruscant
+
+Culture
+What is the correct spelling of the director of Inception's name?
+Christopher Nolan
+Christofer Nolan
+Kristopher Nolan
+Cristopher Nolan
+
+Culture
+Who played The Joker in 2008's The Dark Knight?
+Heath Ledger
+Christian Bale
+Morgan Freeman
+Gary Oldman
+
+Culture
+In the movie Shawshank Redemption, what is the name of the character played by Tim Robbins?
+Andy Dufresne
+Ellis Boyd Redding
+Tommy Williams
+Brooks Hatlen
+
+Culture
+What is the nickname of Han Solo's Millennium Falcon in Star Wars?
+The Hunk of Junk
+The Star Chaser
+The Fast Bird
+The Space Speeder
+
+Culture
+In The Godfather, what pet did Jack Woltz find in his bed?
+A horse's head
+A dog's head
+A cow's head
+A pig's head
+
+Culture
+Where was Rose traveling to in the movie Titanic?
+America
+France
+Italy
+Japan
+
+Culture
+What do the Na'vi call the flying creatures that they ride in Avatar?
+Ikran
+Toruk
+Viperwolf
+Thanator
+
+Culture
+What superpower does Jean Grey possess in the X-Men series?
+Telepathy
+Invisibility
+Flight
+Super Strength
+
+Culture
+What's the relationship between Marion Crane and Norman Bates in Psycho?
+Son and Mother
+Husband and Wife
+Strangers
+Brother and Sister
+
+Let me know if you need more and I'll do more for you.

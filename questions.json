@@ -6018,7 +6018,7 @@ questions=[
   },
   {
     "category": "History",
-    "question": "Who discovered America?",
+    "question": "Which European first went to the Carribean?",
     "answers": [
       "Christopher Columbus",
       "Vasco De Gama",
@@ -6810,7 +6810,7 @@ questions=[
   },
   {
     "category": "History",
-    "question": "Who discovered North America?",
+    "question": "Which European first went to North America?",
     "answers": [
       "Christopher Columbus",
       "Leif Erikson",
@@ -7256,6 +7256,17 @@ questions=[
       "Tom Hanks",
       "Tom Holland",
       "Tom Felton"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "History",
+    "question": "Who discovered America?",
+    "answers": [
+      "Christopher Columbus",
+      "Albert Einstein",
+      "Isaac Newton",
+      "Noah"
     ],
     "seen": 0
   },
@@ -13469,7 +13480,7 @@ questions=[
     "answers": [
       "Basketball",
       "Soccer",
-      "Baseball",
+      "Volleyball",
       "Quidditch"
     ],
     "seen": 0
@@ -13834,17 +13845,6 @@ questions=[
       "Au",
       "S",
       "Money"
-    ],
-    "seen": 0
-  },
-  {
-    "category": "People",
-    "question": "Who is the richest man in the world currently?",
-    "answers": [
-      "Elon Musk",
-      "Bill Gates",
-      "Jeff Bezos",
-      "Scrooge Mcduck"
     ],
     "seen": 0
   },
@@ -42010,6 +42010,17 @@ questions=[
   },
   {
     "category": "Geography",
+    "question": "What is the capital city of Albania?",
+    "answers": [
+      "Tirana",
+      "Pristina",
+      "Kosovo",
+      "Budva"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Geography",
     "question": "Which is the largest country in Africa by area?",
     "answers": [
       "Algeria",
@@ -43501,6 +43512,3790 @@ questions=[
       "South Africa",
       "Australia",
       "Chile"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Geography",
+    "question": "What is the northernmost large city in the world?",
+    "answers": [
+      "Barrow, Alaska",
+      "Oslo, Norway",
+      "Reykjavik, Iceland",
+      "Murmansk, Russia"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which Beatle led the way across Abbey Road in the famous album cover?",
+    "answers": [
+      "John Lennon",
+      "Paul McCartney",
+      "George Harrison",
+      "Ringo Starr"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is Beyonce's fan base famously known as?",
+    "answers": [
+      "The Beyhive",
+      "Queen Bees",
+      "Beyonces",
+      "Destiny's Children"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is Jay-Z's real name?",
+    "answers": [
+      "Shawn Carter",
+      "Jay Smith",
+      "Carter Jay-Z",
+      "Jackson Carter"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which rapper started from the bottom?",
+    "answers": [
+      "Drake",
+      "Kanye West",
+      "Lil Wayne",
+      "Nikki Minaj"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who is Rihanna's fashion brand named after?",
+    "answers": [
+      "Her childhood nickname, Fenty",
+      "Her last name, Robinson",
+      "Her middle name, Tia",
+      "Her mother's name, Monica"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the name of Adele's debut album?",
+    "answers": [
+      "19",
+      "21",
+      "25",
+      "30"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which instrument does Lizzo famously play?",
+    "answers": [
+      "Flute",
+      "Trumpet",
+      "Violin",
+      "Saxophone"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the name of Billie Eilish's debut album?",
+    "answers": [
+      "When We All Fall Asleep, Where Do We Go?",
+      "Bad Guy",
+      "Ocean Eyes",
+      "Bellyache"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who was the lead guitarist of the Rolling Stones?",
+    "answers": [
+      "Keith Richards",
+      "Mick Jagger",
+      "Ron Wood",
+      "Bryan Jones"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which country is singer Shakira originally from?",
+    "answers": [
+      "Colombia",
+      "Spain",
+      "Mexico",
+      "Brazil"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What movie soundtrack is Whitney Houston's \"I Will Always Love You\" a part of?",
+    "answers": [
+      "The Bodyguard",
+      "Waiting to Exhale",
+      "The Preacher's Wife",
+      "Cinderella"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What award did Lin-Manuel Miranda win for the musical \"Hamilton\"?",
+    "answers": [
+      "Pulitzer Prize for Drama",
+      "Tony Award for Best Actor",
+      "Grammy Award for Best Soundtrack",
+      "Golden Globe for Best Musical or Comedy"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which band was Phil Collins the drummer for?",
+    "answers": [
+      "Genesis",
+      "Queen",
+      "The Beatles",
+      "The Rolling Stones"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the name of Lady Gaga's first album?",
+    "answers": [
+      "The Fame",
+      "Born This Way",
+      "Artpop",
+      "Joanne"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who is Eminem's alter ego?",
+    "answers": [
+      "Slim Shady",
+      "Marshall Mathers",
+      "Eight Mile",
+      "Rap God"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who performed the Halftime Show at Super Bowl LVI in 2022?",
+    "answers": [
+      "The Weeknd",
+      "Beyonc\u00e9",
+      "Shakira",
+      "Jennifer Lopez"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who was the original drummer for Beatles?",
+    "answers": [
+      "Pete Best",
+      "Ringo Starr",
+      "George Harrison",
+      "Paul McCartney"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Beyonce was a part of Destiny\u2019s Child. Who were the other two members of the final line-up?",
+    "answers": [
+      "Kelly Rowland and Michelle Williams",
+      "Solange Knowles and Kelly Rowland",
+      "Kelly Clarkson and Michelle Branch",
+      "Zendaya and Kelly Rowland"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Where is Jay-Z from?",
+    "answers": [
+      "Brooklyn, New York",
+      "Los Angeles, California",
+      "Chicago, Illinois",
+      "Atlanta, Georgia"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which Michael Jackson album spawned five chart-topping singles?",
+    "answers": [
+      "Bad",
+      "Thriller",
+      "Off the Wall",
+      "Dangerous"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who discovered Rihanna?",
+    "answers": [
+      "Jay-Z",
+      "Eminem",
+      "Drake",
+      "Kanye West"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is Adele's birth name?",
+    "answers": [
+      "Adele Laurie Blue Adkins",
+      "Adele Sarah Brown Adkins",
+      "Adele Red Adkins",
+      "Adele Mary Adkins"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who is Lizzo's flute named after?",
+    "answers": [
+      "Sasha Flute",
+      "Beyonc\u00e9 Flute",
+      "Rihanna Flute",
+      "Nicki Flute"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In which city was Drake born?",
+    "answers": [
+      "Toronto",
+      "Sydney",
+      "Brooklyn",
+      "Atlanta"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who directed the Beyonce visual album Lemonade?",
+    "answers": [
+      "Kahlil Joseph",
+      "Spike Lee",
+      "Steven Spielberg",
+      "James Cameron"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the highest-selling album of The Beatles?",
+    "answers": [
+      "The White Album",
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "Let It Be",
+      "Yellow Submarine"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who was Adele's album '21' largely inspired by?",
+    "answers": [
+      "A former boyfriend",
+      "A friendship",
+      "Her career",
+      "Her family"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Rihanna starred in which 2012 science fiction film?",
+    "answers": [
+      "Battleship",
+      "The Matrix",
+      "Interstellar",
+      "Arrival"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Where did Lizzo grow up?",
+    "answers": [
+      "Houston, Texas",
+      "Brooklyn, New York",
+      "Detroit, Michigan",
+      "Chicago, Illinois"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which rapper has Drake cited as a big influence?",
+    "answers": [
+      "Jay-Z",
+      "Eminem",
+      "Lil Wayne",
+      "Kanye West"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is Beyonce's fanbase usually known as?",
+    "answers": [
+      "Beyhive",
+      "BeyFans",
+      "BeyKingdom",
+      "BeyTribe"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which of these is not a Jay-Z Album?",
+    "answers": [
+      "Blueprint 4",
+      "Blueprint",
+      "Blueprint 2",
+      "Blueprint 3"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Where is Rihanna originally from?",
+    "answers": [
+      "Barbados",
+      "Bahamas",
+      "Cuba",
+      "Trinidad and Tobago"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who is Adele's son named after?",
+    "answers": [
+      "An angel",
+      "A river",
+      "A city",
+      "A pope"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Whose album is \"1989\"?",
+    "answers": [
+      "Taylor Swift",
+      "Ariana Grande",
+      "Katy Perry",
+      "Selena Gomez"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Which rapper's real name is Marshall Mathers?",
+    "answers": [
+      "Eminem",
+      "Jay Z",
+      "Kanye West",
+      "Dr. Dre"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "For what band did Phil Collins serve as lead vocalist?",
+    "answers": [
+      "Genesis",
+      "Pink Floyd",
+      "Queen",
+      "Led Zeppelin"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "How many Octaves could Freddie Mercury reportedly sing?",
+    "answers": [
+      "Four",
+      "Two",
+      "Six",
+      "Three"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Which artist's first album was entitled 'Born to Die'?",
+    "answers": [
+      "Lana Del Rey",
+      "Lorde",
+      "Miley Cyrus",
+      "Billie Eilish"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What band is Flea a part of?",
+    "answers": [
+      "Red Hot Chili Peppers",
+      "Nirvana",
+      "Pearl Jam",
+      "Rage Against The Machine"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What's the title of Selena's last album before her death?",
+    "answers": [
+      "Dreaming of You",
+      "Amor Prohibido",
+      "Ven Conmigo",
+      "Selena Live!"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Who among these is known as \"King of Pop\"?",
+    "answers": [
+      "Michael Jackson",
+      "Elton John",
+      "Paul McCartney",
+      "Madonna"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "How many Grammys has U2 won?",
+    "answers": [
+      "22",
+      "15",
+      "18",
+      "10"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What's Britney Spears's debut single?",
+    "answers": [
+      "Baby One More Time",
+      "Oops!... I Did It Again",
+      "Toxic",
+      "Womanizer"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Which famous popstar is Mariah Carey's godmother?",
+    "answers": [
+      "Patti LaBelle",
+      "Whitney Houston",
+      "Aretha Franklin",
+      "Diana Ross"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What DJ scored worldwide success with \"Clarity\"?",
+    "answers": [
+      "Zedd",
+      "Calvin Harris",
+      "David Guetta",
+      "Ti\u00ebsto"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Which classical composer became deaf later in his life?",
+    "answers": [
+      "Ludwig van Beethoven",
+      "Johann Sebastian Bach",
+      "Wolfgang Amadeus Mozart",
+      "Franz Schubert"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Who sang the female part on \"Under Pressure\" with Queen?",
+    "answers": [
+      "Annie Lennox",
+      "Cindy Lauper",
+      "Debbie Harry",
+      "David Bowie"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "\"Hotel California\" is a song by which American rock band?",
+    "answers": [
+      "The Eagles",
+      "Led Zeppelin",
+      "The Beatles",
+      "Pink Floyd"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "In what city was Jimi Hendrix born?",
+    "answers": [
+      "Seattle",
+      "Los Angeles",
+      "Chicago",
+      "San Francisco"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What was Madonna\u2019s first UK top ten single?",
+    "answers": [
+      "Holiday",
+      "Like a Virgin",
+      "Material Girl",
+      "Vogue"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Who sang lead vocals for the band \"Lynyrd Skynyrd\"?",
+    "answers": [
+      "Ronnie Van Zant",
+      "Gary Rossington",
+      "Allen Collins",
+      "Artimus Pyle"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Whose 2013 world tour was called \"The Mrs. Carter Show\"?",
+    "answers": [
+      "Beyonc\u00e9",
+      "Adele",
+      "Taylor Swift",
+      "Rihanna"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What is Justin Timberlake's middle name?",
+    "answers": [
+      "Randall",
+      "Robert",
+      "Ryan",
+      "Richard"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What is the title of Adele\u2019s first album?",
+    "answers": [
+      "19",
+      "21",
+      "25",
+      "30"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Which Bob Marley song has been covered by artists in genres ranging from reggae to rock, jazz, punk, hip hop, latin, and country?",
+    "answers": [
+      "One Love",
+      "Redemption Song",
+      "No Woman, No Cry",
+      "Could You Be Loved"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Who composed the four seasons?",
+    "answers": [
+      "Antonio Vivaldi",
+      "Ludwig Van Beethoven",
+      "Johann Sebastian Bach",
+      "Franz Schubert"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What was Elvis Presley's first hit in 1956?",
+    "answers": [
+      "Heartbreak Hotel",
+      "Jailhouse Rock",
+      "Love Me Tender",
+      "Hound Dog"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Whose hit album was 'FutureSex/LoveSounds'?",
+    "answers": [
+      "Justin Timberlake",
+      "Usher",
+      "Ne-Yo",
+      "Justin Bieber"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What is the first track on Nirvana's Nevermind album?",
+    "answers": [
+      "Smells Like Teen Spirit",
+      "Come As You Are",
+      "Lithium",
+      "In Bloom"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "How many members are there in the band Maroon 5?",
+    "answers": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Which song by Luis Fonsi and Daddy Yankee has the most views on YouTube?",
+    "answers": [
+      "Despacito",
+      "Echame la Culpa",
+      "Taki Taki",
+      "Gasolina"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Who was the first country artist to sell over 10 million copies of an album?",
+    "answers": [
+      "Garth Brooks",
+      "Johnny Cash",
+      "Tim McGraw",
+      "Kenny Chesney"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Who performed \"I Will Always Love You\" at the 1992 Grammy Awards?",
+    "answers": [
+      "Whitney Houston",
+      "Mariah Carey",
+      "Celine Dion",
+      "Cher"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Which band is known for their hit \"Sweet Home Alabama\"?",
+    "answers": [
+      "Lynyrd Skynyrd",
+      "Eagles",
+      "Rolling Stones",
+      "AC/DC"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What was Billie Holiday\u2019s nickname?",
+    "answers": [
+      "Lady Day",
+      "Queen B",
+      "Empress of the Blues",
+      "First Lady of Song"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Who is the lead vocalist of the band Coldplay?",
+    "answers": [
+      "Chris Martin",
+      "Jonny Buckland",
+      "Guy Berryman",
+      "Will Champion"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Which band had a 1987 hit with the song 'Sweet Child O' Mine'?",
+    "answers": [
+      "Guns N' Roses",
+      "Aerosmith",
+      "Metallica",
+      "AC/DC"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Who performed during the halftime show at Super Bowl 50?",
+    "answers": [
+      "Coldplay",
+      "Bruno Mars",
+      "Lady Gaga",
+      "Justin Timberlake"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Prince won an Oscar for Best Original Score for which film?",
+    "answers": [
+      "Purple Rain",
+      "Under the Cherry Moon",
+      "Sign \u201cO\u201d the Times",
+      "Graffiti Bridge"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Who wrote and performed \"You've Got a Friend\"?",
+    "answers": [
+      "Carole King",
+      "James Taylor",
+      "Bob Dylan",
+      "Paul Simon"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Who was the original drummer for The Beatles?",
+    "answers": [
+      "Pete Best",
+      "Ringo Starr",
+      "George Harrison",
+      "Stuart Sutcliffe"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What was The Beach Boys first number one song?",
+    "answers": [
+      "Good Vibrations",
+      "Surfin' U.S.A",
+      "Kokomo",
+      "I Get Around"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Who wrote \"Respect\" that was made famous by Aretha Franklin?",
+    "answers": [
+      "Otis Redding",
+      "Sam Cooke",
+      "James Brown",
+      "Ray Charles"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Where was rapper Tupac Shakur born?",
+    "answers": [
+      "East Harlem, New York",
+      "Los Angeles, California",
+      "Atlanta, Georgia",
+      "Compton, California"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What is Sting's real name?",
+    "answers": [
+      "Gordon Sumner",
+      "Gordon Matthews",
+      "Gordon Adams",
+      "Gordon Davis"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "\"The Man Comes Around\" is the title of a song by who?",
+    "answers": [
+      "Johnny Cash",
+      "Kris Kristofferson",
+      "Willie Nelson",
+      "Waylon Jennings"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Who performed \"Smooth\" with Carlos Santana?",
+    "answers": [
+      "Rob Thomas",
+      "Sting",
+      "Adam Levine",
+      "Chris Martin"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Who originally wrote and performed \"I Will Always Love You\"?",
+    "answers": [
+      "Dolly Parton",
+      "Whitney Houston",
+      "Mariah Carey",
+      "Celine Dion"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What's AC/DC's highest selling album internationally?",
+    "answers": [
+      "Back in Black",
+      "High Voltage",
+      "Dirty Deeds Done Dirt Cheap",
+      "For Those About to Rock"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "In what year did the Spice Girls release their debut album, Spice?",
+    "answers": [
+      "1996",
+      "1995",
+      "1997",
+      "1998"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Who wrote \"Be My Baby,\" made famous by the Ronettes?",
+    "answers": [
+      "Phil Spector",
+      "Brian Wilson",
+      "Barry Mann",
+      "Jerry Leiber"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What band did Paul McCartney form after The Beatles?",
+    "answers": [
+      "Wings",
+      "The Rolling Stones",
+      "The Who",
+      "Led Zeppelin"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What's Lady Gaga's birth name?",
+    "answers": [
+      "Stefani Germanotta",
+      "Katheryn Hudson",
+      "Alicia Moore",
+      "Aubrey Graham"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Where was rapper Drake born?",
+    "answers": [
+      "Toronto, Canada",
+      "Atlanta, Georgia",
+      "Compton, California",
+      "Houston, Texas"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Who composed the music for The Lion King (1994)?",
+    "answers": [
+      "Elton John",
+      "Hans Zimmer",
+      "John Williams",
+      "Randy Newman"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Where was jazz musician Louis Armstrong born?",
+    "answers": [
+      "New Orleans",
+      "Chicago",
+      "New York",
+      "Los Angeles"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Who was the best-selling female artist of the 2000s in America?",
+    "answers": [
+      "Britney Spears",
+      "Christina Aguilera",
+      "Mariah Carey",
+      "Beyonce"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What band did Jimmy Page play guitar for?",
+    "answers": [
+      "Led Zeppelin",
+      "Rolling Stones",
+      "The Who",
+      "Queen"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Where was Bob Dylan born?",
+    "answers": [
+      "Duluth, Minnesota",
+      "New York, New York",
+      "Los Angeles, California",
+      "Chicago, Illinois"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What is the best-selling album (by copies sold) of all time?",
+    "answers": [
+      "Michael Jackson's \"Thriller\"",
+      "The Beatles' \"The White Album\"",
+      "AC/DC's \"Back in Black\"",
+      "Pink Floyd's \"The Wall\""
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Who was the lead singer of the grunge rock band \"Nirvana\"?",
+    "answers": [
+      "Kurt Cobain",
+      "Dave Grohl",
+      "Krist Novoselic",
+      "Chad Channing"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Under which name did Reginald Dwight become famous?",
+    "answers": [
+      "Elton John",
+      "Paul McCartney",
+      "Billy Joel",
+      "George Michael"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What's the title of Ed Sheeran's debut album?",
+    "answers": [
+      "+",
+      "-",
+      "x",
+      "\u00f7"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What was George Michael\u2019s first solo No. 1 single after Wham!?",
+    "answers": [
+      "Careless Whisper",
+      "Faith",
+      "Father Figure",
+      "Jesus to a Child"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Who recorded the album \"Piano Man\"?",
+    "answers": [
+      "Billy Joel",
+      "Elton John",
+      "Paul McCartney",
+      "Neil Diamond"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Katy Perry, before becoming a pop vocalist, started her career in which genre?",
+    "answers": [
+      "Gospel",
+      "Country",
+      "Rock",
+      "R&B"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What famous singer is known for his trademark feature, 'The Sneer'?",
+    "answers": [
+      "Elvis Presley",
+      "Bob Dylan",
+      "John Lennon",
+      "Johnny Cash"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Who is the \"Material Girl\"?",
+    "answers": [
+      "Madonna",
+      "Cher",
+      "Cyndi Lauper",
+      "Debbie Harry"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What is David Bowie\u2019s real name?",
+    "answers": [
+      "David Jones",
+      "David Smith",
+      "David Brown",
+      "David Thomas"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Who's the lead vocalist of the band U2?",
+    "answers": [
+      "Bono",
+      "The Edge",
+      "Adam Clayton",
+      "Larry Mullen Jr."
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What is Fergie's real name?",
+    "answers": [
+      "Stacy Ferguson",
+      "Stephanie Germanotta",
+      "Fergalicious Superstar",
+      "Fergie Fredrickson"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Which band featured Axl Rose, Slash and Izzy Stradlin?",
+    "answers": [
+      "Guns N' Roses",
+      "Metallica",
+      "Motorhead",
+      "Iron Maiden"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What is the name of Radiohead's debut single?",
+    "answers": [
+      "Creep",
+      "High and Dry",
+      "Paranoid Android",
+      "Karma Police"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What is the real name of the rapper \"Snoop Dogg\"?",
+    "answers": [
+      "Calvin Cordozar Broadus Jr.",
+      "Clyde Carson Broadus Jr.",
+      "Cordell Broadus",
+      "David Blake Jr."
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Which iconic musician was famously known as \"The King of Pop\"?",
+    "answers": [
+      "Michael Jackson",
+      "Elvis Presley",
+      "Prince",
+      "Frank Sinatra"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What band did Dave Grohl form after the death of Kurt Cobain?",
+    "answers": [
+      "Foo Fighters",
+      "Nirvana",
+      "Pearl Jam",
+      "Soundgarden"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What band was Joe Strummer the lead vocalist for?",
+    "answers": [
+      "The Clash",
+      "The Who",
+      "The Rolling Stones",
+      "The Ramones"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Who was the first to record the hit single \"I Will Always Love You\"?",
+    "answers": [
+      "Dolly Parton",
+      "Whitney Houston",
+      "Mariah Carey",
+      "Celine Dion"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "For which movie did Bruce Springsteen win an Oscar for Best Original Song?",
+    "answers": [
+      "Philadelphia",
+      "Glory",
+      "Ghost",
+      "Twin Peaks"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What was Bob Dylan's birth name?",
+    "answers": [
+      "Robert Zimmerman",
+      "Bob Tailor",
+      "Rubin Zimmerman",
+      "Robert Dillon"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Who is the youngest Beatle?",
+    "answers": [
+      "George Harrison",
+      "John Lennon",
+      "Paul McCartney",
+      "Ringo Starr"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Who was the lead singer of The Velvet Underground?",
+    "answers": [
+      "Lou Reed",
+      "Iggy Pop",
+      "David Bowie",
+      "Mick Jagger"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What famous musician was born with the name Stefani Germanotta?",
+    "answers": [
+      "Lady Gaga",
+      "Katy Perry",
+      "Nicki Minaj",
+      "Christina Aguilera"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Which hip-hop artist released the critically acclaimed album \"To Pimp a Butterfly\"?",
+    "answers": [
+      "Kendrick Lamar",
+      "Eminem",
+      "Jay Z",
+      "Dr. Dre"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Which band recorded the album \"Dark Side of the Moon\"?",
+    "answers": [
+      "Pink Floyd",
+      "Led Zeppelin",
+      "Queen",
+      "The Rolling Stones"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What is the title of Elton John's first US No.1 hit?",
+    "answers": [
+      "Your Song",
+      "Tiny Dancer",
+      "Rocket Man",
+      "Crocodile Rock"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What band was Kurt Cobain the lead singer for?",
+    "answers": [
+      "Nirvana",
+      "Pearl Jam",
+      "Foo Fighters",
+      "Soundgarden"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Which famous rapper was born as \"Curtis Jackson\"?",
+    "answers": [
+      "50 Cent",
+      "Jay Z",
+      "Eminem",
+      "Dr. Dre"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Who was known as the \"Godfather of Soul\"?",
+    "answers": [
+      "James Brown",
+      "Otis Redding",
+      "Sam Cooke",
+      "Ray Charles"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "In which U.S. city was the famous Motown record label based?",
+    "answers": [
+      "Detroit",
+      "Chicago",
+      "New York",
+      "Los Angeles"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Which DJ topped the charts with the hit \"Wake Me Up\"?",
+    "answers": [
+      "Avicii",
+      "David Guetta",
+      "Calvin Harris",
+      "Zedd"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What was Prince's birth name?",
+    "answers": [
+      "Prince Rogers Nelson",
+      "Freddie Mercury",
+      "James Marshall Hendrix",
+      "The Artist Formerly Known As Prince"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Who was the lead guitarist of The Beatles?",
+    "answers": [
+      "George Harrison",
+      "John Lennon",
+      "Paul McCartney",
+      "Ringo Starr"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What is Whitney Houston's highest selling single?",
+    "answers": [
+      "I Will Always Love You",
+      "I Wanna Dance with Somebody",
+      "One Moment in Time",
+      "Greatest Love of All"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Which band is known for their album \"The Joshua Tree\"?",
+    "answers": [
+      "U2",
+      "Rolling Stones",
+      "Beatles",
+      "Eagles"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Who performed the soundtrack for the film \"A Star is Born\" alongside Lady Gaga?",
+    "answers": [
+      "Bradley Cooper",
+      "Chris Pratt",
+      "Robert Downey Jr.",
+      "Hugh Jackman"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Which famous singer's real name is Audrey Perry?",
+    "answers": [
+      "Faith Hill",
+      "Reba McEntire",
+      "Dolly Parton",
+      "Shania Twain"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What song is considered John Lennon's signature song?",
+    "answers": [
+      "Imagine",
+      "All You Need is Love",
+      "She Loves You",
+      "Hey Jude"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What singer is famously known for his raspy voice and his song \"Maggie May\"?",
+    "answers": [
+      "Rod Stewart",
+      "Elton John",
+      "Mick Jagger",
+      "Sting"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Which rock band sang the song \"Hotel California\"?",
+    "answers": [
+      "The Eagles",
+      "Rolling Stones",
+      "Metallica",
+      "Pink Floyd"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What is the title of Adele's second studio album, named after the age she was when she wrote it?",
+    "answers": [
+      "21",
+      "25",
+      "28",
+      "30"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Which band is known for their hit song \"Bohemian Rhapsody\"?",
+    "answers": [
+      "Queen",
+      "Rolling Stones",
+      "AC/DC",
+      "The Beatles"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Who recorded \"Riders on the Storm\"?",
+    "answers": [
+      "The Doors",
+      "The Rolling Stones",
+      "The Who",
+      "Creedence Clearwater Revival"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Who is the lead vocalist of Iron Maiden?",
+    "answers": [
+      "Bruce Dickinson",
+      "Steve Harris",
+      "Lars Ulrich",
+      "James Hetfield"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Who was the famous lead singer of the band \"Journey\"?",
+    "answers": [
+      "Steve Perry",
+      "Robert Plant",
+      "Freddie Mercury",
+      "Sting"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Who is the lead vocalist of the band \"Coldplay\"?",
+    "answers": [
+      "Chris Martin",
+      "Jonny Buckland",
+      "Guy Berryman",
+      "Will Champion"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Which band is famous for their album \"A Hard Day's Night\"?",
+    "answers": [
+      "The Beatles",
+      "The Rolling Stones",
+      "The Who",
+      "Pink Floyd"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What popular band was formerly called \"Tony Flow and the Miraculously Majestic Masters of Mayhem\"?",
+    "answers": [
+      "Red Hot Chili Peppers",
+      "Nirvana",
+      "Green Day",
+      "The Rolling Stones"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Who was the famous bassist for The Beatles?",
+    "answers": [
+      "Paul McCartney",
+      "Ringo Starr",
+      "George Harrison",
+      "John Lennon"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Who wrote the iconic song \"Hurt\", later covered by Johnny Cash?",
+    "answers": [
+      "Trent Reznor",
+      "Kurt Cobain",
+      "Dave Grohl",
+      "Eddie Vedder"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What is Billie Joe Armstrong's role in Green Day?",
+    "answers": [
+      "Lead vocalist and guitarist",
+      "Bassist",
+      "Drummer",
+      "Keyboardist"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Who is the lead vocalist of Aerosmith?",
+    "answers": [
+      "Steven Tyler",
+      "Joe Perry",
+      "Tom Hamilton",
+      "Joey Kramer"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Which singer wrote and sang the anthem \"Respect\"?",
+    "answers": [
+      "Aretha Franklin",
+      "Etta James",
+      "Nina Simone",
+      "Billie Holiday"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Which American singer is associated with the hit song \"Sweet Caroline\"?",
+    "answers": [
+      "Neil Diamond",
+      "Elvis Presley",
+      "Frank Sinatra",
+      "Johnny Cash"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What is the name of the band known for the song \"Sweet Home Alabama\"?",
+    "answers": [
+      "Lynyrd Skynyrd",
+      "Alabama",
+      "Eagles",
+      "ZZ Top"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What band did Phil Collins join in 1970 as a drummer?",
+    "answers": [
+      "Genesis",
+      "Pink Floyd",
+      "Queen",
+      "Led Zeppelin"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Before becoming a solo artist, Paul McCartney was a member of which famous band?",
+    "answers": [
+      "The Beatles",
+      "The Rolling Stones",
+      "Creedence Clearwater Revival",
+      "The Who"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What Michael Jackson song contains the lyrics \"Annie, are you okay?\"?",
+    "answers": [
+      "Smooth Criminal",
+      "Beat It",
+      "Billie Jean",
+      "Thriller"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Which rock band is famous for the song \"Wonderwall\"?",
+    "answers": [
+      "Oasis",
+      "Blur",
+      "Radiohead",
+      "Guns n Roses"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Who wrote and originally recorded the song \"Hallelujah\"?",
+    "answers": [
+      "Leonard Cohen",
+      "Bob Dylan",
+      "Jeff Buckley",
+      "John Legend"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Which band is known for their album \"(What's the Story) Morning Glory\"?",
+    "answers": [
+      "Oasis",
+      "U2",
+      "The Smiths",
+      "The Beatles"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Who sang the hit song \"Ring of Fire\"?",
+    "answers": [
+      "Johnny Cash",
+      "Elvis Presley",
+      "Roy Orbison",
+      "Bob Dylan"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Which band is famous for their album \"Nevermind\"?",
+    "answers": [
+      "Nirvana",
+      "Pearl Jam",
+      "Soundgarden",
+      "Radiohead"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What was the name of AC/DC's original lead singer?",
+    "answers": [
+      "Bon Scott",
+      "Brian Johnson",
+      "Malcolm Young",
+      "Angus Young"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What is Bruce Springsteen's nickname?",
+    "answers": [
+      "The Boss",
+      "The Duke",
+      "The King",
+      "The Don"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Who is the drummer for The Rolling Stones?",
+    "answers": [
+      "Charlie Watts",
+      "Ronnie Wood",
+      "Keith Richards",
+      "Mick Jagger"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What iconic American rock band was formed in Athens, Georgia, in 1980?",
+    "answers": [
+      "R.E.M.",
+      "The Allman Brothers",
+      "Lynyrd Skynyrd",
+      "The Eagles"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "In what city did Fab Four hail from?",
+    "answers": [
+      "Liverpool",
+      "London",
+      "Manchester",
+      "Bristol"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What rock band was David Grohl a member of before forming the Foo Fighters?",
+    "answers": [
+      "Nirvana",
+      "Soundgarden",
+      "Pearl Jam",
+      "Alice in Chains"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Who was the lead singer of the band \"The Police\"?",
+    "answers": [
+      "Sting",
+      "Andy Summers",
+      "Stewart Copeland",
+      "Bono"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Which famous singer was known as \"The Man in Black\"?",
+    "answers": [
+      "Johnny Cash",
+      "Johnny Mathis",
+      "Johnny Rivers",
+      "Johnny Mandel"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Billy Joel's \"We Didn't Start the Fire\" refers to events in which century?",
+    "answers": [
+      "20th Century",
+      "19th Century",
+      "18th Century",
+      "21st Century"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Who performed the hit song \"Don't Stop Believin'\"?",
+    "answers": [
+      "Journey",
+      "Foreigner",
+      "Boston",
+      "Styx"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Who is the co-lead vocalist and bassist for The Beatles?",
+    "answers": [
+      "Paul McCartney",
+      "John Lennon",
+      "Ringo Starr",
+      "George Harrison"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What is the title of Bob Marley's most famous compilation album?",
+    "answers": [
+      "Legend",
+      "Exodus",
+      "Satisfy My Soul",
+      "Kaya"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What is Jimi Hendrix's real name?",
+    "answers": [
+      "James Marshall Hendrix",
+      "Jimmy James",
+      "Orion Hendrix",
+      "Hendrix James Marshall"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Who recorded the album \"Born in the USA\"?",
+    "answers": [
+      "Bruce Springsteen",
+      "Tom Petty",
+      "Bon Jovi",
+      "Billy Joel"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Which artist won Album of the Year at the 1984 Grammy Awards?",
+    "answers": [
+      "Michael Jackson",
+      "Prince",
+      "Madonna",
+      "Lionel Richie"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What band was famous for their live performance at Live Aid in 1985?",
+    "answers": [
+      "Queen",
+      "The Rolling Stones",
+      "The Beatles",
+      "U2"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Who was the lead vocalist and flautist of the rock band Jethro Tull?",
+    "answers": [
+      "Ian Anderson",
+      "Martin Barre",
+      "John Evan",
+      "Jeffrey Hammond"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Who is the lead vocalist and rhythm guitarist for the rock band Blink-182?",
+    "answers": [
+      "Mark Hoppus",
+      "Tom DeLonge",
+      "Travis Barker",
+      "Matt Skiba"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Which singer is known as the \"King of Rock and Roll\"?",
+    "answers": [
+      "Elvis Presley",
+      "Chuck Berry",
+      "Jerry Lee Lewis",
+      "Little Richard"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Who is the lead vocalist for The Rolling Stones?",
+    "answers": [
+      "Mick Jagger",
+      "Keith Richards",
+      "Ron Wood",
+      "Charlie Watts"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Who is the drummer for the rock band The Who?",
+    "answers": [
+      "Keith Moon",
+      "Pete Townshend",
+      "Roger Daltrey",
+      "John Entwistle"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What was Janis Joplin's biggest hit?",
+    "answers": [
+      "Me and Bobby McGee",
+      "Piece of My Heart",
+      "Cry Baby",
+      "Mercedes Benz"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Who sang the song \"I Heard It Through the Grapevine\"?",
+    "answers": [
+      "Marvin Gaye",
+      "Smokey Robinson",
+      "Stevie Wonder",
+      "Ray Charles"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Who was the drummer for The Beatles?",
+    "answers": [
+      "Ringo Starr",
+      "Paul McCartney",
+      "John Lennon",
+      "George Harrison"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What was the name of David Bowie's alter ego?",
+    "answers": [
+      "Ziggy Stardust",
+      "Stardust Ziggy",
+      "Aladdin Sane",
+      "Thin White Duke"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What band did John Fogerty lead?",
+    "answers": [
+      "Creedence Clearwater Revival",
+      "The Grateful Dead",
+      "The Doors",
+      "The Allman Brothers Band"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "Who was the youngest member of The Jackson 5?",
+    "answers": [
+      "Michael Jackson",
+      "Jermaine Jackson",
+      "Tito Jackson",
+      "Marlon Jackson"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What song launched Madonna's career in 1983?",
+    "answers": [
+      "Like a Virgin",
+      "Material Girl",
+      "Holiday",
+      "Borderline"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What is Carlos Santana's best-selling album?",
+    "answers": [
+      "Supernatural",
+      "Santana",
+      "Abraxas",
+      "Shaman"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture - Music",
+    "question": "What does ABBA stand for in the band's name?",
+    "answers": [
+      "Agnetha, Bj\u00f6rn, Benny, Anni-Frid",
+      "After Beat Before Arrival",
+      "Association of Broadcasting Bands of America",
+      "Authenticated Band of Blended Accords"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who played the male lead in \"Titanic\"?",
+    "answers": [
+      "Leonardo DiCaprio",
+      "Johnny Depp",
+      "Brad Pitt",
+      "Tom Hanks"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In what movie does Robin Williams play a therapist?",
+    "answers": [
+      "Good Will Hunting",
+      "Forest Gump",
+      "The Sixth Sense",
+      "La La Land"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who directed \"Inception\"?",
+    "answers": [
+      "Christopher Nolan",
+      "Steven Spielberg",
+      "Quentin Tarantino",
+      "Martin Scorsese"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which movie features a song \"Let It Go\"?",
+    "answers": [
+      "Frozen",
+      "Moana",
+      "Tangled",
+      "Snow White"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the full name of the main character in \"Fight Club\"?",
+    "answers": [
+      "The Narrator",
+      "Tyler Durden",
+      "Robert Paulson",
+      "Marla Singer"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What movie won the Oscar for Best Picture in 1998?",
+    "answers": [
+      "Titanic",
+      "Gladiator",
+      "American Beauty",
+      "The Lord of the Rings: The Fellowship of the Ring"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who is Bruce Wayne's butler in \"Batman\"?",
+    "answers": [
+      "Alfred Pennyworth",
+      "Lucius Fox",
+      "Jonathan Crane",
+      "Harvey Bullock"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which actress played the Black Swan in the film \"Black Swan\"?",
+    "answers": [
+      "Natalie Portman",
+      "Angelina Jolie",
+      "Megan Fox",
+      "Scarlett Johansson"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who directed the film \"Schindler's List\"?",
+    "answers": [
+      "Steven Spielberg",
+      "Quentin Tarantino",
+      "Christopher Nolan",
+      "Martin Scorsese"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What does \"Hasta la vista\" mean in the movie \"Terminator 2\"?",
+    "answers": [
+      "See you later",
+      "Goodbye forever",
+      "Until we meet again",
+      "Don't come back"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What are the names of the two lead characters in \"Brokeback Mountain\"?",
+    "answers": [
+      "Ennis Del Mar and Jack Twist",
+      "Chuck Noland and Wilson",
+      "James Bond and Vesper Lynd",
+      "Harry Potter and Hermione Granger"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who won an Oscar for her role in \"Monster\"?",
+    "answers": [
+      "Charlize Theron",
+      "Halle Berry",
+      "Meryl Streep",
+      "Julia Roberts"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In the movie Home Alone, what is the name of Kevin's older brother?",
+    "answers": [
+      "Buzz",
+      "Marv",
+      "Fred",
+      "George"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who does Tom Hanks voice in \"Toy Story\"?",
+    "answers": [
+      "Woody",
+      "Buzz Lightyear",
+      "Mr. Potato Head",
+      "Slinky Dog"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which movie was based on the book \"The Hobbit\"?",
+    "answers": [
+      "The Lord of the Rings",
+      "Harry Potter",
+      "The Hunger Games",
+      "Game of Thrones"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Memorable line \"You can't handle the truth!\" is from what movie?",
+    "answers": [
+      "A Few Good Men",
+      "Scent of a Woman",
+      "Jerry Maguire",
+      "Rain Man"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who stars as Lara Croft in the movie \"Tomb Raider\" (2018)?",
+    "answers": [
+      "Alicia Vikander",
+      "Angelina Jolie",
+      "Megan Fox",
+      "Natalie Portman"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In what movie did Brad Pitt play a character named Tyler Durden?",
+    "answers": [
+      "Fight Club",
+      "Se7en",
+      "Mr. & Mrs. Smith",
+      "Oceans Eleven"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which movie is also known as \"A Long Night at Camp Blood\"?",
+    "answers": [
+      "Friday The 13th",
+      "A Nightmare on Elm Street",
+      "Halloween",
+      "Psycho"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which actor played Iron Man in Marvel's movie series?",
+    "answers": [
+      "Robert Downey Jr.",
+      "Chris Hemsworth",
+      "Mark Ruffalo",
+      "Chris Evans"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the sequel to the movie \"Blade Runner\" called?",
+    "answers": [
+      "Blade Runner 2049",
+      "Blade Runner 2: Electric Boogaloo",
+      "Blade Runner: The Next Generation",
+      "Blade Runner: The Replicant Returns"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which actor played the Terminator in the \"Terminator\" series?",
+    "answers": [
+      "Arnold Schwarzenegger",
+      "Sylvester Stallone",
+      "Bruce Willis",
+      "Kevin Costner"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In which movie does Jim Carrey play a man whose life is a TV show?",
+    "answers": [
+      "The Truman Show",
+      "Liar Liar",
+      "Yes Man",
+      "The Mask"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who plays the female lead in \"Gone Girl\"?",
+    "answers": [
+      "Rosamund Pike",
+      "Emily Blunt",
+      "Jennifer Lawrence",
+      "Emma Stone"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In \"The Matrix\", what is the name of the protagonist?",
+    "answers": [
+      "Neo",
+      "Morpheus",
+      "Cypher",
+      "Oracle"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What movie did Russell Crowe win an Oscar for best actor for?",
+    "answers": [
+      "Gladiator",
+      "A Beautiful Mind",
+      "Master and Commander",
+      "American Gangster"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What's the name of the princess in Disney's \"Aladdin\"?",
+    "answers": [
+      "Jasmine",
+      "Belle",
+      "Aurora",
+      "Ariel"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which film did Peter Jackson NOT direct?",
+    "answers": [
+      "The Hobbit: An Unexpected Journey",
+      "The Lord of the Rings: The Fellowship of the Ring",
+      "King Kong",
+      "Mad Max: Fury Road"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who played Don Vito Corleone in \"The Godfather\"?",
+    "answers": [
+      "Marlon Brando",
+      "Al Pacino",
+      "Robert Duvall",
+      "James Caan"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In what movie did Sandra Bullock play a space scientist?",
+    "answers": [
+      "Gravity",
+      "Interstellar",
+      "The Martian",
+      "Arrival"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In which movie do Pacino and De Niro appear together for the first time?",
+    "answers": [
+      "Heat",
+      "Godfather Part II",
+      "Casino",
+      "Goodfellas"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the main character's name in \"The Silence of the Lambs\"?",
+    "answers": [
+      "Clarice Starling",
+      "Sarah Connor",
+      "Leia Organa",
+      "Ellen Ripley"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which movie features characters named Woody, Buzz Lightyear, and Mr. Potato Head?",
+    "answers": [
+      "Toy Story",
+      "Monsters, Inc.",
+      "Finding Nemo",
+      "The Incredibles"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What movie is about a man who can talk to fish?",
+    "answers": [
+      "Aquaman",
+      "The Little Mermaid",
+      "Finding Nemo",
+      "Jaws"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who starred as Deadpool in the \"Deadpool\" movie series?",
+    "answers": [
+      "Ryan Reynolds",
+      "Hugh Jackman",
+      "Chris Evans",
+      "Robert Downey, Jr."
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who played Andy Dufresne in The \"Shawshank Redemption\"?",
+    "answers": [
+      "Tim Robbins",
+      "Brad Pitt",
+      "Kevin Bacon",
+      "Tom Cruise"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In which Tarantino movie does the character The Bride appear?",
+    "answers": [
+      "Kill Bill",
+      "Reservoir Dogs",
+      "Pulp Fiction",
+      "Inglourious Basterds"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the name of the virtual reality in \"Ready Player One\"?",
+    "answers": [
+      "The Oasis",
+      "Simspace",
+      "VR World",
+      "Cybersphere"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who does Jennifer Lawrence play in \"The Hunger Games\"?",
+    "answers": [
+      "Katniss Everdeen",
+      "Peeta Mellark",
+      "Effie Trinket",
+      "Primrose Everdeen"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What was the first movie to win the Academy Award for Best Animated Feature?",
+    "answers": [
+      "Shrek",
+      "Finding Nemo",
+      "Toy Story",
+      "Monsters, Inc."
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who played William Wallace in \"Braveheart\"?",
+    "answers": [
+      "Mel Gibson",
+      "Tom Cruise",
+      "Russell Crowe",
+      "Brad Pitt"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who stars in the Gladiator movie?",
+    "answers": [
+      "Russell Crowe",
+      "Clint Eastwood",
+      "Mel Gibson",
+      "Tom Hanks"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who was the \"Godfather\"?",
+    "answers": [
+      "Marlon Brando",
+      "Robert De Niro",
+      "James Caan",
+      "Al Pacino"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In what movie does Will Smith fight aliens?",
+    "answers": [
+      "Men in Black",
+      "I Robot",
+      "After Earth",
+      "Hancock"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who does Michael B. Jordan play in the Rocky sequel Creed?",
+    "answers": [
+      "Adonis Creed",
+      "Apollo Creed",
+      "Ivan Drago",
+      "Rocky Balboa"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who directed the movie \"The Grand Budapest Hotel\"?",
+    "answers": [
+      "Wes Anderson",
+      "Quentin Tarantino",
+      "Martin Scorsese",
+      "Steven Spielberg"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who starred in the movie \"Cast Away\"?",
+    "answers": [
+      "Tom Hanks",
+      "Tom Cruise",
+      "Leonardo DiCaprio",
+      "Harrison Ford"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who played the lead role in \u201cThe Passion of the Christ\u201d?",
+    "answers": [
+      "Jim Caviezel",
+      "Mel Gibson",
+      "Brad Pitt",
+      "Hugh Jackman"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What kind of animal is Baloo in \"The Jungle Book\"?",
+    "answers": [
+      "Bear",
+      "Elephant",
+      "Snake",
+      "Tiger"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What color pill does Neo take in \"The Matrix\"?",
+    "answers": [
+      "Red",
+      "Blue",
+      "Green",
+      "Yellow"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who played the lead role in \"American Beauty\"?",
+    "answers": [
+      "Kevin Spacey",
+      "Russell Crowe",
+      "Brad Pitt",
+      "Robert De Niro"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What movie starred Leonardo DiCaprio as a con artist?",
+    "answers": [
+      "Catch Me If You Can",
+      "Titanic",
+      "The Departed",
+      "The Aviator"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In which movie did Kate Winslet and Leonardo DiCaprio first star together?",
+    "answers": [
+      "Titanic",
+      "The Holiday",
+      "Inception",
+      "Revolutionary Road"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who plays the villain in \"No Country for Old Men\"?",
+    "answers": [
+      "Javier Bardem",
+      "Tommy Lee Jones",
+      "Josh Brolin",
+      "Woody Harrelson"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who played Tony Stark's AI, Jarvis, in \"Iron Man\"?",
+    "answers": [
+      "Paul Bettany",
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Jeremy Renner"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What was Will Ferrell's character's name in \"Elf\"?",
+    "answers": [
+      "Buddy",
+      "Ryan",
+      "Scott",
+      "Tom"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In what movie does Jamie Foxx play a character named Ray Charles?",
+    "answers": [
+      "Ray",
+      "Blunt Force Trauma",
+      "Sleepless",
+      "Annie"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who won an Oscar for her role in \"Erin Brockovich\"?",
+    "answers": [
+      "Julia Roberts",
+      "Sandra Bullock",
+      "Nicole Kidman",
+      "Charlize Theron"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which film had the famous line, \"There's no place like home\"?",
+    "answers": [
+      "The Wizard of Oz",
+      "Home Alone",
+      "E.T. the Extra-Terrestrial",
+      "Meet Me in St. Louis"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who directed the movie \"Interstellar\"?",
+    "answers": [
+      "Christopher Nolan",
+      "Stanley Kubrick",
+      "Steven Spielberg",
+      "Ridley Scott"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the name of the film where Robin Williams cross-dresses to spend more time with his children?",
+    "answers": [
+      "Mrs. Doubtfire",
+      "The Birdcage",
+      "Jumanji",
+      "Popeye"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who played the joker in \"The Dark Knight\"?",
+    "answers": [
+      "Heath Ledger",
+      "Jared Leto",
+      "Jack Nicholson",
+      "Joaquin Phoenix"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the name of the actor who played Neo in \"The Matrix\"?",
+    "answers": [
+      "Keanu Reeves",
+      "Tom Cruise",
+      "Paul Walker",
+      "Orlando Bloom"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In which movie did Daniel Day-Lewis play an oilman?",
+    "answers": [
+      "There Will Be Blood",
+      "My Left Foot",
+      "Gangs of New York",
+      "The Last of the Mohicans"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In the movie \"A Beautiful Mind\", who does Russell Crowe play?",
+    "answers": [
+      "John Nash",
+      "John Forbes",
+      "John Hubble",
+      "John Nash Jr."
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who plays Elizabeth Swann in the \"Pirates of the Caribbean\" series?",
+    "answers": [
+      "Keira Knightley",
+      "Natalie Portman",
+      "Nicole Kidman",
+      "Kate Winslet"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who directed the movie \"The Social Network\"?",
+    "answers": [
+      "David Fincher",
+      "Aaron Sorkin",
+      "Martin Scorsese",
+      "Steven Spielberg"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who played the lead role in \"The Pursuit of Happyness\"?",
+    "answers": [
+      "Will Smith",
+      "Chris Evans",
+      "Chris Hemsworth",
+      "Morgan Freeman"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What film starred Jim Carrey with a constant, live audience?",
+    "answers": [
+      "The Truman Show",
+      "The Mask",
+      "Ace Ventura: Pet Detective",
+      "Bruce Almighty"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In the movie \"Kick-Ass\", what is the name of the superhero played by Nicolas Cage?",
+    "answers": [
+      "Big Daddy",
+      "Hit-Girl",
+      "Kick-Ass",
+      "Red Mist"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who directed the film \"Alien\"?",
+    "answers": [
+      "Ridley Scott",
+      "James Cameron",
+      "Alfred Hitchcock",
+      "John Carpenter"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the title of the sequel to \"The Silence of the Lambs\"?",
+    "answers": [
+      "Hannibal",
+      "Red Dragon",
+      "Manhunter",
+      "The Innocent Lamb"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In the \"Jurassic Park\" movies, what is Dr. John Hammond's profession?",
+    "answers": [
+      "Geneticist",
+      "Paleontologist",
+      "Archaeologist",
+      "Entrepreneur"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the name of the head vampire in Twilight?",
+    "answers": [
+      "Carlisle",
+      "Edward",
+      "Jacob",
+      "Aurora"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the Gladiator's real name in the movie Gladiator?",
+    "answers": [
+      "Maximus",
+      "Crixus",
+      "Aurora",
+      "Quintus"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the real name of Iron Man in the Marvel movies?",
+    "answers": [
+      "Tony Stark",
+      "Bruce Wayne",
+      "Clark Kent",
+      "Peter Parker"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In the movie Gone With the Wind, what is the name of the O'Hara plantation?",
+    "answers": [
+      "Tara",
+      "Shawnee",
+      "Arcadia",
+      "Briarcliff"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the name of Danny's gang in the movie Grease?",
+    "answers": [
+      "T-Birds",
+      "Sharks",
+      "Jets",
+      "Bullets"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In Mean Girls, what day does Aaron ask Cady what day it is?",
+    "answers": [
+      "October 3rd",
+      "February 14th",
+      "September 1st",
+      "December 25th"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In the Incredibles, what is the name of the villain in the first movie?",
+    "answers": [
+      "Syndrome",
+      "Omnidroid",
+      "Bomb Voyage",
+      "Phantom"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What does the W.W. stand for in W.W. Beaumont in Pulp Fiction?",
+    "answers": [
+      "Walken Winston",
+      "William Wallace",
+      "Wilson Williams",
+      "Wayne Wright"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which of the following was NOT one of the three forms of Id, Ego and Superego in Fight Club?",
+    "answers": [
+      "Shalker",
+      "Marla Singer",
+      "Tyler Durden",
+      "Robert 'Bob'"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the name of the town where The Shawshank Redemption was set?",
+    "answers": [
+      "Shawshank, Maine",
+      "Zihuatanejo, Mexico",
+      "Portland, Maine",
+      "Hadley, Maine"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In the 1990 film Goodfellas, who played the older Henry Hill?",
+    "answers": [
+      "Ray Liotta",
+      "Robert De Niro",
+      "Joe Pesci",
+      "Paul Sorvino"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What model android was Arnold Schwarzenegger in the Terminator films?",
+    "answers": [
+      "T-800",
+      "T-1000",
+      "T-3000",
+      "T-850"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Where do the kids in The Chronicles of Narnia enter Narnia for the first time?",
+    "answers": [
+      "Through a wardrobe",
+      "Through a mirror",
+      "Through a door",
+      "Through a tree"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In Casablanca, what is the name of Humphrey Bogart's character?",
+    "answers": [
+      "Rick Blaine",
+      "Victor Laszlo",
+      "Ilsa Lund",
+      "Captain Louis Renault"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What type of fish is Dory in Finding Nemo?",
+    "answers": [
+      "Blue Tang",
+      "Clownfish",
+      "Damselfish",
+      "Angelfish"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In Kill Bill, what is the name of the deadly assassins squad?",
+    "answers": [
+      "Deadly Viper Assassination Squad",
+      "Venomous Snake Killing Squad",
+      "Killer Mamba Strike Team",
+      "Poisonous Cobra Hit Squad"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In The Godfather Part II, where was Vito Corleone originally from?",
+    "answers": [
+      "Corleone, Sicily",
+      "Naples, Italy",
+      "Venice, Italy",
+      "Palermo, Sicily"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In Saving Private Ryan, how many brothers of Private Ryan were killed in action?",
+    "answers": [
+      "3",
+      "2",
+      "4",
+      "1"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which Alfred Hitchcock classic is also known as the 'The Ultimate MacGuffin'?",
+    "answers": [
+      "Psycho",
+      "The Birds",
+      "Vertigo",
+      "Rope"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In To Kill a Mockingbird, what is Scout's full name?",
+    "answers": [
+      "Jean Louise Finch",
+      "Harper Lee Finch",
+      "Stephanie Crawford Finch",
+      "Calpurnia Finch"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who played Tony Stark's father, Howard Stark, in the Marvel Cinematic Universe?",
+    "answers": [
+      "John Slattery",
+      "Robert Downey Jr.",
+      "Tom Holland",
+      "Chris Evans"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the name of the town where The Shawshank Redemption prison is located?",
+    "answers": [
+      "Shawshank",
+      "Maine",
+      "Castle Rock",
+      "Zihuatanejo"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the code name of Beatrix Kiddo in Quentin Tarantino's Kill Bill?",
+    "answers": [
+      "Black Mamba",
+      "Cottonmouth",
+      "Copperhead",
+      "California Mountain Snake"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In The Great Escape, who plays \"The Cooler King\" because of his frequent visits to the prison cooler for acting out?",
+    "answers": [
+      "Steve McQueen",
+      "James Garner",
+      "Richard Attenborough",
+      "Charles Bronson"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In the movie Inception, what personal item does Cobb carry to determine if he is in a dream or reality?",
+    "answers": [
+      "Spinning top",
+      "Die",
+      "Pocket watch",
+      "Mirror"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In It's a Wonderful Life, what book is Clarence reading when he is sent to help George Bailey?",
+    "answers": [
+      "Adventures of Tom Sawyer",
+      "The Bible",
+      "Ulysses",
+      "Ivanhoe"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What town is the setting of Footloose?",
+    "answers": [
+      "Bomont",
+      "Beaumont",
+      "Barstow",
+      "Burbank"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is Captain Jack Sparrow's most prized possession in Pirates of the Caribbean?",
+    "answers": [
+      "His hat",
+      "The Black Pearl",
+      "His sword",
+      "His rum"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who plays Forrest Gump in the movie Forrest Gump?",
+    "answers": [
+      "Tom Hanks",
+      "Jim Carrey",
+      "Brad Pitt",
+      "Bill Murray"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What does Andy Dufresne use to escape in The Shawshank Redemption?",
+    "answers": [
+      "Rock Hammer",
+      "Spoon",
+      "Shovel",
+      "Pickaxe"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In Pulp Fiction, what is the name of the dance Mia and Vincent do at Jack Rabbit Slim's?",
+    "answers": [
+      "Twist",
+      "Hustle",
+      "Jitterbug",
+      "Charleston"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In Alien, what is the name of the spaceship?",
+    "answers": [
+      "Nostromo",
+      "Prometheus",
+      "Covenant",
+      "Ripley"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In Schindler's List, what color is the little girl's coat who is seen during the liquidation of the ghetto?",
+    "answers": [
+      "Red",
+      "Blue",
+      "Green",
+      "Black"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What American state is the setting of Fargo?",
+    "answers": [
+      "Minnesota",
+      "North Dakota",
+      "South Dakota",
+      "Montana"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What was Rose's last name in the movie Titanic?",
+    "answers": [
+      "Dewitt Bukater",
+      "Dawson",
+      "Calvert",
+      "Astaire"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In Die Hard, what does John McClane write on his arm?",
+    "answers": [
+      "Yippee-ki-yay",
+      "Nakatomi Plaza",
+      "Ho ho ho",
+      "Now I have a machine gun"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In Fight Club, what rule is always in effect?",
+    "answers": [
+      "Don't talk about Fight Club",
+      "Never mention Project Mayhem",
+      "Become Tyler's alter ego",
+      "Always be beaten to join"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In The Wizard of Oz, what represents courage for the Cowardly Lion?",
+    "answers": [
+      "A medal",
+      "A heart",
+      "A brain",
+      "A certificate"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Where does Joel Barish and Clementine Kruczynski meet in Eternal Sunshine of the Spotless Mind?",
+    "answers": [
+      "A bookstore",
+      "On a train",
+      "At a beach in Montauk",
+      "At a memory-erasing clinic"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the name of Luke's sister in the Star Wars franchise?",
+    "answers": [
+      "Leia Organa",
+      "Malia Organa",
+      "Mariana Organa",
+      "Lana Organa"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who played the character of Iron Man in the Marvel Cinematic Universe?",
+    "answers": [
+      "Robert Downey Jr.",
+      "Robert De Niro",
+      "Bradley Cooper",
+      "Chris Evans"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the name of the fictional African kingdom in the film Black Panther?",
+    "answers": [
+      "Wakanda",
+      "Zamunda",
+      "Asgard",
+      "Themyscira"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which hockey team does young Gordon Bombay play for in The Mighty Ducks?",
+    "answers": [
+      "Hawks",
+      "Ducks",
+      "Eagles",
+      "Penguins"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What's the profession of Tom Hanks's character in Sleepless in Seattle?",
+    "answers": [
+      "Architect",
+      "Pro Golfer",
+      "Fisherman",
+      "Chef"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In The Sound of Music, Captain Von Trapp is from which country?",
+    "answers": [
+      "Austria",
+      "Germany",
+      "Empire of Switzerland",
+      "Lichtenstein"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In which movie does Robin Williams play the character of a radio DJ for the US Army?",
+    "answers": [
+      "Good Morning, Vietnam",
+      "Dead Poets Society",
+      "Mrs. Doubtfire",
+      "Jumanji"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In Fight Club, where does the narrator find Tyler Durden's home address?",
+    "answers": [
+      "On a bar of soap",
+      "In a garbage can",
+      "At a coffee shop",
+      "On a business card"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the name of the character played by Kate Winslet in Eternal Sunshine of the Spotless Mind?",
+    "answers": [
+      "Clementine Kruczynski",
+      "Victoria Kowalski",
+      "Alexandra Dubois",
+      "Sophia Rossi"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In The Hangover, where does the bachelor party take place?",
+    "answers": [
+      "Las Vegas",
+      "Los Angeles",
+      "Miami",
+      "Chicago"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the color of the pill Neo must choose in The Matrix to stay in Wonderland?",
+    "answers": [
+      "Red",
+      "Blue",
+      "Yellow",
+      "Green"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who directed the epic war film Saving Private Ryan?",
+    "answers": [
+      "Steven Spielberg",
+      "James Cameron",
+      "Christopher Nolan",
+      "Roman Polanski"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the profession of Matt Damon's character in Good Will Hunting?",
+    "answers": [
+      "Janitor",
+      "Engineer",
+      "Teacher",
+      "Doctor"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In Training Day, Denzel Washington plays the role of a corrupt...",
+    "answers": [
+      "LAPD officer",
+      "Mayor",
+      "FBI agent",
+      "Judge"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In the movie Troy, who does Brad Pitt play?",
+    "answers": [
+      "Achilles",
+      "Hector",
+      "Odysseus",
+      "Paris"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In Finding Nemo, where does Marlin lose his son Nemo?",
+    "answers": [
+      "The Great Barrier Reef",
+      "The Black Sea",
+      "The Arctic Ocean",
+      "Loch Ness"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In Jurassic Park, what dinosaur scares the children in the kitchen?",
+    "answers": [
+      "Velociraptor",
+      "T-rex",
+      "Triceratops",
+      "Pterodactyl"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In The Dark Knight, which villain does Heath Ledger play?",
+    "answers": [
+      "Joker",
+      "Bane",
+      "Two-Face",
+      "Scarecrow"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who does Renee Zellweger play in Chicago?",
+    "answers": [
+      "Roxie Hart",
+      "Velma Kelly",
+      "Mama Morton",
+      "Mary Sunshine"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the last name of the family from The Godfather?",
+    "answers": [
+      "Corleone",
+      "Soprano",
+      "Gambino",
+      "Bonanno"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In \"Gone with the Wind\", what is Scarlett O'Hara's home called?",
+    "answers": [
+      "Tara",
+      "Tarnished",
+      "Tundra",
+      "Tortuga"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In the movie \"Forrest Gump\", what company does Forrest Gump build?",
+    "answers": [
+      "Bubba Gump Shrimp Company",
+      "Alabama Crab Shack",
+      "Gump's Chocolate Factory",
+      "Greenbow Tree Company"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who directed The Dark Knight Trilogy?",
+    "answers": [
+      "Christopher Nolan",
+      "Steven Spielberg",
+      "George Lucas",
+      "Ridley Scott"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Where does the boat sink in the movie Titanic?",
+    "answers": [
+      "North Atlantic",
+      "Pacific Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In \"Fight Club\", who are the two main characters played by?",
+    "answers": [
+      "Brad Pitt and Edward Norton",
+      "Brad Pitt and Matt Damon",
+      "Tom Cruise and Edward Norton",
+      "Hugh Jackman and Brad Pitt"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Which movie did Leonardo DiCaprio win his first Oscar for?",
+    "answers": [
+      "The Revenant",
+      "The Departed",
+      "Titanic",
+      "Inception"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In the movie \"Casablanca\", why does Rick say he came to Casablanca?",
+    "answers": [
+      "For the waters",
+      "For the culture",
+      "For the food",
+      "For the music"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What movie is the quote \u201cHere\u2019s looking at you, kid\u201d from?",
+    "answers": [
+      "Casablanca",
+      "Gone with the Wind",
+      "The Godfather",
+      "Breakfast at Tiffany\u2019s"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In the \"Matrix\" Trilogy, who played Neo?",
+    "answers": [
+      "Keanu Reeves",
+      "Bruce Willis",
+      "Brad Pitt",
+      "Will Smith"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the name of the detective in the movie \"Chinatown\"?",
+    "answers": [
+      "Jake Gittes",
+      "Phillip Marlowe",
+      "Sam Spade",
+      "Cole Phelps"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In \"Star Wars\", who are Luke and Leia\u2019s parents?",
+    "answers": [
+      "Anakin Skywalker and Padm\u00e9 Amidala",
+      "Darth Vader and Queen Amidala",
+      "Anakin Skywalker and Princess Leia",
+      "Han Solo and Princess Leia"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In \"Stand by Me\", what are the boys looking for?",
+    "answers": [
+      "A dead body",
+      "Treasure",
+      "A lost dog",
+      "Their missing friend"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the name of Woody\u2019s owner in \"Toy Story\"?",
+    "answers": [
+      "Andy",
+      "Johnny",
+      "Billy",
+      "Steve"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who directed \"E.T. the Extra-Terrestrial\"?",
+    "answers": [
+      "Steven Spielberg",
+      "George Lucas",
+      "Tim Burton",
+      "James Cameron"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In \"Pulp Fiction\", what is the name of the dance John Travolta and Uma Thurman perform at Jack Rabbit Slim's?",
+    "answers": [
+      "Twist",
+      "Charleston",
+      "Jive",
+      "Jitterbug"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In \"Jaws\", what is name of the shark-hunting boat?",
+    "answers": [
+      "Orca",
+      "Mako",
+      "Great White",
+      "Tibur\u00f3n"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What actor played the main character in the movie \"Rocky\"?",
+    "answers": [
+      "Sylvester Stallone",
+      "Arnold Schwarzenegger",
+      "Bruce Willis",
+      "Dwayne Johnson"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the name of the 8th \"Fast & Furious\" movie?",
+    "answers": [
+      "The Fate of the Furious",
+      "Fast & Furious 8",
+      "Fast & Furious Endgame",
+      "Fast & Furious: The Next Ride"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the correct spelling of the director of Inception's name?",
+    "answers": [
+      "Christopher Nolan",
+      "Christofer Nolan",
+      "Kristopher Nolan",
+      "Cristopher Nolan"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Who played The Joker in 2008's The Dark Knight?",
+    "answers": [
+      "Heath Ledger",
+      "Christian Bale",
+      "Morgan Freeman",
+      "Gary Oldman"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In the movie Shawshank Redemption, what is the name of the character played by Tim Robbins?",
+    "answers": [
+      "Andy Dufresne",
+      "Ellis Boyd Redding",
+      "Tommy Williams",
+      "Brooks Hatlen"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What is the nickname of Han Solo's Millennium Falcon in Star Wars?",
+    "answers": [
+      "The Hunk of Junk",
+      "The Star Chaser",
+      "The Fast Bird",
+      "The Space Speeder"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "In The Godfather, what pet did Jack Woltz find in his bed?",
+    "answers": [
+      "A horse's head",
+      "A dog's head",
+      "A cow's head",
+      "A pig's head"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "Where was Rose traveling to in the movie Titanic?",
+    "answers": [
+      "America",
+      "France",
+      "Italy",
+      "Japan"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What do the Na'vi call the flying creatures that they ride in Avatar?",
+    "answers": [
+      "Ikran",
+      "Toruk",
+      "Viperwolf",
+      "Thanator"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What superpower does Jean Grey possess in the X-Men series?",
+    "answers": [
+      "Telepathy",
+      "Invisibility",
+      "Flight",
+      "Super Strength"
+    ],
+    "seen": 0
+  },
+  {
+    "category": "Culture",
+    "question": "What's the relationship between Marion Crane and Norman Bates in Psycho?",
+    "answers": [
+      "Son and Mother",
+      "Husband and Wife",
+      "Strangers",
+      "Brother and Sister"
     ],
     "seen": 0
   }
