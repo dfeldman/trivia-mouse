@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>TriviWiki</title>
+  <script src="https://unpkg.com/vue@2"></script>
+  <script src="questions.json"></script>
+  <style>
+    body {
+      background: linear-gradient(180deg, #171717 0%, #3a3a3a 100%);
+      color: yellow;
+      font-family: 'Orbitron', sans-serif;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    #app {
+      text-align: center;
+      position: relative;
+      width: 80%;
+    }
+
+    .score-board {
+      position: absolute;
+      top: 20px;
+    }
+
+    .score-board.left {
+      padding-top:10px;
+      left: 20px;
+    }
+
+    .score-board.right {
+      padding-top:10px;
+      right: 20px;
+    }
+
+    h2,
+    h3,
+    p {
+      height: 70px;
+      font-family: 'Orbitron', sans-serif;
+    }
+
+    .retro-button {
+      background-color: #FF4500;
+      border: none;
+      color: white;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: block;
+      width: 200px;
+      font-size: 16px;
+      margin: 4px auto;
+      cursor: pointer;
+      box-shadow: 0 8px 16px 0 #48D1CC, 0 6px 20px 0 #48D1CC;
+      font-family: 'Orbitron', sans-serif;
+    }
+
+    .retro-button:active {
+      background-color: #DC143C;
+    }
+  </style>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap" rel="stylesheet">
+</head>
+
+<body>
+  <div id="app">
+    <div v-if="gameState === 'start'">
+      <h2>Select Category:</h2>
+      <button class="retro-button" v-for="category in availableCategories" @click="startGame(category)">
+        {{ category }}
+      </button>
+      <h2 v-if="noQuestionsRemaining">No questions remaining.</h2>
+    </div>
+    <div v-if="gameState === 'running'">
+      <h2>{{ selectedCategory }}</h2>
+      <div class="score-board left">
+        <h3>Current Points: {{ points }}</h3>
+      </div>
+      <div class="score-board right">
+        <h3>Total Score: {{ score }}</h3>
+      </div>
+      <p>{{ question }}</p>
+      <button class="retro-button" v-for="option in options" @click="checkAnswer(option)">
+        {{ option }}
+      </button>
+    </div>
+    <div v-if="gameState === 'post-question'">
+      <h2 v-if="correctAnswerSelected">Correct!</h2>
+      <h2 v-if="outOfTime">Out of time! Correct answer is: {{ correctAnswer }}</h2>
+      <h2 v-else-if="!correctAnswerSelected">Wrong Answer! Correct answer is: {{ correctAnswer }}</h2>
+      <button class="retro-button" @click="nextQuestion">Next Question</button>
+    </div>
+    <div v-if="gameState === 'end'">
+      <h2>Game Over</h2>
+      <h3>Your Score: {{ score }}</h3>
+      <h3>Correct Answers: {{ correctCount }}</h3>
+      <h3>Incorrect Answers: {{ incorrectCount }}</h3>
+      <button class="retro-button" @click="resetGame">Play Again</button>
+    </div>
+  </div>
+  <script>
+    function shuffle(array) {
+      let currentIndex = array.length,  randomIndex;
+
+      // While there remain elements to shuffle.
+      while (currentIndex != 0) {
+          // Pick a remaining element.
+          randomIndex = Math.floor(Math.random() * currentIndex);
+          currentIndex--;
+
+          // And swap it with the current element.
+          [array[currentIndex], array[randomIndex]] = [
+            array[randomIndex], array[currentIndex]];
+      }
+      return array;
+    }
+
+    new Vue({
+      el: '#app',
+      data: {
+        gameState: 'start',
+        selectedCategory: '',
+        points: 1000,
+        question: '',
+        options: [],
+        correctAnswer: '',
+        score: 0,
+        correctCount: 0,
+        incorrectCount: 0,
+        turns: 0,
+        correctAnswerSelected: false,
+        outOfTime: false,
+        noQuestionsRemaining: false,
+        interval: 0
+      },
+      computed: {
+        availableCategories() {
+          if (this.availableCategoriesSaved) return this.availableCategoriesSaved
+          let availableCategories = [];
+          for (q in questions) {
+            category = questions[q].category
+            if (!availableCategories.includes(category)) {
+              availableCategories.push(category)
+            }
+          }
+          this.availableCategoriesSaved = availableCategories
+          return availableCategories;
+        }
+      },
+      methods: {
+        startGame(category) {
+          this.gameState = 'running';
+          this.selectedCategory = category;
+          let triviaData = this.getRandomQuestion(category);
+          if (triviaData) {
+            console.log("Got question", triviaData)
+            this.question = triviaData.question;
+            this.options = shuffle([...triviaData.answers]);
+            this.correctAnswer = triviaData.answers[0];
+            this.timer();
+          }
+        },
+        timer() {
+          if (this.interval) clearInterval(this.interval)
+          this.interval = setInterval(() => {
+            this.points -= 1;
+            if (this.points <= 0) {
+              if (this.gameState == 'running') {
+                this.points = 0;
+                clearInterval(interval);
+                this.outOfTime = true;
+                this.gameState = 'post-question';
+              }
+            }
+          }, 15);
+        },
+        checkAnswer(answer) {
+          if (this.interval) clearInterval(this.interval)
+          if (answer === this.correctAnswer) {
+            this.score += this.points;
+            this.correctCount += 1;
+            this.correctAnswerSelected = true;
+          } else {
+            this.incorrectCount += 1;
+            this.correctAnswerSelected = false;
+          }
+          this.outOfTime = false;
+          this.gameState = 'post-question';
+        },
+        nextQuestion() {
+          this.endTurn();
+        },
+        endTurn() {
+          if (this.interval) clearInterval(this.interval)
+          this.turns += 1;
+          if (this.turns >= 10 || this.availableCategories.length === 0) {
+            this.gameState = 'end';
+            if (this.availableCategories.length === 0) {
+              this.noQuestionsRemaining = true;
+            }
+          } else {
+            this.gameState = 'start';
+          }
+          this.points = 1000;
+        },
+        resetGame() {
+          if (this.interval) clearInterval(this.interval)
+          this.score = 0;
+          this.turns = 0;
+          this.correctCount = 0;
+          this.incorrectCount = 0;
+          this.gameState = 'start';
+          this.outOfTime = false;
+          this.noQuestionsRemaining = false;
+          for (let questionData of questions) {
+            questionData.seen = false;
+          }
+        },
+        getRandomQuestion(category) {
+          let unseenQuestions = questions.filter(q => (!q.seen && q.category==category));
+          if (unseenQuestions.length > 0) {
+            let randomIndex = Math.floor(Math.random() * unseenQuestions.length);
+            unseenQuestions[randomIndex].seen = true;
+            return unseenQuestions[randomIndex];
+          }
+          return null;
+        }
+      }
+    });
+  </script>
+</body>
+
+</html>

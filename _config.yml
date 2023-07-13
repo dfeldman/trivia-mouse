@@ -1,0 +1,12 @@
+# Site settings
+title: Trivia Mouse
+description: AI generated trivia game
+baseurl: ""
+url: "https://dfeldman.github.io/trivia-mouse/"
+
+# Build settings
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
