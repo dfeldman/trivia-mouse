@@ -107,10 +107,10 @@ p {
     </div>
     <div v-if="gameState === 'post-question'">
       <h2 v-if="correctAnswerSelected">Correct!</h2>
-      <h2 v-if="outOfTime">Out of time! Correct answer is: {{ correctAnswer }}</h2>
+      <h2 v-if="outOfTime">Out of time! The right answer is:</h2>
       <h2 v-else-if="!correctAnswerSelected">Wrong Answer! The right answer is: </h2>
       <h2 v-if="!correctAnswerSelected" class="question">{{ correctAnswer }}</h2>
-      <h2 class="question">Score: {{ score }}</h2>
+      <h2 class="question">Total Score: {{ score }}</h2>
       <button class="retro-button" @click="nextQuestion">Next Question</button>
       <h2>{{ questionNumber }} / 20</h2>
     </div>
@@ -201,10 +201,12 @@ p {
             }
             this.counterPoints -= 1;
             if (this.counterPoints <= 0) {
+              console.log("XX")
               if (this.gameState == 'running') {
+                console.log("YYY")
                 this.points = 0;
                 this.counterPoints = 0;
-                clearInterval(interval);
+                clearInterval(this.interval);
                 this.outOfTime = true;
                 this.gameState = 'post-question';
               }
